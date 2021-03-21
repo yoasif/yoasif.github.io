@@ -1,0 +1,23 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+// Import partials from `sass_dir` and set theme here
+@import
+        "theme-{{ site.theme_color | default: "black" }}.scss"
+;
+
+input {
+	margin-right: 0.6em;
+}
+
+ul.task-list {padding-left:18px;}
+
+/*
+Recommendations for user agents - https://html.spec.whatwg.org/multipage/rendering.html#phrasing-content-3
+*/
+
+.prose a:link { color: #0000EE; }
+.prose a:visited { color: #551A8B; }
+.prose a:link { text-decoration: underline; cursor: pointer; }
