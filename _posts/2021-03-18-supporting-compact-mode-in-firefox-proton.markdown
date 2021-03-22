@@ -176,7 +176,7 @@ These are not issues when using existing horizontal tabs.
 </figure>
 </p>
 
-This mockup shows the Firefox upgrade notification that appears on upgrade to the Proton UI. The notification presents the new Proton UI and allows users to select from some built in themes. The density options are shown directly below the theme selection, since they are both related to the visual appearance of the browser. Firefox automatically selects the density based on the resolution of the screen, but users can easily change the selection based on their preference.
+This mockup shows the Firefox upgrade notification that appears on upgrade to the Proton UI. The notification presents the new Proton UI and allows users to select from some built in themes. The density options are shown directly below the theme selection, since they are both options related to the visual appearance of the browser. Firefox automatically selects the density based on the resolution of the screen, but users can easily change the selection based on their preference.
 
 ### Density Options on Firefox Welcome
 
