@@ -12,7 +12,7 @@ As a member of the community, I thought that it would be interesting to walk thr
 
 ##### Updates
 
-2021-03-21 - Updated the Goals and Hypothesis sections based on feedback. The goals are now more in line with user goals. Some of the goals felt more like *my* goals. The hypotheses try to predict what will happen if we follow the brief, instead of unknowns about users.
+2021-03-22 - Updated the Goals and Hypothesis sections based on feedback. The goals are now more in line with user goals. Some of the goals felt more like *my* goals. The hypotheses try to predict what will happen if we follow the brief, instead of unknowns about users.
 
 **Note: This is not an official plan.**
 
