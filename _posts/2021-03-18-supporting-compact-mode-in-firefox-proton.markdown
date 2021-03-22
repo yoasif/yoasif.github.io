@@ -100,7 +100,7 @@ Nicole installs Firefox and is pleased to find that the vertical space it takes 
 
 Nicole discovers that Firefox shows its bookmarks toolbar on opening any new tab, which she finds annoying - she doesn't use the toolbar, because she is keyboard driven and finds that the location bar works fine to help her easily find what she is looking for.
 
-She right clicks on the toolbar and looks for an option to disable it - which she finds easily. She also sees the *Customize Toolbar...* menu option, which sounds interesting, so she selects out.
+She right clicks on the toolbar and looks for an option to disable it - which she finds easily. She also sees the **Customize Toolbar...** menu option, which sounds interesting, so she selects it.
 
 After adding the *Developer* button to her toolbar, she notices more options at the bottom of the dialog. She sees **Density** (she's not totally clear about what that means) and selects the *Compact* option.
 
@@ -206,7 +206,7 @@ This mockup shows the welcome screen that appears on new Firefox profiles, and w
 </figure>
 </p>
 
-This mockup shows a **Toolbar Density** menu item upon context clicking the Firefox toolbar, making it more visible and grouped with other relevant options. This makes the option more discoverable than using the *Customize Toolbar...* menu item, and can be used without having to enter an explicit customize mode.
+This mockup shows a **Toolbar Density** menu item upon context clicking the Firefox toolbar, making it more visible and grouped with other relevant options. This makes the option more discoverable than using the **Customize Toolbar...** menu item, and can be used without having to enter an explicit customize mode.
 
 ### Customize UI in a Sheet
 
