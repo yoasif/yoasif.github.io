@@ -66,7 +66,7 @@ Including an option to increase information density can serve as a competitive a
 
 Melisande is a longtime Firefox user on a subnotebook - she's always on the go, and the small size complements her lifestyle. 
 
-Often, when editing spreadsheets, Melisande finds herself having to scroll up and down to compare figures. One day, her Firefox updates and it shows an [upgrade notification dialog](https://bugzilla.mozilla.org/show_bug.cgi?id=1697222 "Bug 1697222 - Show tab modal for existing users on upgrade highlighting Proton improvements"), and she loves the way it looks - it looks shinier than before, and there is even a cool [purple theme](https://addons.mozilla.org/en-US/firefox/addon/firefox-alpenglow/ "Firefox Apenglow"). 
+Often, when editing spreadsheets, Melisande finds herself having to scroll up and down to compare figures. One day, her Firefox updates and it shows an [upgrade notification dialog](https://bugzilla.mozilla.org/show_bug.cgi?id=1697222 "Bug 1697222 - Show tab modal for existing users on upgrade highlighting Proton improvements"), and she loves the way it looks - it looks shinier than before, and there is even a cool [purple theme](https://addons.mozilla.org/en-US/firefox/addon/firefox-alpenglow/ "Firefox Alpenglow"). 
 
 There is an option below the themes that says she can make it *Normal*, and she tries it for a moment. It takes up a lot more space on her tiny display and she switches it back.
 
