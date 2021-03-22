@@ -46,7 +46,7 @@ Including an option to increase information density can serve as a competitive a
 ## Goals
 
 - **Improve Firefox user satisfaction and retention via display density configurations**: This will increase user satisfaction of Firefox through a UI that fits their workflows or display resolutions. Existing users accustomed to the Photon UI can be successfully retained because their workflows are not interrupted upon release of the Proton UI refresh. Success here is if Firefox users are satisfied with their display density options within the Firefox UI.
-- **Demonstrate differentiation with competitors through richer UI configuration**: This will ensure that Firefox remains the preferred choice for users that prefer being able to customize their UI experience. Success here is when there is are UI options in Firefox that encompass a range of options depending on workflow or screen size - e.g. from a large high-DPI display, to a touchscreen, to a low-end laptop.
+- **Demonstrate differentiation with competitors through richer UI configuration**: This will ensure that Firefox remains the preferred choice for users that prefer being able to customize their UI experience. Success here is when there are UI options in Firefox that encompass a range of options depending on workflow or screen size - e.g. from a large high-DPI display, to a touchscreen, to a low-end laptop.
 - **Ensure that Firefox is more optimized for low resolution displays than the competition**: This will ensure that Firefox remains the preferred choice for users that prefer space-saving UIs. Success here is when there is an option for a UI in Firefox that uses less vertical space than competitors.
 
 ### Non Goals
