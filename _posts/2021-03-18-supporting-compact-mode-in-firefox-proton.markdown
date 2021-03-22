@@ -11,8 +11,9 @@ Mozilla recently [proposed](https://bugzilla.mozilla.org/show_bug.cgi?id=1693028
 As a member of the community, I thought that it would be interesting to walk through how Firefox could continue to support a compact mode in its UI, improving user experience and engagement, while reducing the risk of user attrition through the redesign. The ideas are presented as a *Project Brief*, [adapted from Asana's template](https://jackiebo.medium.com/asanas-spec-template-spec-training-33bfd9d4dd32), and shared on the web to be [broadly accessible](https://www.otsukare.info/2021/03/16/working-tips-remote-team).
 
 ##### Updates
+{:.no_toc}
 
-2021-03-22 - Updated the Goals and Hypothesis sections based on feedback. The goals are now more in line with user goals. Some of the goals felt more like *my* goals. The hypotheses try to predict what will happen if we follow the brief, instead of unknowns about users.
+2021-03-22 - Updated the Goals and Hypothesis sections based on feedback. The goals are now more in line with user goals (prevoiously, some of the goals felt more like *my* goals). The hypotheses now try to predict what will happen if we follow the brief, rather than listing unknowns about users.
 
 **Note: This is not an official plan.**
 
