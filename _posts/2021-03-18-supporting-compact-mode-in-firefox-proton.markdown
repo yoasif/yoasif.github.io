@@ -83,7 +83,7 @@ This means having multiple applications open on their screen at once: a notes ap
 
 One day, Sol decides to try Firefox, after a coworker mentioned to them that the container feature could be useful for their work.
 
-After the installation, Sol goes through the welcome screen. The last step shows some themes that they can try, and they see some additional options below the theme choices – compact, normal and touch. Sol picks "compact", because they need to have a lot of information in front of them at the same time.
+After the installation, Sol goes through the welcome screen. The last step shows some themes that they can try, and they see some additional options below the theme choices – Compact, Normal and Touch. Sol picks *Compact*, because they need to have a lot of information in front of them at the same time.
 
 Happily, Sol finds that the compact mode is even more space efficient than their previous browser, and finds that they have to scroll less through their notes while in a meeting, helping them maintain rapport with their team members.
 
