@@ -10,6 +10,10 @@ Mozilla recently [proposed](https://bugzilla.mozilla.org/show_bug.cgi?id=1693028
 
 As a member of the community, I thought that it would be interesting to walk through how Firefox could continue to support a compact mode in its UI, improving user experience and engagement, while reducing the risk of user attrition through the redesign. The ideas are presented as a *Project Brief*, [adapted from Asana's template](https://jackiebo.medium.com/asanas-spec-template-spec-training-33bfd9d4dd32), and shared on the web to be [broadly accessible](https://www.otsukare.info/2021/03/16/working-tips-remote-team).
 
+**Note: This is not an official plan.**
+
+Discuss this post on [Reddit](https://www.reddit.com/r/firefox/comments/mafwuj/supporting_compact_mode_in_firefox_proton/).
+
 * * *
 
 {:toc}
@@ -172,7 +176,7 @@ These are not issues when using existing horizontal tabs.
 </figure>
 </p>
 
-This mockup shows the Firefox upgrade notification that appears on upgrade to the Proton UI. The notification presents the new Proton UI and allows users to select from some built in themes. The density options are shown directly below the theme selection, since the density options are a property of the theme. Firefox automatically selects the density based on the resolution of the screen, but users can easily change the selection based on their preference.
+This mockup shows the Firefox upgrade notification that appears on upgrade to the Proton UI. The notification presents the new Proton UI and allows users to select from some built in themes. The density options are shown directly below the theme selection, since they are both related to the visual appearance of the browser. Firefox automatically selects the density based on the resolution of the screen, but users can easily change the selection based on their preference.
 
 ### Density Options on Firefox Welcome
 
