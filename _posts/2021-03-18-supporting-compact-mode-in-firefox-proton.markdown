@@ -57,7 +57,7 @@ Including an option to increase information density can serve as a competitive a
 - Users may have a preference for increased density, even on larger screens, because it provides for higher information density.
 - If we ensure compact mode remains an option in Firefox, we will see less user churn than if compact is removed.
 - If we create additional entry points to advertise the existence of compact mode, more users will use compact mode.
-- If we release the Proton UI as-is, this will increase the usage of compact mode, as the UI is larger then release Firefox.
+- If we release the Proton UI as-is, this will increase the usage of compact mode, as the UI is larger then Firefox Photon.
 
 ## Vision Narrative
 
