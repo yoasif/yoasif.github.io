@@ -10,6 +10,10 @@ Mozilla recently [proposed](https://bugzilla.mozilla.org/show_bug.cgi?id=1693028
 
 As a member of the community, I thought that it would be interesting to walk through how Firefox could continue to support a compact mode in its UI, improving user experience and engagement, while reducing the risk of user attrition through the redesign. The ideas are presented as a *Project Brief*, [adapted from Asana's template](https://jackiebo.medium.com/asanas-spec-template-spec-training-33bfd9d4dd32), and shared on the web to be [broadly accessible](https://www.otsukare.info/2021/03/16/working-tips-remote-team).
 
+##### Updates
+
+2021-03-21 - Updated the Goals and Hypothesis sections based on feedback. The goals are now more in line with user goals. Some of the goals felt more like *my* goals. The hypotheses try to predict what will happen if we follow the brief, instead of unknowns about users.
+
 **Note: This is not an official plan.**
 
 Discuss this post on [Reddit](https://www.reddit.com/r/firefox/comments/mafwuj/supporting_compact_mode_in_firefox_proton/).
@@ -40,10 +44,9 @@ Including an option to increase information density can serve as a competitive a
 
 ## Goals
 
-- **Retain Firefox compact mode through the Proton refresh**: This will allow longtime Firefox users to continue to use the Firefox UI in ways that they are accustomed, ensuring that their workflows are not interrupted. Success here is if Firefox users don't ask where compact mode went.
-- **Ensure that Firefox has a compact mode preference available that is smaller than competitors**: This will ensure that Firefox remains the preferred choice for users that prefer space-saving UIs. Success here is when there is an option for a UI in Firefox that uses less vertical space than competitors.
-- **Make compact mode more discoverable**: This will help ensure that users are taking advantage of this feature if it fits their preference, and help to retain users who are not aware that this preference exists currently. Success here is engagement at new entry points towards compact mode. Additionally, more users will know that this option exists vs. today.
-- **Make compact mode usage more transparent**: This will help the Mozilla community know how widely used the compact mode is, and to help prioritize improvements. Success here is a way to collect and access this data.
+- **Improve Firefox user satisfaction and retention via display density configurations**: This will increase user satisfaction of Firefox through a UI that fits their workflows or display resolutions. Existing users accustomed to the Photon UI can be successfully retained because their workflows are not interrupted upon release of the Proton UI refresh. Success here is if Firefox users are satisfied with their display density options within the Firefox UI.
+- **Demonstrate differentiation with competitors through richer UI configuration**: This will ensure that Firefox remains the preferred choice for users that prefer being able to customize their UI experience. Success here is when there is are UI options in Firefox that encompass a range of options depending on workflow or screen size - e.g. from a large high-DPI display, to a touchscreen, to a low-end laptop.
+- **Ensure that Firefox is more optimized for low resolution displays than the competition**: This will ensure that Firefox remains the preferred choice for users that prefer space-saving UIs. Success here is when there is an option for a UI in Firefox that uses less vertical space than competitors.
 
 ### Non Goals
 {:.no_toc}
@@ -52,12 +55,9 @@ Including an option to increase information density can serve as a competitive a
 
 ## Hypothesis
 
-- Users on smaller screens prefer higher information density since they are able to see more content on web pages without scrolling.
-- Users on larger screens prefer larger UIs, because they are easier to navigate.
-- Users may have a preference for increased density, even on larger screens, because it provides for higher information density.
-- If we ensure compact mode remains an option in Firefox, we will see less user churn than if compact is removed.
-- If we create additional entry points to advertise the existence of compact mode, more users will use compact mode.
-- If we release the Proton UI as-is, this will increase the usage of compact mode, as the UI is larger then Firefox Photon.
+- The presence of screen density configurations will allow Firefox users to retain better, especially during the Proton transition
+- Increased discoverability of density configuration options will drive awareness of the feature, increasing overall usage and blunting the default effect
+- Awareness of density configuration options in Firefox will give Firefox an edge when under consideration by users that prefer customization, or are using lower resolution displays
 
 ## Vision Narrative
 
