@@ -26,7 +26,7 @@ Discuss this post on [Reddit](https://www.reddit.com/r/firefox/duplicates/orscc0
 
 If you browse privacy or browser forums, you will eventually come across recommendations to use Firefox because it is "more private, especially if you harden it". This recommendation is pushed by authorities like [Malwarebytes](https://blog.malwarebytes.com/101/2015/01/hardening-firefox/), but the most referenced source today seems to be the [PrivacyTools](https://www.privacytools.io/browsers/#about_config) guide. 
 
-Unfortunately, following these "hardening" recommendations often lead to people significant degradradation of the usefulness of Firefox - slowing it down, disabling 3D functionality -- even making logging into some websites impossible.
+Unfortunately, following these "hardening" recommendations often lead to significant degradradation of the usefulness of Firefox - slowing it down, disabling 3D functionality -- even making logging into some websites impossible.
 
 Probably the most problematic recommendation given is <code>privacy.resistFingerprinting</code>, part of the [Tor Uplift](https://wiki.mozilla.org/Security/Tor_Uplift) project. It is [anti-fingerprinting technology](https://2019.www.torproject.org/projects/torbrowser/design/#fingerprinting-linkability) meant to ease the maintenance burden of the [Tor Browser](https://www.torproject.org/download/) (based on Firefox) - not really meant for general users. Disabling this one option often fixes issues with web pages that seem impossible to diagnose. 
 
