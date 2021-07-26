@@ -265,11 +265,11 @@ By default, the search bar will show search suggestions. This is how I prefer it
 
 ### Delete Cookies When Closing Firefox
 
-I setup Firefox to delete cookies and site data when I close Firefox. My feeling is that most websites don't really need to have a persistent idea of my browser over time. There's a nice side effect to having websites forget about you - sites that only let you see a limited number of articles before throwing up a paywall think that I am a new person every time I restart Firefox. Of course, you should [support quality reporting](https://www.propublica.org) if you are able to.
+I setup Firefox to delete cookies and site data when I close Firefox. My feeling is that most websites don't really need to have a persistent idea of my browser over time, even if I browse them often.
 
-Since I run Firefox Nightly and get updates twice a day, websites forget about me constantly.  
+Since websites use cookies to keep you logged in, whenever I close Firefox, I get logged out of just about every website. There's a nice side effect to having websites forget about you - sites that only let you see a limited number of articles before throwing up a paywall think that I am a new person every time I restart Firefox. Of course, you should [support quality reporting](https://www.propublica.org) if you are able to.
 
-There are other ways to achieve this amnesiac behavior, but I restart often enough that I don't need to run additional add-ons to do this. If you don't restart often, you can install [Forget Me Not](https://addons.mozilla.org/en-US/firefox/addon/forget_me_not/) instead. 
+There are other ways to achieve this amnesiac behavior, but I restart often enough (since I run Firefox Nightly, which updates twice a day) that I don't need to run additional add-ons to do this. If you don't restart often, you can install [Forget Me Not](https://addons.mozilla.org/en-US/firefox/addon/forget_me_not/) instead. 
 
 Do not follow this recommendation if you don't want to occasionally tell Firefox to not delete your data for a site.
 
