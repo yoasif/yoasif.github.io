@@ -76,7 +76,7 @@ You can optionally use a [different DoH provider](https://www.privacytools.io/pr
 		<picture>
 		  <source type="image/webp" srcset="{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-strict-etp.webp,
 		  									{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-strict-etp-2x.webp 2x">
-		  <source type="image/png" srcset="{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-strict-etp-2x.png,
+		  <source type="image/png" srcset="{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-strict-etp.png,
 		  								   {{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-strict-etp-2x.png 2x">
 		  <img src="{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-strict-etp.png" srcset="{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-strict-etp-2x.png 2x" alt="Firefox Enhanced Tracking Protection with Strict selected"/>
 		</picture>
@@ -99,10 +99,10 @@ Firefox containers are a nice way to solve this problem. You can open your Googl
 <p>
 	<figure>
 	<picture>
-	  <source type="image/webp" srcset="{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-container-example.webp">
-	  <source type="image/png" srcset="{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-container-example-2x.png 2x">
-	  <source type="image/webp" srcset="{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-container-example.webp">
-	  <source type="image/png" srcset="{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-container-example-2x.png 2x">
+	  <source type="image/webp" srcset="{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-container-example.webp,
+	  									{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-container-example-2x.webp 2x">
+	  <source type="image/png" srcset="{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-container-example.png,
+	  								   {{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-container-example-2x.png 2x">
 	  <img src="{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-container-example.png" srcset="{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-container-example-2x.png 2x" alt="Firefox window on macOS showing two container tabs"/>
 	  <figcaption>Firefox with a work Google Doc and YouTube in a personal container</figcaption>
 	</picture>
@@ -124,10 +124,10 @@ The simplest way to open a new container tab is to use the *Open a new tab* butt
 
 	<figure>
 		<picture>
-		  <source type="image/webp" srcset="{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-open-new-tab.webp">
-		  <source type="image/png" srcset="{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-open-new-tab-2x.png 2x">
-		  <source type="image/webp" srcset="{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-open-new-tab.webp">
-		  <source type="image/png" srcset="{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-open-new-tab-2x.png 2x">
+		  <source type="image/webp" srcset="{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-open-new-tab.webp,
+		  									{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-open-new-tab-2x.webp 2x">
+		  <source type="image/png" srcset="{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-open-new-tab.png,
+		  								   {{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-open-new-tab-2x.png 2x">
 		  <img src="{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-open-new-tab.png" srcset="{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-open-new-tab-2x.png 2x" alt="Open a new tab menu with + button highlighted"/>
 		</picture>
 	</figure>
@@ -147,10 +147,10 @@ The simplest way to create a new container is to use the *Open a new tab* button
 
 	<figure>
 		<picture>
-		  <source type="image/webp" srcset="{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-open-new-tab.webp">
-		  <source type="image/png" srcset="{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-open-new-tab-2x.png 2x">
-		  <source type="image/webp" srcset="{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-open-new-tab.webp">
-		  <source type="image/png" srcset="{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-open-new-tab-2x.png 2x">
+		  <source type="image/webp" srcset="{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-open-new-tab.webp,
+		  									{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-open-new-tab-2x.webp 2x">
+		  <source type="image/png" srcset="{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-open-new-tab.png,
+		  						  		   {{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-open-new-tab-2x.png 2x">
 		  <img src="{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-open-new-tab.png" srcset="{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-open-new-tab-2x.png 2x" alt="Open a new tab menu with + button highlighted"/>
 		</picture>
 	</figure>
@@ -161,10 +161,10 @@ The simplest way to create a new container is to use the *Open a new tab* button
 
 	<figure>
 		<picture>
-		  <source type="image/webp" srcset="{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-open-new-tab-manage-containers.webp">
-		  <source type="image/png" srcset="{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-open-new-tab-manage-containers-2x.png 2x">
-		  <source type="image/webp" srcset="{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-open-new-tab-manage-containers.webp">
-		  <source type="image/png" srcset="{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-open-new-tab-manage-containers-2x.png 2x">
+		  <source type="image/webp" srcset="{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-open-new-tab-manage-containers.webp,
+											{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-open-new-tab-manage-containers-2x.webp 2x">
+		  <source type="image/png" srcset="{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-open-new-tab-manage-containers.png,
+		  								 {{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-open-new-tab-manage-containers-2x.png 2x">
 		  <img src="{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-open-new-tab-manage-containers-2x.png" srcset="{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-open-new-tab-manage-containers.png 2x" alt="Open a new tab menu with Manage Containers option highlighted"/>
 		</picture>
 	</figure>
@@ -173,10 +173,10 @@ The simplest way to create a new container is to use the *Open a new tab* button
 
 	<figure>
 		<picture>
-		  <source type="image/webp" srcset="{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-add-new-container.webp">
-		  <source type="image/png" srcset="{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-add-new-container-2x.png 2x">
-		  <source type="image/webp" srcset="{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-add-new-container.webp">
-		  <source type="image/png" srcset="{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-add-new-container-2x.png 2x">
+		  <source type="image/webp" srcset="{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-add-new-container.webp,
+		  									{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-add-new-container-2x.webp 2x">
+		  <source type="image/png" srcset="{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-add-new-container.png,
+		  								   {{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-add-new-container-2x.png 2x">
 		  <img src="{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-add-new-container-2x.png" srcset="{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-add-new-container.png 2x" alt="Add New Container button highlighted on Container Tabs settings"/>
 		</picture>
 	</figure>
@@ -185,10 +185,10 @@ The simplest way to create a new container is to use the *Open a new tab* button
 
 	<figure>
 		<picture>
-		  <source type="image/webp" srcset="{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-create-container.webp">
-		  <source type="image/png" srcset="{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-create-container-2x.png 2x">
-		  <source type="image/webp" srcset="{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-create-container.webp">
-		  <source type="image/png" srcset="{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-create-container-2x.png 2x">
+		  <source type="image/webp" srcset="{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-create-container.webp,
+		  									{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-create-container-2x.webp 2x">
+		  <source type="image/png" srcset="{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-create-container.png,
+		  								   {{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-create-container-2x.png 2x">
 		  <img src="{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-create-container-2x.png" srcset="{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-create-container.png 2x" alt="Add New Container dialog box, filled in with LinkedIn as an example name, and a briefcase icon"/>
 		</picture>
 	</figure>
@@ -209,10 +209,10 @@ Fortunately, Firefox also comes with a more privacy aware search engine, [DuckDu
 
 	<figure>
 		<picture>
-		  <source type="image/webp" srcset="{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-default-search-engine-duckduckgo.webp">
-		  <source type="image/png" srcset="{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-default-search-engine-duckduckgo-2x.png 2x">
-		  <source type="image/webp" srcset="{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-default-search-engine-duckduckgo.webp">
-		  <source type="image/png" srcset="{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-default-search-engine-duckduckgo-2x.png 2x">
+		  <source type="image/webp" srcset="{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-default-search-engine-duckduckgo.webp,
+		  									{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-default-search-engine-duckduckgo-2x.webp 2x">
+		  <source type="image/png" srcset="{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-default-search-engine-duckduckgo.png,
+		  								   {{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-default-search-engine-duckduckgo-2x.png 2x">
 		  <img src="{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-default-search-engine-duckduckgo.png" srcset="{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-default-search-engine-duckduckgo-2x.png 2x" alt="Firefox Default Search Engine with DuckDuckGo selected and highlighted"/>
 		</picture>
 	</figure>
@@ -233,10 +233,10 @@ Firefox by default shows search suggestions for the stuff you type into the addr
 
 	<figure>
 		<picture>
-		  <source type="image/webp" srcset="{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-search-suggestions-address-bar.webp">
-		  <source type="image/png" srcset="{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-search-suggestions-address-bar-2x.png 2x">
-		  <source type="image/webp" srcset="{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-search-suggestions-address-bar.webp">
-		  <source type="image/png" srcset="{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-search-suggestions-address-bar-2x.png 2x">
+		  <source type="image/webp" srcset="{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-search-suggestions-address-bar.webp,
+		  									{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-search-suggestions-address-bar-2x.webp 2x">
+		  <source type="image/png" srcset="{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-search-suggestions-address-bar.png,
+		  								   {{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-search-suggestions-address-bar-2x.png 2x">
 		  <img src="{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-search-suggestions-address-bar.png" srcset="{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-search-suggestions-address-bar-2x.png 2x" alt="Show search suggestions in address bar results checkbox unchecked and highlighted"/>
 		</picture>
 	</figure>
@@ -253,10 +253,10 @@ Before Google Chrome arrived on the scene, web browsers came with a separate sea
 
 	<figure>
 		<picture>
-		  <source type="image/webp" srcset="{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-search-in-toolbar.webp">
-		  <source type="image/png" srcset="{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-search-in-toolbar-2x.png 2x">
-		  <source type="image/webp" srcset="{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-search-in-toolbar.webp">
-		  <source type="image/png" srcset="{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-search-in-toolbar-2x.png 2x">
+		  <source type="image/webp" srcset="{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-search-in-toolbar.webp,
+		  									{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-search-in-toolbar-2x.webp 2x">
+		  <source type="image/png" srcset="{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-search-in-toolbar.png,
+		  								   {{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-search-in-toolbar-2x.png 2x">
 		  <img src="{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-search-in-toolbar.png" srcset="{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-search-in-toolbar-2x.png 2x" alt="Add search bar in toolbar radio button selected and highlighted"/>
 		</picture>
 	</figure>
@@ -299,10 +299,10 @@ To add an exception, you can follow these steps:
 
 	<figure>
 		<picture>
-		  <source type="image/webp" srcset="{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-page-info-allow-cookies.webp">
-		  <source type="image/png" srcset="{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-page-info-allow-cookies-2x.png 2x">
-		  <source type="image/webp" srcset="{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-page-info-allow-cookies.webp">
-		  <source type="image/png" srcset="{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-page-info-allow-cookies-2x.png 2x">
+		  <source type="image/webp" srcset="{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-page-info-allow-cookies.webp,
+		  									{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-page-info-allow-cookies-2x.webp 2x">
+		  <source type="image/png" srcset="{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-page-info-allow-cookies.png,
+		  								   {{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-page-info-allow-cookies-2x.png 2x">
 		  <img src="{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-page-info-allow-cookies.png" srcset="{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-page-info-allow-cookies-2x.png 2x" alt="Firefox Page Info dialog with Use Cookies set to allowed and highlighted"/>
 		</picture>
 	</figure>
@@ -321,10 +321,10 @@ In those situations, you can generally just disable Tracking Protection for the 
 
 	<figure>
 		<picture>
-		  <source type="image/webp" srcset="{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-etp-toggle.webp">
-		  <source type="image/png" srcset="{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-etp-toggle-2x.png 2x">
-		  <source type="image/webp" srcset="{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-etp-toggle.webp">
-		  <source type="image/png" srcset="{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-etp-toggle-2x.png 2x">
+		  <source type="image/webp" srcset="{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-etp-toggle.webp,
+		  									{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-etp-toggle-2x.webp 2x">
+		  <source type="image/png" srcset="{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-etp-toggle.png,
+		  								   {{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-etp-toggle-2x.png 2x">
 		  <img src="{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-etp-toggle.png" srcset="{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-etp-toggle-2x.png 2x" alt="Enhanced Tracking Protection toggle enabled and highlighted"/>
 		</picture>
 	</figure>
