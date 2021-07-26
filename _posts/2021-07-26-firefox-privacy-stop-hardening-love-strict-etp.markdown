@@ -143,7 +143,7 @@ The simplest way to open a new container tab is to use the *Open a new tab* butt
 
 The simplest way to create a new container is to use the *Open a new tab* button in the toolbar.
 
-1. Click and hold your mouse or touchpad over the + button in your toolbar.
+1. Click and hold your mouse or touchpad over the **+** button in your toolbar.
 
 	<figure>
 		<picture>
