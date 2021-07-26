@@ -74,10 +74,10 @@ You can optionally use a [different DoH provider](https://www.privacytools.io/pr
 
 	<figure>
 		<picture>
-		  <source type="image/webp" srcset="{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-strict-etp.webp">
-		  <source type="image/png" srcset="{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-strict-etp-2x.png 2x">
-		  <source type="image/webp" srcset="{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-strict-etp.webp">
-		  <source type="image/png" srcset="{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-strict-etp-2x.png 2x">
+		  <source type="image/webp" srcset="{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-strict-etp.webp,
+		  									{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-strict-etp-2x.webp 2x">
+		  <source type="image/png" srcset="{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-strict-etp-2x.png,
+		  								   {{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-strict-etp-2x.png 2x">
 		  <img src="{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-strict-etp.png" srcset="{{site.url}}/assets/images/firefox-privacy-stop-hardening-love-strict-etp/firefox-strict-etp-2x.png 2x" alt="Firefox Enhanced Tracking Protection with Strict selected"/>
 		</picture>
 	</figure>
