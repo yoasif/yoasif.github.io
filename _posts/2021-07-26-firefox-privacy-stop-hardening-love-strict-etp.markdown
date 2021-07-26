@@ -311,7 +311,7 @@ To add an exception, you can follow these steps:
 
 ## Troubleshooting
 
-This setup here will rarely cause problems, but sometimes sites really want to be able to track you and will have problems if they aren't able to.
+This setup will rarely cause problems, but sometimes sites really want to be able to track you and will have problems if they aren't able to.
 
 In those situations, you can generally just disable Tracking Protection for the misbehaving site:
 
