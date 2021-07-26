@@ -14,7 +14,7 @@ After seeing tens of these experiences across the web (I help to moderate a popu
 
 This is also a pretty minimal guide - I want to reduce opportunities for issues, and the more changes you make to the base browser, the more annoying troubleshooting gets. People get frustrated and move on. That means that I am not covering Firefox add-ons or services that I use, but if you are interested, I can post about some in a follow-up.
 
-Discuss this post on [Reddit](#).
+Discuss this post on [Reddit](https://www.reddit.com/r/firefox/duplicates/orscc0/firefox_privacy_or_how_i_learned_to_stop/).
 
 {:toc}
 * toc
