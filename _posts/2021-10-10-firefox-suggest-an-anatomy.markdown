@@ -73,12 +73,38 @@ The first *new* feature in Firefox Suggest is "contextual suggestions", a way fo
 
 The only site that seems to a part of the better web today is Wikipedia, and users can test this by typing "Costa Rica" into the address bar, whereupon you should see a result that deep links you directly to the article on Wikipedia.
 
+<p>
+	<figure>
+	<picture>
+	  <source type="image/webp" srcset="{{site.url}}/assets/images/firefox-suggest-an-anatomy/firefox-suggest-address-bar-wikipedia.webp,
+	  									{{site.url}}/assets/images/firefox-suggest-an-anatomy/firefox-suggest-address-bar-wikipedia-2x.webp 2x">
+	  <source type="image/png" srcset="{{site.url}}/assets/images/firefox-suggest-an-anatomy/firefox-suggest-address-bar-wikipedia.png,
+	  								   {{site.url}}/assets/images/firefox-suggest-an-anatomy/firefox-suggest-address-bar-wikipedia-2x.png 2x">
+	  <img src="{{site.url}}/assets/images/firefox-suggest-an-anatomy/firefox-suggest-address-bar-wikipedia.png" srcset="{{site.url}}/assets/images/firefox-suggest-an-anatomy/firefox-suggest-address-bar-wikipedia-2x.png 2x" alt="Firefox address bar showing a Firefox Suggest result for Costa Rica on Wikipedia"/>
+	  <figcaption>Firefox users can find suggestions from Wikipedia</figcaption>
+	</picture>
+</figure>
+</p>
+
 I totally agree with Mozilla that Wikipedia is a great site, and providing a deep link to Wikipedia instead of hitting a search engine first or [never visiting Wikipedia](https://twitter.com/patrickstox/status/1103338903426207745) feels like a much better experience.
 
-### Sponsored Contextual Suggestions (Ads)
+### Sponsored Contextual Suggestions
 {:.no_toc}
 
-The other new feature is ads. Mozilla works with adMarketplace to show relevant ads in response to typed queries in the address bar. An example of this is given on the support page - you can type "vans" into your address bar and you will see a result (clearly labeled as *Sponsored*) linking to Vans Shoes on eBay.
+The other new feature is advertisements. Mozilla works with adMarketplace to show relevant ads in response to typed queries in the address bar. An example of this is given on the support page - you can type "vans" into your address bar and you will see a result (clearly labeled as *Sponsored*) linking to Vans Shoes on eBay.
+
+<p>
+	<figure>
+	<picture>
+	  <source type="image/webp" srcset="{{site.url}}/assets/images/firefox-suggest-an-anatomy/firefox-suggest-address-bar-ads.webp,
+	  									{{site.url}}/assets/images/firefox-suggest-an-anatomy/firefox-suggest-address-bar-ads-2x.webp 2x">
+	  <source type="image/png" srcset="{{site.url}}/assets/images/firefox-suggest-an-anatomy/firefox-suggest-address-bar-ads.png,
+	  								   {{site.url}}/assets/images/firefox-suggest-an-anatomy/firefox-suggest-address-bar-ads-2x.png 2x">
+	  <img src="{{site.url}}/assets/images/firefox-suggest-an-anatomy/firefox-suggest-address-bar-ads.png" srcset="{{site.url}}/assets/images/firefox-suggest-an-anatomy/firefox-suggest-address-bar-ads-2x.png 2x" alt="Firefox address bar showing a Firefox Suggest result for Vans Shoes on eBay"/>
+	  <figcaption>Firefox users can find sponsored suggestions from vetted partners</figcaption>
+	</picture>
+</figure>
+</p>
 
 I think this is a good result - I often shop on eBay, and I sometimes use the built in search engine on Firefox to search eBay. 
 
@@ -279,7 +305,7 @@ Mozilla knows better than what they have released in Firefox 93 (and previously 
 
 Rebranding features that already worked offline in order to attach it to online functionality is a mistake. The rebrand doesn't come with any enhancement to the existing functionality, so the branding serves no purpose to users - indeed, it is so confusing that Support Mozilla hasn't been able to hit their mark, even after a PR incident. Why release such a confusing update without an announcement? 
 
-It has been said that the cover-up is always worse than the crime, and that is exactly how it looks here. Mozilla promised users that they would be asked to opt-in to the new contextual suggestions experience in Firefox Suggest. That isn't what happened. Users began seeing ads, and there was no opt-in. It *doesn't matter* if no additional data is sent. Trust has been damaged, and bad headlines followed. If Mozilla doesn't believe that trust has been damaged, they ought to ask themselves whether there would have been as much consternation and confusion if they had announced what was coming.
+It is said that the cover-up is always worse than the crime, and that is exactly how it looks here. Mozilla promised users that they would be asked to opt-in to the new contextual suggestions experience in Firefox Suggest. That isn't what happened. Users began seeing ads, and there was no opt-in. It *doesn't matter* if no additional data is sent. Mozilla eroded people's trust, and bad headlines followed. If Mozilla doesn't believe that trust has been damaged, they ought to ask themselves whether there would have been as much consternation and confusion if they had announced what was coming.
 
 By not updating users on what exactly happened in Firefox 93, Mozilla looks like they are trying to sneak something past its users. Even Firefox Suggest's presence in the release notes seem to follow that theme - it is the last item, below a macOS only feature that only affects users who run applications from their download directory. Lacking clarity, the community and press have begun to ascribe murky motivations for Mozilla's actions. That isn't good for a privacy brand who claims to [respect its users](https://www.mozilla.org/en-US/firefox/privacy/) and "doesn’t depend on secretly abusing your trust".
 
