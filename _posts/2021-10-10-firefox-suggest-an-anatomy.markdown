@@ -6,7 +6,7 @@ categories: writing
 tags: Firefox
 ---
 
-Firefox 93 was [released](https://www.mozilla.org/en-US/firefox/93.0/releasenotes/) last Tuesday, and early reviews were positive. That didn't last long though, as reports soon spread on the tech press that Firefox was now showing ads in the address bar, something only obliquely mentioned in the release notes. Since then, Support Mozilla has posted a note saying that they "haven't quite hit" their mark, and that they are working to address it.
+Firefox 93 was [released](https://www.mozilla.org/en-US/firefox/93.0/releasenotes/) last Tuesday, and early reviews were positive. That didn't last long though, as reports soon spread on tech media that Firefox was now showing ads in the address bar, something only obliquely mentioned in the release notes. Since then, Support Mozilla has posted a note saying that they "haven't quite hit" their mark, and that they are working to address it.
 
 How did this happen? Grab a cup of your favorite beverage, as I try to explain. 
 
@@ -24,7 +24,7 @@ The good news is that it isn't as bad as it seems. The bad... well, it *is* a di
 * **September 15, 2021**
 	* Mozilla [announces Firefox Suggest](https://blog.mozilla.org/en/products/firefox/firefox-news/firefox-suggest/) in a blog post.
 	* Fast Company posts an article profiling Firefox Suggest: [Firefox’s new feature is part of an ambitious plan to change how we search](https://www.fastcompany.com/90676758/firefox-suggest-wikipedia-ebay-results-mozilla-google).
-* **October 5, 2021**: Firefox 93 is released. Firefox Suggest is mentioned in the release notes, as the last "new" item as a "a faster way to navigate the web". The notes link to a [support article](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest/revision/230279) to learn more. 
+* **October 5, 2021**: Firefox 93 is released. Firefox Suggest is mentioned in the [release notes](https://www.mozilla.org/en-US/firefox/93.0/releasenotes/), as the last "new" item as a "a faster way to navigate the web". The notes link to a [support article](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest/revision/230279) to learn more. 
 * **October 6, 2021**
 	* ladyaeva posts on Twitter that "[looks like firefox quietly added ads into the address bar.](https://twitter.com/ladyaeva/status/1445834339917320194)"
 	* ladyaeva's post gets shared to [reddit](https://www.reddit.com/r/firefox/comments/q2z99w/looks_like_firefox_quietly_added_ads_into_the/)
@@ -32,21 +32,35 @@ The good news is that it isn't as bad as it seems. The bad... well, it *is* a di
 	* ladyaeva's post gets shared to [Hacker News](https://news.ycombinator.com/item?id=28780285)
 	* The Verge posts an article saying that [Firefox’s address bar has ads now, but you can disable them](https://www.theverge.com/2021/10/7/22715179/firefox-suggest-search-ads-browser).
 * **October 8, 2021**
-	* A revision is posted to Support Mozilla clarifying how to see if users are opted-in to "improved results for Contextual Suggestions".
+	* A [revision](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest/revision/230565) is posted to Support Mozilla clarifying how to see if users are opted-in to "improved results for Contextual Suggestions". The change was accompanied by a comment marking the revised update due to a "PR incident".
 	* How-To Geek reports that [Firefox now sends your address bar keystrokes to Mozilla](https://www.howtogeek.com/760425/firefox-now-sends-your-address-bar-keystrokes-to-mozilla/).
 	* [Jefferson Scher](https://www.jeffersonscher.com/) posts a clarification on reddit that address bar queries are [not sent to Mozilla](https://www.reddit.com/r/firefox/comments/q485wb/firefox_now_sends_your_address_bar_keystrokes_to/hfx546l/), with a link to the [Firefox source](https://searchfox.org/mozilla-release/source/browser/components/urlbar/UrlbarPrefs.jsm#532).
-* **October 9, 2021**: Known tech blogger Paul Thurrott asks if [Mozilla Firefox is getting sketchy](https://www.thurrott.com/cloud/web-browsers/mozilla-firefox/258006/is-mozilla-firefox-getting-sketchy). [Betteridge's law of headlines](https://en.wikipedia.org/wiki/Betteridge's_law_of_headlines) would suggest *no*, but I'm not sure how the public will react.
+* **October 9, 2021**: Known tech blogger Paul Thurrott asks if [Mozilla Firefox is getting sketchy](https://www.thurrott.com/cloud/web-browsers/mozilla-firefox/258006/is-mozilla-firefox-getting-sketchy). [Betteridge's law of headlines](https://en.wikipedia.org/wiki/Betteridge's_law_of_headlines) would suggest *no*, but it remains to be seen how public perception changes.
 
 ## Firefox Suggest - What is it?
 
-As is often the case with posts having gone through PR filters, it can be hard to understand what Firefox Suggest actually *is*. 
+As is often the case with posts having gone through PR filters, it can be hard to understand what Firefox Suggest actually *is*.
 
-I myself was confused about this, so much so that two months ago, when Firefox Suggest first became available in Firefox Nightly, I [opened a bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1725290) asking why I was seeing a *Firefox Suggest* label in my address bar even though I had opted out of search suggestions. 
+Mozilla [says](https://blog.mozilla.org/en/products/firefox/firefox-news/firefox-suggest/):
+
+<blockquote>Firefox Suggest is a new discovery feature that is built directly into the browser. Firefox Suggest acts as a trustworthy guide to the better web, surfacing relevant information and sites to help people accomplish their goals.</blockquote>
+
+it continues by saying:
+
+<blockquote>Firefox already helps people search their browsing history and tabs and use their preferred search engine directly from Firefox’s Awesome Bar. 
+
+Firefox Suggest will enhance this by including other sources of information such as Wikipedia, Pocket articles, reviews and credible content from sponsored, vetted partners and trusted organizations.</blockquote>
+
+Okay, so Firefox Suggest is an addition to Firefox's Awesome Bar that pulls in information from the organizations external to Firefox.
+
+Not exactly.
 
 ### Relabeling of Existing Features
 {:.no_toc}
 
-The first thing Firefox Suggest is is a relabeling of functionality that previously existed in Firefox. For a very long time now, Firefox has had an "[AwesomeBar](https://blog.mozilla.org/en/mozilla/a-little-something-awesome-about-firefox-3/)", which is, well - awesome. You can see the documentation on the [autocomplete suggestions](https://support.mozilla.org/en-US/kb/address-bar-autocomplete-firefox) article on Support Mozilla, but all you really need to know is that it makes it very easy to navigate your open tabs, history, and bookmarks. 
+Two months ago, when Firefox Suggest first became available in Firefox Nightly, I [opened a bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1725290) because I saw a *Firefox Suggest* label in my address bar even though I had opted out of search suggestions. I had assumed then that Firefox Suggest was an addition to Firefox's existing functionality.
+
+Not so. The first thing Firefox Suggest is is a relabeling of functionality that previously existed in Firefox. For a very long time now, Firefox has had an "[AwesomeBar](https://blog.mozilla.org/en/mozilla/a-little-something-awesome-about-firefox-3/)", which is, well - awesome. You can see the documentation on the [autocomplete suggestions](https://support.mozilla.org/en-US/kb/address-bar-autocomplete-firefox) article on Support Mozilla, but all you really need to know is that it makes it very easy to navigate your open tabs, history, and bookmarks. 
 
 Per the closed bug report I filed, Firefox Suggest first relabels the AwesomeBar features under a new umbrella term.
 
@@ -59,14 +73,16 @@ The first *new* feature in Firefox Suggest is "contextual suggestions", a way fo
 
 The only site that seems to a part of the better web today is Wikipedia, and users can test this by typing "Costa Rica" into the address bar, whereupon you should see a result that deep links you directly to the article on Wikipedia.
 
-I totally agree with Mozilla that Wikipedia is a great site, and providing a deep link to Wikipedia instead of hitting a search engine first or [bypassing a visit to Wikipedia](https://twitter.com/patrickstox/status/1103338903426207745) like Google's "Rich Results" do, feels like a much better experience.
+I totally agree with Mozilla that Wikipedia is a great site, and providing a deep link to Wikipedia instead of hitting a search engine first or [never visiting Wikipedia](https://twitter.com/patrickstox/status/1103338903426207745) feels like a much better experience.
 
 ### Sponsored Contextual Suggestions (Ads)
 {:.no_toc}
 
 The other new feature is ads. Mozilla works with adMarketplace to show relevant ads in response to typed queries in the address bar. An example of this is given on the support page - you can type "vans" into your address bar and you will see a result (clearly labeled as *Sponsored*) linking to Vans Shoes on eBay.
 
-Here again, I think this is a good result - I often shop on eBay, and I sometimes use the built in search engine on Firefox to search it, but sometimes I end up doing a *search* for "vans ebay", which leads me to my default search engine, and if I am lucky, a link to eBay with the correct search term shown on eBay. I know that is a little like the people who type "google" into Chrome's address bar to navigate to google.com to continue their search - but Mozilla has understood something that Google learned a long time ago - just because it is possible doesn't mean it is *easy* - and you can monetize making it easier.
+I think this is a good result - I often shop on eBay, and I sometimes use the built in search engine on Firefox to search eBay. 
+
+Other times though, I start off doing a search for "vans ebay" using my default search engine - if I am lucky, my default search engine will have a result with a deep link to eBay with the correct search term. I know that is a little like the people who type "google" into Chrome's address bar to navigate to google.com to continue their search - but Mozilla has understood something that Google learned a long time ago - just because it is possible doesn't mean it is *easy* - and you can monetize making it easier.
 
 ## What Went Wrong?
 
@@ -83,22 +99,22 @@ Mozilla went through a [rebranding](https://blog.mozilla.org/opendesign/firefox-
 #### Why Rebrand the AwesomeBar?
 {:.no_toc}
 
-As noted above, most of Firefox Suggest's functionality isn't actually new. It is the repackaging of Firefox 3 technology (from 2008!) with the addition of "contextual suggestions" and advertising. Firefox's release notes in 2008 [noted](https://website-archive.mozilla.org/www.mozilla.org/firefox_releasenotes/en-us/firefox/3.0/releasenotes/):
+As noted above, most of Firefox Suggest's functionality isn't actually new. It is the repackaging of Firefox 3 technology with the addition of "contextual suggestions" and advertising. Firefox’s release notes from 2008 [noted](https://website-archive.mozilla.org/www.mozilla.org/firefox_releasenotes/en-us/firefox/3.0/releasenotes/):
 
 <blockquote>Smart Location Bar: type in all or part of the title, tag or address of a page to see a list of matches from your history and bookmarks; a new display makes it easier to scan through the matching results and find that page you're looking for. Results are returned according to their a combination of frequency, and recency of visits to that page, ensuring that you're seeing the most relevant matches. An adaptive learning algorithm further tunes the results to your patterns!</blockquote>
 
 Sounds kinda familiar. 
 
-Mozilla said back then that the address bar was smarter because it showed me *my* content - my **history** and **bookmarks**. The new feature, though shows me content from "contextual suggestions" that lead me *away* from my own content towards content that my browser (and maybe a web service) is directing me towards.
+Mozilla said back then that the address bar was smarter because it showed me *my* locally sourced content - my **history** and **bookmarks**. The new feature though, shows me content from "contextual suggestions" that lead me *away* from my own content towards content that my browser (and maybe a web service) is directing me towards.
 
 I can see it from Mozilla's perspective -- the browser is ultimately interpreting what users are typing into the address bar and showing you things that the software deems to be relevant, and returning that result to you. The software is web-connected anyway, so *why not* take advantage of web services (or built-in suggestions) to provide more relevant responses that go beyond browsing through stuff users have already seen?
 
 ##### Differentiation
 {:.no_toc}
 
-Perhaps Mozilla wanted to rebrand the AwesomeBar suggestions in order to differentiate between search engine suggestions and contextual suggestions? Firefox developers said as much in their bug tracker - "they're suggestions from Firefox as opposed to suggestions from your search engine". Sure, I suppose that makes sense if you are a new user and you have never seen the AwesomeBar suggestions.
+Perhaps Mozilla wanted to rebrand the AwesomeBar suggestions in order to differentiate between search engine suggestions and contextual suggestions? Firefox developers said as much in their bug tracker - "they're suggestions from Firefox as opposed to suggestions from your search engine". 
 
-That doesn't make a lot of sense for existing users though, because the Firefox Suggest branding has been applied to things beyond contextual suggestions - it ends up being confusing.
+Even if that is the case, it doesn't seem to be the relevant distinction here - Mozilla wants to separate search engine suggestions from *contextual suggestions*, so that you don't think Google or DuckDuckGo or whatever your default search engine is is showing you content from Firefox Suggest. That can be done without rebranding locally sourced suggestions though - simply label the *new* suggestions from Firefox Suggest. 
 
 #### Rebranding is Confusing
 {:.no_toc}
@@ -107,7 +123,7 @@ The most galling thing about the rebranding of existing functionality is that it
 
 I myself run a [setup of Firefox]({% post_url 2021-07-26-firefox-privacy-stop-hardening-love-strict-etp %}) that doesn't show search engine suggestions in the address bar, so prior to Firefox Suggest, everything that appeared in my address bar suggestions was *my* content - things I *knew* I would be interested in seeing. 
 
-I was so confused by the appearance of the "Firefox Suggest" label in my address bar that I opened a bug, whereupon I was told that Firefox was relabeling those suggestions as part of the new rebranded thing. 
+I was so confused by the appearance of the "Firefox Suggest" label in my address bar that I opened a bug, whereupon I was told that Firefox was relabeling those suggestions as part of the new feature. 
 
 Here's the problem -- it doesn't *make sense*!
 
@@ -125,11 +141,11 @@ Mozilla tried to reduce the foreignness of rebranding something native to the br
 
 Mozilla has in recent years been focusing a lot on privacy, both in its marketing and in its product development and research. These efforts have helped Firefox gain popularity among online privacy communities - perhaps even to its detriment, as some people seem to think of Firefox as a "privacy browser" - rather than a great browser with excellent privacy features.
 
-It is disappointing then, that Mozilla would rebrand an ultimate privacy feature - local search suggestions - as one and the same as one that (confusingly) may or may not require network access.
+The Firefox Suggest brand damages the the core Firefox *browser* brand in exactly the area where Mozilla has placed focus - privacy. Mozilla has rebranded an ultimate privacy feature - offline and locally sourced search suggestions - as one and the same as one that may require network access and contains advertisements. It is now struggling to explain the distinction between offline and online suggestions, even though it would have been simpler to simply call the *new* functionality Firefox Suggest.
 
 Even if this was not the intent, this comes off as a dark pattern. 
 
-My personal setup that I referenced earlier exemplifies the situation.
+My own setup that I referenced earlier exemplifies the situation.
 
 As one of the privacy aware users that Mozilla has done a great job catering to, I don't have any search suggestions in my address bar results. I prefer to only send my search queries to my search engine when I am actively searching, as I am often searching for my local data. 
 
@@ -145,7 +161,7 @@ For reference, this is how my search preferences are setup:
 	</picture>
 </figure>
 
-This means that the idea of differentiation between local search results (history and bookmarks) and search engine results doesn't apply. Someone who uses this setting in Firefox preferences (not a secret feature!) *never* sees search engine results, and with the release of Firefox 93 will see their *local* search results labeled as "Firefox Suggest" results.
+This means that the idea of differentiation between offline search results (history and bookmarks) and search engine results doesn't apply. Someone who uses this setting in Firefox preferences (not a secret feature!) *never* sees search engine results, and with the release of Firefox 93 will see their *locally sourced* search results labeled as "Firefox Suggest" results.
 
 #### A Dark Pattern
 {:.no_toc}
@@ -162,13 +178,17 @@ Take my experience as an example.
 
 What happens?
 
-I see an ad to shop for Vans Shoes on eBay, among my local results, all under the label of "Firefox Suggest". 
+I see an ad to shop for Vans Shoes on eBay, among my locally sourced results, all under the label of "Firefox Suggest". 
 
 What is the problem here?
 
-The problem is that as a naïve (and especially a new) user, I might believe that Firefox only allows me to see my local data if I see those ads as well. As a less-savvy user, Mozilla is training me into believing that while previously, I was able to see my local data without ads, I must now see them with sponsored results, as they are now part of Firefox Suggest.
+The problem is that as a naïve user, I might believe that Firefox only allows me to see my locally sourced data if I see those ads as well. Mozilla is training less-savvy users into believing that while previously, they were able to see their local data without ads, they must now see them with sponsored results, as they are now part of Firefox Suggest. Is it because the suggestions are now somehow powered by a web service? As more and more functionality in apps move to the web, it wouldn't be too much of a stretch to believe that Firefox Suggest (and everything about it) works like Amazon Echo or Google Home - where all queries are sent over the network to a cloud based service for interpretation and results.
 
-This is insidious and damaging to Firefox's brand, since it attaches something that was once 100% private to something that at least has the appearance of not being private (sending queries online). Instead of clearly labeling the contextual suggestions (including sponsored suggestions) as Firefox Suggest, Mozilla has instead chosen to damage *existing and private* functionality with the taint of network services -- and worse yet, advertising.
+This is insidious and damaging to Firefox's brand, since it attaches something that was once 100% private to something that looks like it is sending queries online. Instead of clearly labeling the contextual suggestions (including sponsored suggestions) as Firefox Suggest, Mozilla has instead chosen to damage *existing and private* functionality with the taint of network services -- and worse yet, advertising.
+
+The weirdest part about the new feature is that *even after disabling* the **Contextual suggestions** checkbox in Firefox preferences, you *still* see the "Firefox Suggest" branding in your address bar, even though Firefox Suggest is ostensibly the *very same* feature that you *just disabled*! So Firefox Suggest is something I can't even disable - even though Mozilla says that "we believe people should be in control of their web experience, so Firefox Suggest will be a customizable feature".
+
+Is this a dark pattern, or does the right hand not know what the left hand is doing?
 
 The rollout made this worse than the branding issue that I have detailed thus far - much worse. I'll get into that in the next section.
 
@@ -183,7 +203,7 @@ Upon upgrade (and on new installs), Firefox 93 opts users into "Contextual sugge
 #### Support Mozilla
 {:.no_toc}
 
-Unfortunately, the Support Mozilla page that both the release notes and the Firefox UI linked to stated a number of confusing and contradictory things.
+Unfortunately, the Support Mozilla page that both the release notes and the Firefox UI [linked to](https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest/revision/230279) stated a number of confusing and contradictory things.
 
 The document states:
 
@@ -249,8 +269,18 @@ The good news here is that if users have not opted into the "improved results fo
 
 The bad news is that Mozilla broke a lot of people's expectations and trust. Mozilla explicitly said that *"As always, we believe people should be in control of their web experience, so Firefox Suggest will be a customizable feature. We’ll begin offering contextual suggestions to a percentage of people in the U.S. as an opt-in experience. We believe online ads can work without advertisers needing to know everything about you."*
 
-I (and I think most other people) took that to understand that the experience - without any update to the contrary - would be opt-in only. Of course I had expected at some point that the sponsored suggestions would be made the default, but I had expected an announcement prior to that occurrence.
+I (and I think most other people) took that to understand that the experience - without any update to the contrary - would be opt-in only. Of course I had expected at some point that the sponsored suggestions would be enabled by default, but I had expected an announcement prior to that occurrence.
 
 Mozilla blindsided Firefox users upon release, and made it harder to defend it on social media, helping to burn out its still avid fanbase. 
 
 The most troubling thing is that it is hard to know if Mozilla recognizes how it breached user trust, or how it is engaging in what looks an awful lot like dark patterns in the product.
+
+Mozilla knows better than what they have released in Firefox 93 (and previously in Firefox 92). Connecting the Firefox brand and browser to an ecosystem of online and offline services can be a good thing - I have a Firefox Sync account and tested Firefox Lockwise - and would even love to see a Chromium extension for Sync. Those things should be additive to the brand and browser, though. 
+
+Rebranding features that already worked offline in order to attach it to online functionality is a mistake. The rebrand doesn't come with any enhancement to the existing functionality, so the branding serves no purpose to users - indeed, it is so confusing that Support Mozilla hasn't been able to hit their mark, even after a PR incident. Why release such a confusing update without an announcement? 
+
+It has been said that the cover-up is always worse than the crime, and that is exactly how it looks here. Mozilla promised users that they would be asked to opt-in to the new contextual suggestions experience in Firefox Suggest. That isn't what happened. Users began seeing ads, and there was no opt-in. It *doesn't matter* if no additional data is sent. Trust has been damaged, and bad headlines followed. If Mozilla doesn't believe that trust has been damaged, they ought to ask themselves whether there would have been as much consternation and confusion if they had announced what was coming.
+
+By not updating users on what exactly happened in Firefox 93, Mozilla looks like they are trying to sneak something past its users. Even Firefox Suggest's presence in the release notes seem to follow that theme - it is the last item, below a macOS only feature that only affects users who run applications from their download directory. Lacking clarity, the community and press have begun to ascribe murky motivations for Mozilla's actions. That isn't good for a privacy brand who claims to [respect its users](https://www.mozilla.org/en-US/firefox/privacy/) and "doesn’t depend on secretly abusing your trust".
+
+Firefox Suggest has been a disaster. I'm hoping that Mozilla will try to repair the damage.
