@@ -74,7 +74,7 @@ I'm not going to discuss whether it makes sense for Firefox to have ads in its a
 
 I will note that I agree that Mozilla needs to reduce its dependence on search engine royalties, especially after multiple [rounds of layoffs](https://arstechnica.com/information-technology/2020/08/firefox-maker-mozilla-lays-off-250-workers-says-covid-19-lowered-revenue/) - the future of the Mozilla projects (and perhaps the web) that we care about depend on it.
 
-The rollout, on the other hand was badly managed and confusing, and that is where I will place my focus. 
+The rollout on the other hand, was badly managed and confusing, and that is where I will place my focus. 
 
 ### Branding
 
@@ -105,7 +105,7 @@ That doesn't make a lot of sense for existing users though, because the Firefox 
 
 The most galling thing about the rebranding of existing functionality is that it is utterly confusing. For people that are already familiar with Firefox, relabeling the existing history and bookmark search is extremely confusing. 
 
-I myself run a [setup of Firefox]({% post_url 2021-07-26-firefox-privacy-stop-hardening-love-strict-etp %}) that doesn't show search engine suggestions, so prior to Firefox Suggest, everything that appeared in my address bar suggestions was *my* content - things I *knew* I would be interested in seeing. 
+I myself run a [setup of Firefox]({% post_url 2021-07-26-firefox-privacy-stop-hardening-love-strict-etp %}) that doesn't show search engine suggestions in the address bar, so prior to Firefox Suggest, everything that appeared in my address bar suggestions was *my* content - things I *knew* I would be interested in seeing. 
 
 I was so confused by the appearance of the "Firefox Suggest" label in my address bar that I opened a bug, whereupon I was told that Firefox was relabeling those suggestions as part of the new rebranded thing. 
 
@@ -119,13 +119,13 @@ Once you give something a name, it becomes an *[other](https://otheringandbelong
 
 You can see this kind of branding in use when you are talking about disparate entities within an ecosystem - iCloud Keychain as opposed to keychains in macOS, for example. Keychains are used to store login information across many apps on macOS - but it is only when you move those passwords to another, cloud based system that you need to use the *other* iCloud Keychain. It isn't on your system, so it gets a new name.
 
-Mozilla tried to reduce the foreignness of rebranding something native to the browser (since 2008) by naming it *Firefox* - it is familiar because it shares a name with the thing you already know. It really doesn't work though, because just like Firefox Accounts, while you might be able to use its functionality in Firefox, it is also external to it.
+Mozilla tried to reduce the foreignness of rebranding something native to the browser since 2008 by naming it *Firefox* - it is familiar because it shares a name with the thing you already know. It really doesn't work though, because just like Firefox Accounts, while you might be able to use its functionality in Firefox, it is also external to it.
 
 ### Privacy and Dark Patterns
 
 Mozilla has in recent years been focusing a lot on privacy, both in its marketing and in its product development and research. These efforts have helped Firefox gain popularity among online privacy communities - perhaps even to its detriment, as some people seem to think of Firefox as a "privacy browser" - rather than a great browser with excellent privacy features.
 
-It is disappointing, then that Mozilla would rebrand an ultimate privacy feature - local search suggestions - as one and the same as one that (confusingly) may or may not require network access.
+It is disappointing then, that Mozilla would rebrand an ultimate privacy feature - local search suggestions - as one and the same as one that (confusingly) may or may not require network access.
 
 Even if this was not the intent, this comes off as a dark pattern. 
 
@@ -225,9 +225,17 @@ This was accompanied by a screenshot of the opt-in dialog:
 	</picture>
 </figure>
 
----
+This screenshot and a similar note was posted to the aforementioned Support Mozilla article, saying:
 
-Here's the issue: most of the people (nearly everyone) who looked in their settings to see whether ads were enabled *never saw* an opt-in dialog, and had never opted in.
+* Contextual suggestions
+* We are rolling out a new type of even smarter suggestions. You might notice a message inviting you to enable these new suggestions the next time you install or update Firefox.
+* **These suggestions — which aim to enhance and speed up your searching experience — are only enabled when you provide access to new data types.** We source and partner with trusted providers to serve up contextual suggestions related to your query from across the web. 
+{: style='list-style-type: none'}
+(Emphasis added)
+
+Why was this confusing?
+
+The best available information (directly linked from the application and release notes) said that if the *Contextual suggestions* checkbox was enabled, Mozilla received your search queries. Even worse, most of the people (nearly everyone) who looked in their settings to see whether ads were enabled *never saw* an opt-in dialog, and had never opted in.
 
 Clearly then, Firefox was sending address bar queries to Mozilla, and that is exactly how How-To Geek reported it. The ads were clearly enabled - you could type in `vans` into your address bar and see the ad. The checkbox was also enabled without an opt-in.
 
