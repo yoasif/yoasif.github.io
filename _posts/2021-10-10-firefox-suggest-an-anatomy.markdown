@@ -303,9 +303,7 @@ I (and I think most other people) took that to understand that the experience - 
 
 Mozilla blindsided Firefox users upon release, and made it harder to defend it on social media, helping to burn out its still avid fanbase. 
 
-The most troubling thing is that it is hard to know if Mozilla recognizes how it breached user trust, or how it is engaging in what looks an awful lot like dark patterns in the product.
-
-Mozilla knows better than what they have released in Firefox 93 (and previously in Firefox 92). Connecting the Firefox brand and browser to an ecosystem of online and offline services can be a good thing - I have a Firefox Sync account and tested Firefox Lockwise - and would even love to see a [Chromium extension for Lockwise](https://github.com/mozilla-lockwise/lockwise-addon/issues/350). Those things should be additive to the brand and browser, though. 
+Connecting the Firefox brand and browser to an ecosystem of online and offline services can be a good thing - I have a Firefox Sync account and tested Firefox Lockwise - and would even love to see a [Chromium extension for Lockwise](https://github.com/mozilla-lockwise/lockwise-addon/issues/350). Those things should be additive to the brand and browser, though. 
 
 Rebranding features that already worked offline in order to attach it to online functionality is a mistake. The rebrand doesn't come with any enhancement to the existing functionality, so the branding serves no purpose to users - indeed, it is so confusing that Support Mozilla hasn't been able to hit their mark, even after a PR incident. Why release such a confusing update without an announcement? 
 
