@@ -145,7 +145,7 @@ Even if that is the case, it doesn't seem to be the relevant distinction here - 
 #### Rebranding is Confusing
 {:.no_toc}
 
-The most galling thing about the rebranding of existing functionality is that it is utterly confusing. For people that are already familiar with Firefox, relabeling the existing history and bookmark search is extremely confusing. 
+For people that are already familiar with Firefox, relabeling the existing history and bookmark search is extremely confusing. 
 
 I myself run a [setup of Firefox]({% post_url 2021-07-26-firefox-privacy-stop-hardening-love-strict-etp %}) that doesn't show search engine suggestions in the address bar, so prior to Firefox Suggest, everything that appeared in my address bar suggestions was *my* content - things I *knew* I would be interested in seeing. 
 
