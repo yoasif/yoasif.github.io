@@ -12,7 +12,7 @@ How did this happen? Grab a cup of your favorite beverage, as I try to explain.
 
 The good news is that it isn't as bad as it seems.
 
-Discuss this post on [Reddit](#).
+Discuss this post on [Reddit](https://www.reddit.com/r/firefox/comments/q6brr7/firefox_suggest_an_anatomy_of_a_pr_incident/?).
 
 {:toc}
 * toc
