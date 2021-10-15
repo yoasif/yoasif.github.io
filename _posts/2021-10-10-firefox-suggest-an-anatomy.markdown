@@ -175,7 +175,7 @@ Mozilla tried to reduce the foreignness of rebranding something native to the br
 
 Mozilla has in recent years been focusing a lot on privacy, both in its marketing and in its product development and research. These efforts have helped Firefox gain popularity among online privacy communities - perhaps even to its detriment, as some people seem to think of Firefox as a "privacy browser" - rather than a great browser with excellent privacy features.
 
-The Firefox Suggest brand damages the the core Firefox *browser* brand in exactly the area where Mozilla has placed focus - privacy. Mozilla has rebranded a totally private feature - offline and locally sourced search suggestions - as one and the same as one that may require network access and contains advertisements. It is now struggling to explain the distinction between offline and online suggestions, even though it would have been simpler to simply call the *new* functionality Firefox Suggest.
+The Firefox Suggest brand damages the core Firefox *browser* brand in exactly the area where Mozilla has placed focus - privacy. Mozilla has rebranded a totally private feature - offline and locally sourced search suggestions - as one and the same as one that may require network access and contains advertisements. It is now struggling to explain the distinction between offline and online suggestions, even though it would have been simpler to simply call the *new* functionality Firefox Suggest.
 
 Even if this was not the intent, this comes off as a dark pattern. 
 
