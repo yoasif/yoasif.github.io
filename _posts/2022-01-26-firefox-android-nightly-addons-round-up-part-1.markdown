@@ -118,7 +118,7 @@ The default settings show a toolbar at the bottom of pages that allow you to tog
 	  <source type="image/png" srcset="{{site.url}}/assets/images/firefox-android-nightly-addons-round-up-part-1/translate-web-pages-toolbar.png,
 	  								   {{site.url}}/assets/images/firefox-android-nightly-addons-round-up-part-1/translate-web-pages-toolbar-2x.png 2x">
 	  <img src="{{site.url}}/assets/images/firefox-android-nightly-addons-round-up-part-1/translate-web-pages-toolbar.png" srcset="{{site.url}}/assets/images/firefox-android-nightly-addons-round-up-part-1/translate-web-pages-toolbar-2x.png 2x" alt="Firefox for Android shown with Translate Web Pages's bottom toolbar, showing the untranslated page"/>
-	  <figcaption>Translate Web Pages's toolbar</figcaption>
+	  <figcaption>Translate Web Pages' toolbar</figcaption>
 	</picture>
 </figure>
 
@@ -131,7 +131,7 @@ The toolbar also contains a menu that lets you hide the toolbar on any site, or 
 	  <source type="image/png" srcset="{{site.url}}/assets/images/firefox-android-nightly-addons-round-up-part-1/translate-web-pages-toolbar-menu.png,
 	  								   {{site.url}}/assets/images/firefox-android-nightly-addons-round-up-part-1/translate-web-pages-toolbar-menu-2x.png 2x">
 	  <img src="{{site.url}}/assets/images/firefox-android-nightly-addons-round-up-part-1/translate-web-pages-toolbar-menu.png" srcset="{{site.url}}/assets/images/firefox-android-nightly-addons-round-up-part-1/translate-web-pages-toolbar-menu-2x.png 2x" alt="Firefox for Android shown with Translate Web Pages's bottom toolbar menu, opened"/>
-	  <figcaption>Translate Web Pages's toolbar menu</figcaption>
+	  <figcaption>Translate Web Pages' toolbar menu</figcaption>
 	</picture>
 </figure>
 
