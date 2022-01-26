@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Firefox for Android Nightly Add-ons Round Up, Part 1"
+title:  "Tested and Reviewed: The Most Wanted Add-ons for Firefox on Android, Part 1"
 date:   2022-01-26 01:30:00 -0400
 categories: writing
 tags: Firefox
@@ -113,11 +113,11 @@ The default settings show a toolbar at the bottom of pages that allow you to tog
 
 <figure>
 	<picture>
-	  <source type="image/webp" srcset="{{site.url}}/assets/images/firefox-android-nightly-addons-round-up-part-1/translate-web-pages-toolbar.webp,
-	  									{{site.url}}/assets/images/firefox-android-nightly-addons-round-up-part-1/translate-web-pages-toolbar-2x.webp 2x">
-	  <source type="image/png" srcset="{{site.url}}/assets/images/firefox-android-nightly-addons-round-up-part-1/translate-web-pages-toolbar.png,
-	  								   {{site.url}}/assets/images/firefox-android-nightly-addons-round-up-part-1/translate-web-pages-toolbar-2x.png 2x">
-	  <img src="{{site.url}}/assets/images/firefox-android-nightly-addons-round-up-part-1/translate-web-pages-toolbar.png" srcset="{{site.url}}/assets/images/firefox-android-nightly-addons-round-up-part-1/translate-web-pages-toolbar-2x.png 2x" alt="Firefox for Android shown with Translate Web Pages's bottom toolbar, showing the untranslated page"/>
+	  <source type="image/webp" srcset="{{site.url}}/assets/images/most-wanted-add-ons-firefox-android-part-1/translate-web-pages-toolbar.webp,
+	  									{{site.url}}/assets/images/most-wanted-add-ons-firefox-android-part-1/translate-web-pages-toolbar-2x.webp 2x">
+	  <source type="image/png" srcset="{{site.url}}/assets/images/most-wanted-add-ons-firefox-android-part-1/translate-web-pages-toolbar.png,
+	  								   {{site.url}}/assets/images/most-wanted-add-ons-firefox-android-part-1/translate-web-pages-toolbar-2x.png 2x">
+	  <img src="{{site.url}}/assets/images/most-wanted-add-ons-firefox-android-part-1/translate-web-pages-toolbar.png" srcset="{{site.url}}/assets/images/most-wanted-add-ons-firefox-android-part-1/translate-web-pages-toolbar-2x.png 2x" alt="Firefox for Android shown with Translate Web Pages's bottom toolbar, showing the untranslated page"/>
 	  <figcaption>Translate Web Pages' toolbar</figcaption>
 	</picture>
 </figure>
@@ -126,11 +126,11 @@ The toolbar also contains a menu that lets you hide the toolbar on any site, or 
 
 <figure>
 	<picture>
-	  <source type="image/webp" srcset="{{site.url}}/assets/images/firefox-android-nightly-addons-round-up-part-1/translate-web-pages-toolbar-menu.webp,
-	  									{{site.url}}/assets/images/firefox-android-nightly-addons-round-up-part-1/translate-web-pages-toolbar-menu-2x.webp 2x">
-	  <source type="image/png" srcset="{{site.url}}/assets/images/firefox-android-nightly-addons-round-up-part-1/translate-web-pages-toolbar-menu.png,
-	  								   {{site.url}}/assets/images/firefox-android-nightly-addons-round-up-part-1/translate-web-pages-toolbar-menu-2x.png 2x">
-	  <img src="{{site.url}}/assets/images/firefox-android-nightly-addons-round-up-part-1/translate-web-pages-toolbar-menu.png" srcset="{{site.url}}/assets/images/firefox-android-nightly-addons-round-up-part-1/translate-web-pages-toolbar-menu-2x.png 2x" alt="Firefox for Android shown with Translate Web Pages's bottom toolbar menu, opened"/>
+	  <source type="image/webp" srcset="{{site.url}}/assets/images/most-wanted-add-ons-firefox-android-part-1/translate-web-pages-toolbar-menu.webp,
+	  									{{site.url}}/assets/images/most-wanted-add-ons-firefox-android-part-1/translate-web-pages-toolbar-menu-2x.webp 2x">
+	  <source type="image/png" srcset="{{site.url}}/assets/images/most-wanted-add-ons-firefox-android-part-1/translate-web-pages-toolbar-menu.png,
+	  								   {{site.url}}/assets/images/most-wanted-add-ons-firefox-android-part-1/translate-web-pages-toolbar-menu-2x.png 2x">
+	  <img src="{{site.url}}/assets/images/most-wanted-add-ons-firefox-android-part-1/translate-web-pages-toolbar-menu.png" srcset="{{site.url}}/assets/images/most-wanted-add-ons-firefox-android-part-1/translate-web-pages-toolbar-menu-2x.png 2x" alt="Firefox for Android shown with Translate Web Pages's bottom toolbar menu, opened"/>
 	  <figcaption>Translate Web Pages' toolbar menu</figcaption>
 	</picture>
 </figure>
@@ -187,11 +187,11 @@ The settings page is correctly formatted to fit mobile screens, and as you might
 
 <figure>
 	<picture>
-	  <source type="image/webp" srcset="{{site.url}}/assets/images/firefox-android-nightly-addons-round-up-part-1/SponsorBlock.webp,
-	  									{{site.url}}/assets/images/firefox-android-nightly-addons-round-up-part-1/SponsorBlock-2x.webp 2x">
-	  <source type="image/png" srcset="{{site.url}}/assets/images/firefox-android-nightly-addons-round-up-part-1/SponsorBlock.png,
-	  								   {{site.url}}/assets/images/firefox-android-nightly-addons-round-up-part-1/SponsorBlock-2x.png 2x">
-	  <img src="{{site.url}}/assets/images/firefox-android-nightly-addons-round-up-part-1/SponsorBlock.png" srcset="{{site.url}}/assets/images/firefox-android-nightly-addons-round-up-part-1/SponsorBlock-2x.png 2x" alt="YouTube video on Firefox for Android showing a green bar representing the sponsored portion of the video within the scrubber"/>
+	  <source type="image/webp" srcset="{{site.url}}/assets/images/most-wanted-add-ons-firefox-android-part-1/SponsorBlock.webp,
+	  									{{site.url}}/assets/images/most-wanted-add-ons-firefox-android-part-1/SponsorBlock-2x.webp 2x">
+	  <source type="image/png" srcset="{{site.url}}/assets/images/most-wanted-add-ons-firefox-android-part-1/SponsorBlock.png,
+	  								   {{site.url}}/assets/images/most-wanted-add-ons-firefox-android-part-1/SponsorBlock-2x.png 2x">
+	  <img src="{{site.url}}/assets/images/most-wanted-add-ons-firefox-android-part-1/SponsorBlock.png" srcset="{{site.url}}/assets/images/most-wanted-add-ons-firefox-android-part-1/SponsorBlock-2x.png 2x" alt="YouTube video on Firefox for Android showing a green bar representing the sponsored portion of the video within the scrubber"/>
 	  <figcaption>SponsorBlock on an Austin Evans video</figcaption>
 	</picture>
 </figure>
@@ -242,11 +242,11 @@ As you might expect based on the add-on description, the add-on works on both th
 
 <figure>
 	<picture>
-	  <source type="image/webp" srcset="{{site.url}}/assets/images/firefox-android-nightly-addons-round-up-part-1/KellyC-Show-YouTube-Dislikes.webp,
-	  									{{site.url}}/assets/images/firefox-android-nightly-addons-round-up-part-1/KellyC-Show-YouTube-Dislikes-2x.webp 2x">
-	  <source type="image/png" srcset="{{site.url}}/assets/images/firefox-android-nightly-addons-round-up-part-1/KellyC-Show-YouTube-Dislikes.png,
-	  								   {{site.url}}/assets/images/firefox-android-nightly-addons-round-up-part-1/KellyC-Show-YouTube-Dislikes-2x.png 2x">
-	  <img src="{{site.url}}/assets/images/firefox-android-nightly-addons-round-up-part-1/KellyC-Show-YouTube-Dislikes.png" srcset="{{site.url}}/assets/images/firefox-android-nightly-addons-round-up-part-1/KellyC-Show-YouTube-Dislikes-2x.png 2x" alt="Firefox for Android YouTube video showing the video dislike count, along with a bar displaying the ratio of likes to dislikes"/>
+	  <source type="image/webp" srcset="{{site.url}}/assets/images/most-wanted-add-ons-firefox-android-part-1/KellyC-Show-YouTube-Dislikes.webp,
+	  									{{site.url}}/assets/images/most-wanted-add-ons-firefox-android-part-1/KellyC-Show-YouTube-Dislikes-2x.webp 2x">
+	  <source type="image/png" srcset="{{site.url}}/assets/images/most-wanted-add-ons-firefox-android-part-1/KellyC-Show-YouTube-Dislikes.png,
+	  								   {{site.url}}/assets/images/most-wanted-add-ons-firefox-android-part-1/KellyC-Show-YouTube-Dislikes-2x.png 2x">
+	  <img src="{{site.url}}/assets/images/most-wanted-add-ons-firefox-android-part-1/KellyC-Show-YouTube-Dislikes.png" srcset="{{site.url}}/assets/images/most-wanted-add-ons-firefox-android-part-1/KellyC-Show-YouTube-Dislikes-2x.png 2x" alt="Firefox for Android YouTube video showing the video dislike count, along with a bar displaying the ratio of likes to dislikes"/>
 	  <figcaption>KellyC Show YouTube Dislikes on YouTube</figcaption>
 	</picture>
 </figure>
@@ -274,11 +274,11 @@ My testing was pretty uneventful - in a good way. The settings page is formatted
 
 <figure>
 	<picture>
-	  <source type="image/webp" srcset="{{site.url}}/assets/images/firefox-android-nightly-addons-round-up-part-1/ClearURLs-test-page.webp,
-	  									{{site.url}}/assets/images/firefox-android-nightly-addons-round-up-part-1/ClearURLs-test-page-2x.webp 2x">
-	  <source type="image/png" srcset="{{site.url}}/assets/images/firefox-android-nightly-addons-round-up-part-1/ClearURLs-test-page.png,
-	  								   {{site.url}}/assets/images/firefox-android-nightly-addons-round-up-part-1/ClearURLs-test-page-2x.png 2x">
-	  <img src="{{site.url}}/assets/images/firefox-android-nightly-addons-round-up-part-1/ClearURLs-test-page.png" srcset="{{site.url}}/assets/images/firefox-android-nightly-addons-round-up-part-1/ClearURLs-test-page-2x.png 2x" alt="Firefox for Android showing a passing ClearURLs test page"/>
+	  <source type="image/webp" srcset="{{site.url}}/assets/images/most-wanted-add-ons-firefox-android-part-1/ClearURLs-test-page.webp,
+	  									{{site.url}}/assets/images/most-wanted-add-ons-firefox-android-part-1/ClearURLs-test-page-2x.webp 2x">
+	  <source type="image/png" srcset="{{site.url}}/assets/images/most-wanted-add-ons-firefox-android-part-1/ClearURLs-test-page.png,
+	  								   {{site.url}}/assets/images/most-wanted-add-ons-firefox-android-part-1/ClearURLs-test-page-2x.png 2x">
+	  <img src="{{site.url}}/assets/images/most-wanted-add-ons-firefox-android-part-1/ClearURLs-test-page.png" srcset="{{site.url}}/assets/images/most-wanted-add-ons-firefox-android-part-1/ClearURLs-test-page-2x.png 2x" alt="Firefox for Android showing a passing ClearURLs test page"/>
 	  <figcaption>ClearURLs' test page</figcaption>
 	</picture>
 </figure>
@@ -287,11 +287,11 @@ The settings page also correctly shows the number of blocked elements.
 
 <figure>
 	<picture>
-	  <source type="image/webp" srcset="{{site.url}}/assets/images/firefox-android-nightly-addons-round-up-part-1/ClearURLs-settings.webp,
-	  									{{site.url}}/assets/images/firefox-android-nightly-addons-round-up-part-1/ClearURLs-settings-2x.webp 2x">
-	  <source type="image/png" srcset="{{site.url}}/assets/images/firefox-android-nightly-addons-round-up-part-1/ClearURLs-settings.png,
-	  								   {{site.url}}/assets/images/firefox-android-nightly-addons-round-up-part-1/ClearURLs-settings-2x.png 2x">
-	  <img src="{{site.url}}/assets/images/firefox-android-nightly-addons-round-up-part-1/ClearURLs-settings.png" srcset="{{site.url}}/assets/images/firefox-android-nightly-addons-round-up-part-1/ClearURLs-settings-2x.png 2x" alt="ClearURLs settings page on a mobile device"/>
+	  <source type="image/webp" srcset="{{site.url}}/assets/images/most-wanted-add-ons-firefox-android-part-1/ClearURLs-settings.webp,
+	  									{{site.url}}/assets/images/most-wanted-add-ons-firefox-android-part-1/ClearURLs-settings-2x.webp 2x">
+	  <source type="image/png" srcset="{{site.url}}/assets/images/most-wanted-add-ons-firefox-android-part-1/ClearURLs-settings.png,
+	  								   {{site.url}}/assets/images/most-wanted-add-ons-firefox-android-part-1/ClearURLs-settings-2x.png 2x">
+	  <img src="{{site.url}}/assets/images/most-wanted-add-ons-firefox-android-part-1/ClearURLs-settings.png" srcset="{{site.url}}/assets/images/most-wanted-add-ons-firefox-android-part-1/ClearURLs-settings-2x.png 2x" alt="ClearURLs settings page on a mobile device"/>
 	  <figcaption>ClearURLs' settings</figcaption>
 	</picture>
 </figure>
