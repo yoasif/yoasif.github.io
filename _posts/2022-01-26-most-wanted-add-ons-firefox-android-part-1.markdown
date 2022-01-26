@@ -8,7 +8,7 @@ tags: Firefox
 
 In this post, I review some of the add-ons [most requested](https://www.reddit.com/r/firefox/comments/s6pc1v/which_addons_do_you_most_want_to_see_on_firefox/?sort=top "Which add-ons do you most want to see on Firefox on Android?") for Firefox by the [Firefox community on reddit](https://www.reddit.com/r/firefox/). While Firefox for Android currently has 18 add-ons available by default, by installing the [Nightly](https://play.google.com/store/apps/details?id=org.mozilla.fenix "Firefox Nightly on Google Play") version of Firefox, you can use an expanded number of extensions not yet available on that list. If you are interested in more "power-ups" for your mobile browser, read on.
 
-Discuss this post on [reddit](https://www.reddit.com/r/firefox/comments/sd2357/firefox_for_android_nightly_addons_round_up_part_1/?).
+Discuss this post on [reddit](https://www.reddit.com/r/firefox/comments/sdchhe/tested_and_reviewed_the_most_wanted_addons_for/?).
 
 * * *
 
@@ -321,4 +321,4 @@ Testing here was pretty uneventful. While the add-ons settings page isn't format
 
 ---
 
-That's all for now, folks! Feel free to give me feedback on this post on [reddit](https://www.reddit.com/r/firefox/comments/sd2357/firefox_for_android_nightly_addons_round_up_part_1/?), including recommendations on which add-ons I should review for part 2.
+That's all for now, folks! Feel free to give me feedback on this post on [reddit](https://www.reddit.com/r/firefox/comments/sdchhe/tested_and_reviewed_the_most_wanted_addons_for/?), including recommendations on which add-ons I should review for part 2.
