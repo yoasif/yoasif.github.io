@@ -44,7 +44,7 @@ To use my add-on collection, when Mozilla's instructions tell you to enter a col
 | **Collection owner (User ID)**  | 3504483  |
 | **Collection name**  | Android-Nightly-Tested  |
 
-Firefox will close. Reopen Firefox, then navigate to the Add-ons menu item to select from my collection.
+Firefox will close. Reopen Firefox, then navigate to the Add-ons menu item to select add-ons from my collection.
 
 ## The Add-ons
 
@@ -76,15 +76,17 @@ I installed the add-on without issue and began testing it by browsing to some of
 
 At first, things seemed to go well. The first two pages I navigated to were redirected to the non-AMP versions of those page. Pretty promising. It seemed like this would be an easy add-on to recommend.
 
-Unfortunately, I ran into issues on the [Royal Navy](https://www.google.com/amp/s/www.standard.co.uk/news/uk/russian-royal-navy-english-channel-english-russian-federation-b930489.html%3Famp) article. Upon navigating to the page, I was greeted by a "Page not found" message. Not great, but maybe it is an Android specific bug. So I switched back to my computer and tried it in a fresh Firefox profile. Same issue. Okay, no big deal - I'll just [file a bug](https://github.com/da2x/amp2html/issues/26 "Page not found on Evening Standard when url ends in %3Famp").
+Unfortunately, I ran into issues on the [Royal Navy](https://www.google.com/amp/s/www.standard.co.uk/news/uk/russian-royal-navy-english-channel-english-russian-federation-b930489.html%3Famp) article. Upon navigating to the page, I was greeted by a "Page not found" message. Not great, but maybe it is an Android specific bug. So I went to my computer and tried it in a fresh Firefox profile. Same issue. Okay, no big deal - I'll just [file a bug](https://github.com/da2x/amp2html/issues/26 "Page not found on Evening Standard when url ends in %3Famp").
 
 Moving on to the next page... and I ran into a new error. This page gave me an "Access Denied" error. So I went back to my computer and tried this page out. Same issue. So I [filed another bug](https://github.com/da2x/amp2html/issues/27). 
 
-I would have kept on trying new pages, but after I filed the two bugs, I decided to look at the issue tracker to see if there were other issues like mine - and there was one - from December of 2020. In the issue [Fails to remove trailing amp URL markup](https://github.com/da2x/amp2html/issues/23), Evan Berkowitz reported an issue similar to the two I reported. 
+I would have kept on trying new pages, but after I filed the two bugs, I decided to look at the issue tracker to see if there were other issues like mine - and there was one - from December of 2020. In the issue *[Fails to remove trailing amp URL markup](https://github.com/da2x/amp2html/issues/23)*, Evan Berkowitz reported an issue similar to the two I reported. 
 
-Since I filed those two bugs, they have been duped to Evan's original report. Given that *that* issue was reported in 2020, I am not optimistic that there will be a quick resolution to it. If it does get fixed, I'll write a follow-up to keep you posted (and you can also watch the issue if you have a GitHub account).
+Since I filed those two bugs, they have been duped to Evan's original report. Given that the original issue was reported in 2020, I am not optimistic that there will be a quick resolution to it. If it does get fixed, I'll write a follow-up to keep you posted (and you can also watch the issue if you have a GitHub account).
 
-**The Verdict**: It works on Android and it has the same bugs as on desktop. Unfortunately, that also means that pages will appear broken for you at least some of the time. I can't recommend this, and it isn't going into the collection I'm sharing on this post. This strikes me as exactly the kind of situation Mozilla likely envisioned wanting to avoid by creating an allowlist of add-ons - it isn't obvious that the add-on is at fault, and the same link works fine in another browser. This would reduce confidence in the browser, and is a risk for user flight. 
+**The Verdict**: It works on Android and it has the same bugs as on desktop. Unfortunately, that also means that pages will appear broken for you at least some of the time. I can't recommend this, and it isn't going into the collection I'm sharing on this post. 
+
+This strikes me as exactly the kind of situation Mozilla likely envisioned wanting to avoid by creating an allowlist of add-ons - it isn't obvious that the add-on is at fault, and the same link works fine in another browser. This would reduce confidence in the browser, and is a risk for user flight. 
 
 ### Translation
 
@@ -107,7 +109,7 @@ The add-ons I'm covering here try to bring cloud-based translation to Firefox.
 
 Like some of the other add-ons I'm looking at, the developer of *Translate Web Pages* has [put in some work](https://github.com/FilipePS/Traduzir-paginas-web/issues/27) to ensure that it works on Firefox. That is promising, as I hope that that means that reported issues will be fixed. 
 
-There are a lot of nice things to like about this extension, the biggest being that it works. The extension settings page is formatted to fit mobile devices, although it is less attractive than I would like. You can select Google or Yandex as translation providers - both worked in my testing. 
+There are a lot of nice things to like about this extension, the biggest being that it works. The settings page is formatted to fit mobile devices, although it is less attractive than I would like. You can select Google or Yandex as translation providers - both worked in my testing. 
 
 The default settings show a toolbar at the bottom of pages that allow you to toggle between the original page and the translated version. Pages don't need to be reloaded or opened in a new tab to translate the page - the text on the page is modified in place. 
 
@@ -137,15 +139,26 @@ The toolbar also contains a menu that lets you hide the toolbar on any site, or 
 
 The add-on also allows you to select some text on the page and translate just that text (rather than the entire page). 
 
+<figure>
+	<picture>
+	  <source type="image/webp" srcset="{{site.url}}/assets/images/most-wanted-add-ons-firefox-android-part-1/translate-web-pages-toolbar-translate-selection.webp,
+	  									{{site.url}}/assets/images/most-wanted-add-ons-firefox-android-part-1/translate-web-pages-toolbar-translate-selection-2x.webp 2x">
+	  <source type="image/png" srcset="{{site.url}}/assets/images/most-wanted-add-ons-firefox-android-part-1/translate-web-pages-toolbar-translate-selection.png,
+	  								   {{site.url}}/assets/images/most-wanted-add-ons-firefox-android-part-1/translate-web-pages-toolbar-translate-selection-2x.png 2x">
+	  <img src="{{site.url}}/assets/images/most-wanted-add-ons-firefox-android-part-1/translate-web-pages-toolbar-translate-selection.png" srcset="{{site.url}}/assets/images/most-wanted-add-ons-firefox-android-part-1/translate-web-pages-toolbar-translate-selection-2x.png 2x" alt="Firefox for Android shown with Le Monde in French, with an overlaty of translated text in English"/>
+	  <figcaption>Translate Web Pages with selected translated text in an overlay</figcaption>
+	</picture>
+</figure>
+
 The feature allowing translation of selected text seems pretty handy if you need to translate a word or sentence every once in a while. The downside is that the option appears as an overlay alongside the selected text. That means that whenever you select text, you have the native Firefox context menu (containing options like *Copy* and *Search*) *and* the translation icon near the selected text. I suspect that this may be due to a limitation of extensions on Fenix, however - I don't know whether extensions can add items to the native context menu. I was unable to find any discussion of this on the Fenix bug tracker, unfortunately.
 
 Thankfully, there is an option to disable the overlay that appears after selecting text, which works fine - I am much more inclined to translate an entire page, anyway.
 
-Remember that toolbar I mentioned? Like me, you might think that it would get in the way, especially on a mobile device. Here Filipe offers an option to hide the toolbar by default. You can call up the toolbar on any page by tapping on their screen with three fingers, a nice solution to this problem. Really smart stuff.
+Remember that toolbar I mentioned? If you are anything like me, you might predict that it would get in the way, especially on a mobile device. Here, Filipe offers an option to hide the toolbar by default. You can call up the toolbar on any page by tapping on their screen with three fingers, a nice solution to this problem. Really smart stuff.
 
 I haven't gone through all of the features this extension offers - some were less interesting to me, as I generally browse the English language web - but there a few others that will likely be more valuable to people who browse the web in languages foreign to them.
 
-I did run into one issue, however: there is an import/export feature for settings. The export seems to work fine. The import seems to freeze the add-on forever. I filed the bug as [] - hopefully it can be resolved at some point in the future. 
+I did run into one issue, however: there is an import/export feature for settings. The export seems to work fine. The import seems to freeze the add-on forever. I filed the bug as *[Backup/Restore storage is flaky/non-working on Android](https://github.com/FilipePS/Traduzir-paginas-web/issues/359)* - hopefully it can be resolved at some point in the future. 
 
 **The Verdict**: The best Firefox translation add-on available for Firefox on Android today. Has some level of developer support. Easy to use and can be configured to stay out of your way. The settings UI could be better, but you aren't going to be in the settings all the time anyway. Recommended if you want this feature in Firefox.
 
@@ -162,7 +175,7 @@ I did run into one issue, however: there is an import/export feature for setting
 
 Unfortunately, the developer has [no plans to develop an Android version](https://github.com/sienori/simple-translate/issues/67#issuecomment-489063105), so we are on our own for support.
 
-I decided to try it to see how an add-on designed for desktop would work on Android, and the results weren't pretty. Perhaps expectedly, the settings page is not correctly formatted to fit mobile screens. What is worse is that the add-on is activated by tapping the add-on toolbar button, which on Android Firefox is hidden inside a menu. That makes it cumbersome to access. 
+I decided to try it to see how an add-on designed for desktop would work on Android, and the results weren't pretty. Perhaps unsurprisingly, the settings page is not correctly formatted to fit mobile screens. What is worse is that the add-on is activated by tapping the add-on toolbar button, which on Android Firefox is hidden inside a menu. That makes it cumbersome to access. 
 
 Lastly, it doesn't really work. At a basic level, the add-on is supposed to translate words or sentences to another language. Unfortunately, no matter how much text I selected, I always got a translation for the first word I selected. That makes it impossible to use.
 
@@ -238,7 +251,7 @@ The server that logs the like or dislike submission is not currently open source
 
 **KellyC Show YouTube Dislikes** differentiates itself from other add-ons in this category by offering more customization options. While it has far fewer users on desktop than others in the category, it advertises itself as being "partly compatible with some mobile browsers", which is promising.
 
-As you might expect based on the add-on description, the add-on works on both the mobile and desktop versions of YouTube. The settings page is formatted to fit mobile screens, so zooming is not required to use it. Like *Return Youtube Dislike*, it uses archived dislike data, and augments it with new data from people using that add-on. This add-on also submits users' likes and dislikes to that same developer by default, although this can be disabled. It can also optionally use the an API by SponsorBlock for this purpose as well, but that is disabled by default - the developer says this is since "there is almost zero data" for it.
+As you might expect based on the add-on description, the add-on works on both the mobile and desktop versions of YouTube. The settings page is formatted to fit mobile screens, so zooming is not required to use it. Like *[Return Youtube Dislike](#return-youtube-dislike)*, it uses archived dislike data, and augments it with new data from people using that add-on. This add-on also submits users' likes and dislikes to that same developer by default, although this can be disabled. It can also optionally use the an API by SponsorBlock for this purpose as well, but that is disabled by default - the developer says this is since "there is almost zero data" for it.
 
 <figure>
 	<picture>
@@ -266,7 +279,7 @@ I don't personally use YouTube as a logged in user, so I didn't do much addition
 
 **ClearURLs** is a favorite add-on for people who want to get rid of those pesky [URL tracking parameters](https://help.ads.microsoft.com/#apex/ads/en/56799) that are often attached to links (often to track the effectiveness of marketing campaigns). An add-on like ClearURLs may be handy for you if you find yourself stripping those parameters out of links you share with your friends, like I do.
 
-It is worth noting that as of version 1.32.0, uBlock Origin (a Firefox add-on available in release Firefox for Android) can [remove URL parameters](https://github.com/gorhill/uBlock/wiki/Static-filter-syntax#removeparam), much like ClearURLs. The "AdGuard URL Tracking Protection" filter (in uBlock Origin's *Privacy* section) will provide you with reasonable coverage - you can read about some of the limitations from [this comment from the uBlock Origin team](https://www.reddit.com/r/uBlockOrigin/comments/rttrbp/no_longer_any_need_for_the_clearurl_extension/hqxddko/).
+It is worth noting that as of version 1.32.0, uBlock Origin (a Firefox add-on available in release Firefox for Android) can [remove URL parameters](https://github.com/gorhill/uBlock/wiki/Static-filter-syntax#removeparam), much like ClearURLs. The *AdGuard URL Tracking Protection* filter (in uBlock Origin's *Privacy* section) will provide you with reasonable coverage - you can read about some of the limitations from [this comment from the uBlock Origin team](https://www.reddit.com/r/uBlockOrigin/comments/rttrbp/no_longer_any_need_for_the_clearurl_extension/hqxddko/).
 
 Given that uBlock Origin isn't a drop-in replacement for ClearURLs, you may want to use the more specialized add-on.
 
@@ -313,7 +326,7 @@ Due to [EU regulations](https://www.cloudflare.com/learning/privacy/what-is-epri
 
 While add-ons like uBlock Origin can block many of these consent dialogs, sites sometimes don't work unless consent is given to store cookies - simply hiding the dialog may not work. That is where **I don't care about cookies** comes into play - it can automatically accept the cookie dialogs (accepting either the necessary cookie categories, or all of them - depending on whatever is easier for the developer), making the site usable without the user having to do anything.
 
-While I haven't used this add-on, it seems really useful for the EU crowd -- I know that when I encounter these dialogs, it is always annoying, because no matter which options I choose, they are never persisted since I [drop cookies]({% post_url 2021-07-26-firefox-privacy-stop-hardening-love-strict-etp %}) whenever I restart Firefox.
+While I haven't used this add-on previously, it seems really useful for the EU crowd -- I know that whenever I encounter these dialogs, it is always annoying, because no matter which options I choose, they are never persisted since I [drop cookies]({% post_url 2021-07-26-firefox-privacy-stop-hardening-love-strict-etp %}) whenever I restart Firefox.
 
 Testing here was pretty uneventful. While the add-ons settings page isn't formatted to fit on mobile screens, it is usable. Browsing to [Le Monde](https://www.lemonde.fr) and [El Mundo](https://www.elmundo.es) correctly hid the cookie dialogs. Using the toolbar button on pages allowed me to disable the add-on on the current domain, and deleting cookies for the domain then showed me the cookie dialog, as I expected. 
 
