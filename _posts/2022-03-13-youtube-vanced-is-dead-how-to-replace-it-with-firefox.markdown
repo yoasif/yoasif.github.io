@@ -12,7 +12,7 @@ All is not lost, however. You can still get the most important Vanced features o
 
 If you prefer not to use alpha versions of software, you can instead use [Firefox Beta](https://play.google.com/store/apps/details?id=org.mozilla.firefox_beta), but you won't be able to block sponsor ads or bring back dislikes to YouTube. You'll still be able to block ads and play videos in the background, though.
 
-Discuss this post on [reddit](#).
+Discuss this post on [reddit](https://www.reddit.com/r/firefox/duplicates/tdgd4y/youtube_vanced_is_dead_how_to_replace_it_with/?).
 
 * * *
 
@@ -79,6 +79,6 @@ Firefox for Android can continue playing video even if you switch to another tab
 
 ---
 
-Feel free to give me feedback on this post on [reddit](#). 
+Feel free to give me feedback on this post on [reddit](https://www.reddit.com/r/firefox/duplicates/tdgd4y/youtube_vanced_is_dead_how_to_replace_it_with/?). 
 
 If you want to know about other add-ons, check out my previous post on [The Most Wanted Add-ons for Firefox on Android]({% post_url 2022-01-26-most-wanted-add-ons-firefox-android-part-1 %}) (this post is a shortened version of that one).
