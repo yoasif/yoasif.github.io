@@ -6,7 +6,7 @@ categories: writing
 tags: Firefox
 ---
 
-On March 13, 2022, [Vanced](https://vancedapp.com/) announced on Twitter that [Vanced had been discontinued](https://twitter.com/YTVanced/status/1503052250268286980). Vanced was a modded version of the official YouTube app that added features like ad blocking, sponsor blocking (via SponsorBlock), and the return of removed YouTube features like "dislikes" of videos. This happened as a result of a [cease and desist](https://twitter.com/linuxct/status/1503081083486810120) request - presumably from YouTube.
+On March 13, 2022, [Vanced](https://vancedapp.com/) announced on Twitter that [Vanced had been discontinued](https://twitter.com/YTVanced/status/1503052250268286980). Vanced was a modded version of the official YouTube app that added features like ad blocking, sponsor blocking (via SponsorBlock), and the return of removed YouTube features like "dislikes" of videos. This happened as a result of a [cease and desist](https://www.theverge.com/2022/3/13/22975890/youtube-vanced-app-discontinued-shutting-down-legal-reasons) request from Google.
 
 All is not lost, however. You can still get the most important Vanced features on Firefox Nightly. In this post, I walk through how to get the Vanced features in Firefox, by installing the [Nightly](https://play.google.com/store/apps/details?id=org.mozilla.fenix "Firefox Nightly on Google Play") version.
 
@@ -66,9 +66,9 @@ This add-on uses archived dislike data, and augments it with new data from peopl
 
 uBlock Origin is a venerable wide-spectrum content blocker with millions of installs on desktop and mobile. In its default configuration, it will remove ads on YouTube (and on many other pages on the web). It is also fully supported on mobile and has an issue tracker where you can report issues.
 
-###  Background Play Fix
+###  Video Background Play Fix
 
-| **AMO Page**  | [Background Play Fix](https://addons.mozilla.org/android/addon/video-background-play-fix/)  |
+| **AMO Page**  | [Video Background Play Fix](https://addons.mozilla.org/android/addon/video-background-play-fix/)  |
 | **by**  | JanH  |
 | **Users**  |     91,671  |
 | **Rating**  | 4.5 stars  |
