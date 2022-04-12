@@ -75,7 +75,7 @@ update-alternatives --install /usr/bin/microsoft-edge microsoft-edge \
 ``` 
 which seems to do the trick. 
 
-I've archived a copy of the postinst file from the `microsoft-edge-stable_100.0.1185.39-1_amd64.deb` package I downloaded if you want to take a closer look.
+I've archived a copy of the [postinst file]({{site.url}}/assets/data/2022-04-12-microsoft-edge-is-now-taking-over-as-your-default-browser-on-linux/postinst) from the `microsoft-edge-stable_100.0.1185.39-1_amd64.deb` package I downloaded if you want to take a closer look.
 
 Should we be surprised about these tactics? We were once told that [Microsoft ❤️ Linux](https://cloudblogs.microsoft.com/windowsserver/2015/05/06/microsoft-loves-linux/) - I would have thought that would mean some respect for Linux users' choice of browser.
 
