@@ -10,7 +10,7 @@ If you are like most deskop Linux users, if you have heard of the various intrus
 
 Well, that is over - if you choose to install Edge on certain Linux distributions (like Ubuntu).
 
-Discuss this post on [reddit](#).
+Discuss this post on [reddit](https://www.reddit.com/r/linux/duplicates/u1tgyx/microsoft_edge_is_now_taking_over_as_your_default/).
 
 * * *
 
@@ -85,4 +85,4 @@ Microsoft should do better here, especially since they are guests on Linux platf
 
 ---
 
-Feel free to give me feedback on this post on [reddit](#). 
+Feel free to give me feedback on this post on [reddit](https://www.reddit.com/r/linux/duplicates/u1tgyx/microsoft_edge_is_now_taking_over_as_your_default/). 
