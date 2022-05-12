@@ -306,4 +306,4 @@ SoFi can still follow this playbook to get this fixed. Unfortunately, they never
 
 ---
 
-Feel free to give me feedback on this post on [reddit](#). 
+Feel free to give me feedback on this post on [reddit](https://www.reddit.com/r/sofi/comments/unyf7o/sofis_banking_product_and_customer_service/). 
