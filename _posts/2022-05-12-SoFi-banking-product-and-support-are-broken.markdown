@@ -244,7 +244,7 @@ What can be learned from this experience?
 
 ### Getting it Right
 
-My manager ([Mark Ferguson](https://www.linkedin.com/in/mark-ferguson-5280045/)) back at the college helpdesk once told our team to be very careful about what we wrote in emails, since they are very easy to share and that "you don't want your email to the one on the desk of the university president" because you said something wrong or embarrassing. The lesson was that you should be able to stand by what you wrote, because it mattered to get it right. 
+My manager ([Mark Ferguson](https://www.linkedin.com/in/mark-ferguson-5280045/)) back at the college helpdesk once told our team to be very careful about what we wrote in emails, since they are very easy to share and that "you don't want your email to be the one on the desk of the university president" because you said something wrong or embarrassing. The lesson was that you should be able to stand by what you wrote, because it mattered to get it right. 
 
 The situation that SoFi placed me (and the support people) in was a strange one. From the very first interaction, SoFi sent erroneous rejection notices via email. After that, they recommended that I call the support desk or reach out to online chat, which were totally unhelpful and led me down an unending maze. When finally speaking to people on the team, it was obvious that they didn't really know what was happening on the product, even though they could see my documents and application. 
 
