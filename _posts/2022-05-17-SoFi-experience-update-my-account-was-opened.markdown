@@ -8,7 +8,7 @@ tags: so-fi product
 
 You may have read my post about the [poor customer service experience and product issues that I experienced with SoFi]({% post_url 2022-05-12-SoFi-banking-product-and-support-are-broken %}) last week.
 
-This afternoon, without any warning, I received am email from SoFi with the subject line "Welcome to your SoFi Checking and Savings Accounts!". Somehow, I was in.
+This afternoon, without any warning, I received am email from SoFi with the subject line "**Welcome to your SoFi Checking and Savings Accounts!**". Somehow, I was in.
 
 <p>
 	<figure>
