@@ -51,4 +51,4 @@ Now, to let William know that my issue is resolved...
 
 ---
 
-Feel free to give me feedback on this post on [reddit](#). 
+Feel free to give me feedback on this post on [reddit](https://www.reddit.com/r/sofi/comments/ury1k5/update_on_my_sofi_experience_my_account_was_opened/?). 
