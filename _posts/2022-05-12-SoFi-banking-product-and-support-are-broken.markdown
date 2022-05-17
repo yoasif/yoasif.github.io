@@ -6,6 +6,8 @@ categories: writing
 tags: so-fi product
 ---
 
+**Note:** Since writing this post, SoFi has approved my application and [my account was opened]({% post_url 2022-05-17-SoFi-experience-update-my-account-was-opened %}).
+
 It isn't often that I experience a customer service interaction so unpleasant that I feel the need to tell people about it, but I just experienced one with SoFi that takes the cake.
 
 I have great respect (and empathy) for customer service professionals, which shouldn't be too unexpected, given that I worked as one for years, starting at a [college helpdesk](https://www.buffalo.edu/ubit/help), cutting my teeth on [Remedy Action Request System](https://wiki.cse.buffalo.edu/services/content/remedy-action-request-system-ars). We took the responsibility of supporting customers extremely seriously, and the process and discovery that it enables continue to be near and dear to me. 
