@@ -209,7 +209,7 @@ This time, though, I had *actually* been rejected.
 
 Jasmine explained that she was unable to do anything further, and I requested that she escalate me to someone who could help. 
 
-After a few minutes on hold, she connected me with someone named William - I believe that this was [William Robinson](https://www.linkedin.com/in/mrwilliamrobinson/), who sent me an email following the conclusion of our conversation.
+After a few minutes on hold, she connected me with [William Robinson](https://www.linkedin.com/in/mrwilliamrobinson/), who sent me an email following the conclusion of our conversation.
 
 I began our conversation by asking what Jasmine had been able to recount to him, and once we were on the same page, I asked what could be done to get my account opened. 
 
