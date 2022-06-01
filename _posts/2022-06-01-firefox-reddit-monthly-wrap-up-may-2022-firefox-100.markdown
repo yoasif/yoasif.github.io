@@ -8,7 +8,7 @@ tags: Firefox reddit wrap-up
 
 There are a lot of fun things posted on [r/firefox](https://www.reddit.com/r/firefox/) every month, but if you don't visit often, you might miss some things. 
 
-This is the inaugural post of a (hopefully) monthly post that tries to distill the best of that forum (in my opinion) over the last month. I'm totally open to feedback, so please let me know what you think!
+This is the inaugural post of a (hopefully) monthly post that tries to distill the best of that forum (in my opinion) over the last month. I'm totally open to feedback, so please let me know what you think.
 
 Without further ado, let's jump in!
 
@@ -26,7 +26,7 @@ Some of the features that got reddit users excited are: [HTTPS-only mode for Fir
 
 At 818 net votes, the r/Firefox community seems *very* interested in the [new Total Cookie Protection](https://www.reddit.com/r/firefox/comments/utt5kx/new_total_cookie_protection/) test. wisniewskit dropped by to answer some questions about it, including [explaining](https://www.reddit.com/r/firefox/comments/utt5kx/new_total_cookie_protection/i9cczo7/) that while this has been available as an option since [Firefox 86](https://blog.mozilla.org/security/2021/02/23/total-cookie-protection/), Mozilla is hoping to enable it by default for all Firefox users. 
 
-Under the hood, opting into Total Cookie Protection in this test sets `network.cookie.cookieBehavior` to **5**, which [rejects (known) trackers and partition third-party storage](https://developer.mozilla.org/docs/Web/Privacy/State_Partitioning#disable_dynamic_state_partitioning).
+Under the hood, opting into Total Cookie Protection in this test sets `network.cookie.cookieBehavior` to **5**, which [rejects (known) trackers and partitions third-party storage](https://developer.mozilla.org/docs/Web/Privacy/State_Partitioning#disable_dynamic_state_partitioning).
 
 It is exciting to see this valuable privacy feature nearing universal release!
 
@@ -61,7 +61,7 @@ Personally, I'll believe it when I see it, and I'm not holding my breath. Others
 
 ### New
 
-* Ausmerica [posted](https://www.reddit.com/r/firefox/comments/uugj0o/ff100_has_made_tab_text_black_on_black_its_the/) about a [bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1768380) in Firefox 100 causing tabs to appear with black text on a black tab in Windows 8.1. 
+* Ausmerica [posted](https://www.reddit.com/r/firefox/comments/uugj0o/ff100_has_made_tab_text_black_on_black_its_the/) about a bug in Firefox 100 causing [tabs to appear with black text on a black tab](https://bugzilla.mozilla.org/show_bug.cgi?id=1768380) in Windows 8.1. 
 * Darth_Jupiter posted about [low resolution/poor quality video](https://www.reddit.com/r/firefox/comments/ummt1m/problems_with_reddit_video_quality_on_firefox/) on new reddit. I went ahead and [filed a bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1768699). Firefox developers will reach out to reddit to ask for help in identifying where the problem is.
 
 ### Known
