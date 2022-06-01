@@ -75,4 +75,4 @@ Personally, I'll believe it when I see it, and I'm not holding my breath. Others
 
 ---
 
-Feel free to give me feedback on this post on [reddit](#). 
+Feel free to give me feedback on this post on [reddit](https://www.reddit.com/r/firefox/comments/v2ak5c/rfirefox_monthly_wrapup_may_2022_firefox_100/). 
