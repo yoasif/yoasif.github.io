@@ -71,7 +71,7 @@ Personally, I'll believe it when I see it, and I'm not holding my breath. Others
 ### Fixed
 
 * Linux users are [excited](https://www.reddit.com/r/firefox/comments/v0esaq/linux_users_good_news_seems_like_the_bug_that/) about a fix that re-enables [VA-API](https://01.org/linuxmedia/vaapi) hardware video decode (without needing to disable a media decoder sandbox). VA-API decode isn't yet enabled in release Firefox, so if you want the latest features and fixes, use [Firefox Nightly](https://www.mozilla.org/firefox/channel/desktop/#nightly). 
-* A bug posted by Itay1787 posted about where [opening the Page Info window caused a crash in RTL languages](https://www.reddit.com/r/firefox/comments/rmefif/something_broke_firefox_in_the_last_update/) was just [fixed](https://bugzilla.mozilla.org/show_bug.cgi?id=1763035) and may be uplifted to release and beta.
+* A bug posted by Itay1787 where [opening the Page Info window caused a crash in RTL languages](https://www.reddit.com/r/firefox/comments/rmefif/something_broke_firefox_in_the_last_update/) was just [fixed](https://bugzilla.mozilla.org/show_bug.cgi?id=1763035) and may be uplifted to release and beta.
 
 ---
 
