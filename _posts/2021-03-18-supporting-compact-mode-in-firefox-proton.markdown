@@ -41,7 +41,6 @@ Including an option to increase information density can serve as a competitive a
 3.  I am a Firefox user that has multiple windows and applications on the screen at once, so I want to minimize screen real estate from application toolbars. I like Firefox, but the new Proton UI makes it harder for me to fit as many windows on screen as I prefer, making me feel annoyed and decreasing my productivity.
     
 4.  I am a browser user who sees a screenshot of Firefox in compact mode and want to replicate the look. But I don't know how to enable it, which makes me feel like Firefox could do more to guide me.
-    
 
 ## Goals
 
