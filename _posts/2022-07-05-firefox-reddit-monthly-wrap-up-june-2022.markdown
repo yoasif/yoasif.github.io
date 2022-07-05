@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "r/firefox Monthly Wrap-Up - May 2022"
-date:   2022-07-04 02:30:00 -0400
+date:   2022-07-05 01:39:00 -0400
 categories: writing
 tags: Firefox reddit wrap-up
 ---
