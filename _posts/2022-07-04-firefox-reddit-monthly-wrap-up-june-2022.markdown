@@ -127,4 +127,4 @@ r/firefox is [very much in favor of Mozilla's approach](https://www.reddit.com/r
 
 ---
 
-Feel free to give me feedback on this post on [reddit](#). 
+Feel free to give me feedback on this post on [reddit](https://www.reddit.com/r/firefox/comments/vrqql2/rfirefox_monthly_wrapup_may_2022/?). 
