@@ -123,4 +123,4 @@ The other big benefit is savings of up to 25% off of rentals at participating Na
 
 ---
 
-Feel free to give me feedback on this post on [reddit]https://www.quippd.com/writing/2022/07/19/MBNA-stops-supporting-firefox-in-august-best-alternatives-to-their-credit-cards.html. 
+Feel free to give me feedback on this post on [reddit](https://www.quippd.com/writing/2022/07/19/MBNA-stops-supporting-firefox-in-august-best-alternatives-to-their-credit-cards.html).
