@@ -93,7 +93,7 @@ r/firefox is [very much in favor of Mozilla's approach](https://www.reddit.com/r
 	<picture>
 	  <source type="image/webp" srcset="{{site.url}}/assets/images/firefox-reddit-monthly-wrap-up/2022-06/marina-zhurakhinskaya_2022-06-14.webp">
 	  <source type="image/jpeg" srcset="{{site.url}}/assets/images/firefox-reddit-monthly-wrap-up/2022-06/marina-zhurakhinskaya_2022-06-14.jpg">
-	  <img src="{{site.url}}/assets/images/firefox-reddit-monthly-wrap-up/2022-06/marina-zhurakhinskaya_2022-06-14" alt="Marina Zhurakhinskaya"/>
+	  <img src="{{site.url}}/assets/images/firefox-reddit-monthly-wrap-up/2022-06/marina-zhurakhinskaya_2022-06-14.jpg" alt="Marina Zhurakhinskaya"/>
 	  <figcaption>Photo courtesy of Marina Zhurakhinskaya</figcaption>
 	</picture>
 </figure>
