@@ -46,7 +46,7 @@ Based on my research (I encourage you to continue on your own), I found that MBN
 
 I don't personally have any credit cards with an annual fee, and I'm sticking with that preference in my listing of alternatives here - if you are willing to pay annual fees, I encourage you to do your own research.
 
-Before you go off and cancel all your MBNA cards, the banking lore says that cancelling your oldest credit card (the one with the most history) may affect your credit history. If your MBNA card is your oldest card, and you are paying an annual fee on it, you may be better off holding onto it, and asking MBNA to switch you to a no-fee product instead. 
+Before you go off and cancel all your MBNA cards, the banking lore says that canceling your oldest credit card (the one with the most history) may affect your credit history. If your MBNA card is your oldest card, and you are paying an annual fee on it, you may be better off holding onto it, and asking MBNA to switch you to a no-fee product instead. 
 
 If you *do* cancel your cards, I favor the approach suggested by tempMonero123 on reddit - let MBNA know that you have lost trust in their product development teams since they seem to be unable to ensure that their website works with industry standard tech that their competitors seem to have no issue with.
 
