@@ -41,15 +41,30 @@ At this point, you may be wondering why I am bothering to do this research - I a
 * I think the open web is important
 * I am hopeful that MBNA will see this kind of commentary and decide to do the right thing
 * I think we owe it to ourselves to be the change we want to see in the world
-* I believe that providing a "glide path" and reducing friction to moving to another credit card company will be more effective than social media campaigns alone
-
-Based on my research (I encourage you to continue on your own), I found that MBNA has two credit cards that get good recommendations: their **Rewards Platinum Plus Mastercard** and the **Smart Cash Platinum Plus Mastercard**. 
-
-I don't personally have any credit cards with an annual fee, and I'm sticking with that preference in my listing of alternatives here - if you are willing to pay annual fees, I encourage you to do your own research.
+* I believe that helping people with a glide path to moving to another credit card company will be more effective than more general PSAs or feedback suggestions
 
 Before you go off and cancel all your MBNA cards, the banking lore says that canceling your oldest credit card (the one with the most history) may affect your credit history. If your MBNA card is your oldest card, and you are paying an annual fee on it, you may be better off holding onto it, and asking MBNA to switch you to a no-fee product instead. If you hold onto the card, be sure not to use it, as [interchange fees](https://www.valuepenguin.com/credit-card-processing/interchange-fees) are one of the ways that credit card companies make money.
 
 If you *do* cancel your cards, I favor the approach suggested by tempMonero123 on reddit - let MBNA know that you have lost trust in their product development teams since they seem to be unable to ensure that their website works with industry standard tech that their competitors have no issue with.
+
+You can contact MBNA at <a href="tel:1-888-876-6262">1-888-876-6262</a> or via email at <a href="mailto:customerrelations@td.com">customerrelations@td.com</a>. 
+
+You may also want to contact the Senior Customer Complaints Office via:
+
+* **Mail**: Senior Customer Complaints Office, PO Box 1, Toronto-Dominion Centre, Toronto, ON MK5 1A2
+* **Phone**: <a href="tel:416-982-4884">416-982-4884</a> or toll-free at <a href="tel:1-888-361-0319">1-888-361-0319</a>
+* **Fax**: 1-866-891-2410
+* **E-mail**: <a href="mailto:td.scco@td.com">td.scco@td.com</a>
+
+---
+
+## MBNA Credit Cards and Their Best Alternatives
+
+The rest of this post deals with credit cards and credit card features. If you aren't a current Canadian MBNA credit card customer, it may not be very interesting for you, and you can safely skip the rest of the post.
+
+Based on my research (I encourage you to continue on your own), I found that MBNA has two credit cards that get good recommendations: their **Rewards Platinum Plus Mastercard** and the **Smart Cash Platinum Plus Mastercard**. 
+
+I don't personally have any credit cards with an annual fee, and I'm sticking with that preference in my listing of alternatives here - if you are willing to pay annual fees, I encourage you to do your own research.
 
 ### MBNA Rewards Platinum Plus Mastercard
 
