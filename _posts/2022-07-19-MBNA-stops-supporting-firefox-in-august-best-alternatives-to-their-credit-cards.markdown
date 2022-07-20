@@ -41,6 +41,7 @@ At this point, you may be wondering why I am bothering to do this research - I a
 * I think the open web is important
 * I am hopeful that MBNA will see this kind of commentary and decide to do the right thing
 * I think we owe it to ourselves to be the change we want to see in the world
+* I believe that providing a "glide path" to moving to another credit card company will be more effective than social media campaigns alone
 
 Based on my research (I encourage you to continue on your own), I found that MBNA has two credit cards that get good recommendations: their **Rewards Platinum Plus Mastercard** and the **Smart Cash Platinum Plus Mastercard**. 
 
