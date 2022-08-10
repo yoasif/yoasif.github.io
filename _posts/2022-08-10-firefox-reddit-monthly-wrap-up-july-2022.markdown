@@ -33,7 +33,7 @@ There seem to be many Firefox users on r/firefox that have Windows scaling enabl
 
 To revert the change, follow these steps;
 
-1. Go to `about:config` in Firefox. Accept the risk to continue. 
+1. Go to <kbd>about:config</kbd> in Firefox. Accept the risk to continue. 
 2. Type <kbd>ui.textScaleFactor</kbd> into the search box that appears.
 3. Three radio buttons will appear - *Boolean*, *Number*, and *String*
 4. Click the radio button next to **Number** and click the **+** button on the far right.
@@ -75,7 +75,7 @@ fsau posted to help bring [visibility to people's favorite ideas on Mozilla Conn
 
 ### New
 
-* ararezaee posted about [a maximized Firefox window causing the Windows taskbar to not appear when taskbar auto-hide is enabled](https://www.reddit.com/r/firefox/comments/w8loef/i_reported_a_bug_about_a_month_ago_a_bug_which/). While they had [filed a bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1777136), they also posted for some additional help. After a mozregression run, ararezaee found that the issue first appeared in Firefox 68. panoptigram [suggested](https://www.reddit.com/r/firefox/comments/w8loef/i_reported_a_bug_about_a_month_ago_a_bug_which/ihu9nbo/) setting `browser.launcherProcess.enabled` to **false** -- which worked around the issue. Firefox developers discovered that the regression was introduced by [bug 1543807](https://bugzilla.mozilla.org/show_bug.cgi?id=1543807). Investigation continues here.
+* ararezaee posted about [a maximized Firefox window causing the Windows taskbar to not appear when taskbar auto-hide is enabled](https://www.reddit.com/r/firefox/comments/w8loef/i_reported_a_bug_about_a_month_ago_a_bug_which/). While they had [filed a bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1777136), they also posted for some additional help. After a mozregression run, ararezaee found that the issue first appeared in Firefox 68. panoptigram [suggested](https://www.reddit.com/r/firefox/comments/w8loef/i_reported_a_bug_about_a_month_ago_a_bug_which/ihu9nbo/) setting <kbd>browser.launcherProcess.enabled</kbd> to **false** -- which worked around the issue. Firefox developers discovered that the regression was introduced by [bug 1543807](https://bugzilla.mozilla.org/show_bug.cgi?id=1543807). Investigation continues here.
 
 ### Known
 
