@@ -92,4 +92,4 @@ fsau posted to help bring [visibility to people's favorite ideas on Mozilla Conn
 
 ---
 
-Feel free to give me feedback on this post on [reddit](#). 
+Feel free to give me feedback on this post on [reddit](https://www.reddit.com/r/firefox/comments/wktjke/rfirefox_monthly_wrapup_july_2022/?). 
