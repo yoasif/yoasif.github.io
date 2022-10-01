@@ -419,4 +419,4 @@ Before you report an issue, try to do a little investigation on your own - like 
 
 ---
 
-Feel free to give me feedback on this post on [reddit](#). 
+Feel free to give me feedback on this post on [reddit](https://www.reddit.com/r/firefox/comments/xsw0zt/firefox_switch_a_guide_for_beginners/?). 
