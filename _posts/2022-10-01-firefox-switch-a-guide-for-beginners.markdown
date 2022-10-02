@@ -213,7 +213,7 @@ The most recent addition to Firefox's profile management features is its in brow
 
 There is some good [documentation on the profile manager](https://support.mozilla.org/kb/profile-manager-create-remove-switch-firefox-profiles#w_manage-profiles-when-firefox-is-open) - on this page, you can create, manage, and launch profiles.
 
-While there are other ways to create and manage profiles in Firefox, I think is the easiest to use, and it is what I use personally.
+While there are other ways to create and manage profiles in Firefox, I think is the simplest to use, and it is what I use personally.
 
 <p>
 	<figure>
