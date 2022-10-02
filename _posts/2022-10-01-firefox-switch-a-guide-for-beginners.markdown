@@ -359,12 +359,12 @@ When you load a video, Firefox overlays a PiP toggle over the video:
 	<figure>
 	<picture>
 	  <source type="image/avif" srcset="{{site.url}}/assets/images/firefox-switch-beginners/youtube-with-PiP-icon.avif,
-	          {{site.url}}/assets/images/firefox-switch-beginners/youtube-with-PiP-2x.avif 2x">
+	          {{site.url}}/assets/images/firefox-switch-beginners/youtube-with-PiP-icon-2x.avif 2x">
 	  <source type="image/webp" srcset="{{site.url}}/assets/images/firefox-switch-beginners/youtube-with-PiP-icon.webp,
-	          {{site.url}}/assets/images/firefox-switch-beginners/youtube-with-PiP-2x.webp 2x">
+	          {{site.url}}/assets/images/firefox-switch-beginners/youtube-with-PiP-icon-2x.webp 2x">
 	  <source type="image/png" srcset="{{site.url}}/assets/images/firefox-switch-beginners/youtube-with-PiP-icon.png,
 	  		  {{site.url}}/assets/images/firefox-switch-beginners/youtube-with-PiP-icon-2x.png 2x">
-	  <img src="{{site.url}}/assets/images/firefox-switch-beginners/youtube-with-PiP.png" srcset="{{site.url}}/assets/images/firefox-switch-beginners/youtube-with-PiP-2x.png 2x" alt="Screenshot of Firefox on YouTube with a PiP icon overlaid on the right side of a video"/>
+	  <img src="{{site.url}}/assets/images/firefox-switch-beginners/youtube-with-PiP-icon.png" srcset="{{site.url}}/assets/images/firefox-switch-beginners/youtube-with-PiP-icon-2x.png 2x" alt="Screenshot of Firefox on YouTube with a PiP icon overlaid on the right side of a video"/>
 	  <figcaption>YouTube <a href="https://www.youtube.com/watch?v=hQX7Zub0ZdI" title="HOME - We're Finally Landing">video</a> showing a Picture-in-Picture icon on the right</figcaption>
 	</picture>
 </figure>
