@@ -52,6 +52,8 @@ On macOS, you can also use the **Firefox** menu and the **Quit Firefox** option.
 <p>
 	<figure>
 	<picture>
+	  <source type="image/avif" srcset="{{site.url}}/assets/images/firefox-switch-beginners/firefox-quit-macOS.avif,
+	          {{site.url}}/assets/images/firefox-switch-beginners/firefox-quit-macOS-2x.avif 2x">
 	  <source type="image/webp" srcset="{{site.url}}/assets/images/firefox-switch-beginners/firefox-quit-macOS.webp,
 	          {{site.url}}/assets/images/firefox-switch-beginners/firefox-quit-macOS-2x.webp 2x">
 	  <source type="image/png" srcset="{{site.url}}/assets/images/firefox-switch-beginners/firefox-quit-macOS.png,
@@ -245,6 +247,8 @@ To use it, context-click on a page and select the *Take Screenshot* option. You 
 <p>
 	<figure>
 	<picture>
+	  <source type="image/avif" srcset="{{site.url}}/assets/images/firefox-switch-beginners/take-screenshot-contextual-menu.avif,
+	          {{site.url}}/assets/images/firefox-switch-beginners/take-screenshot-contextual-menu-2x.avif 2x">
 	  <source type="image/webp" srcset="{{site.url}}/assets/images/firefox-switch-beginners/take-screenshot-contextual-menu.webp,
 	          {{site.url}}/assets/images/firefox-switch-beginners/take-screenshot-contextual-menu-2x.webp 2x">
 	  <source type="image/png" srcset="{{site.url}}/assets/images/firefox-switch-beginners/take-screenshot-contextual-menu.png,
@@ -354,6 +358,8 @@ When you load a video, Firefox overlays a PiP toggle over the video:
 <p>
 	<figure>
 	<picture>
+	  <source type="image/avif" srcset="{{site.url}}/assets/images/firefox-switch-beginners/youtube-with-PiP-icon.avif,
+	          {{site.url}}/assets/images/firefox-switch-beginners/firefox-multi-PiP-2x.avif 2x">
 	  <source type="image/webp" srcset="{{site.url}}/assets/images/firefox-switch-beginners/youtube-with-PiP-icon.webp,
 	          {{site.url}}/assets/images/firefox-switch-beginners/firefox-multi-PiP-2x.webp 2x">
 	  <source type="image/png" srcset="{{site.url}}/assets/images/firefox-switch-beginners/youtube-with-PiP-icon.png,
@@ -370,15 +376,15 @@ My brother uses this all the time to watch several live sports at once on many n
 
 <p>
 	<figure>
-<a href="{{site.url}}/assets/images/firefox-switch-beginners/firefox-multi-PiP-2x.png">
 	<picture>
-	  <source type="image/webp" srcset="{{site.url}}/assets/images/firefox-switch-beginners/lossy/firefox-multi-PiP.webp,
-	          {{site.url}}/assets/images/firefox-switch-beginners/lossy/firefox-multi-PiP-2x.webp 2x">
-	  <source type="image/png" srcset="{{site.url}}/assets/images/firefox-switch-beginners/lossy/firefox-multi-PiP.png,
-	  		  {{site.url}}/assets/images/firefox-switch-beginners/lossy/firefox-multi-PiP-2x.png 2x">
-	  <img src="{{site.url}}/assets/images/firefox-switch-beginners/lossy/firefox-multi-PiP.png" srcset="{{site.url}}/assets/images/firefox-switch-beginners/lossy/firefox-multi-PiP-2x.png 2x" alt="Screenshot of macOS desktop with multiple PiP videos"/>
+	  <source type="image/avif" srcset="{{site.url}}/assets/images/firefox-switch-beginners/firefox-multi-PiP.avif,
+	          {{site.url}}/assets/images/firefox-switch-beginners/firefox-multi-PiP-2x.avif 2x">
+	  <source type="image/avif" srcset="{{site.url}}/assets/images/firefox-switch-beginners/firefox-multi-PiP.webp,
+	          {{site.url}}/assets/images/firefox-switch-beginners/firefox-multi-PiP-2x.webp 2x">
+	  <source type="image/png" srcset="{{site.url}}/assets/images/firefox-switch-beginners/firefox-multi-PiP.png,
+	  		  {{site.url}}/assets/images/firefox-switch-beginners/firefox-multi-PiP-2x.png 2x">
+	  <img src="{{site.url}}/assets/images/firefox-switch-beginners/firefox-multi-PiP.png" srcset="{{site.url}}/assets/images/firefox-switch-beginners/firefox-multi-PiP-2x.png 2x" alt="Screenshot of macOS desktop with multiple PiP videos"/>
 	</picture>
-</a>
 	  <figcaption>Watch (and listen) to a music video, while watching a spoken word video with captions</figcaption>
 </figure>
 </p>
