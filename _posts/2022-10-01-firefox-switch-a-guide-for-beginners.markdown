@@ -399,13 +399,13 @@ Competing browsers insist that they can stay ahead of the changes in Chromium by
 
 The choice is clear - if you want the best ad blocking available, you want Firefox.
 
-I will note that I actually prefer a more measured approach to web safety and annoyance blocking - but this is a guide for beginners, and so I am including the simplest and easiest solution possible. If you consider yourself to be more advanced, I detail my own setup in an earlier post: [How I Learned to Stop Hardening and Love Strict Tracking Protection]({% post_url 2021-07-26-firefox-privacy-stop-hardening-love-strict-etp %}).
+I will note that I actually prefer a more measured approach to web safety and annoyance blocking - but this is a guide for people new to Firefox, so I am including the simplest and easiest solution possible. If you consider yourself to be more advanced, I detail my own setup in an earlier post: [How I Learned to Stop Hardening and Love Strict Tracking Protection]({% post_url 2021-07-26-firefox-privacy-stop-hardening-love-strict-etp %}).
 
 ## Troubleshooting
 
 There shouldn't be a need for extensive troubleshooting - and I'm not going to include instructions here. There's a <a href="https://www.reddit.com/r/firefox/">good community on reddit</a> that you can visit with specific questions. 
 
-However, there are two things that come up often that it is worth detailing. 
+However, there are two things that come up often that are worth detailing. 
 
 ### Video Playback
 
