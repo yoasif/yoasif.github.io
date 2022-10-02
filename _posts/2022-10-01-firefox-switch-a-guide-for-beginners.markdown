@@ -316,10 +316,10 @@ In the screenshot below, I typed <kbd>*</kbd> and space to show me results from 
 	<figure>
 	<picture>
 	  <source type="image/webp" srcset="{{site.url}}/assets/images/firefox-switch-beginners/searching-bookmarks.webp,
-	          {{site.url}}/assets/images/firefox-switch-beginners/firefox-searching-bookmarks-2x.webp 2x">
-	  <source type="image/png" srcset="{{site.url}}/assets/images/firefox-switch-beginners/firefox-searching-bookmarks.png,
-	  		  {{site.url}}/assets/images/firefox-switch-beginners/firefox-searching-bookmarks-2x.png 2x">
-	  <img src="{{site.url}}/assets/images/firefox-switch-beginners/firefox-searching-bookmarks.png" srcset="{{site.url}}/assets/images/firefox-switch-beginners/firefox-searching-bookmarks-2x.png 2x" alt="Screenshot of Firefox searching bookmarks"/>
+	          {{site.url}}/assets/images/firefox-switch-beginners/searching-bookmarks-2x.webp 2x">
+	  <source type="image/png" srcset="{{site.url}}/assets/images/firefox-switch-beginners/searching-bookmarks.png,
+	  		  {{site.url}}/assets/images/firefox-switch-beginners/searching-bookmarks-2x.png 2x">
+	  <img src="{{site.url}}/assets/images/firefox-switch-beginners/searching-bookmarks.png" srcset="{{site.url}}/assets/images/firefox-switch-beginners/searching-bookmarks-2x.png 2x" alt="Screenshot of Firefox searching bookmarks"/>
 	  <figcaption>Searching within my bookmarks</figcaption>
 	</picture>
 </figure>
