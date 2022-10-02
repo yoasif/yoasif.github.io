@@ -374,9 +374,9 @@ My brother uses this all the time to watch several live sports at once on many n
 	<picture>
 	  <source type="image/webp" srcset="{{site.url}}/assets/images/firefox-switch-beginners/lossy/firefox-multi-PiP.webp,
 	          {{site.url}}/assets/images/firefox-switch-beginners/lossy/firefox-multi-PiP-2x.webp 2x">
-	  <source type="image/png" srcset="{{site.url}}/assets/images/firefox-switch-beginners/firefox-multi-PiP.png,
-	  		  {{site.url}}/assets/images/firefox-switch-beginners/firefox-multi-PiP-2x.png 2x">
-	  <img src="{{site.url}}/assets/images/firefox-switch-beginners/firefox-multi-PiP.png" srcset="{{site.url}}/assets/images/firefox-switch-beginners/firefox-multi-PiP-2x.png 2x" alt="Screenshot of macOS desktop with multiple PiP videos"/>
+	  <source type="image/png" srcset="{{site.url}}/assets/images/firefox-switch-beginners/lossy/firefox-multi-PiP.png,
+	  		  {{site.url}}/assets/images/firefox-switch-beginners/lossy/firefox-multi-PiP-2x.png 2x">
+	  <img src="{{site.url}}/assets/images/firefox-switch-beginners/lossy/firefox-multi-PiP.png" srcset="{{site.url}}/assets/images/firefox-switch-beginners/lossy/firefox-multi-PiP-2x.png 2x" alt="Screenshot of macOS desktop with multiple PiP videos"/>
 	</picture>
 </a>
 	  <figcaption>Watch (and listen) to a music video, while watching a spoken word video with captions</figcaption>
