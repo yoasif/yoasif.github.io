@@ -8,7 +8,7 @@ tags: Firefox
 
 Firefox is experiencing a resurgence since the news of Chromium based browsers [weakening ad blocking extensions](https://www.eff.org/deeplinks/2021/12/chrome-users-beware-manifest-v3-deceitful-and-threatening) has hit the public consciousness.
 
-You may be one of the people switching to Firefox, or may be looking to help a family member who is less interested in browsers than you are -- but you want to make sure that they are safe on the web, especially with the rise in [internet scams](https://us.norton.com/blog/emerging-threats/internet-scams). *Beginner* in this page refers to someone who is new to *Firefox* (at least within the last few years). Even if you are an expert, you may still learn something new about Firefox.
+You may be one of the people switching to Firefox, or may be looking to help a family member who is less interested in browsers than you are -- but you want to make sure that they are safe on the web, especially with the rise in [internet scams](https://us.norton.com/blog/emerging-threats/internet-scams). *Beginner* here refers to someone who is new to *Firefox* (at least within the last few years). Even if you are experienced with web browsers, you may still learn something new about Firefox.
 
 * * *
 
@@ -17,17 +17,17 @@ You may be one of the people switching to Firefox, or may be looking to help a f
 
 ## Install
 
-As a novice, the most recommended release channel of Firefox is the *release* channel. Hopefully, you already have it installed, but if not, head on over to the [Firefox Download page](https://www.getfirefox.com) to download and install Firefox.
+As a novice, the recommended release channel of Firefox is the *release* channel. Hopefully, you already have it installed, but if not, head on over to the [Firefox Download page](https://www.getfirefox.com) to download and install Firefox.
 
 Make sure not to remove your old browser (yet).
 
 ## Switch
 
-The first time you run Firefox, an import wizard should pop up. If it does (or it doesn't), follow the steps on Mozilla's site to [import your old browser's data](https://blog.mozilla.org/en/privacy-security/how-to-switch-from-chrome-to-firefox/). If you previously had Firefox installed and want to clean up first, you can [Refresh Firefox](https://support.mozilla.org/kb/refresh-firefox-reset-add-ons-and-settings) instead - reset your settings while keeping your data. You can then follow up to import your old browser data.
+The first time you run Firefox, an import wizard should pop up. Follow the steps on Mozilla's site to [import your old browser's data](https://blog.mozilla.org/en/privacy-security/how-to-switch-from-chrome-to-firefox/). If you previously had Firefox installed and want to clean up first, you can [Refresh Firefox](https://support.mozilla.org/kb/refresh-firefox-reset-add-ons-and-settings) instead, to reset your settings while keeping your data. You can then follow up to import the data from your old browser.
 
 ## Set up Sync and Mobile Devices
 
-You probably want your Firefox data on the go - bookmarks, logins, sending pages to your other devices - you're going to want to get a Firefox Account and set up Sync on another device (or more).
+You probably want your Firefox data on the go - bookmarks, logins, and to be able to send pages to your other devices - you're going to want to get a Firefox Account and set up Sync on another device (or more).
 
 Check out the help pages on [Sync](https://support.mozilla.org/kb/how-do-i-set-sync-my-computer) and get it set up. Once you are done, you can set up Firefox syncing on your [Android](https://support.mozilla.org/kb/sync-bookmarks-tabs-history-and-passwords-android) ([Google Play](https://play.google.com/store/apps/details?id=org.mozilla.firefox), [FFUpdater](https://f-droid.org/packages/de.marmaro.krt.ffupdater/)) or [iOS](https://support.mozilla.org/kb/sync-bookmarks-logins-and-browsing-history-firefox) ([App Store](https://apps.apple.com/us/app/firefox-private-safe-browser/id989804926)) device.
 
@@ -35,19 +35,19 @@ Unlike other browsers, Firefox Sync is [encrypted with zero-knowledge encryption
 
 ## Customizing Settings
 
-Firefox comes with good defaults, and they are chosen to ensure that most people have a satisfactory experience with Firefox. Every Firefox user is going to have a slightly different opinion of whether those defaults are the *best* choices for them - and I'm no different.
+Firefox comes with good defaults, and they are chosen to ensure that most people have a satisfactory experience with Firefox. Every person that uses Firefox is going to have a slightly different opinion of whether the defaults are the best choices for *them* - and I'm no different.
 
-We'll go through a couple of changes in the settings - start by navigating to the Settings page, either by navigating to the ☰ menu and clicking **Settings**, or by typing <kbd>about:preferences</kbd> in your address bar and pressing the enter key to navigate to it.
+We'll walk through a couple of changes in the settings - start by navigating to the Settings page, either by navigating to the ☰ menu and clicking **Settings**, or by typing <kbd>about:preferences</kbd> in your address bar and pressing the enter key to navigate to it.
 
 ### Open previous windows and tabs
 
-In the *General* section of the preferences, check the **Open previous windows and tabs** checkbox. What this does is restore your opened tabs and windows when you start Firefox the next time you start Firefox after closing it. 
+In the *General* section of the preferences, check the **Open previous windows and tabs** checkbox. This option restores your opened tabs and windows the next time you start Firefox after closing it. 
 
 One thing I have learned from beginners using Firefox is that they don't know how to shut down Firefox. No, I'm not kidding 🤪! 
 
-People are used to clicking the ❎ symbol on Firefox windows and wondering where those windows have gone once they restart Firefox. You can prevent this confusion by exiting Firefox via the ☰ menu - click the ☰ menu, then choose **Exit** on Windows or **Quit** on Linux. 
+People are used to clicking the ❎ symbol on Firefox windows and wondering where those windows have gone once they restart Firefox. You can prevent this confusion by exiting Firefox via the ☰ menu: click the ☰ menu, then choose **Exit** on Windows or **Quit** on Linux. 
 
-On macOS, you can also use the **Firefox** menu and the **Quit** option.
+On macOS, you can also use the **Firefox** menu and the **Quit Firefox** option.
 
 <p>
 	<figure>
@@ -88,7 +88,7 @@ Fortunately, Firefox also comes with a more privacy aware search engine, [DuckDu
 	
 As with everything else in this guide, this is totally optional, and some people really prefer Google's search results. If you don't like the setting, it is easy to undo, so feel free to come back if you need help with that.
 
-Although this guide recommends the **DuckDuckGo** search engine, I *don't* recommend **[DuckDuckGo Privacy Essentials](https://addons.mozilla.org/firefox/addon/duckduckgo-for-firefox/)** -- it is fine, but there are better alternatives.
+Although this guide recommends the **DuckDuckGo** search engine, I *don't* recommend **[DuckDuckGo Privacy Essentials](https://addons.mozilla.org/firefox/addon/duckduckgo-for-firefox/)** -- it is fine, but there are better alternatives. Running this extension alongside those alternatives can cause problems, so I recommend against it.
 
 #### Search Suggestions
 
@@ -151,7 +151,7 @@ Sometimes, switching can be challenging. The things you are used to are just sli
 
 ### Recently Closed Windows
 
-While Chromium derivative browsers have a single keyboard shortcut for restoring closed tabs and windows (you keep pressing the same shortcut to bring back all of the tabs in closed windows), Firefox has a separate keyboard shortcut for bringing back closed windows.
+While Chromium derivative browsers have a single keyboard shortcut for restoring closed tabs and windows (you can keep pressing the same shortcut to bring back all of the tabs in closed windows), Firefox has a separate keyboard shortcut for bringing back closed windows.
 
 If you didn't already know the shortcut to restore closed *tabs*, it is:
 
@@ -174,7 +174,7 @@ In Firefox, what you might recognize as Incognito mode is known as [Private Brow
 
 ### Profile Manager
 
-While this isn't really a "beginner" feature, a number of people are using multiple profiles in Chromium browsers, and at first glance, it may seem like they don't exist on Firefox.
+You may be using multiple profiles in Chromium browsers, and at first glance, it may seem like profiles don't exist on Firefox.
 
 Profiles are a way to set up parallel instances of your browser - with separate settings, bookmarks, extensions, logins and themes. The most common way people use them is to separate between their personal setup and their work/school setup. 
 
@@ -199,9 +199,9 @@ If two profiles will suffice, I recommend installing a second copy of Firefox - 
 </figure>
 </p>
 
-Don't let the "developer" name scare you - Firefox Developer Edition is basically a beta version of Firefox that includes some small tweaks to help web developers do their work. While this means that while you may not to use it for mission critical work, it is great for your personal profile. You always have a backup in the release version of Firefox if anything goes wrong, as well.
+Don't let the "developer" name scare you - Firefox Developer Edition is basically a beta version of Firefox that includes some small tweaks to help web developers do their work. Since it is based on Firefox beta, I recommend using it for your personal profile. You always have a backup in the release version of Firefox if anything goes wrong.
 
-The setup here is very simple. Just download Firefox Developer Edition and keep your data separate. By default, Firefox and Firefox Developer Edition use different profiles and have different taskbar/dock icons, so they are easy to keep separate. 
+The setup is very simple. Download Firefox Developer Edition and keep your data separate. If you plan on using Firefox Sync for both profiles, you will want to use separate accounts (using different email addresses) to ensure that you don't merge the data between the different profiles. By default, Firefox and Firefox Developer Edition use different profiles and have different taskbar/dock icons, so they are easy to keep separate. 
 
 If you need more than two profiles, or you can't deal with beta software, you can instead read on to learn about how to create profiles from within Firefox.
 
@@ -211,7 +211,7 @@ The most recent addition to Firefox's profile management features is its in brow
 
 There is some good [documentation on the profile manager](https://support.mozilla.org/kb/profile-manager-create-remove-switch-firefox-profiles#w_manage-profiles-when-firefox-is-open) - on this page, you can create, manage, and launch profiles.
 
-There are alternatives to this page, but this is what I recommend, especially for beginners (and it is what I use personally).
+While there are other ways to create and manage profiles in Firefox, I think is the easiest to use, and it is what I use personally.
 
 <p>
 	<figure>
@@ -232,7 +232,7 @@ You can vote for a [friendlier profile management UI](https://connect.mozilla.or
 
 ## Features You May Not Know About
 
-Firefox has been around a long time, but if you haven't used it in a while (or ever), you may not know about some of its best features. While competing browsers continue to borrow features from Firefox, keep reading for some of the best features that you may not have seen before.
+Firefox has been around a long time, but if you haven't used it recently, you may not know about some of its best features. While competing browsers continue to borrow features from Firefox, keep reading for some of the best features that you may not have seen before.
 
 ### Screenshots
 
@@ -403,7 +403,7 @@ However, there are two things that come up often that it is worth detailing.
 
 ### Video Playback
 
-There are various reasons why your operating sysem may not include non-royalty-free, patented video codecs. If you find that your copy of Firefox doesn't play video, you can reolve that issue by installing the codecs:
+There are various reasons why your operating system may not include non-royalty-free, patented video codecs. If you find that your copy of Firefox doesn't play video, you can resolve that issue by installing the codecs:
 
 * [Windows](https://support.mozilla.org/kb/fix-video-audio-problems-firefox-windows)
 * [Ubuntu](https://help.ubuntu.com/community/RestrictedFormats)
