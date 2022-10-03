@@ -203,7 +203,7 @@ If two profiles will suffice, I recommend installing a second copy of Firefox - 
 
 Don't let the "developer" name scare you - Firefox Developer Edition is basically a beta version of Firefox that includes some small tweaks to help web developers do their work. Since it is based on Firefox beta, I recommend using it for your personal profile. You always have a backup in the release version of Firefox if anything goes wrong.
 
-The setup is very simple. Download Firefox Developer Edition and keep your data separate. If you plan on using Firefox Sync for both profiles, you will want to use separate accounts (using different email addresses) to ensure that you don't merge the data between the different profiles. By default, Firefox and Firefox Developer Edition use different profiles and have different taskbar/dock icons, so they are easy to keep separate. 
+The setup is very simple. [Download](https://www.mozilla.org/firefox/developer/) Firefox Developer Edition and keep your data separate. If you plan on using Firefox Sync for both profiles, you will want to use separate accounts (using different email addresses) to ensure that you don't merge the data between the different profiles. By default, Firefox and Firefox Developer Edition use different profiles and have different taskbar/dock icons, so they are easy to keep separate. 
 
 If you need more than two profiles, or you can't deal with beta software, you can instead read on to learn about how to create profiles from within Firefox.
 
@@ -213,7 +213,7 @@ The most recent addition to Firefox's profile management features is its in brow
 
 There is some good [documentation on the profile manager](https://support.mozilla.org/kb/profile-manager-create-remove-switch-firefox-profiles#w_manage-profiles-when-firefox-is-open) - on this page, you can create, manage, and launch profiles.
 
-While there are other ways to create and manage profiles in Firefox, I think is the simplest to use, and it is what I use personally.
+While there are other ways to manage profiles in Firefox, I think `about:profiles` is the simplest to use, and it is what I use personally.
 
 <p>
 	<figure>
