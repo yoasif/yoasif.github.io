@@ -68,4 +68,4 @@ The feature is pretty basic and not highly polished at the moment, but it gets t
 
 ---
 
-Feel free to give me feedback on this post on [reddit](#). 
+Feel free to give me feedback on this post on [reddit](https://www.reddit.com/r/firefox/comments/z1ohal/save_as_pdf_arrives_on_firefox_for_android_beta/?). 
