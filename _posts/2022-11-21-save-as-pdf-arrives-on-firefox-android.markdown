@@ -66,6 +66,8 @@ The feature is pretty basic and not highly polished at the moment, but it gets t
 	  <img src="{{site.url}}/assets/images/save-as-pdf-firefox/pdf-downloaded.png" srcset="{{site.url}}/assets/images/save-as-pdf-firefox/pdf-downloaded-2x.png 2x" alt="Download completed dialog, with option to open saved PDF"/>
 	</picture>
 
+Report issues with the PDF export at [Bugzilla](https://bugzilla.mozilla.org/enter_bug.cgi?product=Core&component=Printing%3A%20Output). 
+
 ---
 
 Feel free to give me feedback on this post on [reddit](https://www.reddit.com/r/firefox/comments/z1ohal/save_as_pdf_arrives_on_firefox_for_android_beta/?). 
