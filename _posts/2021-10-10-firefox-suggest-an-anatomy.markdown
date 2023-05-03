@@ -131,9 +131,9 @@ Mozilla went through a [rebranding](https://blog.mozilla.org/opendesign/firefox-
 
 Two months ago, when Firefox Suggest features started trickling into Firefox Nightly, I [opened a bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1725290) because I saw a *Firefox Suggest* label in my address bar even though I had opted out of search suggestions. I had assumed then that Firefox Suggest was an addition to Firefox's existing functionality.
 
-Firefox developers responded that Firefox Suggest relabels the AwesomeBar features under the new label.
+Firefox developers responded that Firefox Suggest relabels the AwesomeBar features under the new label, stating that:
 
->Firefox Suggest is what we're labeling bookmarks/history now. They're "suggestions" from Firefox as opposed to suggestions from your search engine.
+<blockquote>Firefox Suggest is what we're labeling bookmarks/history now. They're "suggestions" from Firefox as opposed to suggestions from your search engine.</blockquote>
 
 That means that at first blush, a lot of Firefox Suggest's functionality isn't actually new. It is the repackaging of Firefox 3 technology with the addition of "contextual suggestions" and advertising. Firefox’s release notes from 2008 [noted](https://website-archive.mozilla.org/www.mozilla.org/firefox_releasenotes/en-us/firefox/3.0/releasenotes/):
 
