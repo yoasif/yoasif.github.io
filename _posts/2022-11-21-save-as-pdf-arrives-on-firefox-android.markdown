@@ -13,7 +13,6 @@ Read on for a quick walkthrough on how to save PDFs in Firefox.
 * * *
 
 {:toc}
-* toc
 
 ## Download Firefox Beta or Nightly
 
