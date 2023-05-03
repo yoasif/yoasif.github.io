@@ -226,4 +226,4 @@ If <abbr title="Large language models">LLMs</abbr> are going to make writing wor
 
 ---
 
-Feel free to give me feedback on this post on [Mastodon](https://mastodon.social/@yoasif). 
+Feel free to give me feedback on this post on [Hacker News](https://news.ycombinator.com/item?id=35803445). You can also message me on [Mastodon](https://mastodon.social/@yoasif).
