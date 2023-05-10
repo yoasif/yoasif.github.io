@@ -43,4 +43,4 @@ If you run into issues with this feature, please [file a bug](https://bugzilla.m
 
 ---
 
-Feel free to give me feedback on this post on [reddit](#). You can also message me on [Mastodon](https://mastodon.social/@yoasif).
+Feel free to give me feedback on this post on [reddit](https://www.reddit.com/r/firefox/comments/13duluz/nvidia_video_super_resolution_comes_to_firefox/?). You can also message me on [Mastodon](https://mastodon.social/@yoasif).
