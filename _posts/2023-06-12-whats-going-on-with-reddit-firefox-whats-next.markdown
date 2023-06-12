@@ -79,4 +79,4 @@ If you want to chat with some of the crew at r/firefox, we have a [Matrix chat](
 
 ---
 
-Feel free to give me feedback on this post on [Kbin](#). You can also message me on [Mastodon](https://mastodon.social/@yoasif).
+Feel free to give me feedback on this post on [Kbin](https://fedia.io/m/firefox/t/3344/What-s-Going-on-with-r-Firefox-Reddit-What-s-Next). You can also message me on [Mastodon](https://mastodon.social/@yoasif).
