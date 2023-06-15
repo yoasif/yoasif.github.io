@@ -8,7 +8,7 @@ tags: Reddit Firefox Kbin
 
 Many Reddit communities (sub-reddits) have [shut down](https://www.nytimes.com/2023/06/12/business/media/reddit-subreddit-blackout-protest.html "Reddit Communities Go Dark to Protest New App Policy") this Monday, [r/firefox](https://www.reddit.com/r/firefox/) is one of them. Are you [out of the loop](https://www.reddit.com/r/OutOfTheLoop/comments/147fcdf/whats_going_on_with_subreddits_going_private_on/ "What's going on with subreddits going private on June 12th and 13th? And what is up with reddit's API?")?
 
-If you want to learn a bit more, and want to know about how r/firefox is responding, read on.
+If you want to learn a bit more, and want to know about how r/firefox is responding (I am a moderator), read on.
 
 * * *
 
@@ -29,7 +29,7 @@ You may have noticed starting over the past weekend that you were unable to acce
 
 As summarized by the [post referenced](https://www.reddit.com/r/Save3rdPartyApps/comments/147cksa/why_the_blackouts_happening_from_the_beginning/ "Why The Blackout's Happening- From The Beginning") in the "blackout" message, Reddit has recently introduced [some changes](https://www.reddit.com/r/reddit/comments/12qwagm/an_update_regarding_reddits_api/ "An Update Regarding Reddit’s API") regarding third party access to its data via Reddit's API. 
 
-I had blogged about this [previously]({% post_url 2023-05-03-with-its-API-update-reddit-should-start-paying-its-users %}) with regards to Reddit's sale of user generated content to LLM vendors, but the moderators protesting the recent actions are far more concerned about moderator tools, access to [third party mobile clients](https://www.reddit.com/r/apolloapp/comments/144f6xm/apollo_will_close_down_on_june_30th_reddits/ "📣 Apollo will close down on June 30th. Reddit’s recent decisions and actions have unfortunately made it impossible for Apollo to continue. Thank you so, so much for all the support over the years. ❤️"), and [accessibility issues](https://www.reddit.com/r/ModCoord/comments/145l7wp/todays_ama_with_spez_did_nothing_to_alleviate/ "Today's AMA With Spez Did Nothing to Alleviate Concerns: An Open Response") in Reddit's clients. 
+I had blogged about this [previously]({% post_url 2023-05-03-with-its-API-update-reddit-should-start-paying-its-users %} "With its API Update, Reddit Should Start Paying its Users (Or They Should Leave)") with regards to Reddit's sale of user generated content to <abbr title="Large language model">LLM</abbr> vendors, but the moderators protesting the recent actions are far more concerned about moderator tools, access to [third party mobile clients](https://www.reddit.com/r/apolloapp/comments/144f6xm/apollo_will_close_down_on_june_30th_reddits/ "📣 Apollo will close down on June 30th. Reddit’s recent decisions and actions have unfortunately made it impossible for Apollo to continue. Thank you so, so much for all the support over the years. ❤️"), and [accessibility issues](https://www.reddit.com/r/ModCoord/comments/145l7wp/todays_ama_with_spez_did_nothing_to_alleviate/ "Today's AMA With Spez Did Nothing to Alleviate Concerns: An Open Response") in Reddit's clients. 
 
 As a result, a [huge number](https://www.reddit.com/r/ModCoord/comments/1401qw5/incomplete_and_growing_list_of_participating/) of Reddit's moderators coordinated a blackout in order to force action from Reddit management.
 
@@ -37,7 +37,7 @@ As a result, a [huge number](https://www.reddit.com/r/ModCoord/comments/1401qw5/
 
 Initially, most sub-reddits planned on a [48-hour](https://www.businessinsider.com/biggest-subreddits-affected-by-48-hour-blackout-list-private-2023-6 "Reddit users are going on a 48-hour blackout. Here are the biggest subreddits that won't be available during this time.") blackout. As it became increasingly clear to moderators that Reddit wasn't making any meaningful concessions on on the timing or amount of API price changes, moderators have begun discussing whether an indefinite blackout makes more sense, in order to make it harder for Reddit to simply wait out the blackout.
 
-The top moderator on r/firefox asked about what the moderators thought -- I added my two cents (I am a moderator):
+The top moderator on r/firefox asked about what the moderators thought -- I added my two cents:
 
 >This is the way I see it:
 >
