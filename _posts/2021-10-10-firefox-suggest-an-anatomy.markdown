@@ -45,13 +45,13 @@ It can be hard to understand what Firefox Suggest actually *is*.
 
 Mozilla [says](https://blog.mozilla.org/en/products/firefox/firefox-news/firefox-suggest/):
 
-<blockquote>Firefox Suggest is a new discovery feature that is built directly into the browser. Firefox Suggest acts as a trustworthy guide to the better web, surfacing relevant information and sites to help people accomplish their goals.</blockquote>
+> Firefox Suggest is a new discovery feature that is built directly into the browser. Firefox Suggest acts as a trustworthy guide to the better web, surfacing relevant information and sites to help people accomplish their goals.
 
 it continues by saying:
 
-<blockquote>Firefox already helps people search their browsing history and tabs and use their preferred search engine directly from Firefox’s Awesome Bar. 
-
-Firefox Suggest will enhance this by including other sources of information such as Wikipedia, Pocket articles, reviews and credible content from sponsored, vetted partners and trusted organizations.</blockquote>
+> Firefox already helps people search their browsing history and tabs and use their preferred search engine directly from Firefox’s Awesome Bar. 
+>
+>Firefox Suggest will enhance this by including other sources of information such as Wikipedia, Pocket articles, reviews and credible content from sponsored, vetted partners and trusted organizations.
 
 So Firefox Suggest is an addition to Firefox's Awesome Bar that pulls in information from organizations external to Firefox.
 
@@ -133,11 +133,11 @@ Two months ago, when Firefox Suggest features started trickling into Firefox Nig
 
 Firefox developers responded that Firefox Suggest relabels the AwesomeBar features under the new label, stating that:
 
-<blockquote>Firefox Suggest is what we're labeling bookmarks/history now. They're "suggestions" from Firefox as opposed to suggestions from your search engine.</blockquote>
+> Firefox Suggest is what we're labeling bookmarks/history now. They're "suggestions" from Firefox as opposed to suggestions from your search engine.
 
 That means that at first blush, a lot of Firefox Suggest's functionality isn't actually new. It is the repackaging of Firefox 3 technology with the addition of "contextual suggestions" and advertising. Firefox’s release notes from 2008 [noted](https://website-archive.mozilla.org/www.mozilla.org/firefox_releasenotes/en-us/firefox/3.0/releasenotes/):
 
-<blockquote>Smart Location Bar: type in all or part of the title, tag or address of a page to see a list of matches from your history and bookmarks; a new display makes it easier to scan through the matching results and find that page you're looking for. Results are returned according to their a combination of frequency, and recency of visits to that page, ensuring that you're seeing the most relevant matches. An adaptive learning algorithm further tunes the results to your patterns!</blockquote>
+> Smart Location Bar: type in all or part of the title, tag or address of a page to see a list of matches from your history and bookmarks; a new display makes it easier to scan through the matching results and find that page you're looking for. Results are returned according to their a combination of frequency, and recency of visits to that page, ensuring that you're seeing the most relevant matches. An adaptive learning algorithm further tunes the results to your patterns!
 
 Sounds kinda familiar. 
 
@@ -275,7 +275,7 @@ This was already pretty confusing, but it gets worse, because the Mozilla announ
 
 In the Firefox Suggest [announcement post](https://blog.mozilla.org/en/products/firefox/firefox-news/firefox-suggest/), Mozilla says that:
 
->As always, we believe people should be in control of their web experience, so Firefox Suggest will be a customizable feature. We’ll begin offering contextual suggestions to a percentage of people in the U.S. as an opt-in experience ... We believe online ads can work without advertisers needing to know everything about you.
+> As always, we believe people should be in control of their web experience, so Firefox Suggest will be a customizable feature. We’ll begin offering contextual suggestions to a percentage of people in the U.S. as an opt-in experience ... We believe online ads can work without advertisers needing to know everything about you.
 
 This was accompanied by a screenshot of the opt-in dialog:
 

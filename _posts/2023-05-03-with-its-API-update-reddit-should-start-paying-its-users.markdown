@@ -50,7 +50,7 @@ Unfortunately, the [12 year old announcement of that preference](https://www.red
 
 The Reddit [user agreement](https://www.redditinc.com/policies/user-agreement) seems to disallow scraping:
 
-<blockquote>Access, search, or collect data from the Services by any means (automated or otherwise) except as permitted in these Terms or in a separate agreement with Reddit. We conditionally grant permission to crawl the Services in accordance with the parameters set forth in our robots.txt file, but scraping the Services without Reddit’s prior written consent is prohibited.</blockquote>
+> Access, search, or collect data from the Services by any means (automated or otherwise) except as permitted in these Terms or in a separate agreement with Reddit. We conditionally grant permission to crawl the Services in accordance with the parameters set forth in our robots.txt file, but scraping the Services without Reddit’s prior written consent is prohibited.
 
 but it is routinely used in [hundreds of studies](https://journals.sagepub.com/doi/full/10.1177/20563051211019004) - either via the site itself or via its APIs.
 
@@ -58,11 +58,11 @@ Even before the widespread recognition and usage of conversational AIs like Chat
 
 As the authors of *[‘Scraping’ Reddit posts for academic research? Addressing some blurred lines of consent in growing internet-based research trend during the time of Covid-19](https://www.tandfonline.com/doi/full/10.1080/13645579.2022.2111816)* note: 
 
-<blockquote>Crucially, if a Reddit user becomes uncomfortable with something they have posted – for example, concerns that the posting may identify them or others, reflect an outdated opinion or feeling, or cause distress, they (almost always) have the option to return and remove this data from public access later. By replicating data without a user’s permission, any control that lies with the original poster is lost.
-
-&hellip;
-
-Postings utilised in these manners are de-localised from their original source and may exist in a permanent – replicable – archive, where the user now has no influence or control over their temporalities, nor how this content may be used in intended or unintended ways that could impact them negatively. While Reddit users consent to the replication and use of their posted content, this consent does not represent a de facto agreement for a permanent relinquishment of their autonomy over any later content controls. Most importantly, the Reddit user-agreement rationalises that by posting to Reddit, users consent to a wider-use of their posted data. If a user then chooses to delete their original Reddit posting, as some users later do, this should be taken as rationale for a *removal of consent* for user data to be used more widely, given that this data no longer exists in the original location for which rationale for duplication – and by extension, consent for replication – was first established.</blockquote>
+> Crucially, if a Reddit user becomes uncomfortable with something they have posted – for example, concerns that the posting may identify them or others, reflect an outdated opinion or feeling, or cause distress, they (almost always) have the option to return and remove this data from public access later. By replicating data without a user’s permission, any control that lies with the original poster is lost.
+>
+> &hellip;
+>
+> Postings utilised in these manners are de-localised from their original source and may exist in a permanent – replicable – archive, where the user now has no influence or control over their temporalities, nor how this content may be used in intended or unintended ways that could impact them negatively. While Reddit users consent to the replication and use of their posted content, this consent does not represent a de facto agreement for a permanent relinquishment of their autonomy over any later content controls. Most importantly, the Reddit user-agreement rationalises that by posting to Reddit, users consent to a wider-use of their posted data. If a user then chooses to delete their original Reddit posting, as some users later do, this should be taken as rationale for a *removal of consent* for user data to be used more widely, given that this data no longer exists in the original location for which rationale for duplication – and by extension, consent for replication – was first established.
 
 The issues that the researchers confront here are magnified in the context of AI.
 
@@ -76,7 +76,7 @@ I have already referenced the Reddit user agreement in this post, so it is worth
 
 It is clearly stated in the agreement:
 
-<blockquote>When Your Content is created with or submitted to the Services, you grant us a worldwide, royalty-free, perpetual, irrevocable, non-exclusive, transferable, and sublicensable license to use, copy, modify, adapt, prepare derivative works of, distribute, store, perform, and display Your Content and any name, username, voice, or likeness provided in connection with Your Content in all media formats and channels now known or later developed anywhere in the world. This license includes the right for us to make Your Content available for syndication, broadcast, distribution, or publication by other companies, organizations, or individuals who partner with Reddit. You also agree that we may remove metadata associated with Your Content, and you irrevocably waive any claims and assertions of moral rights or attribution with respect to Your Content.</blockquote>
+> When Your Content is created with or submitted to the Services, you grant us a worldwide, royalty-free, perpetual, irrevocable, non-exclusive, transferable, and sublicensable license to use, copy, modify, adapt, prepare derivative works of, distribute, store, perform, and display Your Content and any name, username, voice, or likeness provided in connection with Your Content in all media formats and channels now known or later developed anywhere in the world. This license includes the right for us to make Your Content available for syndication, broadcast, distribution, or publication by other companies, organizations, or individuals who partner with Reddit. You also agree that we may remove metadata associated with Your Content, and you irrevocably waive any claims and assertions of moral rights or attribution with respect to Your Content.
 
 However, I think that it is obvious that given the sea-change that conversational AI represents (the "Godfather of AI" [recently quit Google](https://www.nytimes.com/2023/05/01/technology/ai-google-chatbot-engineer-quits-hinton.html) in order to warn about the dangers ahead, for example), most people didn't foresee that their commentary - freely given - would be used to create derivative works, *virtually without cost* - unlike the way most people generally conceived of how content is reworked or reused. 
 

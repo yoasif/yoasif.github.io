@@ -14,9 +14,9 @@ Discuss this post on [Reddit](https://www.reddit.com/r/firefox/comments/vgf5h3/k
 
 In Mozilla's [Manifest V3 migration guide](https://extensionworkshop.com/documentation/develop/manifest-v3-migration-guide/), Mozilla [notes that](https://extensionworkshop.com/documentation/develop/manifest-v3-migration-guide/#browser-action):
 
-><small>In Chromium and Safari, page_action is also merged into the renamed action key. Firefox retains the separate page_action in the developer preview but will merge page_action into action in a later release.</small>
+> In Chromium and Safari, page_action is also merged into the renamed action key. Firefox retains the separate page_action in the developer preview but will merge page_action into action in a later release.
 >
-><small>Also, in Chromium and Safari the Browser Action and Page Action APIs are unified into the Action API, Firefox retains the separate Page Action API in the developer preview but will merge the Page Action API into the new Action API in a later release.</small>
+> Also, in Chromium and Safari the Browser Action and Page Action APIs are unified into the Action API, Firefox retains the separate Page Action API in the developer preview but will merge the Page Action API into the new Action API in a later release.
 
 ## Chrome vs. Firefox
 
@@ -24,7 +24,7 @@ In Mozilla's [Manifest V3 migration guide](https://extensionworkshop.com/documen
 
 These changes seem to be prompted by the related change in Chrome. Google [says](https://developer.chrome.com/docs/extensions/mv3/intro/mv3-migration/#action-api-unification): 
 
-><small>In Manifest V2, there were two different APIs to implement actions: `browser_action` and `page_action`. These APIs filled distinct roles when they were introduced, but over time they've become redundant so in Manifest V3 we are unifying them into as single `action` API.<small>
+> In Manifest V2, there were two different APIs to implement actions: `browser_action` and `page_action`. These APIs filled distinct roles when they were introduced, but over time they've become redundant so in Manifest V3 we are unifying them into as single `action` API.
 
 I can certainly understand why Google might say that, since the screenshots in their [documentation](https://developer.chrome.com/docs/extensions/reference/pageAction/) show that Chrome has *already* made pageActions redundant to browserActions, since the icons for pageActions appear alongside the address bar in Chrome, rather than *inside it* like in Firefox.
 
