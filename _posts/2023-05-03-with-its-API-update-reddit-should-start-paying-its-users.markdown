@@ -211,9 +211,10 @@ There is nothing there for the people generating the content that makes Reddit s
 
 Is it time to leave Reddit? It just might be. 
 
-Without a renegotiation of the terms by which Reddit users have long contributed to the platform, users may feel that they are being taken advantage of. The deal has shifted, and it now feels like there is a real power imbalance at play. Like with moderators, Reddit is now *taking advantage* of content creators who post and comment on the site. 
+Without a renegotiation of the terms by which Reddit users have long contributed to the platform, users may feel that they are being taken advantage of. The deal has shifted, and it now feels like there is a real power imbalance at play. As with moderators, Reddit is now *taking advantage* of content creators who post and comment on the site.
 
-I don't think it is likely that Reddit will pay people for their <abbr title="Large language model">LLM</abbr> contributions, as they already don't pay for *any* content on the site - unlike YouTube (for example). I also don't think that people who are posting on Reddit for free today are even motivated by money. If they were, they would spend their time writing on platforms like Medium and Substack. I think that people who post on Reddit want to *share* with a community. The sharing is with *people*, though - not with machines - and certainly not with machines that can then be used to create new writings that are a mimesis of genuine sharing.
+It seems unlikely that Reddit will pay people for their <abbr title="Large language model">LLM</abbr> contributions, as they already don’t pay for *any* content on the site - unlike e.g. YouTube. I also don’t think that people who are posting on Reddit for free today are motivated by money. If they were, they would spend their time writing on platforms like Medium and Substack. People who post on Reddit want to share with a community. The sharing is with *people*, though - not with machines - and certainly not with machines that can then be used to create new writings that are a mimesis of genuine sharing.
+
 
 Reddit has an easy escape valve though. Just:
 
