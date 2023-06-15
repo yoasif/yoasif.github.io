@@ -102,7 +102,7 @@ Other social media has solved the problem of non-payment of social media contrib
 
 Reddit users may not previously have been aware that the AI products that they have been reading about and possibly even discussing on Reddit were trained with the content that they themselves had produced.
 
-Reddit themselves may not have known that AI platforms had been replicating Reddit user data into the <abbr title="Large language model">LLM</abbr> datasets -- it seems to me that if they *had* known, they would not be complaining about it today and introducing a paid API.
+Reddit *themselves* may not have known that AI platforms had been replicating Reddit user data into the <abbr title="Large language model">LLM</abbr> datasets -- it seems to me that if they *had* known, they would not be complaining about it today and introducing a paid API.
 
 Unfortunately, that leaves the userbase in a strange place. 
 
