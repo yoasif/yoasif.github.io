@@ -18,10 +18,10 @@ Here's a quick and dirty list that you can [contribute to](https://github.com/yo
 
 | Subreddit | New Community | | Status | Announcement |
 | --- | --- | --- | --- |
+| r/3dprinting | !3d_printing@forum.rhombik.com | [🔗](https://forum.rhombik.com/c/3d_printing) | Official | [Join us at rhombik.com](https://www.reddit.com/r/3Dprinting/comments/14a7sh5/join_us_at_rhombikcom/) |
 | r/daystrominstitute | !daystrominstitute@startrek.website | [🔗](https://startrek.website/c/daystrominstitute) | Official | [Looking for an alternative to reddit to talk Trek? Join us on Lemmy!](https://www.reddit.com/r/startrek/comments/14a5t8w/looking_for_an_alternative_to_reddit_to_talk_trek/) |
 | r/piracy | !piracy@lemmy.dbzer0 | [🔗](https://lemmy.dbzer0.com/c/piracy) | Official | [⚓ Join us ➜ https://lemmy.dbzer0.com/c/piracy 🏴‍☠️](https://www.reddit.com/r/piracy) |
 | r/risa | !risa@startrek.website | [🔗](https://startrek.website/c/risa) | Official | [Looking for an alternative to reddit to talk Trek? Join us on Lemmy!](https://www.reddit.com/r/startrek/comments/14a5t8w/looking_for_an_alternative_to_reddit_to_talk_trek/) |
-| r/3dprinting | !3d_printing@forum.rhombik.com | [🔗](https://forum.rhombik.com/c/3d_printing) | Official | [Join us at rhombik.com](https://www.reddit.com/r/3Dprinting/comments/14a7sh5/join_us_at_rhombikcom/) |
 | r/startrek | !startrek@startrek.website | [🔗](https://startrek.website/c/startrek) | Official | [Looking for an alternative to reddit to talk Trek? Join us on Lemmy!](https://www.reddit.com/r/startrek/comments/14a5t8w/looking_for_an_alternative_to_reddit_to_talk_trek/) |
 
 ---
