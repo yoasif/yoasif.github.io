@@ -46,6 +46,7 @@ Here's a quick and dirty list that you can [contribute to](https://github.com/yo
 | Subreddit | New Community | | Status | Announcement |
 | --- | --- | --- | --- | --- |
 | r/China | !china@latte.isnot.coffee | [🔗](https://latte.isnot.coffee/c/china) | Official | [Please see: https://latte.isnot.coffee/c/china for an alternative](https://www.reddit.com/r/china) |
+| r/montreal | !montreal@lemmy.ca | [🔗](https://lemmy.ca/c/montreal) | Official | [Ou essayez Lemmy Montréal : https://lemmy.ca/c/montreal](https://www.reddit.com/r/montreal) |
 | r/StableDiffusion | !stable_diffusion@lemmy.dbzer0.com | [🔗](https://lemmy.dbzer0.com/c/stable_diffusion) | Official | [Please see: Check out our new Lemmy instance: https://lemmy.dbzer0.com/c/stable_diffusion](https://www.reddit.com/r/StableDiffusion) |
 
 ### 100k+ Subscribers
@@ -88,6 +89,7 @@ Here's a quick and dirty list that you can [contribute to](https://github.com/yo
 | r/risa | !risa@startrek.website | [🔗](https://startrek.website/c/risa) | Official | [Looking for an alternative to reddit to talk Trek? Join us on Lemmy!](https://www.reddit.com/r/startrek/comments/14a5t8w/looking_for_an_alternative_to_reddit_to_talk_trek/) |
 | r/steamdeck_linux | !steamdeck@sopuli.xyz | [🔗](https://startrek.website/c/startrek) | Official | [[Meta] r/steamdeck_linux will henceforth be restricted. Consider this the canon forum for the community.](https://sopuli.xyz/post/695503) |
 | r/WeRollin | !disabled@kbin.social | [🔗]https://kbin.social/m/disabled | Official | (https://www.reddit.com/r/WeRollin/comments/1476epq/update_alternative_to_reddit_during_blackout/) |
+
 ---
 
 Feel free to give me feedback on this post on [Kbin](#). You can also message me on [Mastodon](https://mastodon.social/@yoasif).
