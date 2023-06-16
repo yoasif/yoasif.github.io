@@ -21,7 +21,9 @@ Here's a quick and dirty list that you can [contribute to](https://github.com/yo
 | r/3dprinting | !3d_printing@forum.rhombik.com | [🔗](https://forum.rhombik.com/c/3d_printing) | Official | [Join us at rhombik.com](https://www.reddit.com/r/3Dprinting/comments/14a7sh5/join_us_at_rhombikcom/) |
 | r/chicagomeetup | !chicagomeetups@lemmy.ml | [🔗](https://lemmy.ml/c/chicagomeetups) | Official | [Lemmy Server](https://www.reddit.com/r/ChicagoMeetup) |
 | r/China | !china@latte.isnot.coffee | [🔗](https://latte.isnot.coffee/c/china) | Official | [Please see: https://latte.isnot.coffee/c/china for an alternative](https://www.reddit.com/r/china) |
+| r/DarkAngels | [Dark Angels & Golden Goddesses](https://darkangelsxgoldengoddesses.tumblr.com/) | [🔗](https://darkangelsxgoldengoddesses.tumblr.com/) | Official | [You may follow us on Tumblr at darkangelsxgoldengoddesses.](https://darkangelsxgoldengoddesses.tumblr.com/) |
 | r/daystrominstitute | !daystrominstitute@startrek.website | [🔗](https://startrek.website/c/daystrominstitute) | Official | [Looking for an alternative to reddit to talk Trek? Join us on Lemmy!](https://www.reddit.com/r/startrek/comments/14a5t8w/looking_for_an_alternative_to_reddit_to_talk_trek/) |
+| r/Disneyland | !Disneyland@kbin.social | [🔗](https://kbin.social/m/Disneyland) | Official | [Lemmy Server](https://www.reddit.com/r/ChicagoMeetup) |
 | r/ErgoMechKeyboards | !ergomechkeyboards@lemmy.world | [🔗](https://lemmy.world/c/ergomechkeyboards) | Affiliated | [Alternatively please consider visiting our sister community over at https://lemmy.world/c/ergomechkeyboards.](https://www.reddit.com/r/ErgoMechKeyboards) |
 | r/FREEMEDIAHECKYEAH | !freemediaheckyeah@lemmy.fmhy.ml | [🔗](https://lemmy.fmhy.ml/c/freemediaheckyeah) | Official | [We made a Lemmy Instance](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/1445yfs/we_made_a_lemmy_instance/) |
 | r/GlobalOffensive | !cs@kbin.social | [🔗](https://kbin.social/m/cs) | Official | [Join kbin (a Reddit alternative) here](https://old.reddit.com/r/GlobalOffensive) |
@@ -35,11 +37,13 @@ Here's a quick and dirty list that you can [contribute to](https://github.com/yo
 | r/SimpleLiving | !simpleliving@lemmy.ml | [🔗](https://lemmy.ml/c/simpleliving) | Official | [If you — like many of us — no longer wish to use Reddit, please consider joining us at https://lemmy.ml/c/simpleliving](https://www.reddit.com/r/SimpleLiving) |
 | r/startrek | !startrek@startrek.website | [🔗](https://startrek.website/c/startrek) | Official | [Looking for an alternative to reddit to talk Trek? Join us on Lemmy!](https://www.reddit.com/r/startrek/comments/14a5t8w/looking_for_an_alternative_to_reddit_to_talk_trek/) |
 | r/steamdeck_linux | !steamdeck@sopuli.xyz | [🔗](https://startrek.website/c/startrek) | Official | [[Meta] r/steamdeck_linux will henceforth be restricted. Consider this the canon forum for the community.](https://sopuli.xyz/post/695503) |
+| r/truegaming | !truegaming@kbin.social | [🔗](https://kbin.social/m/truegaming) | Official | [/r/truegaming is remaining restricted and some other updates](https://www.reddit.com/r/truegaming/comments/149c1vj/rtruegaming_is_remaining_restricted_and_some/) |
 | r/VeganLobby | [Veganism Social](https://veganism.social/) | [🔗](https://veganism.social/) | Official | [We've moved to https://veganism.social](https://veganism.social/about) |
 | r/WayOfTheBern | [WayOfTheBern](https://www.saidit.net/s/WayOfTheBern) | [🔗](https://www.saidit.net/s/WayOfTheBern) | Affiliated | [If you want to talk about it, come to the WayoftheBern Lifeboat we set up years ago as a backup.](https://www.reddit.com/r/WayOfTheBern) |
 | r/steamdeck_linux | !steamdeck@sopuli.xyz | [🔗](https://startrek.website/c/startrek) | Official | [[Meta] r/steamdeck_linux will henceforth be restricted. Consider this the canon forum for the community.](https://sopuli.xyz/post/695503) |
 | r/VeganLobby | [Veganism Social](https://veganism.social/) | [🔗](https://veganism.social/) | Official | [We've moved to https://veganism.social](https://veganism.social/about) |
 | r/WayOfTheBern | [WayOfTheBern](https://www.saidit.net/s/WayOfTheBern) | [🔗](https://www.saidit.net/s/WayOfTheBern) | Affiliated | [If you want to talk about it, come to the WayoftheBern Lifeboat we set up years ago as a backup.](https://www.reddit.com/r/WayOfTheBern) |
+| r/ZeroWaste | !zerowaste@lemmy.ml | [🔗](https://lemmy.ml/c/zerowaste) | Official | [If you — like many of us — no longer wish to use Reddit, please consider joining us at https://lemmy.ml/c/zerowaste](https://www.reddit.com/r/ZeroWaste) |
 
 ---
 
