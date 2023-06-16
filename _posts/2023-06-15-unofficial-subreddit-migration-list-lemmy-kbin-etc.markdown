@@ -21,6 +21,7 @@ Here's a quick and dirty list that you can [contribute to](https://github.com/yo
 | Subreddit | New Community | | Status | Announcement |
 | --- | --- | --- | --- | --- |
 | r/3dprinting | !3d_printing@forum.rhombik.com | [🔗](https://forum.rhombik.com/c/3d_printing) | Official | [Join us at rhombik.com](https://www.reddit.com/r/3Dprinting/comments/14a7sh5/join_us_at_rhombikcom/) |
+| r/chicagomeetup | !chicagomeetups@lemmy.ml | [🔗](https://lemmy.ml/c/chicagomeetups) | Official | [Lemmy Server](https://www.reddit.com/r/ChicagoMeetup) |
 | r/GlobalOffensive | !cs@kbin.social | [🔗](https://kbin.social/m/cs) | Official | [Join kbin (a Reddit alternative) here](https://old.reddit.com/r/GlobalOffensive) |
 | r/MMA | !mma@kbin.social | [🔗](https://kbin.social/m/mma) | Official | [Also, join us on kbin: https://kbin.social/m/mma where we will have relaxed posting rules.](https://www.reddit.com/r/MMA) |
 | r/Philippines | !philippines@lemmy.world | [🔗](https://lemmy.world/c/philippines) | Official | [Join us over at https://lemmy.world/c/philippines](https://www.reddit.com/r/Philippines) |
@@ -56,13 +57,22 @@ Here's a quick and dirty list that you can [contribute to](https://github.com/yo
 | r/baltimore | !baltimore@kbin.social | [🔗](https://kbin.social/m/baltimore) | Official | [The State of /r/Baltimore: Where We Stand After the Initial Wave of the Blackout](https://www.reddit.com/r/baltimore/comments/14aafvr/the_state_of_rbaltimore_where_we_stand_after_the/) |
 | r/Buttcoin | !Buttcoin@kbin.social | [🔗](https://kbin.social/m/Buttcoin) | Official | [/r/Buttcoin is back online with the same objective, but some additional priorities](https://www.reddit.com/r/Buttcoin/comments/14a82r6/rbuttcoin_is_back_online_with_the_same_objective/) |
 | r/FREEMEDIAHECKYEAH | !freemediaheckyeah@lemmy.fmhy.ml | [🔗](https://lemmy.fmhy.ml/c/freemediaheckyeah) | Official | [We made a Lemmy Instance](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/1445yfs/we_made_a_lemmy_instance/) |
+| r/Megaten | !megaten@lemmy.world | [🔗](https://lemmy.world/c/megaten) | Official | [In the meantime, join !megaten@lemmy.world as an alternative to the sub.](https://www.reddit.com/r/Megaten) |
+| r/Moustache | !Moustache@kbin.social | [🔗](https://kbin.social/m/Moustache) | Official | [An Update on r/Moustache](https://www.reddit.com/r//comments/149q8oi/an_update_on_rmoustache/) |
+| r/PokemonROMhacks | [PokéCommunity](https://www.pokecommunity.com/forumdisplay.php?fn=fan-games) | [🔗](https://www.pokecommunity.com/forumdisplay.php?fn=fan-games) | Affiliated | [In the meantime, visit PokéCommunity's forum](https://www.reddit.com/r/PokemonROMhacks) |
+| r/rpg_brasil | !rpg_brasil@lemmy.world | [🔗](https://lemmy.world/c/rpg_brasil) | Official | [r/rpg_brasil será restrito em 12 de junho por pelo menos 48 horas em protesto contra as mudanças na API do Reddit. Como essa mudança afetará os usuários regulares? Mais informações aqui.](https://old.reddit.com/r//comments/1456ovo/rrpg_brasil_será_restrito_em_12_de_junho_por_pelo/) |
 
 ### 50k+ Subscribers
 
 | Subreddit | New Community | | Status | Announcement |
 | --- | --- | --- | --- | --- |
+| r/AskAGerman | !germany@feddit.de | [🔗](https://feddit.de/c/germany) | Official | [In the interim, please visit https://feddit.de/c/germany.](https://www.reddit.com/r/askagerman) |
 | r/chicagomeetup | !chicagomeetups@lemmy.ml | [🔗](https://lemmy.ml/c/chicagomeetups) | Official | [Lemmy Server](https://www.reddit.com/r/ChicagoMeetup) |
 | r/daystrominstitute | !daystrominstitute@startrek.website | [🔗](https://startrek.website/c/daystrominstitute) | Official | [Looking for an alternative to reddit to talk Trek? Join us on Lemmy!](https://www.reddit.com/r/startrek/comments/14a5t8w/looking_for_an_alternative_to_reddit_to_talk_trek/) |
+| r/Deltarune | !deltarune@lemmy.fmhy.ml | [🔗](https://lemmy.fmhy.ml/c/deltarune) | Official | [r/Deltarune is a private community](https://www.reddit.com/r/Deltarune) |
+| r/ennnnnnnnnnnnbbbbbby | [/f/trans](https://raddle.me/f/trans) | [🔗](https://raddle.me/f/trans) | Official | [Heads-up: r/ennn will be participating in the blackout on the 12th of June, in response to the contempt shown by the Reddit admins for the wellbeing of Reddit itself](https://www.reddit.com/r//comments/14624ek/headsup_rennn_will_be_participating_in_the/) |
+| r/genderqueer | !genderqueer@lemmy.one | [🔗](https://lemmy.one/c/genderqueer) | Official | [We now have a lemmy community at !genderqueer@lemmy.one](https://www.reddit.com/r/genderqueer) |
+| r/memeframe | !memeframe@dormi.zone | [🔗](https://dormi.zone/c/memeframe) | Official | [Find us over at https://dormi.zone/ instead!](https://www.reddit.com/r/memeframe) |
 | r/WayOfTheBern | [WayOfTheBern](https://www.saidit.net/s/WayOfTheBern) | [🔗](https://www.saidit.net/s/WayOfTheBern) | Affiliated | [If you want to talk about it, come to the WayoftheBern Lifeboat we set up years ago as a backup.](https://www.reddit.com/r/WayOfTheBern) |
 
 ### 5k+ Subscribers
