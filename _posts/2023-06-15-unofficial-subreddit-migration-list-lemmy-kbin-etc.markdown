@@ -21,7 +21,6 @@ Here's a quick and dirty list that you can [contribute to](https://github.com/yo
 | Subreddit | New Community | | Status | Announcement |
 | --- | --- | --- | --- | --- |
 | r/3dprinting | !3d_printing@forum.rhombik.com | [🔗](https://forum.rhombik.com/c/3d_printing) | Official | [Join us at rhombik.com](https://www.reddit.com/r/3Dprinting/comments/14a7sh5/join_us_at_rhombikcom/) |
-| r/chicagomeetup | !chicagomeetups@lemmy.ml | [🔗](https://lemmy.ml/c/chicagomeetups) | Official | [Lemmy Server](https://www.reddit.com/r/ChicagoMeetup) |
 | r/GlobalOffensive | !cs@kbin.social | [🔗](https://kbin.social/m/cs) | Official | [Join kbin (a Reddit alternative) here](https://old.reddit.com/r/GlobalOffensive) |
 | r/MMA | !mma@kbin.social | [🔗](https://kbin.social/m/mma) | Official | [Also, join us on kbin: https://kbin.social/m/mma where we will have relaxed posting rules.](https://www.reddit.com/r/MMA) |
 | r/Philippines | !philippines@lemmy.world | [🔗](https://lemmy.world/c/philippines) | Official | [Join us over at https://lemmy.world/c/philippines](https://www.reddit.com/r/Philippines) |
