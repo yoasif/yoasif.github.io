@@ -62,7 +62,6 @@ Here's a quick and dirty list that you can [contribute to](https://github.com/yo
 | r/chicagomeetup | !chicagomeetups@lemmy.ml | [🔗](https://lemmy.ml/c/chicagomeetups) | Official | [Lemmy Server](https://www.reddit.com/r/ChicagoMeetup) |
 | r/daystrominstitute | !daystrominstitute@startrek.website | [🔗](https://startrek.website/c/daystrominstitute) | Official | [Looking for an alternative to reddit to talk Trek? Join us on Lemmy!](https://www.reddit.com/r/startrek/comments/14a5t8w/looking_for_an_alternative_to_reddit_to_talk_trek/) |
 | r/WayOfTheBern | [WayOfTheBern](https://www.saidit.net/s/WayOfTheBern) | [🔗](https://www.saidit.net/s/WayOfTheBern) | Affiliated | [If you want to talk about it, come to the WayoftheBern Lifeboat we set up years ago as a backup.](https://www.reddit.com/r/WayOfTheBern) |
-| r/adhdmemes | !adhd@lemmy.dbzer0.com | [🔗](https://lemmy.dbzer0.com/c/adhd) | Unofficial | |
 
 ### 5k+ Subscribers
 
