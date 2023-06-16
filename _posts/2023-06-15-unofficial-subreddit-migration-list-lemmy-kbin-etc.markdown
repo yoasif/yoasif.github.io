@@ -33,13 +33,13 @@ Here's a quick and dirty list that you can [contribute to](https://github.com/yo
 
 | Subreddit | New Community | | Status | Announcement |
 | --- | --- | --- | --- | --- |
-| r/DarkAngels | [Dark Angels & Golden Goddesses](https://darkangelsxgoldengoddesses.tumblr.com/) | [🔗](https://darkangelsxgoldengoddesses.tumblr.com/) | Official | [You may follow us on Tumblr at darkangelsxgoldengoddesses.](https://darkangelsxgoldengoddesses.tumblr.com/) |
+| r/DarkAngels | [Dark Angels & Golden Goddesses](https://darkangelsxgoldengoddesses.tumblr.com/) | [🔗](https://darkangelsxgoldengoddesses.tumblr.com/) | Official | [You may follow us on Tumblr at darkangelsxgoldengoddesses.](https://www.reddit.com/r/DarkAngels) |
 | r/Disneyland | !Disneyland@kbin.social | [🔗](https://kbin.social/m/Disneyland) | Official | [To access us on Lemmy, paste https://kbin.social/m/Disneyland into your Lemmy search bar.](https://www.reddit.com/r/disneyland) |
 | r/pathofexile | !pathofexile@pathofexile-discuss.com | [🔗](https://pathofexile-discuss.com/c/pathofexile) | Official | [Alternative reddit-like site](https://www.reddit.com/r/pathofexile) |
 | r/Sissies | !sissies@lemmynsfw.com | [🔗](https://lemmynsfw.com/c/sissies) | Official | [How we want to continue after the blackout & r/Sissies on Lemmy](https://lemmynsfw.com/c/sissies) |
 | r/startrek | !startrek@startrek.website | [🔗](https://startrek.website/c/startrek) | Official | [Looking for an alternative to reddit to talk Trek? Join us on Lemmy!](https://www.reddit.com/r/startrek/comments/14a5t8w/looking_for_an_alternative_to_reddit_to_talk_trek/) |
 | r/Warframe | !warframe@dormi.zone | [🔗](https://dormi.zone/c/warframe) | Official | [Find us over at https://dormi.zone instead!](https://www.reddit.com/r/Warframe/) |
-| r/WomenOfColor | [Dark Angels & Golden Goddesses](https://darkangelsxgoldengoddesses.tumblr.com/) | [🔗](https://darkangelsxgoldengoddesses.tumblr.com/) | Official | [You may follow us on Tumblr at darkangelsxgoldengoddesses.](https://darkangelsxgoldengoddesses.tumblr.com/) |
+| r/WomenOfColor | [Dark Angels & Golden Goddesses](https://darkangelsxgoldengoddesses.tumblr.com/) | [🔗](https://darkangelsxgoldengoddesses.tumblr.com/) | Official | [You may follow us on Tumblr at darkangelsxgoldengoddesses.](https://www.reddit.com/r/WomenOfColor) |
 
 ### 250k+ Subscribers
 
