@@ -28,9 +28,11 @@ Here's a quick and dirty list that you can [contribute to](https://github.com/yo
 | r/OldMinecraft | [/s/OldMinecraft](https://squabbles.io/s/OldMinecraft) | [🔗](https://squabbles.io/s/OldMinecraft) | Official | [https://squabbles.io/s/OldMinecraft](https://www.reddit.com/r/OldMinecraft) |
 | r/piracy | !piracy@lemmy.dbzer0 | [🔗](https://lemmy.dbzer0.com/c/piracy) | Official | [⚓ Join us ➜ https://lemmy.dbzer0.com/c/piracy 🏴‍☠️](https://www.reddit.com/r/piracy) |
 | r/risa | !risa@startrek.website | [🔗](https://startrek.website/c/risa) | Official | [Looking for an alternative to reddit to talk Trek? Join us on Lemmy!](https://www.reddit.com/r/startrek/comments/14a5t8w/looking_for_an_alternative_to_reddit_to_talk_trek/) |
+| r/Sauna | !sauna@r-sauna.fi | [🔗](https://r-sauna.fi/c/sauna) | Official | [An attempt at an alternative home during the Reddit protests, and afterwards](https://r-sauna.fi/post/1) |
 | r/startrek | !startrek@startrek.website | [🔗](https://startrek.website/c/startrek) | Official | [Looking for an alternative to reddit to talk Trek? Join us on Lemmy!](https://www.reddit.com/r/startrek/comments/14a5t8w/looking_for_an_alternative_to_reddit_to_talk_trek/) |
 | r/steamdeck_linux | !steamdeck@sopuli.xyz | [🔗](https://startrek.website/c/startrek) | Official | [[Meta] r/steamdeck_linux will henceforth be restricted. Consider this the canon forum for the community.](https://sopuli.xyz/post/695503) |
 | r/VeganLobby | [Veganism Social](https://veganism.social/) | [🔗](https://veganism.social/) | Official | [We've moved to https://veganism.social](https://veganism.social/about) |
+| r/WayOfTheBern | [WayOfTheBern](https://www.saidit.net/s/WayOfTheBern) | [🔗](https://www.saidit.net/s/WayOfTheBern) | Affiliated | [If you want to talk about it, come to the WayoftheBern Lifeboat we set up years ago as a backup.](https://www.reddit.com/r/WayOfTheBern) |
 
 ---
 
