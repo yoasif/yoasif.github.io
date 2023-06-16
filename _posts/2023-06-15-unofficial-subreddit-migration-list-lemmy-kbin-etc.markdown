@@ -86,7 +86,7 @@ Here's a quick and dirty list that you can [contribute to](https://github.com/yo
 | r/chicagomeetup | !chicagomeetups@lemmy.ml | [🔗](https://lemmy.ml/c/chicagomeetups) | Official | [Lemmy Server](https://www.reddit.com/r/ChicagoMeetup) |
 | r/OldMinecraft | [/s/OldMinecraft](https://squabbles.io/s/OldMinecraft) | [🔗](https://squabbles.io/s/OldMinecraft) | Official | [https://squabbles.io/s/OldMinecraft](https://www.reddit.com/r/OldMinecraft) |
 | r/risa | !risa@startrek.website | [🔗](https://startrek.website/c/risa) | Official | [Looking for an alternative to reddit to talk Trek? Join us on Lemmy!](https://www.reddit.com/r/startrek/comments/14a5t8w/looking_for_an_alternative_to_reddit_to_talk_trek/) |
-| r/steamdeck_linux | !steamdeck@sopuli.xyz | [🔗](https://startrek.website/c/startrek) | Official | [[Meta] r/steamdeck_linux will henceforth be restricted. Consider this the canon forum for the community.](https://sopuli.xyz/post/695503) |
+| r/steamdeck_linux | !steamdeck@sopuli.xyz | [🔗](https://sopuli.xyz/c/steamdeck) | Official | [[Meta] r/steamdeck_linux will henceforth be restricted. Consider this the canon forum for the community.](https://sopuli.xyz/post/695503) |
 
 ---
 
