@@ -24,7 +24,7 @@ Here's a quick and dirty list that you can [contribute to](https://github.com/yo
 | r/GlobalOffensive | !cs@kbin.social | [🔗](https://kbin.social/m/cs) | Official | [Join kbin (a Reddit alternative) here](https://old.reddit.com/r/GlobalOffensive) |
 | r/MMA | !mma@kbin.social | [🔗](https://kbin.social/m/mma) | Official | [Also, join us on kbin: https://kbin.social/m/mma where we will have relaxed posting rules.](https://www.reddit.com/r/MMA) |
 | r/Philippines | !philippines@lemmy.world | [🔗](https://lemmy.world/c/philippines) | Official | [Join us over at https://lemmy.world/c/philippines](https://www.reddit.com/r/Philippines) |
-| r/piracy | !piracy@lemmy.dbzer0 | [🔗](https://lemmy.dbzer0.com/c/piracy) | Official | [⚓ Join us ➜ https://lemmy.dbzer0.com/c/piracy 🏴‍☠️](https://www.reddit.com/r/piracy) |
+| r/piracy | !piracy@lemmy.dbzer0.com | [🔗](https://lemmy.dbzer0.com/c/piracy) | Official | [⚓ Join us ➜ https://lemmy.dbzer0.com/c/piracy 🏴‍☠️](https://www.reddit.com/r/piracy) |
 | r/SimpleLiving | !simpleliving@lemmy.ml | [🔗](https://lemmy.ml/c/simpleliving) | Official | [If you — like many of us — no longer wish to use Reddit, please consider joining us at https://lemmy.ml/c/simpleliving](https://www.reddit.com/r/SimpleLiving) |
 | r/truegaming | !truegaming@kbin.social | [🔗](https://kbin.social/m/truegaming) | Official | [/r/truegaming is remaining restricted and some other updates](https://www.reddit.com/r/truegaming/comments/149c1vj/rtruegaming_is_remaining_restricted_and_some/) |
 | r/ZeroWaste | !zerowaste@lemmy.ml | [🔗](https://lemmy.ml/c/zerowaste) | Official | [If you — like many of us — no longer wish to use Reddit, please consider joining us at https://lemmy.ml/c/zerowaste](https://www.reddit.com/r/ZeroWaste) |
@@ -46,13 +46,14 @@ Here's a quick and dirty list that you can [contribute to](https://github.com/yo
 | Subreddit | New Community | | Status | Announcement |
 | --- | --- | --- | --- | --- |
 | r/China | !china@latte.isnot.coffee | [🔗](https://latte.isnot.coffee/c/china) | Official | [Please see: https://latte.isnot.coffee/c/china for an alternative](https://www.reddit.com/r/china) |
+| r/StableDiffusion | !stable_diffusion@lemmy.dbzer0.com | [🔗](https://lemmy.dbzer0.com/c/stable_diffusion) | Official | [Please see: Check out our new Lemmy instance: https://lemmy.dbzer0.com/c/stable_diffusion](https://www.reddit.com/r/StableDiffusion) |
 
 ### 100k+ Subscribers
 
 | Subreddit | New Community | | Status | Announcement |
 | --- | --- | --- | --- | --- |
+| r/Buttcoin | !Buttcoin@kbin.social | [🔗](https://kbin.social/m/Buttcoin) | Official | [/r/Buttcoin is back online with the same objective, but some additional priorities](https://www.reddit.com/r/Buttcoin/comments/14a82r6/rbuttcoin_is_back_online_with_the_same_objective/) |
 | r/FREEMEDIAHECKYEAH | !freemediaheckyeah@lemmy.fmhy.ml | [🔗](https://lemmy.fmhy.ml/c/freemediaheckyeah) | Official | [We made a Lemmy Instance](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/1445yfs/we_made_a_lemmy_instance/) |
-
 
 ### 50k+ Subscribers
 
