@@ -27,7 +27,7 @@ Here's a quick and dirty list that you can [contribute to](https://github.com/yo
 | r/Philippines | !philippines@lemmy.world | [🔗](https://lemmy.world/c/philippines) | Official | [Join us over at https://lemmy.world/c/philippines](https://www.reddit.com/r/Philippines) |
 | r/piracy | !piracy@lemmy.dbzer0.com | [🔗](https://lemmy.dbzer0.com/c/piracy) | Official | [⚓ Join us ➜ https://lemmy.dbzer0.com/c/piracy 🏴‍☠️](https://www.reddit.com/r/piracy) |
 | r/SimpleLiving | !simpleliving@lemmy.ml | [🔗](https://lemmy.ml/c/simpleliving) | Official | [If you — like many of us — no longer wish to use Reddit, please consider joining us at https://lemmy.ml/c/simpleliving](https://www.reddit.com/r/SimpleLiving) |
-| r/snowboarding | !snowboarding@kbin.social | [🔗](https://kbin.social/m/snowboarding) | Former Moderator | [Unofficial Subreddit Migration List (Lemmy, Kbin)](https://lemmy.dbzer0.com/comment/104494) |
+| r/snowboarding | !snowboarding@kbin.social | [🔗](https://kbin.social/m/snowboarding) | Former moderator | [Unofficial Subreddit Migration List (Lemmy, Kbin)](https://lemmy.dbzer0.com/comment/104494) |
 | r/truegaming | !truegaming@kbin.social | [🔗](https://kbin.social/m/truegaming) | Official | [/r/truegaming is remaining restricted and some other updates](https://www.reddit.com/r/truegaming/comments/149c1vj/rtruegaming_is_remaining_restricted_and_some/) |
 | r/ZeroWaste | !zerowaste@lemmy.ml | [🔗](https://lemmy.ml/c/zerowaste) | Official | [If you — like many of us — no longer wish to use Reddit, please consider joining us at https://lemmy.ml/c/zerowaste](https://www.reddit.com/r/ZeroWaste) |
 
