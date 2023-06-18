@@ -27,6 +27,7 @@ Here's a quick and dirty list that you can [contribute to](https://github.com/yo
 | r/Philippines | !philippines@lemmy.world | [🔗](https://lemmy.world/c/philippines) | Official | [Join us over at https://lemmy.world/c/philippines](https://www.reddit.com/r/Philippines) |
 | r/piracy | !piracy@lemmy.dbzer0.com | [🔗](https://lemmy.dbzer0.com/c/piracy) | Official | [⚓ Join us ➜ https://lemmy.dbzer0.com/c/piracy 🏴‍☠️](https://www.reddit.com/r/piracy) |
 | r/SimpleLiving | !simpleliving@lemmy.ml | [🔗](https://lemmy.ml/c/simpleliving) | Official | [If you — like many of us — no longer wish to use Reddit, please consider joining us at https://lemmy.ml/c/simpleliving](https://www.reddit.com/r/SimpleLiving) |
+| r/snowboarding | !snowboarding@kbin.social | [🔗](https://kbin.social/m/snowboarding) | Former Moderator | [Unofficial Subreddit Migration List (Lemmy, Kbin)](https://lemmy.dbzer0.com/comment/104494) |
 | r/truegaming | !truegaming@kbin.social | [🔗](https://kbin.social/m/truegaming) | Official | [/r/truegaming is remaining restricted and some other updates](https://www.reddit.com/r/truegaming/comments/149c1vj/rtruegaming_is_remaining_restricted_and_some/) |
 | r/ZeroWaste | !zerowaste@lemmy.ml | [🔗](https://lemmy.ml/c/zerowaste) | Official | [If you — like many of us — no longer wish to use Reddit, please consider joining us at https://lemmy.ml/c/zerowaste](https://www.reddit.com/r/ZeroWaste) |
 
@@ -58,6 +59,7 @@ Here's a quick and dirty list that you can [contribute to](https://github.com/yo
 | --- | --- | --- | --- | --- |
 | r/baltimore | !baltimore@kbin.social | [🔗](https://kbin.social/m/baltimore) | Official | [The State of /r/Baltimore: Where We Stand After the Initial Wave of the Blackout](https://www.reddit.com/r/baltimore/comments/14aafvr/the_state_of_rbaltimore_where_we_stand_after_the/) |
 | r/Buttcoin | !Buttcoin@kbin.social | [🔗](https://kbin.social/m/Buttcoin) | Official | [/r/Buttcoin is back online with the same objective, but some additional priorities](https://www.reddit.com/r/Buttcoin/comments/14a82r6/rbuttcoin_is_back_online_with_the_same_objective/) |
+| r/firefox | !firefox@fedia.io | [🔗](https://fedia.io/m/firefox) | Sister organization | [What's Going on with r/Firefox? Reddit? What's Next?]({% post_url 2023-06-12-whats-going-on-with-reddit-firefox-whats-next %})) |
 | r/FREEMEDIAHECKYEAH | !freemediaheckyeah@lemmy.fmhy.ml | [🔗](https://lemmy.fmhy.ml/c/freemediaheckyeah) | Official | [We made a Lemmy Instance](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/1445yfs/we_made_a_lemmy_instance/) |
 | r/Megaten | !megaten@lemmy.world | [🔗](https://lemmy.world/c/megaten) | Official | [In the meantime, join !megaten@lemmy.world as an alternative to the sub.](https://www.reddit.com/r/Megaten) |
 | r/Moustache | !Moustache@kbin.social | [🔗](https://kbin.social/m/Moustache) | Official | [An Update on r/Moustache](https://www.reddit.com/r//comments/149q8oi/an_update_on_rmoustache/) |
