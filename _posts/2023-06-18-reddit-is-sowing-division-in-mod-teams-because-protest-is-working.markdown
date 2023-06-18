@@ -70,7 +70,7 @@ I then suggested that we not worry too much about what we asked for - as a way t
 
 Which we generally agreed upon... until we didn't. 
 
-Upon trying to get final approval on sending the response, we hit a snag. One of my fellow moderators had an issue with of of my concerns.
+Upon trying to get final approval on sending the response, we hit a snag. One of my fellow moderators had an issue with one of my concerns.
 
 We ended up having a discussion that I had wanted to avoid. 
 
@@ -82,7 +82,7 @@ Which I was forced to do.
 
 My tip right now is this. 
 
-Make your list of demands as long as you want. Do you think you ae going to be able to make a difference when r/apple and r/pics and r/aww have had to fold in various amusing ways?
+Make your list of demands as long as you want. Do you think you are going to be able to make a difference when r/apple and r/pics and r/aww have had to fold in [various amusing ways](https://www.theverge.com/2023/6/17/23764729/reddit-users-pics-gifs-subreddits-john-oliver)?
 
 You just want to maintain the protest until one side blinks. 
 
