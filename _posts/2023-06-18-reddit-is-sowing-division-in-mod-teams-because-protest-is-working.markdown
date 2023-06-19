@@ -89,7 +89,7 @@ Which I was forced to do.
 
 My tip right now is this. 
 
-Make your list of demands as long as you want. Do you think you are going to be able to make a difference when r/apple and r/pics and r/aww have had to fold in [various amusing ways](https://www.theverge.com/2023/6/17/23764729/reddit-users-pics-gifs-subreddits-john-oliver)?
+Make your list of demands as long as you want. Do you think you are going to be able to make a difference when [r/apple](https://www.reddit.com/r/apple/comments/14al426/rapple_blackout_what_happened/) and [r/pics](https://www.reddit.com/r/pics/comments/14bai7s/henceforth_rpics_will_feature_only_images_of_john/) and [r/aww](https://www.reddit.com/r/aww/comments/14cgp6d/henceforth_raww_will_only_feature_john_oliver/) have had to fold in [various amusing ways](https://www.theverge.com/2023/6/17/23764729/reddit-users-pics-gifs-subreddits-john-oliver)?
 
 You just want to maintain the protest until one side blinks. 
 
@@ -113,7 +113,7 @@ Ready to fight another day.
 
 [John Oliver supports us](https://twitter.com/iamjohnoliver/status/1670179738348933120).
 
-There are options.
+There are [options]({% post_url 2023-06-15-unofficial-subreddit-migration-list-lemmy-kbin-etc %} "Unofficial Subreddit Migration List (Lemmy, Kbin)").
 
 We can get [paid]({% post_url 2023-05-03-with-its-API-update-reddit-should-start-paying-its-users %} "With its API Update, Reddit Should Start Paying its Users (Or They Should Leave)"). Or you can [leave]({% post_url 2023-05-03-with-its-API-update-reddit-should-start-paying-its-users %} "With its API Update, Reddit Should Start Paying its Users (Or They Should Leave)").
 
