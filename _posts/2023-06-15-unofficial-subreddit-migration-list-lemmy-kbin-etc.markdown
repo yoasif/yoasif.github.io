@@ -52,7 +52,7 @@ Here's a quick and dirty list that you can [contribute to](https://github.com/yo
 | r/brisbane | !brisbane@aussie.zone | [🔗](https://aussie.zone/c/brisbane) | Endorsed | [The /r/brisbane response to the Protests](https://www.reddit.com/r/brisbane/comments/14ak5r4/the_rbrisbane_response_to_the_protests/)
 | r/China | !china@latte.isnot.coffee | [🔗](https://latte.isnot.coffee/c/china) | Official | [Please see: https://latte.isnot.coffee/c/china for an alternative](https://www.reddit.com/r/china) |
 | r/montreal | !montreal@lemmy.ca | [🔗](https://lemmy.ca/c/montreal) | Official | [Ou essayez Lemmy Montréal : https://lemmy.ca/c/montreal](https://www.reddit.com/r/montreal) |
-| r/selfhosted | [r/SelfHosted](https://forum.r-selfhosted.com/) | [🔗](https://lemmy.ml/c/postmarketOS) | Official | [The Subreddit Will Go On - The Community Must Be Put First](https://www.reddit.com/r/selfhosted/comments/14cqjeb/the_subreddit_will_go_on_the_community_must_be/) |
+| r/selfhosted | [r/SelfHosted](https://forum.r-selfhosted.com/) | [🔗](https://forum.r-selfhosted.com/) | Official | [The Subreddit Will Go On - The Community Must Be Put First](https://www.reddit.com/r/selfhosted/comments/14cqjeb/the_subreddit_will_go_on_the_community_must_be/) |
 | r/StableDiffusion | !stable_diffusion@lemmy.dbzer0.com | [🔗](https://lemmy.dbzer0.com/c/stable_diffusion) | Official | [Please see: Check out our new Lemmy instance: https://lemmy.dbzer0.com/c/stable_diffusion](https://www.reddit.com/r/StableDiffusion) |
 
 ### 100k+ Subscribers
@@ -65,6 +65,7 @@ Here's a quick and dirty list that you can [contribute to](https://github.com/yo
 | r/FREEMEDIAHECKYEAH | !freemediaheckyeah@lemmy.fmhy.ml | [🔗](https://lemmy.fmhy.ml/c/freemediaheckyeah) | Official | [We made a Lemmy Instance](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/1445yfs/we_made_a_lemmy_instance/) |
 | r/Megaten | !megaten@lemmy.world | [🔗](https://lemmy.world/c/megaten) | Official | [In the meantime, join !megaten@lemmy.world as an alternative to the sub.](https://www.reddit.com/r/Megaten) |
 | r/Moustache | !Moustache@kbin.social | [🔗](https://kbin.social/m/Moustache) | Official | [An Update on r/Moustache](https://www.reddit.com/r//comments/149q8oi/an_update_on_rmoustache/) |
+| r/ObscureMedia | !obscuremedia@lemmy.world or !ObscureMedia@kbin.social | [🔗](https://lemmy.world/c/obscuremedia) or [🔗](https://kbin.social/m/ObscureMedia) | Official | [The future of r/ObscureMedia and Reddit](https://www.reddit.com/r/postmarketOS) |
 | r/PokemonROMhacks | [PokéCommunity](https://www.pokecommunity.com/forumdisplay.php?fn=fan-games) | [🔗](https://www.pokecommunity.com/forumdisplay.php?fn=fan-games) | Endorsed | [In the meantime, visit PokéCommunity's forum](https://www.reddit.com/r/PokemonROMhacks) |
 | r/rpg_brasil | !rpg_brasil@lemmy.world | [🔗](https://lemmy.world/c/rpg_brasil) | Official | [r/rpg_brasil será restrito em 12 de junho por pelo menos 48 horas em protesto contra as mudanças na API do Reddit. Como essa mudança afetará os usuários regulares? Mais informações aqui.](https://www.reddit.com/r/rpg_brasil/comments/1456ovo/rrpg_brasil_ser%C3%A1_restrito_em_12_de_junho_por_pelo/) |
 
