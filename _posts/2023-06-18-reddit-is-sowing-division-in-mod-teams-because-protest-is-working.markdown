@@ -6,7 +6,7 @@ categories: writing
 tags: Reddit Protest
 ---
 
-It is the weekend, and no one likes working on the weekend, but Reddit sems to have no issue making their team work on the weekend. 
+It is the weekend, and no one likes working on the weekend... but Reddit seems to have no issue making their teams do it. 
 
 <p>
 	<figure>
@@ -51,21 +51,28 @@ I actually realized as it was happening that we were being divided.
 
 I said: 
 
->you know whats crazy? i was just saying that we were on the same page... but friends, this is TRULY stressful , and like i feel like we're kinda breaking apart here on just *writing notes*
+>you know whats crazy? i was just saying that we were on the same page... but friends, this is TRULY stressful, and like i feel like we're kinda breaking apart here on just *writing notes*
 
 One of my fellow mods said "for sure, they're making teams implode".
 
 I then suggested that we not worry too much about what we asked for - as a way to achieve unity:
 
 >i suggest this:
->
+
 >we dont need to remove anything
+>
 >because concision is working against us reaching unity 
+>
 >this is a list of demands
+>
 >they can do with it what they want
+>
 >they will not accept them all
+>
 >they may not accept any
+>
 >there is no point leaving anything out
+>
 >imo
 
 Which we generally agreed upon... until we didn't. 
@@ -100,15 +107,15 @@ But we survived as a team.
 
 Ready to fight another day.
 
-[Thousands of subreddits are down.](https://reddark.untone.uk/).
+[Thousands of subreddits are down](https://reddark.untone.uk/).
 
-[Reddit's revenues are down.](https://www.engadget.com/reddits-average-daily-traffic-fell-during-blackout-according-to-third-party-data-194721801.html)
+[Reddit's revenues are down](https://www.engadget.com/reddits-average-daily-traffic-fell-during-blackout-according-to-third-party-data-194721801.html).
 
-[John Oliver supports us.](https://twitter.com/iamjohnoliver/status/1670179738348933120).
+[John Oliver supports us](https://twitter.com/iamjohnoliver/status/1670179738348933120).
 
 There are options.
 
-We can get [paid. Or you can leave.]({% post_url 2023-05-03-with-its-API-update-reddit-should-start-paying-its-users %} "With its API Update, Reddit Should Start Paying its Users (Or They Should Leave)")
+We can get [paid]({% post_url 2023-05-03-with-its-API-update-reddit-should-start-paying-its-users %} "With its API Update, Reddit Should Start Paying its Users (Or They Should Leave)"). Or you can [leave]({% post_url 2023-05-03-with-its-API-update-reddit-should-start-paying-its-users %} "With its API Update, Reddit Should Start Paying its Users (Or They Should Leave)").
 
 This is your moment. 
 
