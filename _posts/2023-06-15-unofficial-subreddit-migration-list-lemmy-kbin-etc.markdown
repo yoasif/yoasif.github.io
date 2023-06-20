@@ -14,6 +14,16 @@ With /r/startrek [moving to Lemmy](https://www.reddit.com/r/startrek/comments/14
 
 Here's a quick and dirty list that you can [contribute to](https://github.com/yoasif/yoasif.github.io/blob/main/_posts/2023-06-15-unofficial-subreddit-migration-list-lemmy-kbin-etc.markdown). Put new entries in alphabetical order. Pull requests welcome!
 
+##### Updates
+{:.no_toc}
+
+2023-06-20 - Added a "scab" subreddits section, as this will be important as teams are [broken apart]({% post_url 2023-06-18-reddit-is-sowing-division-in-mod-teams-because-protest-is-working %} "Unofficial Subreddit Migration List (Lemmy, Kbin)") and I continue to track endorsements by former moderators.
+
+***
+
+{:toc}
+* toc
+
 ## The List
 
 ### 1+ million Subscribers
@@ -124,6 +134,16 @@ Here's a quick and dirty list that you can [contribute to](https://github.com/yo
 | r/risa | !risa@startrek.website | [🔗](https://startrek.website/c/risa) | Official | [Looking for an alternative to reddit to talk Trek? Join us on Lemmy!](https://www.reddit.com/r/startrek/comments/14a5t8w/looking_for_an_alternative_to_reddit_to_talk_trek/) |
 | r/steamdeck_linux | !steamdeck@sopuli.xyz | [🔗](https://sopuli.xyz/c/steamdeck) | Official | [[Meta] r/steamdeck_linux will henceforth be restricted. Consider this the canon forum for the community.](https://sopuli.xyz/post/695503) |
 | r/WeRollin | !disabled@kbin.social | [🔗](https://kbin.social/m/disabled) | Official | [Update: Alternative to Reddit During Blackout](https://www.reddit.com/r/WeRollin/comments/1476epq/update_alternative_to_reddit_during_blackout/) |
+
+## "Scab" Subreddits
+
+| Subreddit | Confirmed By |
+| --- | --- |
+r/CrazyFuckingVideos | u/TheGordianKnight
+r/IWantToLearn | u/TheGordianKnight
+r/searchandrescue | u/loki_racer
+r/toyotatacoma | u/loki_racer
+r/Celebrities | [Removed as moderator of /r/Celebrities after 14 years](https://kbin.social/m/RedditMigration/t/59559/Removed-as-moderator-of-r-Celebrities-after-14-years)
 
 ---
 
