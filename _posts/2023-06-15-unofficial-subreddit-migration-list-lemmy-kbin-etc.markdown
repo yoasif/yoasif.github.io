@@ -17,7 +17,7 @@ Here's a quick and dirty list that you can [contribute to](https://github.com/yo
 ##### Updates
 {:.no_toc}
 
-2023-06-20 - Added a "scab" subreddits section, as this will be important as teams are [broken apart]({% post_url 2023-06-18-reddit-is-sowing-division-in-mod-teams-because-protest-is-working %} "Unofficial Subreddit Migration List (Lemmy, Kbin)") and I continue to track endorsements by former moderators.
+2023-06-20 - Added a "[scab](#scab-subreddits)" subreddits section, as this will be important as teams are [broken apart]({% post_url 2023-06-18-reddit-is-sowing-division-in-mod-teams-because-protest-is-working %} "Unofficial Subreddit Migration List (Lemmy, Kbin)") and I continue to track endorsements by former moderators.
 
 ***
 
