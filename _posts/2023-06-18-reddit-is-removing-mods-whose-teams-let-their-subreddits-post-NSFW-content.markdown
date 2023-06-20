@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Reddit is Removing Mods Whose Teams Let Their Subreddits Post NSFW Content"
-date:   2023-06-18 07:22:00 -0400
+date:   2023-06-20 07:22:00 -0400
 categories: writing
 tags: Reddit Protest
 ---
