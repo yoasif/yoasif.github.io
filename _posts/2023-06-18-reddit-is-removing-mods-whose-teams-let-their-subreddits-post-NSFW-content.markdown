@@ -19,7 +19,7 @@ u/Davis_Schina confirmed that they received this note from Reddit:
 <p>
   <figure>
     <picture>
-      <source type="image/webp" srcset="{{site.url}}/assets/images/reddit/TIHIday.webp">
+      <source type="image/webp" srcset="{{site.url}}/assets/images/reddit/TIHI.webp">
       <source type="image/png" srcset="{{site.url}}/assets/images/reddit/TIHI.png">
       <img src="{{site.url}}/assets/images/reddit/TIHI.png" alt="Screenshot of message sent to TIHI mods"/>
     </picture>
