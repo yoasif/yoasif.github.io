@@ -139,10 +139,11 @@ Here's a quick and dirty list that you can [contribute to](https://github.com/yo
 
 | Subreddit | Confirmed By |
 | --- | --- |
-r/IWantToLearn | u/TheGordianKnight
-r/searchandrescue | u/loki_racer
-r/toyotatacoma | u/loki_racer
 r/Celebrities | [Removed as moderator of /r/Celebrities after 14 years](https://kbin.social/m/RedditMigration/t/59559/Removed-as-moderator-of-r-Celebrities-after-14-years)
+r/IWantToLearn | u/TheGordianKnight
+r/JustGuysBeingDudes | u/MasterpieceFit6715
+r/searchandrescue | [Removed from /r/searchandrescue, which was public, in retaliation for other subs being private.](https://www.reddit.com/r/ModCoord/comments/14efshe/removed_from_rsearchandrescue_which_was_public_in/)
+r/toyotatacoma | u/loki_racer
 
 ---
 
