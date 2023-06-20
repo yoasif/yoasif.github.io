@@ -139,7 +139,6 @@ Here's a quick and dirty list that you can [contribute to](https://github.com/yo
 
 | Subreddit | Confirmed By |
 | --- | --- |
-r/CrazyFuckingVideos | u/TheGordianKnight
 r/IWantToLearn | u/TheGordianKnight
 r/searchandrescue | u/loki_racer
 r/toyotatacoma | u/loki_racer
