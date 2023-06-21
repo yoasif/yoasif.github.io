@@ -90,6 +90,7 @@ Here's a quick and dirty list that you can [contribute to](https://github.com/yo
 | r/ennnnnnnnnnnnbbbbbby | [/f/trans](https://raddle.me/f/trans) | [🔗](https://raddle.me/f/trans) | Official | [Heads-up: r/ennn will be participating in the blackout on the 12th of June, in response to the contempt shown by the Reddit admins for the wellbeing of Reddit itself](https://www.reddit.com/r//comments/14624ek/headsup_rennn_will_be_participating_in_the/) |
 | r/genderqueer | !genderqueer@lemmy.one | [🔗](https://lemmy.one/c/genderqueer) | Official | [We now have a lemmy community at !genderqueer@lemmy.one](https://www.reddit.com/r/genderqueer) |
 | r/memeframe | !memeframe@dormi.zone | [🔗](https://dormi.zone/c/memeframe) | Official | [Find us over at https://dormi.zone/ instead!](https://www.reddit.com/r/memeframe) |
+| r/pop_os | !pop_os@lemmy.world | [🔗](https://lemmy.ml/c/pop_os@lemmy.world) | Official | [https://lemmy.ml/c/pop_os@lemmy.world](https://www.reddit.com/r/pop_os/comments/14adq09/for_those_seeking_a_reddit_alternative_we_have_an/) |
 | r/WayOfTheBern | [WayOfTheBern](https://www.saidit.net/s/WayOfTheBern) | [🔗](https://www.saidit.net/s/WayOfTheBern) | Official | [If you want to talk about it, come to the WayoftheBern Lifeboat we set up years ago as a backup.](https://www.reddit.com/r/WayOfTheBern) |
 
 ### 5k+ Subscribers
