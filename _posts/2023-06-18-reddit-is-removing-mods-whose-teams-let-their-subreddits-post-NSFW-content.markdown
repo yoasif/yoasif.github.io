@@ -6,9 +6,25 @@ categories: writing
 tags: Reddit Protest
 ---
 
-Update: [The Verge has now posted about this](https://www.theverge.com/2023/6/20/23767848/reddit-blackout-api-protest-moderators-suspended-nsfw):
+Update: *The Verge* has now [posted about this](https://www.theverge.com/2023/6/20/23767848/reddit-blackout-api-protest-moderators-suspended-nsfw):
 
 >“Moderators incorrectly marking a community as NSFW is a violation of both our Content Policy and Moderator Code of Conduct,” Reddit spokesperson Tim Rathschmidt said to The Verge. He declined to comment when asked if Reddit removed the mods.
+
+Update #2: Less than an hour after the first update, Reddit seems to have put the teams back in place, backpedaling very quickly.
+
+<p>
+  <figure>
+    <picture>
+      <source type="image/webp" srcset="{{site.url}}/assets/images/reddit/mildlyinteresting-mod.webp">
+      <source type="image/png" srcset="{{site.url}}/assets/images/reddit/mildlyinteresting-mod.png">
+      <img src="{{site.url}}/assets/images/reddit/mildlyinteresting-mod.png" alt="Screenshot of message sent to mildlyinteresting mods"/>
+    </picture>
+    <figcaption>Screenshot of message sent to the mildlyinteresting mods
+    </figcaption>
+  </figure>
+</p>
+
+The whiplash from these latest moves is insane!
 
 ---
 
@@ -18,18 +34,18 @@ Things are moving fast again, so this is going to be another quick and dirty pos
 
 In the newest front in the Reddit protest, subreddits had begun allowing NSFW content, in order to deprive Reddit of ad targeting opportunities for the subreddit.
 
-Just a few minutes ago, the moderation teams for r/mildlyinteresting, r/interestingasfuck, and r/TIHI were mass removed.
+Just a few minutes ago, the moderation teams for r/mildlyinteresting, r/interestingasfuck, and r/mildlyinteresting-mod were mass removed.
 
 u/Davis_Schina confirmed that they received this note from Reddit:
 
 <p>
   <figure>
     <picture>
-      <source type="image/webp" srcset="{{site.url}}/assets/images/reddit/TIHI.webp">
-      <source type="image/png" srcset="{{site.url}}/assets/images/reddit/TIHI.png">
-      <img src="{{site.url}}/assets/images/reddit/TIHI.png" alt="Screenshot of message sent to TIHI mods"/>
+      <source type="image/webp" srcset="{{site.url}}/assets/images/reddit/mildlyinteresting-mod.webp">
+      <source type="image/png" srcset="{{site.url}}/assets/images/reddit/mildlyinteresting-mod.png">
+      <img src="{{site.url}}/assets/images/reddit/mildlyinteresting-mod.png" alt="Screenshot of message sent to mildlyinteresting-mod mods"/>
     </picture>
-    <figcaption>Screenshot of message sent to TIHI mods
+    <figcaption>Screenshot of message sent to mildlyinteresting-mod mods
     </figcaption>
   </figure>
 </p>
