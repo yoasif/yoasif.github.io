@@ -47,9 +47,9 @@ u/Davis_Schina confirmed that they received this note from Reddit:
     <picture>
       <source type="image/webp" srcset="{{site.url}}/assets/images/reddit/mildlyinteresting-mod.webp">
       <source type="image/png" srcset="{{site.url}}/assets/images/reddit/mildlyinteresting-mod.png">
-      <img src="{{site.url}}/assets/images/reddit/mildlyinteresting-mod.png" alt="Screenshot of message sent to mildlyinteresting-mod mods"/>
+      <img src="{{site.url}}/assets/images/reddit/mildlyinteresting-mod.png" alt="Screenshot of message sent to r/mildlyinteresting mods"/>
     </picture>
-    <figcaption>Screenshot of message sent to mildlyinteresting-mod mods
+    <figcaption>Screenshot of message sent to r/mildlyinteresting mods
     </figcaption>
   </figure>
 </p>
