@@ -34,7 +34,7 @@ Things are moving fast again, so this is going to be another quick and dirty pos
 
 In the newest front in the Reddit protest, subreddits had begun allowing NSFW content, in order to deprive Reddit of ad targeting opportunities for the subreddit.
 
-Just a few minutes ago, the moderation teams for r/mildlyinteresting, r/interestingasfuck, and r/mildlyinteresting-mod were mass removed.
+Just a few minutes ago, the moderation teams for r/mildlyinteresting, r/interestingasfuck, and r/TIHI were mass removed.
 
 u/Davis_Schina confirmed that they received this note from Reddit:
 
