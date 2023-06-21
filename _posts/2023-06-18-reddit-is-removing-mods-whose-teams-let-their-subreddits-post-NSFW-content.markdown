@@ -10,7 +10,7 @@ Update: *The Verge* has now [posted about this](https://www.theverge.com/2023/6/
 
 >“Moderators incorrectly marking a community as NSFW is a violation of both our Content Policy and Moderator Code of Conduct,” Reddit spokesperson Tim Rathschmidt said to The Verge. He declined to comment when asked if Reddit removed the mods.
 
-Update #2: Less than an hour after the first update, Reddit seems to have put the teams back in place, backpedaling very quickly.
+Update #2: Less than an hour after the first update, Reddit seems to have put some of the teams back in place, (partially) backpedaling very quickly.
 
 <p>
   <figure>
