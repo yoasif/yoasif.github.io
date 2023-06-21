@@ -96,6 +96,7 @@ Here's a quick and dirty list that you can [contribute to](https://github.com/yo
 
 | Subreddit | New Community | | Status | Announcement |
 | --- | --- | --- | --- | --- |
+| r/Blind | !main@rblind.com | [🔗](https://rblind.com/c/main) | Official | [!!Open Alpha!! RBlind - A community on Lemmy, brought to you by the moderators of the /r/blind subreddit.](https://www.reddit.com/r/postmarketOS) |
 | r/Cebu | !cebu@lemmy.world | [🔗](https://lemmy.world/c/cebu) | Official | [In the meantime, join us over on Lemmy](https://www.reddit.com/r/Cebu) |
 | r/Darksiders | !darksiders@lemmy.blahaj.zone | [🔗](https://lemmy.blahaj.zone/c/darksiders) | Official | [ Join the Darksiders community on Lemmy!](https://www.reddit.com/r/Darksiders) |
 | r/destinycirclejerk | !destinycirclejerk@lemmy.world | [🔗](https://lemmy.world/c/destinycirclejerk) | Official | [DCJ will remain restricted indefinitely until Reddit stops screwing over third party apps](https://www.reddit.com/r//comments/149kq8m/dcj_will_remain_restricted_indefinitely_until/) |
