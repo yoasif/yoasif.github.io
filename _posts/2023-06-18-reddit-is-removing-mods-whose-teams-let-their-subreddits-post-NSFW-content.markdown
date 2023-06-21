@@ -26,6 +26,10 @@ Update #2: Less than an hour after the first update, Reddit seems to have put so
 
 The whiplash from these latest moves is insane!
 
+Update #3: *The Verge* also updated their story:
+
+>While r/MildlyInteresting got its mods back, other newly NSFW subs that lost their mods Thursday still don’t have them. r/interestingasfuck (11 million subscribers), r/TIHI (1.7 million subscribers), and r/ShittyLifeProTips (1.6 million subscribers), which had all gone NSFW or loosened their rules, are currently unmoderated. 
+
 ---
 
 Things are moving fast again, so this is going to be another quick and dirty post... Reddit is now removing mod teams without any pretense of speaking for moderators.
