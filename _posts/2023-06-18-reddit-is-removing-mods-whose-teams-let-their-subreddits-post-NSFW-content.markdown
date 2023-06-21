@@ -6,6 +6,12 @@ categories: writing
 tags: Reddit Protest
 ---
 
+Update: [The Verge has now posted about this](https://www.theverge.com/2023/6/20/23767848/reddit-blackout-api-protest-moderators-suspended-nsfw):
+
+>“Moderators incorrectly marking a community as NSFW is a violation of both our Content Policy and Moderator Code of Conduct,” Reddit spokesperson Tim Rathschmidt said to The Verge. He declined to comment when asked if Reddit removed the mods.
+
+---
+
 Things are moving fast again, so this is going to be another quick and dirty post... Reddit is now removing mod teams without any pretense of speaking for moderators.
 
 * * * 
