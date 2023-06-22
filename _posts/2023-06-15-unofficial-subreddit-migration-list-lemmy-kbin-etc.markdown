@@ -75,7 +75,7 @@ Here's a quick and dirty list that you can [contribute to](https://github.com/yo
 | r/FREEMEDIAHECKYEAH | !freemediaheckyeah@lemmy.fmhy.ml | [🔗](https://lemmy.fmhy.ml/c/freemediaheckyeah) | Official | [We made a Lemmy Instance](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/1445yfs/we_made_a_lemmy_instance/) |
 | r/Megaten | !megaten@lemmy.world | [🔗](https://lemmy.world/c/megaten) | Official | [In the meantime, join !megaten@lemmy.world as an alternative to the sub.](https://www.reddit.com/r/Megaten) |
 | r/Moustache | !Moustache@kbin.social | [🔗](https://kbin.social/m/Moustache) | Official | [An Update on r/Moustache](https://www.reddit.com/r//comments/149q8oi/an_update_on_rmoustache/) |
-| r/ObscureMedia | !obscuremedia@lemmy.world or !ObscureMedia@kbin.social | [🔗](https://lemmy.world/c/obscuremedia) or [🔗](https://kbin.social/m/ObscureMedia) | Official | [The future of r/ObscureMedia and Reddit](https://www.reddit.com/r/postmarketOS) |
+| r/ObscureMedia | !obscuremedia@lemmy.world or !ObscureMedia@kbin.social | [🔗](https://lemmy.world/c/obscuremedia) or [🔗](https://kbin.social/m/ObscureMedia) | Official | [The future of r/ObscureMedia and Reddit](https://www.reddit.com/r//comments/14cmtcs/the_future_of_robscuremedia_and_reddit/) |
 | r/PokemonROMhacks | [PokéCommunity](https://www.pokecommunity.com/forumdisplay.php?fn=fan-games) | [🔗](https://www.pokecommunity.com/forumdisplay.php?fn=fan-games) | Endorsed | [In the meantime, visit PokéCommunity's forum](https://www.reddit.com/r/PokemonROMhacks) |
 | r/rpg_brasil | !rpg_brasil@lemmy.world | [🔗](https://lemmy.world/c/rpg_brasil) | Official | [r/rpg_brasil será restrito em 12 de junho por pelo menos 48 horas em protesto contra as mudanças na API do Reddit. Como essa mudança afetará os usuários regulares? Mais informações aqui.](https://www.reddit.com/r/rpg_brasil/comments/1456ovo/rrpg_brasil_ser%C3%A1_restrito_em_12_de_junho_por_pelo/) |
 
@@ -97,7 +97,7 @@ Here's a quick and dirty list that you can [contribute to](https://github.com/yo
 
 | Subreddit | New Community | | Status | Announcement |
 | --- | --- | --- | --- | --- |
-| r/Blind | !main@rblind.com | [🔗](https://rblind.com/c/main) | Official | [!!Open Alpha!! RBlind - A community on Lemmy, brought to you by the moderators of the /r/blind subreddit.](https://www.reddit.com/r/postmarketOS) |
+| r/Blind | !main@rblind.com | [🔗](https://rblind.com/c/main) | Official | [!!Open Alpha!! RBlind - A community on Lemmy, brought to you by the moderators of the /r/blind subreddit.](https://www.reddit.com/r//comments/14eaf68/open_alpha_rblind_a_community_on_lemmy_brought_to/) |
 | r/Cebu | !cebu@lemmy.world | [🔗](https://lemmy.world/c/cebu) | Official | [In the meantime, join us over on Lemmy](https://www.reddit.com/r/Cebu) |
 | r/Darksiders | !darksiders@lemmy.blahaj.zone | [🔗](https://lemmy.blahaj.zone/c/darksiders) | Official | [ Join the Darksiders community on Lemmy!](https://www.reddit.com/r/Darksiders) |
 | r/destinycirclejerk | !destinycirclejerk@lemmy.world | [🔗](https://lemmy.world/c/destinycirclejerk) | Official | [DCJ will remain restricted indefinitely until Reddit stops screwing over third party apps](https://www.reddit.com/r//comments/149kq8m/dcj_will_remain_restricted_indefinitely_until/) |
@@ -132,6 +132,7 @@ Here's a quick and dirty list that you can [contribute to](https://github.com/yo
 | --- | --- | --- | --- | --- |
 | r/BeatCollaboration | !MusicCollaboration@kbin.social | [🔗](https://kbin.social/m/MusicCollaboration) | Official | [Update: Alternative to Reddit During Blackout](https://www.reddit.com/r/beatcollaboration/comments/1476mh9/update_alternative_to_reddit_during_blackout/) |
 | r/chicagomeetup | !chicagomeetups@lemmy.ml | [🔗](https://lemmy.ml/c/chicagomeetups) | Official | [Lemmy Server](https://www.reddit.com/r/ChicagoMeetup) |
+| r/GirlGames | !GirlGames@kbin.social | [🔗](https://kbin.social/m/GirlGames) | Official | [We now have a community over on kbin.social!](https://www.reddit.com/r/GirlGames/comments/14829xs/we_now_have_a_community_over_on_kbinsocial/) |
 | r/OldMinecraft | [/s/OldMinecraft](https://squabbles.io/s/OldMinecraft) | [🔗](https://squabbles.io/s/OldMinecraft) | Official | [https://squabbles.io/s/OldMinecraft](https://www.reddit.com/r/OldMinecraft) |
 | r/risa | !risa@startrek.website | [🔗](https://startrek.website/c/risa) | Official | [Looking for an alternative to reddit to talk Trek? Join us on Lemmy!](https://www.reddit.com/r/startrek/comments/14a5t8w/looking_for_an_alternative_to_reddit_to_talk_trek/) |
 | r/steamdeck_linux | !steamdeck@sopuli.xyz | [🔗](https://sopuli.xyz/c/steamdeck) | Official | [[Meta] r/steamdeck_linux will henceforth be restricted. Consider this the canon forum for the community.](https://sopuli.xyz/post/695503) |
