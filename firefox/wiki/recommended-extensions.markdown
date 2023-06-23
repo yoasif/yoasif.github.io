@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: firefox/wiki/recommended-extensions
+permalink: firefox/wiki/recommended-extensions/
 category_name: firefox-docs
 exclude: true
 
