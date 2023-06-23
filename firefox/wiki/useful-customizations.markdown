@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /firefox/wiki/useful-customizations/
+permalink: /firefox/wiki/useful-customizations/index.html
 category_name: firefox-docs
 exclude: true
 
