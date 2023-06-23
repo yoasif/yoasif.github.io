@@ -12,7 +12,7 @@ A comprehensive mapping of old subreddits to new communities.
 
 With /r/startrek [moving to Lemmy](https://www.reddit.com/r/startrek/comments/14a5t8w/looking_for_an_alternative_to_reddit_to_talk_trek/), I realized that Redditors are going to need a way to find their old communities on Lemmy/Kbin.
 
-Here's a quick and dirty list that you can [contribute to]({{site.github.repository_url}}/blob/main/{{page.path}}). Put new entries in alphabetical order. Pull requests welcome!
+Here's a quick and dirty list that you can [contribute to](https://github.com/yoasif/yoasif.github.io/blob/main/_posts/2023-06-15-unofficial-subreddit-migration-list-lemmy-kbin-etc.markdown). Put new entries in alphabetical order. Pull requests welcome!
 
 ##### Updates
 {:.no_toc}
