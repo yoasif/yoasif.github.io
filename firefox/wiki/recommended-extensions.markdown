@@ -26,7 +26,7 @@ You can find Mozilla's recommended add-ons [on AMO](https://addons.mozilla.org/f
 
 ### Dark Mode
 
-**[Dark Background and Light Text](https://addons.mozilla.org/firefox/addon/dark-background-light-text/)** (**⭐ Open Source** **🏆 Recommended by Mozilla**) A simple extension which makes website backgrounds black and text white. Although it doesn't look as nice as Dark Reader, it offers much better performance. 
+**[Dark Background and Light Text](https://addons.mozilla.org/firefox/addon/dark-background-light-text/)** (**⭐ Open Source** **🏆 Recommended by Mozilla**) A simple extension which makes website backgrounds black and text white. Although it doesn't look as nice as Dark Reader, it offers much better performance.
 
 **[Dark Reader](https://addons.mozilla.org/firefox/addon/darkreader/)** (**⭐ Open Source** **🏆 Recommended by Mozilla**) changes every website to light text on a dark background. Makes complicated changes to website color schemes so that it looks natural. 
 
