@@ -1,14 +1,13 @@
 ---
 layout: page
+title: Recommended Extensions
 permalink: /firefox/wiki/recommended-extensions/index.html
 category_name: firefox-docs
 exclude: true
 
 ---
 
-# Recommended Extensions
-
-[Edit this page on GitHub]({{site.github.repository_url}}/blob/main/{{page.path}})
+{% include breadcrumbs.html %}
 
 These are the add-ons most often recommended by the social Firefox community, with a focus on add-ons that don't cause problems.
 
@@ -96,6 +95,8 @@ Paste and Go in built right into the address bar as a right-click mechanism.
 ### Hover Zoom
 
 The Firefox version of this popular enlarge on hover extension has issue. [**Imagus**](https://addons.mozilla.org/firefox/addon/imagus/) is a good alternative.
+
+{% include edit-on-GitHub.html %}
 
 <!--
 Set the front matter:

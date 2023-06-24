@@ -1,12 +1,13 @@
 ---
 layout: page
+title: Useful Customizations for Firefox
 permalink: /firefox/wiki/useful-customizations/index.html
 category_name: firefox-docs
 exclude: true
 
 ---
 
-# Useful Customizations for Firefox
+{% include breadcrumbs.html %}
 
 There are a lot of ways to customize Firefox -- we try to collect some of the best ones here. 
 
@@ -120,6 +121,8 @@ Things to note:
 | Use a different search engine in private browsing. | **browser.search.separatePrivateDefault.ui.enabled** | `true`
 | Disable opening the download panel automatically after download completion. | **browser.download.alwaysOpenPanel** | `false`
 | Use the native OS print dialog. | **print.prefer_system_dialog** | `true`
+
+{% include edit-on-GitHub.html %}
 
 <!--
 Set the front matter:
