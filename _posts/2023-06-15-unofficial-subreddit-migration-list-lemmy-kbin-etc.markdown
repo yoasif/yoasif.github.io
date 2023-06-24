@@ -124,8 +124,7 @@ Here's a quick and dirty list that you can [contribute to](https://github.com/yo
 
 | Subreddit | New Community | | Status | Announcement |
 | --- | --- | --- | --- | --- |
-| r/buckknives | !buckknives@vlemmy.net  | [🔗](https://vlemmy.net/c/buckknives) | Official | [Subreddit will be restricted going forward]
-(https://www.reddit.com/r/buckknives/comments/1497s9j/subreddit_will_be_restricted_going_forward/) |
+| r/buckknives | !buckknives@vlemmy.net  | [🔗](https://vlemmy.net/c/buckknives) | Official | [Subreddit will be restricted going forward](https://www.reddit.com/r/buckknives/comments/1497s9j/subreddit_will_be_restricted_going_forward/) |
 | r/chicagomeetup | !chicagomeetups@lemmy.ml | [🔗](https://lemmy.ml/c/chicagomeetups) | Official | [Lemmy Server](https://www.reddit.com/r/ChicagoMeetup) |
 | r/VeganLobby | [Veganism Social](https://veganism.social/) | [🔗](https://veganism.social/) | Official | [We've moved to https://veganism.social](https://veganism.social/about) |
 
