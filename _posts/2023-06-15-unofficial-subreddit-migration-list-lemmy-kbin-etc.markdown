@@ -86,7 +86,6 @@ Here's a quick and dirty list that you can [contribute to](https://github.com/yo
 | Subreddit | New Community | | Status | Announcement |
 | --- | --- | --- | --- | --- |
 | r/AskAGerman | !germany@feddit.de | [🔗](https://feddit.de/c/germany) | Official | [In the interim, please visit https://feddit.de/c/germany.](https://www.reddit.com/r/askagerman) |
-| r/chicagomeetup | !chicagomeetups@lemmy.ml | [🔗](https://lemmy.ml/c/chicagomeetups) | Official | [Lemmy Server](https://www.reddit.com/r/ChicagoMeetup) |
 | r/daystrominstitute | !daystrominstitute@startrek.website | [🔗](https://startrek.website/c/daystrominstitute) | Official | [Looking for an alternative to reddit to talk Trek? Join us on Lemmy!](https://www.reddit.com/r/startrek/comments/14a5t8w/looking_for_an_alternative_to_reddit_to_talk_trek/) |
 | r/Deltarune | !deltarune@lemmy.fmhy.ml | [🔗](https://lemmy.fmhy.ml/c/deltarune) | Official | [r/Deltarune is a private community](https://www.reddit.com/r/Deltarune) |
 | r/ennnnnnnnnnnnbbbbbby | [/f/trans](https://raddle.me/f/trans) | [🔗](https://raddle.me/f/trans) | Official | [Heads-up: r/ennn will be participating in the blackout on the 12th of June, in response to the contempt shown by the Reddit admins for the wellbeing of Reddit itself](https://www.reddit.com/r//comments/14624ek/headsup_rennn_will_be_participating_in_the/) |
@@ -125,7 +124,9 @@ Here's a quick and dirty list that you can [contribute to](https://github.com/yo
 
 | Subreddit | New Community | | Status | Announcement |
 | --- | --- | --- | --- | --- |
-| r/buckknives | !buckknives@vlemmy.net  | [🔗](https://vlemmy.net/c/buckknives) | Official | [Subreddit will be restricted going forward](https://www.reddit.com/r/buckknives/comments/1497s9j/subreddit_will_be_restricted_going_forward/) |
+| r/buckknives | !buckknives@vlemmy.net  | [🔗](https://vlemmy.net/c/buckknives) | Official | [Subreddit will be restricted going forward]
+(https://www.reddit.com/r/buckknives/comments/1497s9j/subreddit_will_be_restricted_going_forward/) |
+| r/chicagomeetup | !chicagomeetups@lemmy.ml | [🔗](https://lemmy.ml/c/chicagomeetups) | Official | [Lemmy Server](https://www.reddit.com/r/ChicagoMeetup) |
 | r/VeganLobby | [Veganism Social](https://veganism.social/) | [🔗](https://veganism.social/) | Official | [We've moved to https://veganism.social](https://veganism.social/about) |
 
 ### 1k and Below Subscribers
@@ -133,7 +134,7 @@ Here's a quick and dirty list that you can [contribute to](https://github.com/yo
 | Subreddit | New Community | | Status | Announcement |
 | --- | --- | --- | --- | --- |
 | r/BeatCollaboration | !MusicCollaboration@kbin.social | [🔗](https://kbin.social/m/MusicCollaboration) | Official | [Update: Alternative to Reddit During Blackout](https://www.reddit.com/r/beatcollaboration/comments/1476mh9/update_alternative_to_reddit_during_blackout/) |
-| r/chicagomeetup | !chicagomeetups@lemmy.ml | [🔗](https://lemmy.ml/c/chicagomeetups) | Official | [Lemmy Server](https://www.reddit.com/r/ChicagoMeetup) |
+| r/GirlGames | !GirlGames@kbin.social | [🔗](https://kbin.social/m/GirlGames) | Official | [We now have a community over on kbin.social!](https://www.reddit.com/r/GirlGames/comments/14829xs/we_now_have_a_community_over_on_kbinsocial/) |
 | r/OldMinecraft | [/s/OldMinecraft](https://squabbles.io/s/OldMinecraft) | [🔗](https://squabbles.io/s/OldMinecraft) | Official | [https://squabbles.io/s/OldMinecraft](https://www.reddit.com/r/OldMinecraft) |
 | r/risa | !risa@startrek.website | [🔗](https://startrek.website/c/risa) | Official | [Looking for an alternative to reddit to talk Trek? Join us on Lemmy!](https://www.reddit.com/r/startrek/comments/14a5t8w/looking_for_an_alternative_to_reddit_to_talk_trek/) |
 | r/steamdeck_linux | !steamdeck@sopuli.xyz | [🔗](https://sopuli.xyz/c/steamdeck) | Official | [[Meta] r/steamdeck_linux will henceforth be restricted. Consider this the canon forum for the community.](https://sopuli.xyz/post/695503) |
