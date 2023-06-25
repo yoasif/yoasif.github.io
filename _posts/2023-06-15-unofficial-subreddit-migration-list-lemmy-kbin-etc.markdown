@@ -32,6 +32,7 @@ Here's a quick and dirty list that you can [contribute to](https://github.com/yo
 | --- | --- | --- | --- | --- |
 | r/3dprinting | !3d_printing@forum.rhombik.com | [🔗](https://forum.rhombik.com/c/3d_printing) | Official | [Join us at rhombik.com](https://www.reddit.com/r/3Dprinting/comments/14a7sh5/join_us_at_rhombikcom/) |
 | r/childfree | !childfree@lemmy.world | [🔗](https://lemmy.world/c/childfree) | Sister community | [childfree.cc](https://www.childfree.cc/) |
+| r/DeepIntoYouTube | !DeepIntoYouTube@kbin.social | [🔗](https://kbin.social/m/DeepIntoYouTube) | Former moderator | [State of the Sub](https://www.reddit.com/r//comments/14h81cp/state_of_the_sub/jp9y7zp/) |
 | r/dndmemes | [The TTRPG network](https://ttrpg.network/) | [🔗](https://ttrpg.network/) | Official | [Goblins Together Strong: another follow-up poll on community direction](https://www.reddit.com/r/dndmemes/comments/14g1q2h/goblins_together_strong_another_followup_poll_on/) |
 | r/FellowKids | !fellowkids@lemmy.world | [🔗](https://lemmy.world/c/fellowkids) | Official | [Check out FellowKids on Lemmy](https://www.reddit.com/r/FellowKids) |
 | r/GlobalOffensive | !cs@kbin.social | [🔗](https://kbin.social/m/cs) | Official | [Join kbin (a Reddit alternative) here](https://old.reddit.com/r/GlobalOffensive) |
@@ -65,7 +66,7 @@ Here's a quick and dirty list that you can [contribute to](https://github.com/yo
 | r/brisbane | !brisbane@aussie.zone | [🔗](https://aussie.zone/c/brisbane) | Endorsed | [The /r/brisbane response to the Protests](https://www.reddit.com/r/brisbane/comments/14ak5r4/the_rbrisbane_response_to_the_protests/)
 | r/China | !china@latte.isnot.coffee | [🔗](https://latte.isnot.coffee/c/china) | Official | [Please see: https://latte.isnot.coffee/c/china for an alternative](https://www.reddit.com/r/china) |
 | r/egg_irl | [/f/egg_irl](/f/egg_irl) | [🔗](/f/egg_irl) | Official | [Reddit is now ousting entire moderation teams off of subreddits at a time](https://www.reddit.com/r/egg_irl/comments/14etc3r/reddit_is_now_ousting_entire_moderation_teams_off/) |
-| r/fuckcars | !fuck_cars@lemmy.ml | [🔗](https://lemmy.ml/c/fuck_cars) | Unofficial | [A sister/copycat community on Lemmy.ml](https://www.reddit.com/r/postmarketOS) |
+| r/fuckcars | !fuck_cars@lemmy.ml | [🔗](https://lemmy.ml/c/fuck_cars) | Unofficial | [A sister/copycat community on Lemmy.ml](https://www.reddit.com/r/fuckcars/) |
 | r/MinecraftCommands | !minecraftcommands@lemmy.world | [🔗](https://lemmy.world/c/MinecraftCommands) | Official | [Now also on Lemmy](https://www.reddit.com/r/MinecraftCommands/comments/14h6ozt/now_also_on_lemmy) |
 | r/montreal | !montreal@lemmy.ca | [🔗](https://lemmy.ca/c/montreal) | Official | [Ou essayez Lemmy Montréal : https://lemmy.ca/c/montreal](https://www.reddit.com/r/montreal) |
 | r/selfhosted | [r/SelfHosted](https://forum.r-selfhosted.com/) | [🔗](https://forum.r-selfhosted.com/) | Official | [The Subreddit Will Go On - The Community Must Be Put First](https://www.reddit.com/r/selfhosted/comments/14cqjeb/the_subreddit_will_go_on_the_community_must_be/) |
