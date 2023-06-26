@@ -29,14 +29,15 @@ These changes seem to be prompted by the related change in Chrome. Google [says]
 I can certainly understand why Google might say that, since the screenshots in their [documentation](https://developer.chrome.com/docs/extensions/reference/pageAction/) show that Chrome has *already* made pageActions redundant to browserActions, since the icons for pageActions appear alongside the address bar in Chrome, rather than *inside it* like in Firefox.
 
 <p>
-<figure>
-    	<picture>
-    	  <source type="image/webp" srcset="{{site.url}}/assets/images/killing-the-page-action-api-in-firefox-manifest-v3-is-a-mistake/chrome-page_action.webp">
-    	  <source type="image/png" srcset="{{site.url}}/assets/images/killing-the-page-action-api-in-firefox-manifest-v3-is-a-mistake/chrome-page_action.png">
-  <img src="{{site.url}}/assets/images/killing-the-page-action-api-in-firefox-manifest-v3-is-a-mistake/chrome-page_action.png" alt="Chrome address bar and toolbar with some extensions alongside the address bar"/>
-    	</picture>
-  <figcaption>Chrome's page actions appear alongside the address bar</figcaption>
-</figure>
+  <figure>
+    <picture>
+      <source type="image/webp" srcset="{{site.url}}/assets/images/killing-the-page-action-api-in-firefox-manifest-v3-is-a-mistake/chrome-page_action.webp">
+      <source type="image/png" srcset="{{site.url}}/assets/images/killing-the-page-action-api-in-firefox-manifest-v3-is-a-mistake/chrome-page_action.png">
+      <img src="{{site.url}}/assets/images/killing-the-page-action-api-in-firefox-manifest-v3-is-a-mistake/chrome-page_action.png" alt="Chrome address bar and toolbar with some extensions alongside the address bar"/>
+    </picture>
+    <figcaption>Chrome's page actions appear alongside the address bar
+    </figcaption>
+  </figure>
 </p>
 
 Additionally, hidden page actions in Chrome appear greyed out.
@@ -74,9 +75,9 @@ Since there were a bunch of built in page actions, and people could also add new
 	<figure>
 	<picture>
 	  <source type="image/webp" srcset="{{site.url}}/assets/images/killing-the-page-action-api-in-firefox-manifest-v3-is-a-mistake/photon-page-actions-overflow.webp,
-	  									{{site.url}}/assets/images/killing-the-page-action-api-in-firefox-manifest-v3-is-a-mistake/photon-page-actions-overflow-2x.webp 2x">
+	  		{{site.url}}/assets/images/killing-the-page-action-api-in-firefox-manifest-v3-is-a-mistake/photon-page-actions-overflow-2x.webp 2x">
 	  <source type="image/png" srcset="{{site.url}}/assets/images/killing-the-page-action-api-in-firefox-manifest-v3-is-a-mistake/photon-page-actions-overflow.png,
-	  								   {{site.url}}/assets/images/killing-the-page-action-api-in-firefox-manifest-v3-is-a-mistake/photon-page-actions-overflow-2x.png 2x">
+	  		{{site.url}}/assets/images/killing-the-page-action-api-in-firefox-manifest-v3-is-a-mistake/photon-page-actions-overflow-2x.png 2x">
 	  <img src="{{site.url}}/assets/images/killing-the-page-action-api-in-firefox-manifest-v3-is-a-mistake/photon-page-actions-overflow.png" srcset="{{site.url}}/assets/images/killing-the-page-action-api-in-firefox-manifest-v3-is-a-mistake/photon-page-actions-overflow-2x.png 2x" alt="Firefox 57 with an opened page actions overflow menu"/>
 	  <figcaption>The page actions overflow menu in Firefox 57</figcaption>
 	</picture>
@@ -96,16 +97,17 @@ It's worth explaining why page actions are valuable. I'll demonstrate this with 
 The first is **[Extension source viewer](https://addons.mozilla.org/firefox/addon/crxviewer/)**, also known as **[CRX Viewer](https://github.com/Rob--W/crxviewer)**, an extension to audit the source code of Firefox or Chrome extensions. I use it quite often to get a quick idea of whether an extension looks nefarious, or to see what libraries are bundled with it, or even to see how easily a Chrome extension can be ported to Firefox. 
 
 <p>
-	<figure>
-	<picture>
-	  <source type="image/webp" srcset="{{site.url}}/assets/images/killing-the-page-action-api-in-firefox-manifest-v3-is-a-mistake/crxviewer-page-action.webp,
-	  									{{site.url}}/assets/images/killing-the-page-action-api-in-firefox-manifest-v3-is-a-mistake/crxviewer-page-action-2x.webp 2x">
-	  <source type="image/png" srcset="{{site.url}}/assets/images/killing-the-page-action-api-in-firefox-manifest-v3-is-a-mistake/crxviewer-page-action.png,
-	  								   {{site.url}}/assets/images/killing-the-page-action-api-in-firefox-manifest-v3-is-a-mistake/crxviewer-page-action-2x.png 2x">
-	  <img src="{{site.url}}/assets/images/killing-the-page-action-api-in-firefox-manifest-v3-is-a-mistake/crxviewer-page-action.png" srcset="{{site.url}}/assets/images/killing-the-page-action-api-in-firefox-manifest-v3-is-a-mistake/crxviewer-page-action-2x.png 2x" alt="Firefox address bar with Extension Source Viewer icon"/>
-	  <figcaption>Extension source viewer is the yellow icon in between the Reader View and Bookmark icons</figcaption>
-	</picture>
-</figure>
+  <figure>
+    <picture>
+      <source type="image/webp" srcset="{{site.url}}/assets/images/killing-the-page-action-api-in-firefox-manifest-v3-is-a-mistake/crxviewer-page-action.webp,
+                                        {{site.url}}/assets/images/killing-the-page-action-api-in-firefox-manifest-v3-is-a-mistake/crxviewer-page-action-2x.webp 2x">
+      <source type="image/png" srcset="{{site.url}}/assets/images/killing-the-page-action-api-in-firefox-manifest-v3-is-a-mistake/crxviewer-page-action.png,
+                                       {{site.url}}/assets/images/killing-the-page-action-api-in-firefox-manifest-v3-is-a-mistake/crxviewer-page-action-2x.png 2x">
+      <img src="{{site.url}}/assets/images/killing-the-page-action-api-in-firefox-manifest-v3-is-a-mistake/crxviewer-page-action.png" srcset="{{site.url}}/assets/images/killing-the-page-action-api-in-firefox-manifest-v3-is-a-mistake/crxviewer-page-action-2x.png 2x" alt="Firefox address bar with Extension Source Viewer icon"/>
+      <figcaption>Extension source viewer is the yellow icon in between the Reader View and Bookmark icons
+      </figcaption>
+    </picture>
+  </figure>
 </p>
 
 Clearly, this extension is only useful on certain pages - basically just pages like [AMO](https://addons.mozilla.org/firefox/) and the [Chrome Web Store](https://chrome.google.com/webstore/category/extensions). If I were to install this extension in Chrome, it would be greyed out on *most* pages on the web - since most of the time, people are browsing pages other than extension stores.
@@ -115,14 +117,15 @@ Clearly, this extension is only useful on certain pages - basically just pages l
 The second extension is **[Feed Preview](https://addons.mozilla.org/firefox/addon/feed-preview/)**, a pretty simple extension that helps people discover RSS and Atom feeds on pages. The extension also lets people preview the feeds and subscribe to them using various services.
 
 <p>
-<figure>
-    	<picture>
-    	  <source type="image/webp" srcset="{{site.url}}/assets/images/killing-the-page-action-api-in-firefox-manifest-v3-is-a-mistake/feed-preview-page-action.webp">
-    	  <source type="image/png" srcset="{{site.url}}/assets/images/killing-the-page-action-api-in-firefox-manifest-v3-is-a-mistake/feed-preview-page-action.png">
-  <img src="{{site.url}}/assets/images/killing-the-page-action-api-in-firefox-manifest-v3-is-a-mistake/feed-preview-page-action.png" alt="Firefox address bar with Feed Preview icon"/>
-    	</picture>
-  <figcaption>The Feed Reader RSS icon appears only when feeds are discovered on the current page</figcaption>
-</figure>
+  <figure>
+    <picture>
+      <source type="image/webp" srcset="{{site.url}}/assets/images/killing-the-page-action-api-in-firefox-manifest-v3-is-a-mistake/feed-preview-page-action.webp">
+      <source type="image/png" srcset="{{site.url}}/assets/images/killing-the-page-action-api-in-firefox-manifest-v3-is-a-mistake/feed-preview-page-action.png">
+      <img src="{{site.url}}/assets/images/killing-the-page-action-api-in-firefox-manifest-v3-is-a-mistake/feed-preview-page-action.png" alt="Firefox address bar with Feed Preview icon"/>
+    </picture>
+    <figcaption>The Feed Reader RSS icon appears only when feeds are discovered on the current page
+    </figcaption>
+  </figure>
 </p>
 
 Like Extension source viewer, this only works on certain pages - not every page has an RSS or Atom feed, and having a toolbar icon that is greyed out half the time would be a waste of space (during the times that it was greyed out).
