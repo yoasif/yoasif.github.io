@@ -139,6 +139,7 @@ Here's a quick and dirty list that you can [contribute to](https://github.com/yo
 | r/startpages | !startpages@kbin.social | [🔗](https://kbin.social/m/startpages) | Official | [Come check us out on Kbin here](https://www.reddit.com/r/startpages) |
 | r/TransClones | [/f/transclones](https://raddle.me/f/transclones) | [🔗](https://raddle.me/f/transclones) | Endorsed | [Reddit API changes and alternatives to the platform.](https://www.reddit.com/r/TransClones/comments/14bz6qe/reddit_api_changes_and_alternatives_to_the/) |
 | r/ZeroWasteVegans | !zerowaste@lemmy.ml or !vegan@lemmy.ml | [🔗](https://lemmy.ml/c/zerowaste) or [🔗](https://lemmy.ml/c/vegan) | Official | [If you — like many of us — no longer wish to use Reddit, please consider joining us at https://lemmy.ml/c/zerowaste or https://lemmy.ml/c/vegan](https://www.reddit.com/r/zerowastevegans) |
+| r/zfs | !zfs@lemmy.world | [🔗](https://lemmy.world/c/zfs) | Official | [For anyone wanting to migrate away from Reddit, I've set up a Lemmy.world community.](https://www.reddit.com/r/zfs/comments/14gr28a/for_anyone_wanting_to_migrate_away_from_reddit/) |
 
 ### 1k+ Subscribers
 
