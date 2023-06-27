@@ -132,6 +132,7 @@ Here's a quick and dirty list that you can [contribute to](https://github.com/yo
 | r/MinecraftUnlimited | [Minecraft Forum](https://www.minecraftforum.net/) | [🔗](https://www.minecraftforum.net/) | Endorsed | [Consider joining the Minecraft Forum as a substitute for the subreddit: https://minecraftforum.net.](https://www.reddit.com/r/MinecraftUnlimited) |
 | r/MotorcycleLogistics | !motorcycle_logistics@lemmy.world | [🔗](https://lemmy.world/c/motorcycle_logistics) | Official | [MotorcycleLogistics on Lemmy (alternative to Reddit, details in comments)](https://www.reddit.com/r//comments/14chm8q/motorcyclelogistics_on_lemmy_alternative_to/) |
 | r/neverbrokenabone | !neverbrokenabone@lemmy.ml | [🔗](https://lemmy.ml/c/neverbrokenabone) | Official | [What's next for this sub ?](https://www.reddit.com/r/neverbrokenabone/comments/14gcvuh/whats_next_for_this_sub/) |
+| r/ObjectShows | [Object Shows Forum](https://forum.objectshows.net/phpbb/) | [🔗](https://forum.objectshows.net/phpbb/) | Official | [If you want an external alternative to r/ObjectShows specifically, that would be in our forum on https://forum.objectshows.net.](https://www.reddit.com/r/ObjectShows/comments/14evini/updates_on_reddit_uspezs_childish_behaivour_and/jpjclm7/) |
 | r/Pentesting | !pentesting@lemmy.world | [🔗](https://lemmy.world/c/pentesting) | Official | [Pentesting](https://www.reddit.com/r/Pentesting/comments/147hq6s/pentesting/) |
 | r/postmarketOS | !postmarketos@lemmy.ml | [🔗](https://lemmy.ml/c/postmarketOS) | Official | [Find us on Lemmy](https://www.reddit.com/r/postmarketOS) |
 | r/raspberrypipico | !raspberrypipico@lemmy.ml | [🔗](https://lemmy.ml/c/raspberrypipico) | Official | [Lemmy Community (alternative to reddit)](https://www.reddit.com/r//comments/145b5wz/lemmy_community_alternative_to_reddit/) |
@@ -139,6 +140,7 @@ Here's a quick and dirty list that you can [contribute to](https://github.com/yo
 | r/startpages | !startpages@kbin.social | [🔗](https://kbin.social/m/startpages) | Official | [Come check us out on Kbin here](https://www.reddit.com/r/startpages) |
 | r/TransClones | [/f/transclones](https://raddle.me/f/transclones) | [🔗](https://raddle.me/f/transclones) | Endorsed | [Reddit API changes and alternatives to the platform.](https://www.reddit.com/r/TransClones/comments/14bz6qe/reddit_api_changes_and_alternatives_to_the/) |
 | r/ZeroWasteVegans | !zerowaste@lemmy.ml or !vegan@lemmy.ml | [🔗](https://lemmy.ml/c/zerowaste) or [🔗](https://lemmy.ml/c/vegan) | Official | [If you — like many of us — no longer wish to use Reddit, please consider joining us at https://lemmy.ml/c/zerowaste or https://lemmy.ml/c/vegan](https://www.reddit.com/r/zerowastevegans) |
+| r/zfs | !zfs@lemmy.world | [🔗](https://lemmy.world/c/zfs) | Official | [For anyone wanting to migrate away from Reddit, I've set up a Lemmy.world community.](https://www.reddit.com/r/zfs/comments/14gr28a/for_anyone_wanting_to_migrate_away_from_reddit/) |
 
 ### 1k+ Subscribers
 
