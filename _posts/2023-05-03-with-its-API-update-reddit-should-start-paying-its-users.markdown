@@ -31,7 +31,7 @@ As Huffman said, “More than any other place on the internet, Reddit is a home 
 
 ## Before AI
 
-Before widespread recognition of how AI products were using the Reddit corpus for conversational AI, Reddit users have long recognized that Reddit is used for research purposes. Indeed, Reddit for a long time has had [options](https://www.reddit.com/prefs/) to allow users' data to be used for research purposes.
+Before widespread recognition that AI products used the Reddit corpus for conversational AI, Reddit users have long recognized that Reddit is used for research purposes. Indeed, Reddit has long had [options](https://www.reddit.com/prefs/) to allow users' data to be used for research purposes.
 
 <p>
 	<figure>
@@ -46,7 +46,7 @@ Before widespread recognition of how AI products were using the Reddit corpus fo
 </figure>
 </p>
 
-Unfortunately, the [12 year old announcement of that preference](https://www.reddit.com/r/announcements/comments/ddz0s/reddit_wants_your_permission_to_use_your_data_for/) reveals that it really only applies to voting data that is not publicly available. 
+Unfortunately, the (12 year old) [announcement of that preference](https://www.reddit.com/r/announcements/comments/ddz0s/reddit_wants_your_permission_to_use_your_data_for/) reveals that it actually applies only to voting data that is not publicly available. 
 
 The Reddit [user agreement](https://www.redditinc.com/policies/user-agreement) seems to disallow scraping:
 
@@ -66,13 +66,13 @@ As the authors of *[‘Scraping’ Reddit posts for academic research? Addressin
 
 The issues that the researchers confront here are magnified in the context of AI.
 
-Unlike the replicated data that may be stored in researchers' data sets siloed into neat buckets that are unlikely to be reused or remixed, tools like ChatGPT are adept at taking disparate sources of data to reuse and rework them, removing context and provenance in the process. If data found in a researcher's data set is misused or a user wants to be cited specifically, that is likely possible. Not so in the world of black box <abbr title="Large language models">LLMs</abbr> as exist today - the companies are [extremely tight lipped about the data sources they use](https://gizmodo.com/chatbot-gpt4-open-ai-ai-bing-microsoft-1850229989), and I could find no way to request deletion of data that they were already using.
+Unlike the replicated data that may be stored in researchers' data sets siloed into neat buckets that are unlikely to be reused or remixed, tools like ChatGPT are adept at taking disparate sources of data to reuse and rework them, removing context and provenance in the process. If data found in a researcher's data set is misused or a person wants to be cited specifically, that is likely possible. Not so in the world of black box <abbr title="Large language models">LLMs</abbr> as exist today - the companies are [extremely tight lipped about the data sources they use](https://gizmodo.com/chatbot-gpt4-open-ai-ai-bing-microsoft-1850229989), and I couldn't find a way to request deletion of data that they are already using.
 
 Clearly, there is evidence that responsible researchers have concerns about user consent in usage of social media postings - especially postings that have been deleted, where the question of whether the user has revoked consent is an open one. This doesn't seem to be a concern for the AI platforms, though. They just slurp up the data as it is available, and I see no indication that they have any interest in letting people opt out of their data being used, even as they face [lawsuits](https://githubcopilotlitigation.com/pdf/06823/1-0-github_complaint.pdf) accusing them of violating copyright laws. 
 
 ### The User Agreement
 
-I have already referenced the Reddit user agreement in this post, so it is worth noting that Reddit is fully within its rights (per the agreement) to do exactly what it is planning on doing - to charge AI vendors for access to the Reddit corpus via its API firehose.
+I referenced the Reddit user agreement earlier in this post, so it is worth noting that Reddit is fully within its rights (per the agreement) to do exactly what it is planning on doing - to charge AI vendors for access to the Reddit corpus via its API firehose.
 
 It is clearly stated in the agreement:
 
@@ -90,33 +90,33 @@ Reddit moderators volunteer to perform a range of tasks, including reviewing con
 
 While that hasn't led to any big shakeup in social media moderation -- imagine Reddit moderators organizing to demand pay, for example - it is worth recognizing just how valuable this type of labor is. Reddit would not be nearly as valuable to the AI companies if the platform was filled with spam and abuse -- if the platform wasn't so well curated. 
 
-Beyond that, the site itself would not be as pleasurable for people to congregate on to share their own content if the moderators were not curating the "space" and culture of the online communities they moderate -- as Hanlin Li, a doctoral candidate at Northwestern University who led the research [stated](https://www.nytimes.com/2022/06/28/technology/online-moderators-compensation.html):
+Beyond that, the site itself would not be as pleasurable for people to congregate on to share their own content if the moderators were not curating the "space" and culture of the online communities they moderate -- as Hanlin Li, a doctoral candidate at Northwestern University who led the research [said](https://www.nytimes.com/2022/06/28/technology/online-moderators-compensation.html):
 
 >“We want to make people understand that the discussions on Reddit don’t just emerge. It’s because these moderators are working to actively shape the communities. This is substantial labor that is subsidizing Reddit.”
 
 ### Other Social Media
 
-Other social media has solved the problem of non-payment of social media contributions by&hellip; paying them. YouTube is likely the biggest and most prominent example, and they are [very open](https://www.youtube.com/howyoutubeworks/product-features/monetization/) about how it works. It is clearly not impossible for social media platforms to pay creators for the content that they produce. 
+Other social media has solved the problem of non-payment of social media contributions by&hellip; paying them. YouTube is likely the biggest and most prominent example, and they are [very open](https://www.youtube.com/howyoutubeworks/product-features/monetization/) about how it works. It is clearly possible for social media platforms to pay creators for the content that they produce. 
 
 ## The Status Quo
 
-Reddit users may not previously have been aware that the AI products that they have been reading about and possibly even discussing on Reddit were trained with the content that they themselves had produced.
+Reddit users may not previously have been aware that the AI products that they have been reading about (and possibly even discussing) on Reddit were trained with the content that they themselves had produced.
 
 Reddit *themselves* may not have known that AI platforms had been replicating Reddit user data into the <abbr title="Large language model">LLM</abbr> datasets -- it seems to me that if they *had* known, they would not be complaining about it today and introducing a paid API.
 
 Unfortunately, that leaves the userbase in a strange place. 
 
-Unlike content creators on YouTube, who have access to control monetization of their content, and to earn money for their labor, Reddit provides no facility to users to disable monetization (all Reddit comments and posts are monetized) or to share in the takings. 
+Unlike content creators on YouTube, who have access to control monetization of their content, and to earn money for their labor, Reddit provides no facility to users to disable monetization (all Reddit comments and posts are monetized[^1]) or to share in the takings. 
 
 Indeed, Reddit has gone beyond monetization of content provided by its users, and has captured millions of dollars of labor by volunteer moderators whose activities cannot be construed simply as "sharing".
 
-Clearly, Reddit was blindsided by some of this, just like much of society was surprised by the introduction of ChatGPT.
+Clearly, Reddit was blindsided by some of this, just as much of society was surprised by the introduction of ChatGPT.
 
 Still, Reddit recognizes the valuable contributions that moderators make, as I myself received an offer for gifts last year due to being a "dedicated moderator". The offers included perks like 6 months of unlimited access to Skillshare, and a one-time delivery of a snack box from SnackMagic. Heady stuff.
 
 Reddit also recognizes the value that Reddit users pour into the platform, as its CEO's comments make clear. 
 
-Reddit users that have thought about how the economics of how online forums worked were likely comfortable with the deal that they had signed up for - they joined the site, commented and posted for free -- and the site monetized that content to stay afloat (and make a profit). Reddit was even open source initially, making it seem particularly friendly to the nerdy userbase it initially attracted.
+Reddit users that have thought about how the economics of how online forums worked were likely comfortable with the deal that they had signed up for - they joined the site, commented and posted for free -- and the site monetized that content to stay afloat (and to make a profit). Reddit was even open source initially, making it seem particularly friendly to the nerdy userbase it initially attracted.
 
 The value exchange feels like it has fundamentally shifted recently, however. 
 
@@ -128,7 +128,7 @@ I would have preferred a different response from Reddit. Instead of Reddit recog
 
 Reddit can still ameliorate the situation, to try to create a new covenant with creators. 
 
-My preference would be for Reddit to disfavor the sale of user-generated content to AI-based products. From all the information we have, the content was copied from the publicly available site without permission, and it seems to also be against the existing Reddit user agreement. It doesn't seem like Reddit was asked for permission, and was likely just as surprised as most people.
+My preference would be for Reddit to disfavor the sale of user-generated content to AI-based products. From the information we have, content was copied from the publicly available site without permission, and it seems to also be against the existing Reddit user agreement. It doesn't seem like Reddit was asked for permission, and was likely just as surprised as most people.
 
 At this point, it isn't clear that leadership at Reddit has done much more thinking about whether they *ought* to be in support of Reddit feeding <abbr title="Large language models">LLMs</abbr> -- they seem far more interested in taking advantage of a new revenue stream.
 
@@ -138,15 +138,15 @@ I hope that isn't the case. Reddit comments and posts are the most valuable comm
 
 ### Deleted Comments and Posts
 
-The original content already copied into <abbr title="Large language models">LLMs</abbr> is likely a lost cause - AI-based products seem unlikely to remove the original data posted by Reddit users unless they are forced to. Unfortunately, unlike the programmers in the GitHub lawsuit and the [artists](https://gizmodo.com/free-ai-art-stability-midjourney-deviantart-sued-getty-1849995371) in other lawsuits, Reddit doesn't seem to have anything other than a pecuniary interest in the content shared by its userbase. 
+The original content already copied into <abbr title="Large language models">LLMs</abbr> is likely a lost cause - AI companies seem unlikely to remove the original data posted by Reddit users unless they are forced to. Unfortunately, unlike the programmers in the GitHub lawsuit and the [artists](https://gizmodo.com/free-ai-art-stability-midjourney-deviantart-sued-getty-1849995371) in other lawsuits, Reddit doesn't seem to have anything other than a pecuniary interest in the content shared by its userbase. 
 
-I'm not optimistic that Reddit will demand that companies remove already copied data from black box <abbr title="Large language model">LLM</abbr> data stores, even as they ask the AI vendors to pay for access to the firehose of user-generated content via their API. Sure, platforms didn't ask Reddit for permission, but they can still be forgiven - but that won't happen if Reddit doesn't ask.
+I doubt that Reddit will demand that companies remove already copied data from black box <abbr title="Large language model">LLM</abbr> data stores, even as they ask the AI vendors to pay for access to the firehose of user-generated content via their API.
 
-Even if Reddit doesn't demand a complete removal of Reddit user data from <abbr title="Large language models">LLMs</abbr>, it ought to ask the platforms to remove data that has been removed by the users who originally posted them. 
+Even if Reddit doesn't demand a complete removal of Reddit user data from <abbr title="Large language models">LLMs</abbr>, it ought to ask the platforms to remove data that has been removed by the users who originally posted them. Sure, platforms didn't ask Reddit for permission, but they can still be forgiven - but that won't happen if Reddit doesn't ask.
 
-The academic literature I referenced earlier touches on this -- and the reason is simple. While a poster may have initially wanted their content to be freely available on Reddit (and the web), they later revoked that permission by removing that content. While Reddit undoubtedly has the legal right to reuse and republish that data, it is not clear to me that the AI companies do, especially barring an explicit agreement from Reddit or the original posters. 
+The academic literature I referenced earlier touches on this -- and the reason is simple. While a creator may have initially wanted their content to be freely available on Reddit (and the web), they later revoked that permission by removing that content. While Reddit undoubtedly has the legal right to reuse and republish that data, it is not clear to me that the AI companies do, especially barring an explicit agreement from Reddit or the original posters. 
 
-So even if *Reddit* has the legal right to the deleted content, it is not at all clear that the AI companies do. They don't have *moral* rights to the content -- even if we wanted to argue about singular pieces of content that were particularly newsworthy, no such evaluation is taking place at the AI platforms. They have reportedly copied wholesale user-generated content, perhaps with some filtering, but without regard to other considerations.
+So even if *Reddit* has the legal right to the deleted content, it is not at all clear that the AI companies do. They certainly don't have *moral* rights to the content -- even if we wanted to argue about singular pieces of content that were particularly newsworthy, no such evaluation is taking place at the AI platforms. They have reportedly copied wholesale user-generated content, perhaps with some filtering, but without regard to other considerations.
 
 Sites that have archived Reddit user data have recognized the moral right for content creators to revoke permissions to their contributed data, by [not showing user deleted comments](https://www.reveddit.com/about/faq/#user-deleted). Reddit even used to provide lip service to this sentiment (as Reveddit's developer [noted](https://www.reddit.com/r/removeddit/comments/ir1oyw/comment/g5fgxgl/?context=3)), [saying that](https://www.reddit.com/r/privacy/comments/j11sda/reddit_has_updated_its_privacy_policy/) "Privacy is core to our DNA, our culture, and our values. We are committed to making our policies clear and focused **on empowering users to be masters of their identities—and their data**." (emphasis added)
 
@@ -191,7 +191,7 @@ This would avoid a situation whereby Redditors would remove old content -- and m
 
 For content creators who want to make their content available to AI products, Reddit should also sweeten the deal by sharing revenue back to those creators. Pricing around this is likely to be complex, as it is not clear what types of data the <abbr title="Large language models">LLMs</abbr> find to be valuable. The conversation about this may help give Reddit and its userbase some insight into what kinds of content are most desirable and valuable.
 
-Reddit's CEO says that Reddit is "a home for authentic conversation" and that there's "a lot of stuff on the site that you’d only ever say in therapy, or A.A., or never at all" - it would be interesting to know whether that is the stuff the <abbr title="Large language models">LLMs</abbr> are interested in,	 or whether they are more interested in open ended questions that conversational AIs seem to struggle with - subjective evaluations like the best restaurants in an area, or whether someone's new dress fits them well. 
+Reddit's CEO says that Reddit is "a home for authentic conversation" and that there's "a lot of stuff on the site that you’d only ever say in therapy, or A.A., or never at all" - it would be interesting to know whether that is the stuff the <abbr title="Large language models">LLMs</abbr> are interested in, or whether they are more interested in open ended questions that conversational AIs seem to struggle with - subjective evaluations like the best restaurants in an area, or whether someone's new dress fits them well. 
 
 Either way, it ought to strike people as unfair that the only people getting paid for AI are the people who have rapaciously stolen the building blocks that make it valuable from people who remain uncompensated for the very labor that is predicted to [precipitate job losses](https://www.bloomberg.com/news/articles/2023-05-01/ibm-to-pause-hiring-for-back-office-jobs-that-ai-could-kill#xj4y7vzkg).
 
@@ -209,12 +209,11 @@ Their latest update says:
 
 There is nothing there for the people generating the content that makes Reddit so valuable - just value extraction for the developers who take advantage of it. 
 
-Is it time to leave Reddit? It just might be. 
+Is it time to leave Reddit?
 
 Without a renegotiation of the terms by which Reddit users have long contributed to the platform, users may feel that they are being taken advantage of. The deal has shifted, and it now feels like there is a real power imbalance at play. As with moderators, Reddit is now *taking advantage* of content creators who post and comment on the site.
 
 It seems unlikely that Reddit will pay people for their <abbr title="Large language model">LLM</abbr> contributions, as they already don’t pay for *any* content on the site - unlike e.g. YouTube. I also don’t think that people who are posting on Reddit for free today are motivated by money. If they were, they would spend their time writing on platforms like Medium and Substack. People who post on Reddit want to share with a community. The sharing is with *people*, though - not with machines - and certainly not with machines that can then be used to create new writings that are a mimesis of genuine sharing.
-
 
 Reddit has an easy escape valve though. Just:
 
@@ -224,6 +223,8 @@ Reddit has an easy escape valve though. Just:
 Barring that, users can go to other platforms. Perhaps people can even go back to a decentralized web, publishing on their own blogs (like this one!), or on forums that place stronger restrictions on machines slurping up their data. 
 
 If <abbr title="Large language models">LLMs</abbr> are going to make writing worthless, humans can at least make AI companies work harder for it. Go out and find our writing on the wider web, rather than a neatly packaged bundle on Reddit. Or, barring that, at least pay us for the privilege.
+
+[^1]: I learned after publication date that [NSFW subreddits are not eligible for advertising](https://www.reddit.com/r/RedditforBusiness/comments/bdwlin/update_to_nsfw_advertising_policy/).
 
 ---
 
