@@ -179,6 +179,7 @@ r/Celebrities | [Removed as moderator of /r/Celebrities after 14 years](https://
 r/IWantToLearn | u/TheGordianKnight
 r/JustGuysBeingDudes | u/MasterpieceFit6715
 r/searchandrescue | [Removed from /r/searchandrescue, which was public, in retaliation for other subs being private.](https://www.reddit.com/r/ModCoord/comments/14efshe/removed_from_rsearchandrescue_which_was_public_in/)
+r/snackexchange | [[Discussion] Back to normal-ish, hopefully, for now](https://www.reddit.com/r/snackexchange/comments/14jn377/discussion_back_to_normalish_hopefully_for_now/)
 r/toyotatacoma | u/loki_racer
 
 ---
