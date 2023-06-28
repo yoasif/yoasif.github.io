@@ -162,6 +162,7 @@ Here's a quick and dirty list that you can [contribute to](https://github.com/yo
 | --- | --- | --- | --- | --- |
 | r/BeatCollaboration | !MusicCollaboration@kbin.social | [🔗](https://kbin.social/m/MusicCollaboration) | Official | [Update: Alternative to Reddit During Blackout](https://www.reddit.com/r/beatcollaboration/comments/1476mh9/update_alternative_to_reddit_during_blackout/) |
 | r/DiogenesWouldBeProud | !diogeneswouldbeproud@lemmy.fmhy.ml | [🔗](https://lemmy.fmhy.ml/c/diogeneswouldbeproud) | Official | [I have moved to lemmy](https://www.reddit.com/r/DiogenesWouldBeProud) |
+| r/FloatingIsFun | FloatingIsFun@fedia.io | [🔗](https://fedia.io/m/FloatingIsFun) | Official | [Reddit is not getting better. We're moving to /m/FloatingIsFun on Kbin!](https://www.reddit.com/r/FloatingIsFun/comments/14ld74y/reddit_is_not_getting_better_were_moving_to/) |
 | r/GirlGames | !GirlGames@kbin.social | [🔗](https://kbin.social/m/GirlGames) | Official | [We now have a community over on kbin.social!](https://www.reddit.com/r/GirlGames/comments/14829xs/we_now_have_a_community_over_on_kbinsocial/) |
 | r/OldMinecraft | [/s/OldMinecraft](https://squabbles.io/s/OldMinecraft) | [🔗](https://squabbles.io/s/OldMinecraft) | Official | [https://squabbles.io/s/OldMinecraft](https://www.reddit.com/r/OldMinecraft) |
 | r/palaeoecology | !palaeoecology@mander.xyz | [🔗](https://www.mander.xyz/c/palaeoecology) | Official | [Find us on Lemmy!](https://www.reddit.com/r//comments/14cwoih/find_us_on_lemmy/) |
