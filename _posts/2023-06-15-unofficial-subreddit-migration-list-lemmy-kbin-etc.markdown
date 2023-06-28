@@ -31,6 +31,7 @@ Here's a quick and dirty list that you can [contribute to](https://github.com/yo
 | Subreddit | New Community | | Status | Announcement |
 | --- | --- | --- | --- | --- |
 | r/3dprinting | !3d_printing@forum.rhombik.com | [🔗](https://forum.rhombik.com/c/3d_printing) | Official | [Join us at rhombik.com](https://www.reddit.com/r/3Dprinting/comments/14a7sh5/join_us_at_rhombikcom/) |
+| r/assholedesign | !assholedesign@lemmy.world | [🔗](https://lemmy.world/c/assholedesign) | Former moderator | [The Coup of /r/AssholeDesign](https://lemmy.world/post/732367) |
 | r/childfree | !childfree@lemmy.world | [🔗](https://lemmy.world/c/childfree) | Sister community | [childfree.cc](https://www.childfree.cc/) |
 | r/DeepIntoYouTube | !DeepIntoYouTube@kbin.social | [🔗](https://kbin.social/m/DeepIntoYouTube) | Former moderator | [State of the Sub](https://www.reddit.com/r//comments/14h81cp/state_of_the_sub/jp9y7zp/) |
 | r/dndmemes | [The TTRPG network](https://ttrpg.network/) | [🔗](https://ttrpg.network/) | Official | [Goblins Together Strong: another follow-up poll on community direction](https://www.reddit.com/r/dndmemes/comments/14g1q2h/goblins_together_strong_another_followup_poll_on/) |
