@@ -175,6 +175,7 @@ Here's a quick and dirty list that you can [contribute to](https://github.com/yo
 
 | Subreddit | Confirmed By |
 | --- | --- |
+r/AssholeDesign | u/PitchforkAssistant
 r/Celebrities | [Removed as moderator of /r/Celebrities after 14 years](https://kbin.social/m/RedditMigration/t/59559/Removed-as-moderator-of-r-Celebrities-after-14-years)
 r/IWantToLearn | u/TheGordianKnight
 r/JustGuysBeingDudes | u/MasterpieceFit6715
