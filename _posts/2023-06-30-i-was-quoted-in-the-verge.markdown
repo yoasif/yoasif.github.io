@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "I Was Quoted in The Verge!"
+title:  "I Was Quoted in The Verge"
 date:   2023-06-30 06:54:00 -0400
 categories: writing
 tags: Reddit Protest Firefox
