@@ -17,7 +17,7 @@ Welcome to Social Firefox help on switching to Firefox!
 
 ### Which version should I download?
 
-See our [release channel](/r/firefox/wiki/switching-to-firefox/release-channels) guide to help make a decision. We recommend using [Firefox Sync](https://support.mozilla.org/kb/how-do-i-set-sync-my-computer) to keep your browsers in sync (especially with your mobile devices, if you have one).
+See our [release channel]({% link firefox/wiki/release-channels.markdown %}) guide to help make a decision. We recommend using [Firefox Sync](https://support.mozilla.org/kb/how-do-i-set-sync-my-computer) to keep your browsers in sync (especially with your mobile devices, if you have one).
 
 ### Switching from Chrome
 
