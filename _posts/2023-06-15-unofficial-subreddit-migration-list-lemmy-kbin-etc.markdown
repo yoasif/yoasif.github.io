@@ -49,6 +49,7 @@ Here's a quick and dirty list that you can [contribute to](https://github.com/yo
 
 | Subreddit | New Community | | Status | Announcement |
 | --- | --- | --- | --- | --- |
+| r/AccidentalRenaissance | !AccidentalRenaissance@kbin.social | [🔗](https://kbin.social/m/AccidentalRenaissance) or [🔗](https://lemmy.blahaj.zone/c/accidentalrenaissance) | Official | [R/AccidentalRenaissance Is Seeking New Horizons, Forging A Path Into The Wilds, And Planting Their Flag On Uncharted Territory](https://www.reddit.com/r/AccidentalRenaissance/comments/14p065f/raccidentalrenaissance_is_seeking_new_horizons/) |
 | r/AskElectronics | !askelectronics@discuss.tchncs.de | [🔗](https://discuss.tchncs.de/c/askelectronics) | Official | [r/AskElectronics is a private community](https://www.reddit.com/r/AskElectronics) |
 | r/DarkAngels | [Dark Angels & Golden Goddesses](https://darkangelsxgoldengoddesses.tumblr.com/) | [🔗](https://darkangelsxgoldengoddesses.tumblr.com/) | Official | [You may follow us on Tumblr at darkangelsxgoldengoddesses.](https://www.reddit.com/r/DarkAngels) |
 | r/Disneyland | !Disneyland@kbin.social | [🔗](https://kbin.social/m/Disneyland) | Official | [To access us on Lemmy, paste https://kbin.social/m/Disneyland into your Lemmy search bar.](https://www.reddit.com/r/disneyland) |
