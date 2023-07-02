@@ -81,6 +81,7 @@ Here's a quick and dirty list that you can [contribute to](https://github.com/yo
 | Subreddit | New Community | | Status | Announcement |
 | --- | --- | --- | --- | --- |
 | r/AdobeIllustrator | !adobeillustrator@kbin.social | [🔗](https://kbin.social/m/adobeillustrator) | Official | [Join us on Kbin](https://www.reddit.com/r//comments/14crkxw/join_us_on_kbin/) |
+| r/badUIbattles | !bad_ui_battles@programming.dev | [🔗](https://programming.dev/c/bad_ui_battles) | Official | [The People have spoken](https://www.reddit.com/r/badUIbattles/comments/14hlrk1/the_people_have_spoken/) |
 | r/baltimore | !baltimore@kbin.social | [🔗](https://kbin.social/m/baltimore) | Official | [The State of /r/Baltimore: Where We Stand After the Initial Wave of the Blackout](https://www.reddit.com/r/baltimore/comments/14aafvr/the_state_of_rbaltimore_where_we_stand_after_the/) |
 | r/Buttcoin | !Buttcoin@kbin.social | [🔗](https://kbin.social/m/Buttcoin) | Official | [/r/Buttcoin is back online with the same objective, but some additional priorities](https://www.reddit.com/r/Buttcoin/comments/14a82r6/rbuttcoin_is_back_online_with_the_same_objective/) |
 | r/exchristian | !exchristian@lemmy.one | [🔗](https://lemmy.one/c/exchristian) | Official | [This site was originally hosted on reddit before the Great Minor Exodus of 2023.](https://lemmy.one/c/exchristian) |
@@ -106,7 +107,9 @@ Here's a quick and dirty list that you can [contribute to](https://github.com/yo
 | r/gonwild | !gonwild@lemm.ee | [🔗](https://lemm.ee/c/gonwild) | Official | [A Message From The Mod Team.](https://www.reddit.com/r/gonwild/comments/14a0sek/a_message_from_the_mod_team/) |
 | r/memeframe | !memeframe@dormi.zone | [🔗](https://dormi.zone/c/memeframe) | Official | [Find us over at https://dormi.zone/ instead!](https://www.reddit.com/r/memeframe) |
 | r/pop_os | !pop_os@lemmy.world | [🔗](https://lemmy.ml/c/pop_os@lemmy.world) | Official | [https://lemmy.ml/c/pop_os@lemmy.world](https://www.reddit.com/r/pop_os/comments/14adq09/for_those_seeking_a_reddit_alternative_we_have_an/) |
+| r/redditisfun | !redditwasfun@lemmy.world | [🔗](https://lemmy.world/c/redditwasfun) | Official | [What's next?](https://www.talklittle.com/rif-is-fun/whats-next) |
 | r/treelaw | !treelaw@kbin.social | [🔗](https://kbin.social/m/treelaw) | Official | [For now, we are available on our kBin, /m/treelaw](https://www.reddit.com/r/treelaw) |
+| r/VaporwaveArt | !vaporwaveart@normalcity.life | [🔗](https://normalcity.life/c/vaporwaveart) | Official | [A New Place like the Old One: VaporwaveArt on Lemmy](https://www.reddit.com/r/VaporwaveArt/comments/14iyul7/a_new_place_like_the_old_one_vaporwaveart_on_lemmy/) |
 | r/WayOfTheBern | [WayOfTheBern](https://www.saidit.net/s/WayOfTheBern) | [🔗](https://www.saidit.net/s/WayOfTheBern) | Official | [If you want to talk about it, come to the WayoftheBern Lifeboat we set up years ago as a backup.](https://www.reddit.com/r/WayOfTheBern) |
 
 ### 5k+ Subscribers
@@ -124,6 +127,7 @@ Here's a quick and dirty list that you can [contribute to](https://github.com/yo
 | r/FestundFlauschig | !festundflauschig@feddit.de | [🔗](https://feddit.de/c/festundflauschig) | Official | [r/FestundFlauschig is a private community](https://www.reddit.com/r/FestundFlauschig) |
 | r/ffxivart | !ffxivart@kbin.social | [🔗](https://kbin.social/m/ffxivart) | Official | [Here's our temporary setup](https://www.reddit.com/r/ffxivart) |
 | r/financialmodelling | [/s/FinancialModelling](https://squabbles.io/s/FinancialModelling) | [🔗](https://squabbles.io/s/FinancialModelling) | Official | [r/financialmodelling is on strike](https://squabbles.io/s/FinancialModelling) |
+| r/fpgagaming | !fpgagaming@kbin.social | [🔗](https://kbin.social/m/fpgagaming) | Official | [So long, Reddit! /r/fpgagaming is now /m/fpgagaming on the fediverse!](https://www.reddit.com/r/fpgagaming/comments/14nky06/so_long_reddit_rfpgagaming_is_now_mfpgagaming_on/) |
 | r/fullegoism | [/f/fullegoism](https://raddle.me/f/fullegoism) or !fullegoism@sh.itjust.works | [🔗](https://raddle.me/f/fullegoism) or [🔗](https://sh.itjust.works/c/fullegoism) | Official | [So, we continue the blackout, I hope you'll come with us on other platforms like raddle, lemmy](https://www.reddit.com/r/fullegoism) |
 | r/GrapheneOS | [GrapheneOS Discussion Forum](https://discuss.grapheneos.org/) | [🔗](https://discuss.grapheneos.org/) | Official | [GrapheneOS has moved away from Reddit to the combination of our new self-hosted discussion forum...](https://www.reddit.com/r/GrapheneOS/comments/v99bk4/grapheneos_has_moved_away_from_reddit_to_the/) |
 | r/hentailactation | !hentailactation@lemmynsfw.com | [🔗](https://lemmynsfw.com/c/hentailactation) | Official | [Find us here instead](https://www.reddit.com/r/hentailactation) |
@@ -141,6 +145,7 @@ Here's a quick and dirty list that you can [contribute to](https://github.com/yo
 | r/Sauna | !sauna@r-sauna.fi | [🔗](https://r-sauna.fi/c/sauna) | Official | [An attempt at an alternative home during the Reddit protests, and afterwards](https://r-sauna.fi/post/1) |
 | r/startpages | !startpages@kbin.social | [🔗](https://kbin.social/m/startpages) | Official | [Come check us out on Kbin here](https://www.reddit.com/r/startpages) |
 | r/TransClones | [/f/transclones](https://raddle.me/f/transclones) | [🔗](https://raddle.me/f/transclones) | Endorsed | [Reddit API changes and alternatives to the platform.](https://www.reddit.com/r/TransClones/comments/14bz6qe/reddit_api_changes_and_alternatives_to_the/) |
+| r/unixsocks | !unixsocks@lemmy.blahaj.zone | [🔗](https://lemmy.blahaj.zone/c/unixsocks) | Official | [HI evereyone i am doing a fake post test on reddit unixsocks](https://lemmy.blahaj.zone/post/268944) |
 | r/ZeroWasteVegans | !zerowaste@lemmy.ml or !vegan@lemmy.ml | [🔗](https://lemmy.ml/c/zerowaste) or [🔗](https://lemmy.ml/c/vegan) | Official | [If you — like many of us — no longer wish to use Reddit, please consider joining us at https://lemmy.ml/c/zerowaste or https://lemmy.ml/c/vegan](https://www.reddit.com/r/zerowastevegans) |
 | r/zfs | !zfs@lemmy.world | [🔗](https://lemmy.world/c/zfs) | Official | [For anyone wanting to migrate away from Reddit, I've set up a Lemmy.world community.](https://www.reddit.com/r/zfs/comments/14gr28a/for_anyone_wanting_to_migrate_away_from_reddit/) |
 
@@ -152,9 +157,11 @@ Here's a quick and dirty list that you can [contribute to](https://github.com/yo
 | r/buckknives | !buckknives@vlemmy.net  | [🔗](https://vlemmy.net/c/buckknives) | Official | [Subreddit will be restricted going forward](https://www.reddit.com/r/buckknives/comments/1497s9j/subreddit_will_be_restricted_going_forward/) |
 | r/cloudsecurity | !cloudsecurity@infosec.pub | [🔗](https://infosec.pub/c/cloudsecurity) | Official | [Moved here: https://infosec.pub/c/cloudsecurity](https://www.reddit.com/r/cloudsecurity) |
 | r/chicagomeetup | !chicagomeetups@lemmy.ml | [🔗](https://lemmy.ml/c/chicagomeetups) | Official | [Lemmy Server](https://www.reddit.com/r/ChicagoMeetup) |
+| r/drakengard | !nier@lemm.ee | [🔗](https://lemm.ee/c/nier) | Official | [The Future of r/drakengard (3rd Party Apps, Lemmy, Discord, etc.)](https://www.reddit.com/r//comments/14etf29/the_future_of_rdrakengard_3rd_party_apps_lemmy/) |
 | r/GyroGaming | !gyrogaming@lemmy.world | [🔗](https://lemmy.world/c/gyrogaming) | Official | [IMPORTANT: Reddit Blackout Part 3, Subreddit reopened to the public, and you](https://www.reddit.com/r//comments/14gllrq/important_reddit_blackout_part_3_subreddit/) |
 | r/LesbianJermaFans | [/f/LesbianJermaFans](https://raddle.me/f/LesbianJermaFans) | [🔗](https://raddle.me/f/LesbianJermaFans) | Official | [Lesbian Jerma Fans has migrated to Raddle, we will be going silent on Reddit tomorrow.](https://www.reddit.com/r//comments/147b0k6/lesbian_jerma_fans_has_migrated_to_raddle_we_will/) |
 | r/OpenRGB | !openrgb@lemmy.ml | [🔗](https://lemmy.ml/c/openrgb) | Official | [/r/OpenRGB has closed. See inside for other OpenRGB communities.](https://www.reddit.com/r//comments/14fez6h/ropenrgb_has_closed_see_inside_for_other_openrgb/) |
+| r/thrawn | !thrawn@lemmy.world | [🔗](https://lemmy.world/c/thrawn) | Official | [Status of /r/thrawn](https://www.reddit.com/r/thrawn/comments/14njga4/status_of_rthrawn/) |
 | r/VeganLobby | [Veganism Social](https://veganism.social/) | [🔗](https://veganism.social/) | Official | [We've moved to https://veganism.social](https://veganism.social/about) |
 
 ### 1k and Below Subscribers
@@ -165,7 +172,10 @@ Here's a quick and dirty list that you can [contribute to](https://github.com/yo
 | r/DiogenesWouldBeProud | !diogeneswouldbeproud@lemmy.fmhy.ml | [🔗](https://lemmy.fmhy.ml/c/diogeneswouldbeproud) | Official | [I have moved to lemmy](https://www.reddit.com/r/DiogenesWouldBeProud) |
 | r/FloatingIsFun | FloatingIsFun@fedia.io | [🔗](https://fedia.io/m/FloatingIsFun) | Official | [Reddit is not getting better. We're moving to /m/FloatingIsFun on Kbin!](https://www.reddit.com/r/FloatingIsFun/comments/14ld74y/reddit_is_not_getting_better_were_moving_to/) |
 | r/GirlGames | !GirlGames@kbin.social | [🔗](https://kbin.social/m/GirlGames) | Official | [We now have a community over on kbin.social!](https://www.reddit.com/r/GirlGames/comments/14829xs/we_now_have_a_community_over_on_kbinsocial/) |
+| r/HotPriests | !hotpriests@feddit.de | [🔗](https://feddit.de/c/hotpriests) | Official | [r/HotPriests will be going dark](https://www.reddit.com/r/HotPriests/comments/146hp1x/rhotpriests_will_be_going_dark/) |
+| r/IsraelRailways | !israelrailways@lemmy.world | [🔗](https://lemmy.world/c/israelrailways) | Official | [Lemmy](https://www.reddit.com/r/IsraelRailways/) |
 | r/OldMinecraft | [/s/OldMinecraft](https://squabbles.io/s/OldMinecraft) | [🔗](https://squabbles.io/s/OldMinecraft) | Official | [https://squabbles.io/s/OldMinecraft](https://www.reddit.com/r/OldMinecraft) |
+| r/Outfit7Limited | !Outfit7Limited@kbin.social | [🔗](https://kbin.social/m/Outfit7Limited) | Former member | [Alternate community](https://www.reddit.com/r/Outfit7Limited/comments/14kp80j/meta_call_to_action_renewed_protests_starting_on/jprruip/) |
 | r/palaeoecology | !palaeoecology@mander.xyz | [🔗](https://www.mander.xyz/c/palaeoecology) | Official | [Find us on Lemmy!](https://www.reddit.com/r//comments/14cwoih/find_us_on_lemmy/) |
 | r/risa | !risa@startrek.website | [🔗](https://startrek.website/c/risa) | Official | [Looking for an alternative to reddit to talk Trek? Join us on Lemmy!](https://www.reddit.com/r/startrek/comments/14a5t8w/looking_for_an_alternative_to_reddit_to_talk_trek/) |
 | r/steamdeck_linux | !steamdeck@sopuli.xyz | [🔗](https://sopuli.xyz/c/steamdeck) | Official | [[Meta] r/steamdeck_linux will henceforth be restricted. Consider this the canon forum for the community.](https://sopuli.xyz/post/695503) |
