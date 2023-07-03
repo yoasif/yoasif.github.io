@@ -31,6 +31,7 @@ Here's a quick and dirty list that you can [contribute to](https://github.com/yo
 | Subreddit | New Community | | Status | Announcement |
 | --- | --- | --- | --- | --- |
 | r/3dprinting | !3d_printing@forum.rhombik.com | [🔗](https://forum.rhombik.com/c/3d_printing) | Official | [Join us at rhombik.com](https://www.reddit.com/r/3Dprinting/comments/14a7sh5/join_us_at_rhombikcom/) |
+| r/Android | !android@lemdro.id | [🔗](https://lemdro.id/c/android) | Official | [We're now also on the Fediverse!](https://www.reddit.com/r/Android/comments/14p8vb7/were_now_also_on_the_fediverse/) |
 | r/assholedesign | !assholedesign@lemmy.world | [🔗](https://lemmy.world/c/assholedesign) | Former moderator | [The Coup of /r/AssholeDesign](https://lemmy.world/post/732367) |
 | r/childfree | !childfree@lemmy.world | [🔗](https://lemmy.world/c/childfree) | Sister community | [childfree.cc](https://www.childfree.cc/) |
 | r/DeepIntoYouTube | !DeepIntoYouTube@kbin.social | [🔗](https://kbin.social/m/DeepIntoYouTube) | Former moderator | [State of the Sub](https://www.reddit.com/r/DeepIntoYouTube/comments/14h81cp/state_of_the_sub/jp9y7zp/) |
@@ -94,6 +95,7 @@ Here's a quick and dirty list that you can [contribute to](https://github.com/yo
 | r/ObscureMedia | !obscuremedia@lemmy.world or !ObscureMedia@kbin.social | [🔗](https://lemmy.world/c/obscuremedia) or [🔗](https://kbin.social/m/ObscureMedia) | Official | [The future of r/ObscureMedia and Reddit](https://www.reddit.com/r/ObscureMedia/comments/14cmtcs/the_future_of_robscuremedia_and_reddit/) |
 | r/PokemonROMhacks | [PokéCommunity](https://www.pokecommunity.com/forumdisplay.php?fn=fan-games) | [🔗](https://www.pokecommunity.com/forumdisplay.php?fn=fan-games) | Endorsed | [In the meantime, visit PokéCommunity's forum](https://www.reddit.com/r/PokemonROMhacks) |
 | r/rpg_brasil | !rpg_brasil@lemmy.world | [🔗](https://lemmy.world/c/rpg_brasil) | Official | [r/rpg_brasil será restrito em 12 de junho por pelo menos 48 horas em protesto contra as mudanças na API do Reddit. Como essa mudança afetará os usuários regulares? Mais informações aqui.](https://www.reddit.com/r/rpg_brasil/comments/1456ovo/rrpg_brasil_ser%C3%A1_restrito_em_12_de_junho_por_pelo/) |
+| r/Xiaomi | !xiaomi@lemdro.id | [🔗]() | Official | [We're now also on the Fediverse!](https://www.reddit.com/r/Xiaomi/comments/14og68a/were_now_also_on_the_fediverse/) |
 
 ### 50k+ Subscribers
 
