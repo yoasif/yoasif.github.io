@@ -89,6 +89,7 @@ Here's a quick and dirty list that you can [contribute to](https://github.com/yo
 | r/exchristian | !exchristian@lemmy.one | [🔗](https://lemmy.one/c/exchristian) | Official | [This site was originally hosted on reddit before the Great Minor Exodus of 2023.](https://lemmy.one/c/exchristian) |
 | r/firefox | !firefox@fedia.io | [🔗](https://fedia.io/m/firefox) | Official | [📣 Announcement: We have reopened.](https://www.reddit.com/r/firefox/comments/14mmjv1/announcement_we_have_reopened/) |
 | r/FREEMEDIAHECKYEAH | !freemediaheckyeah@lemmy.fmhy.ml | [🔗](https://lemmy.fmhy.ml/c/freemediaheckyeah) | Official | [We made a Lemmy Instance](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/1445yfs/we_made_a_lemmy_instance/) |
+| r/malaysia | [monyet.cc](https://monyet.cc/) | [🔗](https://monyet.cc/) | Official | [/r/Malaysia and the blackout](https://www.reddit.com/r/malaysia/comments/14cmnaj/rmalaysia_and_the_blackout/) |
 | r/Megaten | !megaten@lemmy.world | [🔗](https://lemmy.world/c/megaten) | Official | [In the meantime, join !megaten@lemmy.world as an alternative to the sub.](https://www.reddit.com/r/Megaten) |
 | r/Moustache | !Moustache@kbin.social | [🔗](https://kbin.social/m/Moustache) | Official | [An Update on r/Moustache](https://www.reddit.com/r/Moustache/comments/149q8oi/an_update_on_rmoustache/) |
 | r/NoLawns | !nolawns@slrpnk.net | [🔗](https://slrpnk.net/c/NoLawns) | Official | [Where else can we find the No Lawns community?](https://www.reddit.com/r/NoLawns/comments/14bqoo9/where_else_can_we_find_the_no_lawns_community/) |
