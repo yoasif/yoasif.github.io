@@ -118,6 +118,7 @@ Things to note:
 | Reduce motion in the Firefox UI. | **ui.prefersReducedMotion** | `1` (number)
 | Disable DRM installation prompt. Useful if you don't want DRM support in Firefox. | **media.gmp-widevinecdm.visible** | `false`
 | Use backspace to go back. | **browser.backspace_action** | `0`
+| Disable ["moments page" full page post-upgrade notification](https://firefox-source-docs.mozilla.org/browser/components/newtab/content-src/asrouter/docs/first-run.html#upgrade-dialog). | **browser.startup.upgradeDialog.enabled** | `false`
 | Use a different search engine in private browsing. | **browser.search.separatePrivateDefault.ui.enabled** | `true`
 | Disable opening the download panel automatically after download completion. | **browser.download.alwaysOpenPanel** | `false`
 | Use the native OS print dialog. | **print.prefer_system_dialog** | `true`
