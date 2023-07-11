@@ -6,9 +6,12 @@ categories: writing
 tags: Firefox
 ---
 
-In this post, I review some of the add-ons [most requested](https://www.reddit.com/r/firefox/comments/s6pc1v/which_addons_do_you_most_want_to_see_on_firefox/?sort=top "Which add-ons do you most want to see on Firefox on Android?") for Firefox by the [Firefox community on reddit](https://www.reddit.com/r/firefox/). While Firefox for Android currently has 18 add-ons available by default, by installing the [Nightly](https://play.google.com/store/apps/details?id=org.mozilla.fenix "Firefox Nightly on Google Play") version of Firefox, you can use an expanded number of extensions not yet available on that list. If you are interested in more "power-ups" for your mobile browser, read on.
+In this post, I review some of the add-ons [most requested](https://www.reddit.com/r/firefox/comments/s6pc1v/which_addons_do_you_most_want_to_see_on_firefox/?sort=top "Which add-ons do you most want to see on Firefox on Android?") for Firefox by the [Firefox community on reddit](https://www.reddit.com/r/firefox/). While Firefox for Android currently has 18 add-ons available by default, by installing the [Beta](https://play.google.com/store/apps/details?id=org.mozilla.firefox_beta "Firefox Beta on Google Play") or [Nightly](https://play.google.com/store/apps/details?id=org.mozilla.fenix "Firefox Nightly on Google Play") versions of Firefox, you can use an expanded number of extensions not yet available on that list. If you are interested in more "power-ups" for your mobile browser, read on.
 
-Discuss this post on [reddit](https://www.reddit.com/r/firefox/comments/sdchhe/tested_and_reviewed_the_most_wanted_addons_for/?).
+##### Updates
+{:.no_toc}
+
+2023-07-11 - In an overdue update, I updated this post noting that expanded extension support [has expanded](https://blog.mozilla.org/addons/2022/12/15/new-extensions-available-now-on-firefox-for-android-nightly/) to Firefox [Beta](https://play.google.com/store/apps/details?id=org.mozilla.firefox_beta "Firefox Beta on Google Play"), in addition to [Nightly](https://play.google.com/store/apps/details?id=org.mozilla.fenix "Firefox Nightly on Google Play").
 
 * * *
 
@@ -31,13 +34,15 @@ While I am confident that Mozilla plans to make more add-ons available (although
 
 Perhaps predictibly, this has caused the add-ons marketplace on Firefox for Android to stagnate, with developers refusing to resolve issues in their previously working add-ons, due to lack of support from Mozilla. Beyond that, there is a vocal coterie of people who refuse to use Firefox Nightly in order to use its expanded add-on support, reducing the number of users who can help test the add-ons for quality.
 
-I use Nightly versions of Firefox routinely, as I like being on the cutting edge of Firefox development, and I find it to be incredibly stable. You may not already be using it, but if the add-ons I cover here are interesting to you, you can [install it easily](https://play.google.com/store/apps/details?id=org.mozilla.fenix "Firefox Nightly on Google Play"), and you can use it alongside your existing Firefox install. If you keep your existing Firefox installed (recommended!), [Firefox Sync](https://www.mozilla.org/en-US/firefox/sync/) can keep your bookmarks and passwords in sync, and you also have a backup to use if Firefox Nightly has a bad update or two (this happens extremely rarely, but has happened).
+I use Nightly versions of Firefox routinely, as I like being on the cutting edge of Firefox development, and I find it to be incredibly stable. You may not already be using it, but if the add-ons I cover here are interesting to you, you can [install it easily](https://play.google.com/store/apps/details?id=org.mozilla.fenix "Firefox Nightly on Google Play"), and you can use it alongside your existing Firefox install. If you keep your existing Firefox installed (recommended!), [Firefox Sync](https://www.mozilla.org/en-US/firefox/sync/) can keep your bookmarks and passwords in sync, and you also have a backup to use if Firefox Nightly has a bad update or two (this happens extremely rarely, but has happened). 
+
+Note: Since this post was first published, expanded extension availability is now available in [Firefox Beta](https://play.google.com/store/apps/details?id=org.mozilla.firefox_beta "Firefox Beta on Google Play"), lowering the barrier to entry significantly.
 
 I asked the [reddit Firefox community](https://www.reddit.com/r/firefox/) what add-ons they [most wanted to see in Firefox](https://www.reddit.com/r/firefox/comments/s6pc1v/which_addons_do_you_most_want_to_see_on_firefox/?sort=top "Which add-ons do you most want to see on Firefox on Android?"), and there were a lot of requests. I'll be looking at the requests with the most votes here, but I plan to follow up with more, if feedback is positive. If you prefer different add-ons, or want me to cover things differently, let me know as a comment on the reddit post for this post.
 
 ## Setup
 
-To get started, install [Firefox Nightly](https://play.google.com/store/apps/details?id=org.mozilla.fenix "Firefox Nightly on Google Play"), and then follow the instructions on the [Mozilla post announcing](https://blog.mozilla.org/addons/2020/09/29/expanded-extension-support-in-firefox-for-android-nightly/) expanded add-on support. The instructions note that you need to create an add-on "collection" on Add-ons Mozilla, but if you prefer not to do that (you will need a free Firefox Account), you can use [my collection](https://addons.mozilla.org/firefox/collections/3504483/Android-Nightly-Tested/ "Add-ons tested to work well in Firefox Nightly for Android.") instead. My collection is made up of the add-ons that I have reviewed that work and have no significant bugs.
+To get started, install Firefox [Beta](https://play.google.com/store/apps/details?id=org.mozilla.firefox_beta "Firefox Beta on Google Play") or [Nightly](https://play.google.com/store/apps/details?id=org.mozilla.fenix "Firefox Nightly on Google Play"), and then follow the instructions on the [Mozilla post announcing](https://blog.mozilla.org/addons/2020/09/29/expanded-extension-support-in-firefox-for-android-nightly/) expanded add-on support. The instructions note that you need to create an add-on "collection" on Add-ons Mozilla, but if you prefer not to do that (you will need a free Firefox Account), you can use [my collection](https://addons.mozilla.org/firefox/collections/3504483/Android-Nightly-Tested/ "Add-ons tested to work well in Firefox Nightly for Android.") instead. My collection is made up of the add-ons that I have reviewed that work and have no significant bugs.
 
 To use my add-on collection, when Mozilla's instructions tell you to enter a collection name and your user ID, enter the following:
 
@@ -334,4 +339,4 @@ Testing here was pretty uneventful. While the add-ons settings page isn't format
 
 ---
 
-That's all for now, folks! Feel free to give me feedback on this post on [reddit](https://www.reddit.com/r/firefox/comments/sdchhe/tested_and_reviewed_the_most_wanted_addons_for/?), including recommendations on which add-ons I should review for part 2.
+That's all for now, folks! Feel free to give me feedback on this post on [reddit](https://www.reddit.com/r/firefox/comments/sdchhe/tested_and_reviewed_the_most_wanted_addons_for/), including recommendations on which add-ons I should review for part 2.
