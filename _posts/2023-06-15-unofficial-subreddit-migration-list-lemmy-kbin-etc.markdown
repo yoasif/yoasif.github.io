@@ -206,4 +206,4 @@ r/toyotatacoma | u/loki_racer
 
 ---
 
-Feel free to give me feedback on this post on [Kbin](#). You can also message me on [Mastodon](https://mastodon.social/@yoasif).
+{% include donate.html %} Feel free to give me feedback on this post on [Kbin](#). You can also message me on [Mastodon](https://mastodon.social/@yoasif).

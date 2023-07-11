@@ -340,3 +340,5 @@ Testing here was pretty uneventful. While the add-ons settings page isn't format
 ---
 
 That's all for now, folks! Feel free to give me feedback on this post on [reddit](https://www.reddit.com/r/firefox/comments/sdchhe/tested_and_reviewed_the_most_wanted_addons_for/), including recommendations on which add-ons I should review for part 2.
+
+{% include donate.html %}
