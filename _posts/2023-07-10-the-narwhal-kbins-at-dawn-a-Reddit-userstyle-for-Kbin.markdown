@@ -6,13 +6,17 @@ categories: writing
 tags: Reddit Protest Kbin userstyle
 ---
 
+TL;DR: I made a styled version of Reddit for Kbin instances for people participating in the reddit migration. Inspired mostly by Old Reddit, but it actually has a dark mode! 
+
+Sounds good to you? **[💾 Install](#installation)** it! Otherwise, [see what it looks like](#screenshots), or keep reading.
+
+***
+
 Since the Reddit protests began, many people have been looking at their options for joining new communities. I quickly [decided]({% post_url 2023-06-12-whats-going-on-with-reddit-firefox-whats-next %} "What's Going on with r/Firefox? Reddit? What's Next") to quickly throw support to Kbin, since most newcomers seemed to prefer it. It is often easier to [improve something people like](https://mastodon.social/@yoasif/110669457588723474), rather than to recreate an entirely new product from scratch.
 
 So I've been using Kbin, along with scripts like [kbin enhancement script](https://greasyfork.org/en/scripts/468612-kbin-enhancement-script) and various styles (with varying issues). I finally got annoyed with the one I was using -- the developer uses dark modes, and I generally don't -- and decided to make my own. 
 
 The theme is called "The Narwhal Kbins at Dawn" -- you can thank u/Jordan117 for the name and [meme reference](https://knowyourmeme.com/memes/the-narwhal-bacons-at-midnight "The Narwhal Bacons at Midnight").
-
-***
 
 {:toc}
 * toc
@@ -113,9 +117,9 @@ No one is going to try out a userstyle without knowing what it looks like. Here 
 
 The theme is easy to install. 
 
-1. Install a userstyle manager. Most people use [Stylus](https://addons.mozilla.org/firefox/addon/styl-us/) - it is [open source and vetted by Mozilla](https://support.mozilla.org/kb/add-on-badges), and it runs on Firefox for Android (and is [part of my collection]({% post_url 2022-01-26-most-wanted-add-ons-firefox-android-part-1 %}#setup)).
-2. Navigate to the [theme](#) and click or tap "Install".
-3. Install optional extras like [kbin enhancement script](https://greasyfork.org/en/scripts/468612-kbin-enhancement-script) and a [font](https://userstyles.world/style/10836/rockoflf-bold-for-kbin) that looks like the Reddit font. 
+1. Install a userstyle manager. Most people use [Stylus](https://addons.mozilla.org/firefox/addon/styl-us/) - it is [open source and vetted by Mozilla](https://support.mozilla.org/kb/add-on-badges), and it also runs on Firefox for Android (and is part of my [collection]({% post_url 2022-01-26-most-wanted-add-ons-firefox-android-part-1 %}#setup) for easy installation).
+2. Navigate to the [theme](https://userstyles.world/style/10851/the-narwhal-kbins-at-dawn) and click or tap "Install".
+3. Install optional extras like [kbin enhancement script](https://greasyfork.org/en/scripts/468612-kbin-enhancement-script) and a [style](https://userstyles.world/style/10836/rockoflf-bold-for-kbin) that makes your instance logo look like Reddit's logo font. 
 4. You're done! Take a break and browse some Kbin!
 
 ## Contributing
