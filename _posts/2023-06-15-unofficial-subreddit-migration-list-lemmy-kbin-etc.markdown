@@ -121,6 +121,7 @@ Here's a quick and dirty list that you can [contribute to](https://github.com/yo
 
 | Subreddit | New Community | | Status | Announcement |
 | --- | --- | --- | --- | --- |
+| r/AustralianTeachers | !australian_teachers@lemm.ee | [🔗](https://lemm.ee/c/australian_teachers) | Unofficial | [Welcome to Australian Teachers, an unofficial sister group to the r/AustralianTeachers subreddit](https://lemm.ee/post/541394) |
 | r/Blind | !main@rblind.com | [🔗](https://rblind.com/c/main) | Official | [!!Open Alpha!! RBlind - A community on Lemmy, brought to you by the moderators of the /r/blind subreddit.](https://www.reddit.com/r/Blind/comments/14eaf68/open_alpha_rblind_a_community_on_lemmy_brought_to/) |
 | r/BudgetKeebs | !budgetkeebs@seemel.ink | [🔗](https://seemel.ink/c/budgetkeebs) | Official | [Since we may now be witnessing the end of Reddit as we know it, we are preparing for what appears to be the inevitable. We've launched a Lemmy instance that will be focussed on Mechanical Keyboards.](https://www.reddit.com/r/BudgetKeebs/comments/14bwx1i/since_we_may_now_be_witnessing_the_end_of_reddit/) |
 | r/Cebu | !cebu@lemmy.world | [🔗](https://lemmy.world/c/cebu) | Official | [In the meantime, join us over on Lemmy](https://www.reddit.com/r/Cebu) |
