@@ -331,4 +331,8 @@ In those situations, you can generally just disable Tracking Protection for the 
 
 3. The page will reload and it should work without issues. 
 
-If disabling tracking protection worked to fix the site, you can [report an issue](https://bugzilla.mozilla.org/enter_bug.cgi?product=Core&component=Privacy%3A%20Anti-Tracking) to help others who may also be experiencing an issue. 
+If disabling tracking protection worked to fix the site, you can [report an issue](https://bugzilla.mozilla.org/enter_bug.cgi?product=Core&component=Privacy%3A%20Anti-Tracking) to help others who may also be experiencing an issue.
+
+---
+
+{% include donate.html %}
