@@ -30,15 +30,15 @@ No one is going to try out a userstyle without knowing what it looks like. Here 
 <p>
 	<figure>
 	<picture>
-	  <source media="(prefers-color-scheme: light)" type="image/webp" srcset="{{site.url}}/assets/images/userstyles/the-narwhal-kbins-at-dawn/1.0/light/home-styled.webp,
-	          {{site.url}}/assets/images/userstyles/the-narwhal-kbins-at-dawn/1.0/light/home-styled-2x.webp 2x">
-	  <source media="(prefers-color-scheme: dark)" type="image/webp" srcset="{{site.url}}/assets/images/userstyles/the-narwhal-kbins-at-dawn/1.0/dark/home-styled.webp,
-	          {{site.url}}/assets/images/userstyles/the-narwhal-kbins-at-dawn/1.0/dark/home-styled-2x.webp 2x">
-	  <source media="(prefers-color-scheme: light)" type="image/png" srcset="{{site.url}}/assets/images/userstyles/the-narwhal-kbins-at-dawn/1.0/light/home-styled.png,
-	  		  {{site.url}}/assets/images/userstyles/the-narwhal-kbins-at-dawn/1.0/light/home-styled-2x.png 2x">
-	  <source media="(prefers-color-scheme: dark)" type="image/png" srcset="{{site.url}}/assets/images/userstyles/the-narwhal-kbins-at-dawn/1.0/dark/home-styled.png,
-	  		  {{site.url}}/assets/images/userstyles/the-narwhal-kbins-at-dawn/1.0/dark/home-styled-2x.png 2x">
-	  <img src="{{site.url}}/assets/images/userstyles/the-narwhal-kbins-at-dawn/1.0/dark/home-styled.png" srcset="{{site.url}}/assets/images/userstyles/the-narwhal-kbins-at-dawn/1.0/light/home-styled-2x.png 2x" alt="Screenshot of the home page of a Kbin instance using a lot of the old Reddit colors and styling"/>
+	  <source media="(prefers-color-scheme: light)" type="image/webp" srcset="{{site.url}}/assets/images/userstyles/the-narwhal-kbins-at-dawn/3.0/light/home-styled.webp,
+	          {{site.url}}/assets/images/userstyles/the-narwhal-kbins-at-dawn/3.0/light/home-styled-2x.webp 2x">
+	  <source media="(prefers-color-scheme: dark)" type="image/webp" srcset="{{site.url}}/assets/images/userstyles/the-narwhal-kbins-at-dawn/3.0/dark/home-styled.webp,
+	          {{site.url}}/assets/images/userstyles/the-narwhal-kbins-at-dawn/3.0/dark/home-styled-2x.webp 2x">
+	  <source media="(prefers-color-scheme: light)" type="image/png" srcset="{{site.url}}/assets/images/userstyles/the-narwhal-kbins-at-dawn/3.0/light/home-styled.png,
+	  		  {{site.url}}/assets/images/userstyles/the-narwhal-kbins-at-dawn/3.0/light/home-styled-2x.png 2x">
+	  <source media="(prefers-color-scheme: dark)" type="image/png" srcset="{{site.url}}/assets/images/userstyles/the-narwhal-kbins-at-dawn/3.0/dark/home-styled.png,
+	  		  {{site.url}}/assets/images/userstyles/the-narwhal-kbins-at-dawn/3.0/dark/home-styled-2x.png 2x">
+	  <img src="{{site.url}}/assets/images/userstyles/the-narwhal-kbins-at-dawn/3.0/dark/home-styled.png" srcset="{{site.url}}/assets/images/userstyles/the-narwhal-kbins-at-dawn/3.0/light/home-styled-2x.png 2x" alt="Screenshot of the home page of a Kbin instance using a lot of the old Reddit colors and styling"/>
 	  <figcaption>The front page of a Kbin instance</figcaption>
 	</picture>
 </figure>
@@ -49,15 +49,15 @@ No one is going to try out a userstyle without knowing what it looks like. Here 
 <p>
 	<figure>
 	<picture>
-	  <source media="(prefers-color-scheme: light)" type="image/webp" srcset="{{site.url}}/assets/images/userstyles/the-narwhal-kbins-at-dawn/1.0/light/home-styled-compact.webp,
-	          {{site.url}}/assets/images/userstyles/the-narwhal-kbins-at-dawn/1.0/light/home-styled-compact-2x.webp 2x">
-	  <source media="(prefers-color-scheme: dark)" type="image/webp" srcset="{{site.url}}/assets/images/userstyles/the-narwhal-kbins-at-dawn/1.0/dark/home-styled-compact.webp,
-	          {{site.url}}/assets/images/userstyles/the-narwhal-kbins-at-dawn/1.0/dark/home-styled-compact-2x.webp 2x">
-	  <source media="(prefers-color-scheme: light)" type="image/png" srcset="{{site.url}}/assets/images/userstyles/the-narwhal-kbins-at-dawn/1.0/light/home-styled-compact.png,
-	  		  {{site.url}}/assets/images/userstyles/the-narwhal-kbins-at-dawn/1.0/light/home-styled-compact-2x.png 2x">
-	  <source media="(prefers-color-scheme: dark)" type="image/png" srcset="{{site.url}}/assets/images/userstyles/the-narwhal-kbins-at-dawn/1.0/dark/home-styled-compact.png,
-	  		  {{site.url}}/assets/images/userstyles/the-narwhal-kbins-at-dawn/1.0/dark/home-styled-compact-2x.png 2x">
-	  <img src="{{site.url}}/assets/images/userstyles/the-narwhal-kbins-at-dawn/1.0/dark/home-styled-compact.png" srcset="{{site.url}}/assets/images/userstyles/the-narwhal-kbins-at-dawn/1.0/light/home-styled-compact-2x.png 2x" alt="Screenshot of the home page of a Kbin instance using a lot of the old Reddit colors and styling, and the compact view"/>
+	  <source media="(prefers-color-scheme: light)" type="image/webp" srcset="{{site.url}}/assets/images/userstyles/the-narwhal-kbins-at-dawn/3.0/light/home-styled-compact.webp,
+	          {{site.url}}/assets/images/userstyles/the-narwhal-kbins-at-dawn/3.0/light/home-styled-compact-2x.webp 2x">
+	  <source media="(prefers-color-scheme: dark)" type="image/webp" srcset="{{site.url}}/assets/images/userstyles/the-narwhal-kbins-at-dawn/3.0/dark/home-styled-compact.webp,
+	          {{site.url}}/assets/images/userstyles/the-narwhal-kbins-at-dawn/3.0/dark/home-styled-compact-2x.webp 2x">
+	  <source media="(prefers-color-scheme: light)" type="image/png" srcset="{{site.url}}/assets/images/userstyles/the-narwhal-kbins-at-dawn/3.0/light/home-styled-compact.png,
+	  		  {{site.url}}/assets/images/userstyles/the-narwhal-kbins-at-dawn/3.0/light/home-styled-compact-2x.png 2x">
+	  <source media="(prefers-color-scheme: dark)" type="image/png" srcset="{{site.url}}/assets/images/userstyles/the-narwhal-kbins-at-dawn/3.0/dark/home-styled-compact.png,
+	  		  {{site.url}}/assets/images/userstyles/the-narwhal-kbins-at-dawn/3.0/dark/home-styled-compact-2x.png 2x">
+	  <img src="{{site.url}}/assets/images/userstyles/the-narwhal-kbins-at-dawn/3.0/dark/home-styled-compact.png" srcset="{{site.url}}/assets/images/userstyles/the-narwhal-kbins-at-dawn/3.0/light/home-styled-compact-2x.png 2x" alt="Screenshot of the home page of a Kbin instance using a lot of the old Reddit colors and styling, and the compact view"/>
 	  <figcaption>The front page of a Kbin instance when using the compact view option</figcaption>
 	</picture>
 </figure>
@@ -68,15 +68,15 @@ No one is going to try out a userstyle without knowing what it looks like. Here 
 <p>
 	<figure>
 	<picture>
-	  <source media="(prefers-color-scheme: light)" type="image/webp" srcset="{{site.url}}/assets/images/userstyles/the-narwhal-kbins-at-dawn/1.0/light/post-styled.webp,
-	          {{site.url}}/assets/images/userstyles/the-narwhal-kbins-at-dawn/1.0/light/post-styled-2x.webp 2x">
-	  <source media="(prefers-color-scheme: dark)" type="image/webp" srcset="{{site.url}}/assets/images/userstyles/the-narwhal-kbins-at-dawn/1.0/dark/post-styled.webp,
-	          {{site.url}}/assets/images/userstyles/the-narwhal-kbins-at-dawn/1.0/dark/post-styled-2x.webp 2x">
-	  <source media="(prefers-color-scheme: light)" type="image/png" srcset="{{site.url}}/assets/images/userstyles/the-narwhal-kbins-at-dawn/1.0/light/post-styled.png,
-	  		  {{site.url}}/assets/images/userstyles/the-narwhal-kbins-at-dawn/1.0/light/post-styled-2x.png 2x">
-	  <source media="(prefers-color-scheme: dark)" type="image/png" srcset="{{site.url}}/assets/images/userstyles/the-narwhal-kbins-at-dawn/1.0/dark/post-styled.png,
-	  		  {{site.url}}/assets/images/userstyles/the-narwhal-kbins-at-dawn/1.0/dark/post-styled-2x.png 2x">
-	  <img src="{{site.url}}/assets/images/userstyles/the-narwhal-kbins-at-dawn/1.0/dark/post-styled.png" srcset="{{site.url}}/assets/images/userstyles/the-narwhal-kbins-at-dawn/1.0/light/post-styled-2x.png 2x" alt="Screenshot of a post on a Kbin instance using a lot of the old Reddit colors and styling"/>
+	  <source media="(prefers-color-scheme: light)" type="image/webp" srcset="{{site.url}}/assets/images/userstyles/the-narwhal-kbins-at-dawn/3.0/light/post-styled.webp,
+	          {{site.url}}/assets/images/userstyles/the-narwhal-kbins-at-dawn/3.0/light/post-styled-2x.webp 2x">
+	  <source media="(prefers-color-scheme: dark)" type="image/webp" srcset="{{site.url}}/assets/images/userstyles/the-narwhal-kbins-at-dawn/3.0/dark/post-styled.webp,
+	          {{site.url}}/assets/images/userstyles/the-narwhal-kbins-at-dawn/3.0/dark/post-styled-2x.webp 2x">
+	  <source media="(prefers-color-scheme: light)" type="image/png" srcset="{{site.url}}/assets/images/userstyles/the-narwhal-kbins-at-dawn/3.0/light/post-styled.png,
+	  		  {{site.url}}/assets/images/userstyles/the-narwhal-kbins-at-dawn/3.0/light/post-styled-2x.png 2x">
+	  <source media="(prefers-color-scheme: dark)" type="image/png" srcset="{{site.url}}/assets/images/userstyles/the-narwhal-kbins-at-dawn/3.0/dark/post-styled.png,
+	  		  {{site.url}}/assets/images/userstyles/the-narwhal-kbins-at-dawn/3.0/dark/post-styled-2x.png 2x">
+	  <img src="{{site.url}}/assets/images/userstyles/the-narwhal-kbins-at-dawn/3.0/dark/post-styled.png" srcset="{{site.url}}/assets/images/userstyles/the-narwhal-kbins-at-dawn/3.0/light/post-styled-2x.png 2x" alt="Screenshot of a post on a Kbin instance using a lot of the old Reddit colors and styling"/>
 	  <figcaption>Posts on Kbin instances look like Reddit too</figcaption>
 	</picture>
 </figure>
@@ -87,15 +87,15 @@ No one is going to try out a userstyle without knowing what it looks like. Here 
 <p>
 	<figure>
 	<picture>
-	  <source media="(prefers-color-scheme: light)" type="image/webp" srcset="{{site.url}}/assets/images/userstyles/the-narwhal-kbins-at-dawn/1.0/light/post-styled-compact.webp,
-	          {{site.url}}/assets/images/userstyles/the-narwhal-kbins-at-dawn/1.0/light/post-styled-compact-2x.webp 2x">
-	  <source media="(prefers-color-scheme: dark)" type="image/webp" srcset="{{site.url}}/assets/images/userstyles/the-narwhal-kbins-at-dawn/1.0/dark/post-styled-compact.webp,
-	          {{site.url}}/assets/images/userstyles/the-narwhal-kbins-at-dawn/1.0/dark/post-styled-compact-2x.webp 2x">
-	  <source media="(prefers-color-scheme: light)" type="image/png" srcset="{{site.url}}/assets/images/userstyles/the-narwhal-kbins-at-dawn/1.0/light/post-styled-compact.png,
-	  		  {{site.url}}/assets/images/userstyles/the-narwhal-kbins-at-dawn/1.0/light/post-styled-compact-2x.png 2x">
-	  <source media="(prefers-color-scheme: dark)" type="image/png" srcset="{{site.url}}/assets/images/userstyles/the-narwhal-kbins-at-dawn/1.0/dark/post-styled-compact.png,
-	  		  {{site.url}}/assets/images/userstyles/the-narwhal-kbins-at-dawn/1.0/dark/post-styled-compact-2x.png 2x">
-	  <img src="{{site.url}}/assets/images/userstyles/the-narwhal-kbins-at-dawn/1.0/dark/post-styled-compact.png" srcset="{{site.url}}/assets/images/userstyles/the-narwhal-kbins-at-dawn/1.0/light/post-styled-compact-2x.png 2x" alt="Screenshot of a post on a Kbin instance using a lot of the old Reddit colors and styling, and the compact view"/>
+	  <source media="(prefers-color-scheme: light)" type="image/webp" srcset="{{site.url}}/assets/images/userstyles/the-narwhal-kbins-at-dawn/3.0/light/post-styled-compact.webp,
+	          {{site.url}}/assets/images/userstyles/the-narwhal-kbins-at-dawn/3.0/light/post-styled-compact-2x.webp 2x">
+	  <source media="(prefers-color-scheme: dark)" type="image/webp" srcset="{{site.url}}/assets/images/userstyles/the-narwhal-kbins-at-dawn/3.0/dark/post-styled-compact.webp,
+	          {{site.url}}/assets/images/userstyles/the-narwhal-kbins-at-dawn/3.0/dark/post-styled-compact-2x.webp 2x">
+	  <source media="(prefers-color-scheme: light)" type="image/png" srcset="{{site.url}}/assets/images/userstyles/the-narwhal-kbins-at-dawn/3.0/light/post-styled-compact.png,
+	  		  {{site.url}}/assets/images/userstyles/the-narwhal-kbins-at-dawn/3.0/light/post-styled-compact-2x.png 2x">
+	  <source media="(prefers-color-scheme: dark)" type="image/png" srcset="{{site.url}}/assets/images/userstyles/the-narwhal-kbins-at-dawn/3.0/dark/post-styled-compact.png,
+	  		  {{site.url}}/assets/images/userstyles/the-narwhal-kbins-at-dawn/3.0/dark/post-styled-compact-2x.png 2x">
+	  <img src="{{site.url}}/assets/images/userstyles/the-narwhal-kbins-at-dawn/3.0/dark/post-styled-compact.png" srcset="{{site.url}}/assets/images/userstyles/the-narwhal-kbins-at-dawn/3.0/light/post-styled-compact-2x.png 2x" alt="Screenshot of a post on a Kbin instance using a lot of the old Reddit colors and styling, and the compact view"/>
 	  <figcaption>Posts on Kbin instances <i>really</i> look like Reddit when compact is enabled</figcaption>
 	</picture>
 </figure>
