@@ -170,6 +170,7 @@ r/TrollXFunny | [#trollxfunny](https://www.tumblr.com/tagged/trollxfunny) | [�
 | r/GyroGaming | !gyrogaming@lemmy.world | [🔗](https://lemmy.world/c/gyrogaming) | Official | [IMPORTANT: Reddit Blackout Part 3, Subreddit reopened to the public, and you](https://www.reddit.com/r/GyroGaming/comments/14gllrq/important_reddit_blackout_part_3_subreddit/) |
 | r/LesbianJermaFans | [/f/LesbianJermaFans](https://raddle.me/f/LesbianJermaFans) | [🔗](https://raddle.me/f/LesbianJermaFans) | Official | [Lesbian Jerma Fans has migrated to Raddle, we will be going silent on Reddit tomorrow.](https://www.reddit.com/r/LesbianJermaFans/comments/147b0k6/lesbian_jerma_fans_has_migrated_to_raddle_we_will/) |
 | r/OpenRGB | !openrgb@lemmy.ml | [🔗](https://lemmy.ml/c/openrgb) | Official | [/r/OpenRGB has closed. See inside for other OpenRGB communities.](https://www.reddit.com/r/OpenRGB/comments/14fez6h/ropenrgb_has_closed_see_inside_for_other_openrgb/) |
+| r/Soulism101 | !soulism101@lemmy.world | [🔗](https://lemmy.world/c/soulism101) | Official | [We're on Lemmy now!](https://www.reddit.com/r/Soulism101/comments/14eq3tv/were_on_lemmy_now/) |
 | r/thrawn | !thrawn@lemmy.world | [🔗](https://lemmy.world/c/thrawn) | Official | [Status of /r/thrawn](https://www.reddit.com/r/thrawn/comments/14njga4/status_of_rthrawn/) |
 | r/VeganLobby | [Veganism Social](https://veganism.social/) | [🔗](https://veganism.social/) | Official | [We've moved to https://veganism.social](https://veganism.social/about) |
 
