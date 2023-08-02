@@ -170,6 +170,7 @@ r/TrollXFunny | [#trollxfunny](https://www.tumblr.com/tagged/trollxfunny) | [�
 | r/GyroGaming | !gyrogaming@lemmy.world | [🔗](https://lemmy.world/c/gyrogaming) | Official | [IMPORTANT: Reddit Blackout Part 3, Subreddit reopened to the public, and you](https://www.reddit.com/r/GyroGaming/comments/14gllrq/important_reddit_blackout_part_3_subreddit/) |
 | r/LesbianJermaFans | [/f/LesbianJermaFans](https://raddle.me/f/LesbianJermaFans) | [🔗](https://raddle.me/f/LesbianJermaFans) | Official | [Lesbian Jerma Fans has migrated to Raddle, we will be going silent on Reddit tomorrow.](https://www.reddit.com/r/LesbianJermaFans/comments/147b0k6/lesbian_jerma_fans_has_migrated_to_raddle_we_will/) |
 | r/OpenRGB | !openrgb@lemmy.ml | [🔗](https://lemmy.ml/c/openrgb) | Official | [/r/OpenRGB has closed. See inside for other OpenRGB communities.](https://www.reddit.com/r/OpenRGB/comments/14fez6h/ropenrgb_has_closed_see_inside_for_other_openrgb/) |
+| r/Soulism101 | !soulism101@lemmy.world | [🔗](https://lemmy.world/c/soulism101) | Official | [We're on Lemmy now!](https://www.reddit.com/r/Soulism101/comments/14eq3tv/were_on_lemmy_now/) |
 | r/thrawn | !thrawn@lemmy.world | [🔗](https://lemmy.world/c/thrawn) | Official | [Status of /r/thrawn](https://www.reddit.com/r/thrawn/comments/14njga4/status_of_rthrawn/) |
 | r/VeganLobby | [Veganism Social](https://veganism.social/) | [🔗](https://veganism.social/) | Official | [We've moved to https://veganism.social](https://veganism.social/about) |
 
@@ -179,6 +180,7 @@ r/TrollXFunny | [#trollxfunny](https://www.tumblr.com/tagged/trollxfunny) | [�
 | --- | --- | --- | --- | --- |
 | r/BeatCollaboration | !MusicCollaboration@kbin.social | [🔗](https://kbin.social/m/MusicCollaboration) | Official | [Update: Alternative to Reddit During Blackout](https://www.reddit.com/r/beatcollaboration/comments/1476mh9/update_alternative_to_reddit_during_blackout/) |
 | r/DiogenesWouldBeProud | !diogeneswouldbeproud@lemmy.fmhy.ml | [🔗](https://lemmy.fmhy.ml/c/diogeneswouldbeproud) | Official | [I have moved to lemmy](https://www.reddit.com/r/DiogenesWouldBeProud) |
+| r/ChaotesVsPatriarchy | !chaotesvspatriarchy@lemmy.world | [🔗](https://lemmy.world/c/chaotesvspatriarchy) | Official | [We're on Raddle and Lemmy](https://www.reddit.com/r/ChaotesVsPatriarchy/comments/14f3duh/were_on_raddle_and_lemmy/) |
 | r/FloatingIsFun | FloatingIsFun@fedia.io | [🔗](https://fedia.io/m/FloatingIsFun) | Official | [Reddit is not getting better. We're moving to /m/FloatingIsFun on Kbin!](https://www.reddit.com/r/FloatingIsFun/comments/14ld74y/reddit_is_not_getting_better_were_moving_to/) |
 | r/GirlGames | !GirlGames@kbin.social | [🔗](https://kbin.social/m/GirlGames) | Official | [We now have a community over on kbin.social!](https://www.reddit.com/r/GirlGames/comments/14829xs/we_now_have_a_community_over_on_kbinsocial/) |
 | r/HotPriests | !hotpriests@feddit.de | [🔗](https://feddit.de/c/hotpriests) | Official | [r/HotPriests will be going dark](https://www.reddit.com/r/HotPriests/comments/146hp1x/rhotpriests_will_be_going_dark/) |
