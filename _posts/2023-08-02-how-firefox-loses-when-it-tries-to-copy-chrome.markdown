@@ -403,4 +403,4 @@ It is easy to miss things if you aren't looking for issues. There are no easy an
 
 ---
 
-{% include donate.html %} Feel free to give me feedback on this post on [Kbin](#). You can also message me on [Mastodon](https://mastodon.social/@yoasif).
+{% include donate.html %} Feel free to give me feedback on this post on [Kbin](https://fedia.io/m/firefox/t/162294/How-Firefox-Loses-When-it-Tries-to-Copy-Chrome). You can also message me on [Mastodon](https://mastodon.social/@yoasif).
