@@ -180,7 +180,7 @@ The Firefox feature works most coherently with the [laws of locality](https://ww
 
 >If you’re ever wondering where you should put a control (meaning: a button, a dropdown, an icon, a search bar – whatever!), **the answer is almost always: *where it effects change***.
 
-It's simple: the tab that gets reopened in Firefox is always going to be near where the user issued the command, because the tab is always going to be restored from the same window the user contextually clicked on. 
+It's simple: the tab that gets reopened in Firefox is always going to be near where the user issued the command, because the tab is always going to be restored from the same window the user context clicked. 
 
 In Chrome, the resulting tab can appear on a different desktop or display - and while Chrome does a good of moving your focus to the reopened tab, it isn't necessarily *near* where you clicked to reopen the closed tab.
 
