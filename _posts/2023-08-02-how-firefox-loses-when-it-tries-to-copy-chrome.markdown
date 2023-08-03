@@ -16,8 +16,8 @@ I start there to properly contextualize this post - Firefox wasn't just **differ
 <p>
 	<figure>
 	<picture>
-	  <img src="{{site.url}}/assets/images/they-live-chromium.png" alt="Image with two panels. Panel 1: Nada from They Live looking at a series of browsers icons, including Vivaldi, Opera, Chrome and Brave. Panel 2: Nada puts on his special sunlgasses, and all of the browsers are revealed to be Chromium browsers... except for Firefox."/>
-	  <figcaption>Nada from They Live looking at a series of browsers, all revealed to be Chromium browsers after putting on his special sunglasses</figcaption>
+	  <img src="{{site.url}}/assets/images/they-live-chromium.png" alt="Image with two panels. Panel 1: Nada from They Live looking at a series of browsers icons, including Vivaldi, Opera, Chrome and Brave. Panel 2: Nada puts on his special sunlgasses, and all of the browsers are revealed to be Chromium browsers&hellip; except for Firefox."/>
+	  <figcaption>Nada from They Live looking at a series of browsers, all revealed to be Chromium browsers after putting on his special sunglasses (except for Firefox)</figcaption>
 	</picture>
 </figure>
 </p>
@@ -97,7 +97,7 @@ Bugs happen. I think that the way the bug is triggered is enough off of the "hap
 
 As I investigated further, however, I got a hint that perhaps this wasn't as carefully planned as I would have hoped.
 
-But first... a demo.
+But first&hellip; a demo.
 
 ## Demo
 
@@ -294,11 +294,9 @@ So what's happening here? Like Proton, this feature seems so rushed that it does
 
 I think it is a false economy to want to rush out functionality that isn't well designed. Just releasing something new isn't a success. 
 
----
-
 I don't intend to judge anyone. As a tech worker myself, I know that these jobs can be hard, stressful, thankless, and confusing.
 
-No, the reason I wrote this post is because it *isn't enough* to just copy the market leader when you already have a dedicated and loyal userbase. 
+I wrote this post because it *isn't enough* to just copy the market leader when you already have a dedicated and loyal userbase. 
 
 Firefox isn't some brand new product, the people using it *like it* -- there is virtually no way for its users to not like it, with the way that bad teams [ignore web standards](https://webcompat.com).
 
@@ -315,6 +313,14 @@ For many of the areas where Firefox is different than Chrome, *Firefox is better
 Even as its crufty internals helped betray Firefox's marketshare due to stability and performance issues (made worse due to the [desire to support legacy extensions](https://yoric.github.io/post/why-did-mozilla-remove-xul-addons/ "Why Did Mozilla Remove XUL Add-ons?")), Firefox continued to have pockets of very well thought through user experiences.
 
 Of course, if you were a Chrome user, you wouldn't know that -- especially if you believe that the Chrome way must be superior because that is the way it is in Chrome.
+
+I'm not conviced that might makes right, and I believe that competition makes ecosystems better. It is understandable that a Chrome user might be unfamiliar with Firefox and may need some hand-holding if they are attempting to make a change. 
+
+It is entirely possible for competitors to have better designed experiences - but I don't think it makes sense to assume that because a competitor is more successful in market, that the *experience* must be better.
+
+People understand that in other spaces. Is McDonald's better than the farm-to-table restaurant in your downtown? It must be, McDonald's market capitalization dwarfs that of the smaller resturant. Clearly that means that the food, the ambiance, the service&hellip; are better.
+
+Clearly, we can't assume that because someone has a richer or larger team, that what they produce must be better, and we shouldn't be convinced otherwise.
 
 ## Takeaways
 
