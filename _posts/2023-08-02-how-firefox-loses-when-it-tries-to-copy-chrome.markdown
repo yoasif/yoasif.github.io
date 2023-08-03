@@ -202,7 +202,7 @@ I won't reproduce the entire bug here, but a straightforward reading of the bug 
 
 Unfortunately, this isn't actually how it works. 
 
-The copy above matches Chrome's behavior - as designed, Firefox should match Chrome today. Chrome doesn't care about which window the last closed tab was when it reopens a tab. 
+The copy above matches Chrome's behavior - as designed, Firefox should match Chrome today. Chrome doesn't care about which window the last closed tab was part of when it reopens a tab. 
 
 Firefox still does.
 
