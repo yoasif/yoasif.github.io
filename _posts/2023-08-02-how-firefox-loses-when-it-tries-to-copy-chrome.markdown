@@ -132,7 +132,7 @@ It can be easy to miss what you are supposed to be looking at in *any* video, so
 * I selected **Reopen Closed Tab**
 * The tab that was reopened was in the *other* window, not the one where I had clicked
 
-<video controls loop>
+<video controls loop width="100%">
     <source src="{{site.url}}/assets/videos/2023-08-02-how-firefox-loses-when-it-tries-to-copy-chrome/chrome.webm" type="video/webm">
 
     <source src="{{site.url}}/assets/videos/2023-08-02-how-firefox-loses-when-it-tries-to-copy-chrome/chrome.mp4" type="video/mp4">
@@ -156,7 +156,7 @@ I recorded a similar video for Firefox. As earlier, it can be easy to miss the k
 * I selected **Reopen Closed Tab**
 * The tab that was reopened was from the same window that I had clicked on, *even though it wasn't the last closed tab*
 
-<video controls loop>
+<video controls loop width="100%">
     <source src="{{site.url}}/assets/videos/2023-08-02-how-firefox-loses-when-it-tries-to-copy-chrome/firefox.webm" type="video/webm">
 
     <source src="{{site.url}}/assets/videos/2023-08-02-how-firefox-loses-when-it-tries-to-copy-chrome/firefox.mp4" type="video/mp4">
