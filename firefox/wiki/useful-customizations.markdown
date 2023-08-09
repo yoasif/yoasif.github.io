@@ -122,6 +122,7 @@ Things to note:
 | Use a different search engine in private browsing. | **browser.search.separatePrivateDefault.ui.enabled** | `true`
 | Disable opening the download panel automatically after download completion. | **browser.download.alwaysOpenPanel** | `false`
 | Use the native OS print dialog. | **print.prefer_system_dialog** | `true`
+| Open link from external app in the new window. | **browser.link.open_newwindow.override.external** | `2`
 
 {% include edit-on-GitHub.html %}
 
