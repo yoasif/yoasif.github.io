@@ -110,22 +110,21 @@ You can import Opera, Chrome, other Chromium based browsers passwords using the 
 ### To Firefox Lockwise
 
 [Firefox Lockwise](https://www.mozilla.org/firefox/lockwise/) is the native password manager of Firefox. It has mobile apps for iOS and Android, but does not offer support for other browsers or an password export feature.
-
 #### From a Chromium based browser
 
-1. Navigate to `about:logins` in the Firefox URL bar
-2. Click on the three dots on the top right corner of the page and then `Import Passwords...`
+1. Navigate to <kbd>about:logins</kbd> in the Firefox URL bar
+2. Click on the three dots on the top right corner of the page and then **Import Passwords...**
 3. Select your browser (select Chromium if you use any browser based on Chromium: Chrome, Opera, Brave, Vivaldi etc.)
 4. Select the data you would like to import (Saved Passwords)
 
 #### From a CSV
 
-One of the moderators here (/u/kickass_turing) has generously worked to bring CSV login import to Firefox. You can do this by:
+Former moderator [Andrei Petcu](https://blog.mozilla.org/addons/2020/12/17/friend-of-add-ons-andrei-petcu/) generously worked to bring CSV login import to Firefox. You can do this by:
 
-1. Navigate to `about:config` in the Firefox URL bar
-2. Search for `signon.management.page.fileImport.enabled` and ensure it is **true**
-3. Navigate to `about:logins`
-4. Click on the three dots on the top right corner of the page and then `Import from a File...`
+1. ~~Navigate to <kbd>about:config</kbd> in the Firefox URL bar~~
+2. ~~Search for `signon.management.page.fileImport.enabled` and ensure it is **true**~~
+3. Navigate to <kbd>about:logins</kbd>
+4. Click on the three dots on the top right corner of the page and then **Import from a File...**
 5. Select your file and follow the instructions
 
 ## Exporting Bookmarks
@@ -134,7 +133,7 @@ One of the moderators here (/u/kickass_turing) has generously worked to bring CS
 
 Opera makes it easy to export bookmarks.
 
-Simply go to ```opera://bookmarks``` and click on the **Import/Export...** menu on the left side of the screen. Select the *Export bookmarks* option and save the file.
+Simply go to <kbd>opera://bookmarks</kbd> and click on the **Import/Export...** menu on the left side of the screen. Select the *Export bookmarks* option and save the file.
 
 ## Importing Bookmarks
 
