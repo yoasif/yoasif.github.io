@@ -32,4 +32,4 @@ Thanks to [atararx](https://bugzilla.mozilla.org/user_profile?user_id=730518) an
 
 ---
 
-{% include donate.html %} Feel free to give me feedback on this post on [Kbin](https://fedia.io/m/firefox/t/162294/How-Firefox-Loses-When-it-Tries-to-Copy-Chrome). You can also message me on [Mastodon](https://mastodon.social/@yoasif).
+{% include donate.html %} Feel free to give me feedback on this post on [Kbin](https://fedia.io/m/firefox/t/352554/Firefox-120-Searching-Tabs-in-the-Address-Bar-Will-Work). You can also message me on [Mastodon](https://mastodon.social/@yoasif).
