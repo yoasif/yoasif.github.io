@@ -57,7 +57,7 @@ If you would rather [download an APK](https://github.com/mozilla-mobile/fenix/re
 
 **[Firefox Nightly](https://play.google.com/store/apps/details?id=org.mozilla.fenix)**: Nightly version of Firefox, released almost every day. Meant for developers or users who want to try latest and unstable features.
 
-If you would rather [download an APK](https://firefox-ci-tc.services.mozilla.com/tasks/index/project.mobile.fenix.v2.nightly/latest), you can do that too directly from Firefox CI service. Keep in mind that manually installed APKs from CI do not auto-update and can be unstable.
+If you would rather [download an APK](https://firefox-ci-tc.services.mozilla.com/tasks/index/mobile.v3.firefox-android.apks.fenix-nightly.latest), you can do that too directly from Firefox CI service. Keep in mind that manually installed APKs from CI do not auto-update and can be unstable.
 
 **[Firefox Focus](https://play.google.com/store/apps/details?id=org.mozilla.focus)**: Firefox Focus, also known as Firefox Klar in German-speaking countries, blocks trackers by default and doesn't save history, passwords and cookies. It also doesn't have Firefox Sync support. Unlike in iOS, it offers tabbed browsing. Since it doesn't save your history, it is a good browser if you want to do some online shopping or if you want to watch some videos you wouldn't want anyone else to know about. It uses [GeckoView](https://mozilla.github.io/geckoview/).
 
