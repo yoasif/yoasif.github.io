@@ -63,7 +63,7 @@ Redditors also want to know whether the UX team [looks at competing browsers](ht
 
 Aaron said that the team does "[competitor analysis as part of UX explorations and research studies](https://www.reddit.com/r/firefox/comments/1de7bu1/were_the_firefox_leadership_team_at_mozilla_ama/l8gdpj3/)", and that the best way to make feature requests is via Mozilla Connect (Bugzilla being better for bugs).
 
-I think that the answers here help to explain why feedback to Bugzilla is often ineffectual -- it seems that design feedback may not in scope by the time something is released in Nightly, since Product and UX folks are using tools that either didn't exist just a few years ago (Connect) or are closed to the community (Jira).
+I think that the answers here help to explain why feedback to Bugzilla is often ineffectual -- it seems that design feedback may not be in scope by the time something is released in Nightly, since Product and UX folks are using tools that either didn't exist just a few years ago (Connect) or are closed to the community (Jira).
 
 ### Reporting Broken Sites
 
