@@ -107,7 +107,7 @@ u/CalQL8or shared a specific example of the style of video that they find valuab
 
 u/elsjpq asked how well a Firefox browser based on Chromium could "achieve [the] mission of the Firefox project".
 
-Ian Carmichael [said](https://www.reddit.com/r/firefox/comments/1de7bu1/were_the_firefox_leadership_team_at_mozilla_ama/l8gq12z/) "It really wouldn't work that well. It would leave the future evolution of the web to two huge tech companies (Apple and Google) whose corporate incentives are very different from our own."
+Ian [said](https://www.reddit.com/r/firefox/comments/1de7bu1/were_the_firefox_leadership_team_at_mozilla_ama/l8gq12z/) "It really wouldn't work that well. It would leave the future evolution of the web to two huge tech companies (Apple and Google) whose corporate incentives are very different from our own."
 
 ## Challenges Facing Firefox
 
