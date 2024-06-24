@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mozilla Did a Reddit AMA About Their 2014 Firefox Priorities… See What You Missed"
+title:  "Mozilla Did a Reddit AMA About Their 2024 Firefox Priorities… See What You Missed"
 date:   2024-06-24 01:00:00 -0400
 categories: writing
 tags: Firefox Reddit
