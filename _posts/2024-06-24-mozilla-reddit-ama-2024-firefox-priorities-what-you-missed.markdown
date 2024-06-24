@@ -91,7 +91,7 @@ Bethel said that we *can* expect to see more engagement, and that Mozilla "[will
 
 u/BubiBalboa suggested that Mozilla "[create videos explaining the monthly release notes and new features](https://www.reddit.com/r/firefox/comments/1de7bu1/comment/l8f58nh/)".
 
-I think as we have witnessed the rise of video-based communities like YouTube and TikTok, it is easy to see the relevance of content shared there. It is also obvious that Mozilla is aware of value of these channels, as they *have* [posted videos](https://www.youtube.com/@firefox/videos) about internet culture and privacy.
+I think as we have witnessed the rise of video-based communities like YouTube and TikTok, it is easy to see the relevance of content shared there. It is also obvious that Mozilla is aware of the value of these channels, as they *have* [posted videos](https://www.youtube.com/@firefox/videos) about internet culture and privacy.
 
 Two years ago, Mozilla had posted some feature specific "Firefox Tips" -- I hadn't seen [Watch more basketball with Firefox Multi Picture-in-Picture](https://www.youtube.com/watch?v=AQybEhWZ8YA), but this would be perfect marketing for many sports fans (as my brother can readily attest - he uses this feature daily across multiple sports) - sadly, the video only has 5,000 views. 
 
