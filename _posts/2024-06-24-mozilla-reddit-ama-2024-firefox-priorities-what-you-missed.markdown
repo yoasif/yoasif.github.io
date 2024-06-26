@@ -133,7 +133,7 @@ u/markouka asked about [installable PWAs for desktops](https://www.reddit.com/r/
 
 Bobby [responded](https://www.reddit.com/r/firefox/comments/1de7bu1/were_the_firefox_leadership_team_at_mozilla_ama/l8gnyal/) that the [desktop PWA prototype](https://bugzilla.mozilla.org/show_bug.cgi?id=1602117) that Mozilla built a few years ago got "some pretty negative feedback" in user testing and they didn't have the bandwidth to take another crack at it. 
 
-Bobby teased "Taskbar Tabs" which is another attempt at the concept. A UX team member informed me that this is Windows-only. 
+Bobby teased "[Taskbar Tabs](https://connect.mozilla.org/t5/discussions/how-can-firefox-create-the-best-support-for-web-apps-on-the/m-p/60561)" which is another attempt at the concept. A UX team member informed me that this is Windows-only. 
 
 ## More Language Support in Firefox Translate
 
@@ -147,7 +147,7 @@ u/slash9492 [asked](https://www.reddit.com/r/firefox/comments/1de7bu1/were_the_f
 
 Aaron [replied](https://www.reddit.com/r/firefox/comments/1de7bu1/were_the_firefox_leadership_team_at_mozilla_ama/l8gfk4l/) that the design team is actively "doing a lot of design exploration in this space". 
 
-Relatedly, I had opened a [feature request](https://github.com/mozilla-lockwise/lockwise-addon/issues/350) for a Chrome/Web WebExtension to accomplish a similar task. I believe that both requests would make Sync more attractive, especially when compared to products like Bitwarden and Google Password Manager.
+Relatedly, I had opened a [feature request](https://github.com/mozilla-lockwise/lockwise-addon/issues/350) for a Chrome/WebExtension to accomplish a similar task. I believe that both requests would make Sync more attractive, especially when compared to products like Bitwarden and Google Password Manager.
 
 ## Fission on Android
 
