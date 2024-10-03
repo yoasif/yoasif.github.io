@@ -33,6 +33,12 @@ After some digging, I found that the reason the tab overview was initially made 
 
 >I think the most straightforward solution or improvement we can make here is to set browser.tabs.tabmanager.enabled = true, that is, show the "List all tabs" button always and unconditionally.
 
+### Update
+
+I got feedback that the immediate reason (which seems previously undocumented) is to [deal with](https://bugzilla.mozilla.org/show_bug.cgi?id=1918681#c6) "add-ons hiding tabs that could be malicious or that don't provide a good UI for re-showing tabs":
+
+>From my perspective, the main thing stopping us from allowing users to remove the button is that it contains the hidden tabs sub menu, which is sort of a stop-gap solution for add-ons hiding tabs that could be malicious or that don't provide a good UI for re-showing tabs. It's a safeguard for a theoretical concern, that in practice shouldn't get much usage (which is often part of the nature of a safeguard). Note that disabling/uninstalling such add-ons re-shows hidden tabs too. I wouldn't be opposed to allowing users to remove the button if add-ons and Product folks think the risk is acceptable.
+
 ---
 
 {% include donate.html %} You can also message me on [Mastodon](https://mastodon.social/@yoasif).
