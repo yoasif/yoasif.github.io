@@ -47,7 +47,7 @@ Some other browsers do not close the window you are in when you close the last t
 
 Some other browsers let tabs get really tiny. Firefox doesn't do that by default, but you *can* make Firefox tabs narrower. Edit ```browser.tabs.tabMinWidth``` to a smaller number, as low as **50**.
 
-## Tips for people everyone else
+## Tips for everyone else
 
 ### Choose what color scheme (light or dark) Firefox chooses for web pages
 
