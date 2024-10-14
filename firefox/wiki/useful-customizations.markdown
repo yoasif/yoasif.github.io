@@ -92,7 +92,7 @@ If you prefer a smaller toolbar UI, or you are on a lower resolution display, yo
 
 Things to note:
 
-* The warning is real. You can do a lot of damage to your browser by messing with the wrong settings here.
+* The warning is true. You can do a lot of damage to your browser by messing with the wrong settings here.
 
 * **Bold entries** are modified from the default values, either by you or by the browser. You can reset a setting to default by right-clicking and selecting 'reset'.
 
