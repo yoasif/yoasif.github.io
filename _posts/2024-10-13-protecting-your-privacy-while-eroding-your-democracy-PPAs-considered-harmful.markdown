@@ -90,7 +90,7 @@ Content farms and spam sites have been a part of the web for as long as web adve
 
 The advent of cheap (or free) AI is working to change that calculus. Popular tech news sites like CNET have “quietly” begun [publishing articles generated entirely by AI](https://futurism.com/the-byte/cnet-publishing-articles-by-ai). While that decision [backfired](https://www.cbsnews.com/sanfrancisco/news/cnets-decision-to-write-stories-with-ai-backfires/), AI content has [quickly become pervasive on Facebook](https://archive.ph/2JNKK) – a site with 2.11 billion daily active users.
 
-As Jason Koebler writes:
+As [Jason Koebler](https://mastodon.social/@jasonkoebler) writes:
 
 >The platform has become something worse than bots talking to bots. It is bots talking to bots, bots talking to bots at the direction of humans, humans talking to humans, humans talking to bots, humans arguing about a fake thing made by a bot, humans talking to no one without knowing it, hijacked human accounts turned into bots, humans worried that the other humans they’re talking to are bots, hybrid human/bot accounts, the end of a shared reality, and, at the center of all of this: One of the most valuable companies on the planet enabling this shitshow because its human executives and shareholders have too much money riding on the mass adoption of a reality-breaking technology to do anything about it. 
 
@@ -115,7 +115,7 @@ Worse yet, browser-based measurement proposals exacerbate the growing problem of
 
 ### How Budgets Migrate From Good Sites to Bad
 
-As I studied the proposals, I came across Don Marti’s posts on [PETs](https://blog.zgp.org/pet-projects-or-privacy/) (his term for “privacy-enhancing technologies”), and quickly realized that some of his thoughts might be hard to follow to those who aren’t well-versed in advertising technologies.
+As I studied the proposals, I came across [Don Marti](https://federate.social/@dmarti)’s posts on [PETs](https://blog.zgp.org/pet-projects-or-privacy/) (his term for “privacy-enhancing technologies”), and quickly realized that some of his thoughts might be hard to follow to those who aren’t well-versed in advertising technologies.
 
 He says that “PETs don’t fix revenue issues for ad-supported sites. The fundamental good ad/bad site problems and bad ad/good site problems are still there. PETs make it safer and easier for an advertiser to run ads on sites they don’t trust, so they help crappy infringing or AI-generated sites compete with legit ones in the same ways that third-party cookies do,” [^5] and that “when the same measurement system covers both harmful and win-win ad placements, it creates incentives for advertisers to chase the best possible metrics while creating the least possible value for the user. In a sustainable system, the user, or some party that the user trusts to provide an ad-supported resource, would be a data gatekeeper to keep data from leaking into the negative-sum corners of the Internet.” [^6]
 
@@ -224,7 +224,7 @@ Social media is a massive destination for all ages, and advertisers are increasi
 
 This means that instead of trying to find your audiences on the wider web, you have a one-stop shop to advertise to virtually any audience – and these audiences have helpfully identified themselves – they tell us their interests, the things they buy, their friends, and often their real names. On Facebook, *everyone* [knows you are a dog](https://en.wikipedia.org/wiki/On_the_Internet,_nobody_knows_you%27re_a_dog) (because you posted multiple galleries of yourself).
 
-Even if you aren’t using your real name on the social platforms – are you using an email address that identifies your real-world identity (How about your phone number?)? Chances are, the platform knows who you are – and they are letting advertisers “know” too.
+Even if you aren’t using your real name on the social platforms – are you using an email address that identifies your real-world identity (how about your phone number?)? Chances are, the platform knows who you are – and they are letting advertisers “know” too.
 
 As this kind of identification and tracking doesn’t rely on the web platform via third-party cookies and funky JavaScript on publisher sites, browsers can do nothing about blocking it. When advertising on the platforms, users have no way of hiding who they are (if they are logged in), so advertisers can be more confident about the audiences that they are advertising to.
 
