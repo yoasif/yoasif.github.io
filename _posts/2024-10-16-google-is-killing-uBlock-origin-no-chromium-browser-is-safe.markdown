@@ -68,7 +68,8 @@ This post is me trying to give you that information, to help increase the mind s
     margin: 0;
     font-size: 2em;
     color: #cf1f00;
-    font-family: 'fira_sansbold', sans-serif;
+        font-family: 'fira_sansbold', sans-serif;
+        font-weight: 600;
 }
 
 
@@ -108,11 +109,11 @@ This week, we saw that Google is making good on their promises, adding warnings 
 
 ## Chromium Browsers Are Affected
 
-If you use uBlock Origin but aren’t using Chrome or Firefox, you might think you have nothing to worry about. Unfortunately, you'd be thinking wrong.
+If you use uBlock Origin but aren’t using Chrome or Firefox, you might think you have nothing to worry about. Unfortunately, you'd be wrong.
 
-A Google product manager announced the phase-out of Manifest V2 [on the Chromium blog](https://blog.chromium.org/2024/05/manifest-v2-phase-out-begins.html) on May of 2024.
+A Google product manager announced the phase-out of Manifest V2 [on the Chromium blog](https://blog.chromium.org/2024/05/manifest-v2-phase-out-begins.html) on May of 2024. The MV2 deprecation will affect *all* Chromium browsers.
 
-Once deprecated, this code will be removed from the codebase; Google is not a fan of leaving dead code around in their projects – more importantly, they consider this set of features to be a [security risk](https://security.googleblog.com/2019/06/improving-security-and-privacy-for.html).
+Once deprecated, this code will be removed from the Chromium codebase; Google is not a fan of leaving dead code around in their projects – more importantly, they consider this set of features to be a [security risk](https://security.googleblog.com/2019/06/improving-security-and-privacy-for.html).
 
 This means that if you use browsers like Microsoft Edge or Opera, the extension will stop working on your browser.
 
