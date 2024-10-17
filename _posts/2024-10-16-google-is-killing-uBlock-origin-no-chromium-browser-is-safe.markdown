@@ -205,7 +205,7 @@ Unfortunately, that is not the case.
 
 The [filtering capabilities which can't be ported to MV3](https://github.com/uBlockOrigin/uBOL-home/wiki/Frequently-asked-questions-(FAQ)#filtering-capabilities-which-cant-be-ported-to-mv3) remain the same whether you opt into cosmetic filtering or not.
 
-uBO Lite ships by default with cosmetic filtering disabled. People can then opt into cosmetic filtering on a site by site basis. In contrast, uBlock Origin ships with cosmetic filtering enabled on all sites. People can *already* a run uBlock Origin [with cosmetic filtering disabled by default](https://github.com/gorhill/ublock/wiki/Per-site-switches#no-cosmetic-filtering) - it's just not an option most people are interested in, since it removes fewer ad trackers than having it enabled. 
+uBO Lite ships by default with cosmetic filtering disabled. People can then opt into cosmetic filtering on a site by site basis. In contrast, uBlock Origin ships with cosmetic filtering enabled on all sites. People can *already* run uBlock Origin [with cosmetic filtering disabled by default](https://github.com/gorhill/ublock/wiki/Per-site-switches#no-cosmetic-filtering) - it's just not an option most people are interested in, since it removes fewer ad trackers than having it enabled. 
 
 As an aside, this option in uBlock Origin negates the performance argument vs. uBO Lite: you can have the same performance profile as the cut-down version, but opting into the more complete mode is more effective in uBlock Origin.
 
