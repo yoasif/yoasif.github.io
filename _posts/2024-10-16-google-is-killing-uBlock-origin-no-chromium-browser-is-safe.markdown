@@ -129,7 +129,7 @@ Some browser vendors (and their adherents) try to sidestep the question of wheth
 
 Nice idea in theory, but these built in blockers pale in comparison to the real thing.
 
-[Vivaldi users](https://www.reddit.com/r/vivaldibrowser/comments/1fc2kqo/built_in_adblock_with_the_new_update/) point out that the built in blocker is noticably worse, with some guessing that Vivaldi doesn’t fully support uBlock Origin filterlists (Vivaldi is closed source, so it’s harder for users to investigate).
+Vivaldi users point out that the [built in blocker is noticably worse than uBlock Origin](https://www.reddit.com/r/vivaldibrowser/comments/1fc2kqo/built_in_adblock_with_the_new_update/), with some guessing that Vivaldi doesn’t fully support uBlock Origin filterlists (Vivaldi is closed source, so it’s harder for users to investigate).
 
 Brave has a number of feature gaps compared to uBlock Origin [^6], resulting in worse effectiveness as well.
 
