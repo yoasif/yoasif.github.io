@@ -109,7 +109,7 @@ This week, we saw that Google is making good on their promises, adding warnings 
 
 ## Chromium Browsers Are Affected
 
-If you use uBlock Origin but aren’t using Chrome or Firefox, you might think you have nothing to worry about. Unfortunately, you'd be wrong.
+If you use uBlock Origin but aren’t using Chrome or Firefox, you might think you have nothing to worry about. Unfortunately, you'd be wrong about that.
 
 A Google product manager announced the phase-out of Manifest V2 [on the Chromium blog](https://blog.chromium.org/2024/05/manifest-v2-phase-out-begins.html) on May of 2024. The MV2 deprecation will affect *all* Chromium browsers.
 
