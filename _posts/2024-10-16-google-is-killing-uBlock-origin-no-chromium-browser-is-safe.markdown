@@ -34,7 +34,7 @@ This post is me trying to give you that information, to help increase the mind s
     display: flex;
     align-items: center; 
     background: linear-gradient(189deg, #eeffcc 0%, #aff32a 100%);
-    padding: 24px 40px; 
+    padding: 20px 40px; 
     border-radius: 10px; /* Rounded corners */
     border: 2px solid #d2e6a0; /* Slightly darker border color */
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3)
@@ -65,7 +65,7 @@ This post is me trying to give you that information, to help increase the mind s
     color: #09700b;
     font-size: 1em;
     font-family: serif;
-	width: 100px;
+	width: 124px;
 }
 .download-button:hover {
     border: 2px solid #7bbd3f; 
@@ -87,7 +87,7 @@ This post is me trying to give you that information, to help increase the mind s
     justify-content: center;
     align-items: center;
     height: 45vh;
-    margin: 0;
+    margin: 0 -16px;
     background: #fff url("{{site.url}}/assets/images/chromium-ublock/background-tile.jpeg") 50% 0 repeat-x;
 }
 </style>
