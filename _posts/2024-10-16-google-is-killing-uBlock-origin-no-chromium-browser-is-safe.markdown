@@ -17,17 +17,9 @@ This post is me trying to give you that information, to help increase the mind s
 
 ---
 
+<link rel="stylesheet" href="{{site.url}}/assets/images/chromium-ublock/stylesheet.css" type="text/css" charset="utf-8" />
+
 <style>
-@font-face {
-    font-family: 'Fira Sans';
-    src: url('{{site.url}}/assets/fonts/FiraSans-Bold.ttf') format('truetype');
-    font-weight: 700;
-    font-style: normal;
-}
-
-
-
-
 
 .download-button {
     position: relative; 
@@ -76,8 +68,7 @@ This post is me trying to give you that information, to help increase the mind s
     margin: 0;
     font-size: 2em;
     color: #cf1f00;
-        font-family: 'Fira Sans', sans-serif;
-        font-weight: 600;
+    font-family: 'fira_sansbold', sans-serif;
 }
 
 
@@ -105,11 +96,11 @@ Have a great rest of your day and thanks for visiting! You can [follow me on Mas
 
 ## Background
 
-Let’s catch you up quickly. Back in 2019, Google announced that they wanted to [weaken ad blockers](https://security.googleblog.com/2019/06/improving-security-and-privacy-for.html) to make them safer for users, as part of their new extension format, "MV3" (the previous version was known as *MV2*). Commentators pointed out that the [security arguments weren’t true](https://www.eff.org/deeplinks/2019/07/googles-plans-chrome-extensions-wont-really-help-security), and users and developers of uBlock Origin (the best content blocker even then) began [discussing the implications](https://github.com/uBlockOrigin/uBlock-issues/issues/338#issuecomment-452843669) of Google’s proposal.
+Let’s catch you up quickly. Back in 2018, Google announced that they were going to introduce a new extensions manifest version: [MV3](https://blog.chromium.org/2018/10/trustworthy-chrome-extensions-by-default.html) (the existing version being *MV2*). Later on in 2019, Google announced that they wanted to [weaken ad blockers](https://security.googleblog.com/2019/06/improving-security-and-privacy-for.html) to make them safer for users, as a part of the move to MV3. Commentators pointed out that the [security arguments weren’t true](https://www.eff.org/deeplinks/2019/07/googles-plans-chrome-extensions-wont-really-help-security), and users and developers of uBlock Origin (the best content blocker even then) began [discussing the implications](https://github.com/uBlockOrigin/uBlock-issues/issues/338#issuecomment-452843669) of Google’s proposal.
 
 Raymond Hill, the primary developer of uBlock Origin quickly began to engage [^3] with Google on the proposed design, pointing out how it weakens the *very* popular extension. In 2021, Google announced their deprecation timeline for MV2,[^4], with powerful content blockers scheduled to be deprecated in Chrome by June of 2023. A year later, Google announced [updated timelines](https://developer.chrome.com/blog/more-mv2-transition/) for deprecation, to January of 2024. 
 
-Raymond began a [two week marathon coding session](https://github.com/uBlockOrigin/uBlock-issues/issues/338#issuecomment-1253893421) to build an extension that would work within Google’s less-effective extension model: [uBO Lite](https://github.com/uBlockOrigin/uBOL-home).
+Raymond began a [two week marathon coding session](https://github.com/uBlockOrigin/uBlock-issues/issues/338#issuecomment-1253893421) to build an extension that would work within Google’s less-effective extension model: [uBO Lite](https://github.com/uBlockOrigin/uBOL-home). As expected, this version has many [missing features and limitations](https://github.com/uBlockOrigin/uBlock-issues/issues/338#issuecomment-1507539114) compared to uBlock Origin.
 
 Late last year, Google had announced that they were [resuming the transition to Manifest V3](https://developer.chrome.com/blog/resuming-the-transition-to-mv3), with a new end date for MV2 support for enterprises of June 2025. The Chrome Web Store was slated to disallow installation of MV2 extensions as early as June 2024.
 
@@ -217,7 +208,7 @@ The way that uBO Lite works by default is by coming with [cosmetic filtering dis
 
 As an aside, this option in uBlock Origin negates the performance argument vs. uBO Lite: you can have the same performance profile as the cut-down version, but opting into the more complete mode is more effective in uBlock Origin.
 
-The bit about "scriptlet injections" may intrigue you. Unfortunately, this too is a mirage. If there were a simple way to convert the missing features in MV3 to scriptlets, the uBO Lite developers would have already built them in. Imagining that this is a way to get access to the full effectiveness of uBlock Origin is pure theory - ask whoever suggests this *how* to make it work, *today*, not in some far away future that may never come. 
+The bit about "scriptlet injections" may intrigue you. Unfortunately, this too is a mirage. If this was a simple way to convert the missing features in MV3 to scriptlets, the uBO Lite developers would have already built them in. Imagining that this is a way to get access to the full effectiveness of uBlock Origin is pure theory - ask whoever suggests this *how* to make it work, *today*, not in some far away future that may never come. 
 
 
 [^1]: Daly Barnett. "[Chrome Users Beware: Manifest V3 is Deceitful and Threatening.](https://www.eff.org/deeplinks/2021/12/chrome-users-beware-manifest-v3-deceitful-and-threatening)" EFF, December 9, 2021.
