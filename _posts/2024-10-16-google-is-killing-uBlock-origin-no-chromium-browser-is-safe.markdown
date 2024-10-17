@@ -105,15 +105,15 @@ Have a great rest of your day and thanks for visiting! You can [follow me on Mas
 
 ## Background
 
-Let’s catch you up quickly. Back in 2019, Google announced that they wanted to [weaken ad blockers](https://security.googleblog.com/2019/06/improving-security-and-privacy-for.html) to make them safer for users, in their new extension standard, "MV3" (the previous version was known as *MV2*). Commentators pointed out that the [security arguments weren’t true](https://www.eff.org/deeplinks/2019/07/googles-plans-chrome-extensions-wont-really-help-security), and users and developers of uBlock Origin (the best content blocker even then) began [discussing the implications](https://github.com/uBlockOrigin/uBlock-issues/issues/338#issuecomment-452843669) of Google’s proposal.
+Let’s catch you up quickly. Back in 2019, Google announced that they wanted to [weaken ad blockers](https://security.googleblog.com/2019/06/improving-security-and-privacy-for.html) to make them safer for users, as part of their new extension format, "MV3" (the previous version was known as *MV2*). Commentators pointed out that the [security arguments weren’t true](https://www.eff.org/deeplinks/2019/07/googles-plans-chrome-extensions-wont-really-help-security), and users and developers of uBlock Origin (the best content blocker even then) began [discussing the implications](https://github.com/uBlockOrigin/uBlock-issues/issues/338#issuecomment-452843669) of Google’s proposal.
 
 Raymond Hill, the primary developer of uBlock Origin quickly began to engage [^3] with Google on the proposed design, pointing out how it weakens the *very* popular extension. In 2021, Google announced their deprecation timeline for MV2,[^4], with powerful content blockers scheduled to be deprecated in Chrome by June of 2023. A year later, Google announced [updated timelines](https://developer.chrome.com/blog/more-mv2-transition/) for deprecation, to January of 2024. 
 
 Raymond began a [two week marathon coding session](https://github.com/uBlockOrigin/uBlock-issues/issues/338#issuecomment-1253893421) to build an extension that would work within Google’s less-effective extension model: [uBO Lite](https://github.com/uBlockOrigin/uBOL-home).
 
-Late last year, Google had announced that they were [resuming the transition to Manifest V3](https://developer.chrome.com/blog/resuming-the-transition-to-mv3), with a new end date for MV2 support for enterprises of June 2025. The Chrome Web Store was supposed to disallow installation of MV2 extensions as early as June 2024.
+Late last year, Google had announced that they were [resuming the transition to Manifest V3](https://developer.chrome.com/blog/resuming-the-transition-to-mv3), with a new end date for MV2 support for enterprises of June 2025. The Chrome Web Store was slated to disallow installation of MV2 extensions as early as June 2024.
 
-This week, we saw that Google is making good on their promises, adding warnings to their Chrome Web Store for listings of MV2 extensions. This is the beginning of the end for powerful extension-based content blockers in Chromium browsers. 
+This week, we saw that Google is making good on their promises, adding warnings to the Chrome Web Store for listings of MV2 extensions, including uBlock Origin. This is the beginning of the end for powerful extension-based content blockers in Chromium browsers. 
 
 ## Chromium Browsers Are Affected
 
@@ -181,7 +181,7 @@ Firefox is still around and (actually) better than ever. It’s got zero-knowled
 
 This section is a grab bag for responses and thoughts that aren't interesting enough for the main post. If you think I'm wrong about something or feel that I didn't cover something effectively, @ me ([no seriously, message me on Mastodon](https://mastodon.social/@yoasif)). I'll make sure to update my post with any new objections or comments.
 
-### MV3 is more secure - isn't that better?
+### MV3 is more secure
 
 I don't take this argument too seriously. Others have delved into the security implications of the standard -- I'm not covering that. To me this is a question of trust, not security. I *trust* the uBlock Origin team (along with the add-on marketplaces run by Google, Mozilla, Microsoft) to send me an extension that does what it says it is going to do. 
 
@@ -189,7 +189,7 @@ Even if MV2 extensions were horribly insecure (if they are, why did Google host 
 
 This doesn't feel like a serious argument - were you previously using uBlock Origin? Boo! 👻 You were running insecure code! If you trusted it yesterday, you trust it tomorrow, Google's arguments notwithstanding.
 
-### MV3 blockers have better performance, even if they are ineffective - isn't that a good trade off?
+### MV3 blockers have better performance
 
 You hear this one sometimes - "MV3 moves parsing of filter rules to the browser engine, making it superfast" or "the built-in blocker is faster than an extension can be, so what if it supports fewer filter rules?"
 
@@ -201,7 +201,7 @@ If your blocker takes up a tiny bit more processing power to block an ad that us
 
 There is no way that having a better ad blocker isn't better. Performance isn't a real argument, because the first tracker or ad that slips through your less-effective blocker obviates the seconds of gains you may have made over hundreds or thousands of page loads.
 
-### You can opt into more effective blocking on uBO Lite, can't you? That unlocks the full power of uBlock Origin, right?
+### You can opt into more effective blocking on uBO Lite
 
 On the [README](https://github.com/uBlockOrigin/uBOL-home/blob/main/README.md) of the uBO Lite repository, developers note that:
 
