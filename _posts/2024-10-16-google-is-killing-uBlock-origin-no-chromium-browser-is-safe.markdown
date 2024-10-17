@@ -127,6 +127,8 @@ But wait! Some of those Chromium browsers say “it’s okay, we built an ad blo
 
 Some browser vendors (and their adherents) try to sidestep the question of whether uBlock Origin will continue to be available on their browser by saying that the browser has an ad blocker compatible with uBlock filter lists – so people can use that browser and its built in blocker with no loss of functionality.[^5]
 
+After publication, I was informed that Brave is [misrepresenting their CEO's stance on MV2 deprecation](https://x.com/brave/status/1845946314666004979). I'll leave it to the reader to decide whether this is mere puffery.
+
 Nice idea in theory, but these built in blockers pale in comparison to the real thing.
 
 Vivaldi users point out that the [built in blocker is noticably worse than uBlock Origin](https://www.reddit.com/r/vivaldibrowser/comments/1fc2kqo/built_in_adblock_with_the_new_update/), with some guessing that Vivaldi doesn’t fully support uBlock Origin filterlists (Vivaldi is closed source, so it’s harder for users to investigate).
