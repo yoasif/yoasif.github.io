@@ -187,7 +187,7 @@ You hear this one sometimes - "MV3 moves parsing of filter rules to the browser 
 
 Unfortunately, this is a [false economy](https://en.wikipedia.org/wiki/False_economy). 
 
-Recent [tests](https://x.com/gorhill/status/1792648742752981086) have shown that uBlock Origin is just as fast as a fork of its cut-down version (uBO Lite), while being blocking more.
+Recent [tests](https://x.com/gorhill/status/1792648742752981086) have shown that uBlock Origin is just as fast as a fork of its cut-down version (uBO Lite), while blocking more.
 
 If your blocker takes up a tiny bit more processing power to block an ad that uses a ton more processing power, caring about the processing used by the ad blocker is engaging in a false economy. 
 
