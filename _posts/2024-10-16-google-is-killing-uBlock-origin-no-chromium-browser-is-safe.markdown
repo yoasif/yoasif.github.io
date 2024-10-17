@@ -119,15 +119,15 @@ This means that if you use browsers like Microsoft Edge or Opera, the extension 
 
 Other Chromium browser vendors have [claimed that they will continue to support MV2 based content blockers](https://x.com/brave/status/1725622768262128006), later revealing that they were unwilling to support the code [once Google removed it](https://x.com/BrendanEich/status/1534893414579249152). 
 
+📝 After publication, I was informed that Brave is [misrepresenting their CEO's stance on MV2 deprecation](https://x.com/brave/status/1845946314666004979). I'll leave it to the reader to decide whether this is mere puffery. I was also reminded that an oft-misremembered motivation to spread Brave is financial. [^5] [^6]
+
 So for Chromium browsers, it is the end of the line for uBlock Origin. 
 
 But wait! Some of those Chromium browsers say “it’s okay, we built an ad blocker into our browser!” 
 
 ### Built-in Ad Blockers
 
-Some browser vendors (and their adherents) try to sidestep the question of whether uBlock Origin will continue to be available on their browser by saying that the browser has an ad blocker compatible with uBlock filter lists – so people can use that browser and its built in blocker with no loss of functionality.[^5]
-
-After publication, I was informed that Brave is [misrepresenting their CEO's stance on MV2 deprecation](https://x.com/brave/status/1845946314666004979). I'll leave it to the reader to decide whether this is mere puffery. I was also reminded that an oft-misremembered motivation to spread Brave is financial. [^6] [^7]
+Some browser vendors (and their adherents) try to sidestep the question of whether uBlock Origin will continue to be available on their browser by saying that the browser has an ad blocker compatible with uBlock filter lists – so people can use that browser and its built in blocker with no loss of functionality.[^7]
 
 Nice idea in theory, but these built in blockers pale in comparison to the real thing.
 
@@ -218,9 +218,9 @@ The bit about "scriptlet injections" may intrigue you. Unfortunately, this too i
 [^2]: Lawrence Abrams. "[Google warns uBlock Origin and other extensions may be disabled soon.](https://www.bleepingcomputer.com/news/google/google-warns-ublock-origin-and-other-extensions-may-be-disabled-soon/)" Bleeping Computer, October 13, 2024.
 [^3]: [Extensions: Implement Manifest V3](https://issues.chromium.org/issues/40598795#comment24)
 [^4]: "[Manifest V2 support timeline.](https://web.archive.org/web/20211001143632/https://developer.chrome.com/docs/extensions/mv3/mv2-sunset/)" Chrome Developers Documentation, September 23, 2021.
-[^5]: Team Vivaldi. "[Manifest v3 update: Vivaldi is future-proofed with its built-in functionality.](https://vivaldi.com/blog/manifest-v3-update-vivaldi-is-future-proofed-with-its-built-in-functionality/)" Vivaldi, June 17, 2024.
-[^6]: [Brave Rewards](https://brave.com/brave-rewards/): Support content creators and earn tokens for ads you see in Brave. Use your tokens to buy gift cards, exchange for other currencies, and more.
-[^7]: [Basic Attention Token](https://basicattentiontoken.org/): BAT – Making Crypto and DeFi accessible and useable for everyone
+[^5]: [Brave Rewards](https://brave.com/brave-rewards/): Support content creators and earn tokens for ads you see in Brave. Use your tokens to buy gift cards, exchange for other currencies, and more.
+[^6]: [Basic Attention Token](https://basicattentiontoken.org/): BAT – Making Crypto and DeFi accessible and useable for everyone
+[^7]: Team Vivaldi. "[Manifest v3 update: Vivaldi is future-proofed with its built-in functionality.](https://vivaldi.com/blog/manifest-v3-update-vivaldi-is-future-proofed-with-its-built-in-functionality/)" Vivaldi, June 17, 2024.
 [^8]: [GitHub issues on Brave's adblock-rust repository labeled "uBO-parity"](https://github.com/brave/adblock-rust/issues?q=is%3Aissue%20state%3Aopen%20sort%3Acomments-desc%20label%3AuBO-parity). A list: [1](https://github.com/brave/adblock-rust/issues/1), [4](https://github.com/brave/adblock-rust/issues/4), [145](https://github.com/brave/adblock-rust/issues/145), [165](https://github.com/brave/adblock-rust/issues/165), [194](https://github.com/brave/adblock-rust/issues/194), [236](https://github.com/brave/adblock-rust/issues/236), [245](https://github.com/brave/adblock-rust/issues/245), [246](https://github.com/brave/adblock-rust/issues/246), [247](https://github.com/brave/adblock-rust/issues/247), [278](https://github.com/brave/adblock-rust/issues/278), [293](https://github.com/brave/adblock-rust/issues/293), [314](https://github.com/brave/adblock-rust/issues/314), [322](https://github.com/brave/adblock-rust/issues/322), [324](https://github.com/brave/adblock-rust/issues/324), [326](https://github.com/brave/adblock-rust/issues/326), [327](https://github.com/brave/adblock-rust/issues/327), [364](https://github.com/brave/adblock-rust/issues/364), [365](https://github.com/brave/adblock-rust/issues/365), [391](https://github.com/brave/adblock-rust/issues/391)
 
 ---
