@@ -117,7 +117,7 @@ Once deprecated, this code will be removed from the Chromium codebase; Google is
 
 This means that if you use browsers like Microsoft Edge or Opera, the extension will stop working on your browser.
 
-Other Chromium browser vendors have [claimed that they will continue to support MV2 based content blockers](https://x.com/brave/status/1725622768262128006), later revealing that they were unwilling to support the code [once Google removed it](https://x.com/BrendanEich/status/1534893414579249152). 
+Other Chromium browser vendors have [claimed that they will continue to support MV2 based content blockers](https://x.com/brave/status/1725622768262128006), later revealing that they were unwilling to support the code [once Google removed it](https://x.com/BrendanEich/status/1534893414579249152) because they "[don’t write checks of unknown amount and sign them](https://x.com/BrendanEich/status/1534905779630661633)".
 
 📝 After publication, I was informed that Brave is [misrepresenting their CEO's stance on MV2 deprecation](https://x.com/brave/status/1845946314666004979). I'll leave it to the reader to decide whether this is mere puffery. I was also [reminded](https://lemmy.ml/comment/14359716) that an oft-misremembered motivation to spread Brave is financial. [^5] [^6]
 
