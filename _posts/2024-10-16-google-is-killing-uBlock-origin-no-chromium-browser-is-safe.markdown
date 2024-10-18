@@ -131,7 +131,7 @@ Some browser vendors (and their adherents) try to sidestep the question of wheth
 
 Nice idea in theory, but these built in blockers pale in comparison to the real thing.
 
-Vivaldi users point out that the [built in blocker is noticably worse than uBlock Origin](https://www.reddit.com/r/vivaldibrowser/comments/1fc2kqo/built_in_adblock_with_the_new_update/), with some guessing that Vivaldi doesn’t fully support uBlock Origin filterlists (Vivaldi is closed source, so it’s harder for users to investigate).
+Vivaldi users point out that the [built in blocker is noticably worse than uBlock Origin](https://www.reddit.com/r/vivaldibrowser/comments/1fc2kqo/built_in_adblock_with_the_new_update/), with some guessing that Vivaldi doesn’t fully support uBlock Origin filterlists (Vivaldi is closed source, lacking open bug trackers or source code repositories, so it’s harder for users to investigate).
 
 Brave has a number of feature gaps compared to uBlock Origin [^8], resulting in worse effectiveness as well.
 
@@ -213,6 +213,15 @@ As an aside, this option in uBlock Origin negates the performance argument vs. u
 
 The bit about "scriptlet injections" may intrigue you. Unfortunately, this too is a mirage. If this was a simple way to convert the missing features in MV3 to scriptlets, the uBO Lite developers would have already built them in. Imagining that this is a way to get access to the full effectiveness of uBlock Origin is pure theory - ask whoever suggests this *how* to make it work, *today*, not in some far away future that may never come. 
 
+### I can use a DNS based ad blocker
+
+Some readers have suggested that they could use a DNS based ad blocker - either one they host on their own, or by using a DNS server that blocks known ad hosts. 
+
+Unfortunately, while this may have worked well a decade ago, it really doesn't do well today, and I would tend to actively recommend against it. 
+
+The most obvious reason is that since DNS servers only know what domain you are connecting to, if ads are arriving via the same domain as non-advertising content is hosted, your blocker is likely to let the ad through, to avoid you not being able to access the site. The second major issue with DNS based blocking is that there is no opportunity for cosmetic filtering, since DNS doesn't know anything about web pages, nor does it run in browsers. That means that ad slots can't get hidden, scripts can't be injected, along with a [host of other limitations](https://www.reddit.com/r/uBlockOrigin/comments/epjlpw/comment/fejujjn/).
+
+The biggest issue with DNS based blocking (for me) is needing to be a network admin for your household, especially if you set if up for your network. Do you enjoy wondering why random websites that you never visit doesn't work for your mother or brother? Does the idea of trying to remotely allow certain domains while you are at work to unblock your parents excite you? Then DNS based blockers are for you. The best part is when you've had it installed for a while and something stops working, but you forgot that you had set up the DNS blocker. Could be days of troubleshooting fun!
 
 [^1]: Daly Barnett. "[Chrome Users Beware: Manifest V3 is Deceitful and Threatening.](https://www.eff.org/deeplinks/2021/12/chrome-users-beware-manifest-v3-deceitful-and-threatening)" EFF, December 9, 2021.
 [^2]: Lawrence Abrams. "[Google warns uBlock Origin and other extensions may be disabled soon.](https://www.bleepingcomputer.com/news/google/google-warns-ublock-origin-and-other-extensions-may-be-disabled-soon/)" Bleeping Computer, October 13, 2024.
