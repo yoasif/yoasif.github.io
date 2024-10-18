@@ -4,6 +4,8 @@ title:  "Supporting Compact Mode in Firefox Proton"
 date:   2021-03-21 01:30:00 -0400
 categories: writing
 tags: Firefox
+image: /assets/images/firefox-welcome-density-options-mockup.png
+
 ---
 
 Mozilla recently [proposed](https://bugzilla.mozilla.org/show_bug.cgi?id=1693028 "Bug 1693028 - Remove compact mode inside Density menu of customize palette") that Firefox remove its compact UI density setting as part of its [Proton UI Refresh](https://wiki.mozilla.org/Firefox/Proton). Resulting [coverage](https://www.pcmag.com/news/firefox-redesign-will-see-compact-density-option-disappear "PCMag: Firefox Redesign Drops Compact Density Option") has resulted in consternation among Firefox users.

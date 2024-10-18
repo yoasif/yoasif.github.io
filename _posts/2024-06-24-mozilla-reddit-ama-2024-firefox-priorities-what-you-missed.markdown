@@ -4,6 +4,8 @@ title:  "Mozilla Did a Reddit AMA About Their 2024 Firefox Priorities… See Wha
 date:   2024-06-24 01:00:00 -0400
 categories: writing
 tags: Firefox Reddit
+image: /assets/images/reddit/fxltamamontage.jpg
+
 ---
 
 Mozilla did their biggest Reddit AMA yet on Thursday, June 13, with eight members of the Firefox leadership team. With 400 total comments on the [post](https://www.reddit.com/r/firefox/comments/1de7bu1/were_the_firefox_leadership_team_at_mozilla_ama/), they covered a lot of ground, and you may have missed it. Grab a snack and settle in for an overview of the most interesting topics that were discussed.

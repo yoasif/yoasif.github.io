@@ -4,6 +4,8 @@ title:  "What's Going on with r/Firefox? Reddit? What's Next?"
 date:   2023-06-12 05:37:00 -0400
 categories: writing
 tags: Reddit Firefox Kbin
+image: /assets/images/reddit/firefox-private-2x.png
+
 ---
 
 Many Reddit communities (sub-reddits) have [shut down](https://www.nytimes.com/2023/06/12/business/media/reddit-subreddit-blackout-protest.html "Reddit Communities Go Dark to Protest New App Policy") this Monday, [r/firefox](https://www.reddit.com/r/firefox/) is one of them. Are you [out of the loop](https://www.reddit.com/r/OutOfTheLoop/comments/147fcdf/whats_going_on_with_subreddits_going_private_on/ "What's going on with subreddits going private on June 12th and 13th? And what is up with reddit's API?")?

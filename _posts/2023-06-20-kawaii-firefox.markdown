@@ -4,6 +4,8 @@ title:  "Kawaii Firefox"
 date:   2023-06-20 05:04:00 -0400
 categories: writing
 tags: Reddit Firefox art icons Kawaii
+image: /assets/images/reddit-finds/kawaii-firefox-day.png
+
 ---
 
 Trying to archive some of the best posts from r/firefox over the years.

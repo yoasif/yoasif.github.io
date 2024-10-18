@@ -4,6 +4,8 @@ title:  "r/firefox Monthly Wrap-Up - May 2022"
 date:   2022-07-05 01:39:00 -0400
 categories: writing
 tags: Firefox reddit wrap-up
+image: /assets/images/firefox-reddit-monthly-wrap-up/2022-06/marina-zhurakhinskaya_2022-06-14.jpg
+
 ---
 
 There are a lot of fun things posted on [r/firefox](https://www.reddit.com/r/firefox/) every month, but if you don't visit often, you might miss some things. 

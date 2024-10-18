@@ -4,6 +4,8 @@ title:  "Firefox Suggest: An Anatomy of a PR Incident"
 date:   2021-10-10 01:30:00 -0400
 categories: writing
 tags: Firefox
+image: /assets/images/firefox-suggest-an-anatomy/firefox-suggest-address-bar-wikipedia-2x.png
+
 ---
 
 Firefox 93 was [released](https://www.mozilla.org/en-US/firefox/93.0/releasenotes/) last Tuesday, and early reviews were positive. That didn't last long though, as reports soon spread on tech media that Firefox was now showing ads in the address bar, something only obliquely mentioned in the release notes. Since then, Support Mozilla has posted a note saying that they "haven't quite hit" their mark, and that they are working to address it.

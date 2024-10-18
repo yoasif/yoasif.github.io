@@ -4,6 +4,8 @@ title:  "The Reason the List all tabs Button is Permanent is Because of Firefox 
 date:   2024-10-02 08:48:00 -0400
 categories: writing
 tags: Firefox
+image: /assets/images/firefox-view-opentabs.svg
+
 ---
 
 (I would generally be inclined to post something like this post to social media, but I recently read [Molly White's](https://www.mollywhite.net/)) post on [POSSE](https://www.citationneeded.news/posse/), so… here we are.)
