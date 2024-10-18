@@ -4,6 +4,7 @@ title:  "Google is Killing uBlock Origin. No Chromium Browser is Safe."
 date:   2024-10-16 06:38:00 -0400
 categories: writing
 tags: Firefox Chromium browsers
+image: /assets/images/chromium-ublock/zoo-atlanta-rose-1024x682.jpg
 
 ---
 
