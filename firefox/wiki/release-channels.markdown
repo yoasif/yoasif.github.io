@@ -53,7 +53,7 @@ On Android, you have more options, depending on your needs:
 
 If you would rather [download an APK](https://github.com/mozilla-mobile/fenix/releases), you can do that too directly from GitHub Releases. Keep in mind that manually installed APKs do not auto-update.
 
-**[Firefox Beta](https://play.google.com/store/apps/details?id=org.mozilla.firefox_beta)**: This is the next version of Firefox on Android. This browser is in beta, so [report any feedback or issues](https://github.com/mozilla-mobile/fenix/issues) you have.
+**[Firefox Beta](https://play.google.com/store/apps/details?id=org.mozilla.firefox_beta)**: This is the next version of Firefox on Android. This browser is in beta, so [report any feedback or issues](https://bugzilla.mozilla.org/enter_bug.cgi?product=Fenix) you have.
 
 **[Firefox Nightly](https://play.google.com/store/apps/details?id=org.mozilla.fenix)**: Nightly version of Firefox, released almost every day. Meant for developers or users who want to try latest and unstable features.
 
