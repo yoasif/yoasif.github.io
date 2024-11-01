@@ -107,9 +107,6 @@ LastPass, you ask? We don't recommend it. We have seen it cause massive slowdown
 
 You can import Opera, Chrome, other Chromium based browsers passwords using the guide over at [Bitwarden help](https://help.bitwarden.com/article/import-from-chrome/). 
 
-### To Firefox Lockwise
-
-[Firefox Lockwise](https://www.mozilla.org/firefox/lockwise/) is the native password manager of Firefox. It has mobile apps for iOS and Android, but does not offer support for other browsers or an password export feature.
 #### From a Chromium based browser
 
 1. Navigate to <kbd>about:logins</kbd> in the Firefox URL bar
