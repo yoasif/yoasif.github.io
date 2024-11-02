@@ -35,6 +35,12 @@ You may prefer other browsers' behavior of opening bookmarks in new tabs. You ca
 
 Set ```browser.tabs.loadBookmarksInTabs``` to **true** in ```about:config``` 
 
+### Opening bookmarks in background tabs
+
+You may prefer other browsers' behavior of bookmark menu bookmarks being opened in background tabs. You can do the same thing in Firefox:
+
+Set ```browser.bookmarks.openInTabClosesMenu``` to **false** in ```about:config``` 
+
 ### Show bookmarks in a tab
 
 Some other browsers show bookmarks in a tab, instead of a sidebar or new window. You can do this in Firefox by opening ```chrome://browser/content/places/places.xhtml``` in a new tab. You can also bookmark this page for easy access.
@@ -112,6 +118,7 @@ Things to note:
 | Show Firefox profiles as separate taskbar icons in Windows. | **taskbar.grouping.useprofile** | `true` (boolean)
 | Load bookmarks in a new tab. | **browser.tabs.loadBookmarksInTabs** | `true`
 | Load bookmarks in a new [*backgrounded* tab](https://www.reddit.com/r/firefox/comments/fbjxd5/open_new_tabs_from_firefoxs_bookmarks_and_history/). Requires *browser.tabs.loadBookmarksInTabs* to be set to `true` as well. | **browser.tabs.loadBookmarksInBackground** | `true`
+| Load contextual searches in a background tab. | **browser.search.context.loadInBackground** | `true`
 | Always shows the Picture in Picture toggle. Firefox shows the Picture in Picture toggle on videos longer than 45 seconds. | **media.videocontrols.picture-in-picture.video-toggle.always-show** | `true`
 | Disable text to speech in reader mode. | **narrate.enabled** | `false`
 | Choose a container when opening a new tab by clicking the new tab button. | **privacy.userContext.newTabContainerOnLeftClick.enabled** | `true`
@@ -122,6 +129,8 @@ Things to note:
 | Use a different search engine in private browsing. | **browser.search.separatePrivateDefault.ui.enabled** | `true`
 | Disable opening the download panel automatically after download completion. | **browser.download.alwaysOpenPanel** | `false`
 | Use the native OS print dialog. | **print.prefer_system_dialog** | `true`
+| Do not select trailing spaces when double-clicking a word to select. | **layout.word_select.eat_space_to_next_word** | `false`
+| Disable warning when closing a tab with unsubmitted data. | **dom.disable_beforeunload** | `false`
 
 {% include edit-on-GitHub.html %}
 
