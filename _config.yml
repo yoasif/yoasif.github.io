@@ -33,6 +33,7 @@ theme_color: white
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-redirect-from
 
 # Exclude from processing.
 # The following items will not be processed, by default.
