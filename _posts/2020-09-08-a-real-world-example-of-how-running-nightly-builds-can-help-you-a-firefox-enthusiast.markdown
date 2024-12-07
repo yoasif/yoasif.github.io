@@ -17,7 +17,7 @@ Another instance just happened today, and it is instructive, so here is a story:
 
 [u/panoptigram](https://www.reddit.com/user/panoptigram/) then posted that it was removed/changed. 
 
-I then suggested that u/202nine could file a bug to report a regression, which they did: https://bugzilla.mozilla.org/show_bug.cgi?id=1663500
+I then suggested that u/202nine could file a bug to report a regression, which they did: [Links are opening new windows despite browser.link.open_newwindow being set to 1](https://bugzilla.mozilla.org/show_bug.cgi?id=1663500).
 
 **Today, the change was reverted.**  Regression and fix, all within a day or so. 
 
