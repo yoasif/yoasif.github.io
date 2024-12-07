@@ -2,8 +2,9 @@
 layout: post
 title:  "The Reason the List all tabs Button is Permanent is Because of Firefox View"
 date:   2024-10-02 08:48:00 -0400
-categories: writing
+categories: social posts
 tags: Firefox
+redirect_from: /writing/2024/10/02/the-reason-the-list-all-tabs-button-is-permanent-is-because-of-firefox-view.html
 image: /assets/images/firefox-view-opentabs.svg
 
 ---
@@ -43,4 +44,4 @@ I got feedback that the immediate reason (which seems previously undocumented) i
 
 ---
 
-{% include donate.html %} You can also message me on [Mastodon](https://mastodon.social/@yoasif).
+{% include donate-social.html %} You can also message me on [Mastodon](https://mastodon.social/@yoasif).

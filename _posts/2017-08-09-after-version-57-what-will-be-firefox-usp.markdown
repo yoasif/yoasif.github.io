@@ -2,9 +2,10 @@
 layout: post
 title:  "After version 57, what will be Firefox's USP?"
 date:   2017-08-09 11:55:38 UTC
-categories: writing
+categories: social comments
 tags: Firefox browsers reddit social
 external-url: https://www.reddit.com/r/firefox/comments/6ska8s/leaving_firefox_after_15_years/dldhsx2/
+redirect_from: /writing/2017/08/09/after-version-57-what-will-be-firefox-usp.html
 image: 
 
 ---
