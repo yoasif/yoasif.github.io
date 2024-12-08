@@ -99,4 +99,4 @@ Specific examples based on suggestions above:
 
 ---
 
-{% include donate-social.html %} You can also message me on [Mastodon](https://mastodon.social/@yoasif).
+{% include donate.html %} You can also message me on [Mastodon](https://mastodon.social/@yoasif).
