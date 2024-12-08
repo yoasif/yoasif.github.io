@@ -10,11 +10,9 @@ In September of 2018, I applied to a mobile product role at Mozilla. Part of the
 
 Given the news today about the Brave browser introducing a new [De-AMP](https://brave.com/privacy-updates/18-de-amp/) feature, I recalled that I had written a piece about this very topic in March of 2018.
 
-While I often enjoy take-home assignments during an interview process, it can sometimes feel like time wasted if you don't land the job (I didn't). Here's hoping that you find my writing from a few years back to be interesting. I cleaned up the formatting a bit, like adding inline links (the site I was subitting to just had a big textarea to write into, no rich text here!), but the content is basically unchanged. Upon re-reading this essay today, there are definitely things I could have improved and done better. In the interest of openness however, I'm throwing caution to the wind. Hope you enjoy!
+While I often enjoy take-home assignments during an interview process, it can sometimes feel like time wasted if you don't land the job (I didn't). Here's hoping that you find my writing from a few years back to be interesting. I cleaned up the formatting a bit, like adding inline links (the site I was submitting to just had a big textarea to write into, no rich text here!), but the content is basically unchanged. Upon re-reading this essay today, there are definitely things I could have improved and done better. In the interest of openness however, I'm throwing caution to the wind. Hope you enjoy!
 
-Note: One of the things I saw in comments about the new Brave feature was that "this is something Mozilla should have done". While I think the feature is cool, I think that it is less about changing the web and more of projecting Brave as a leader in privacy. I think Mozilla's motivations are often different than what its community sometimes believes (which in itself is a challenge), wihch leads to those kinds of comments. I definitely think that it is interesting that Mozilla was very clearly thinking about AMP and its impact on the web a while ago, even if it hasn't done much *specifically on AMP* since then - and that may not be a mistake!
-
-Discuss this post on [reddit](#).
+Note: One of the things I saw in comments about the new Brave feature was that "this is something Mozilla should have done". While I think the feature is cool, I think that it is less about changing the web and more of projecting Brave as a leader in privacy. I think Mozilla's motivations are often different than what its community sometimes believes (which in itself is a challenge), which leads to those kinds of comments. I definitely think that it is interesting that Mozilla was very clearly thinking about AMP and its impact on the web a while ago, even if it hasn't done much *specifically on AMP* since then - and that may not be a mistake!
 
 * * *
 
@@ -101,4 +99,4 @@ Specific examples based on suggestions above:
 
 ---
 
-Feel free to give me feedback on this post on [reddit](#). 
+{% include donate-social.html %} You can also message me on [Mastodon](https://mastodon.social/@yoasif).
