@@ -17,7 +17,7 @@ I’ve made the decision to (mostly) part ways with Reddit. But as I take a step
 
 So, here’s what I’m doing: I’m taking the best of my posts and comments from Reddit and bringing them over to my blog. This isn’t just a one-time thing, either. As I dig through my Reddit history, I’m going to be updating this post with more gems I find along the way. I’ll also be sharing them on Mastodon in case anyone else finds them useful or interesting. It’s a way to preserve what I’ve contributed and, hopefully, share something useful with you.       
 
-If you’ve ever stumbled upon one of my posts, keep an eye on this thread! I’ll be posting updates and diving into some of the tech discussions I had over there, especially around browsers and other technology topics that I love talking about.
+If you’ve ever stumbled upon one of my posts, keep an eye on this blog! I’ll be posting updates and diving into some of the tech discussions I had over there.
 
 Stay tuned for more, and feel free to drop your thoughts or comments on Mastodon!
 
