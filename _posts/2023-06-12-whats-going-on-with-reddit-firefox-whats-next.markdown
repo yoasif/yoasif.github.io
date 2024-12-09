@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "What's Going on with r/Firefox? Reddit? What's Next?"
+title:  "What&rsquo;s Going on with r/Firefox? Reddit? What&rsquo;s Next?"
 date:   2023-06-12 05:37:00 -0400
-categories: writing
-tags: Reddit Firefox Kbin
+categories: social posts
+tags: Reddit Firefox Kbin Protest
 image: /assets/images/reddit/firefox-private-2x.png
 
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Protecting Your Privacy While Eroding Your Democracy: Apple's and Mozilla's PPAs (Privacy Preserving Ad Attribution) Considered Harmful"
+title:  "Protecting Your Privacy While Eroding Your Democracy: Apple&rsquo;s and Mozilla&rsquo;s PPAs (Privacy Preserving Ad Attribution) Considered Harmful"
 date:   2024-10-13 01:37:00 -0400
 categories: writing
 tags: Firefox advertising
