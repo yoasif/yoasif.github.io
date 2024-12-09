@@ -3,7 +3,7 @@ layout: post
 title:  "Why doesn&rsquo;t Firefox switch to Chromium? Opera did it."
 date:   2020-05-10 17:49:44 UTC
 categories: social comments
-tags: Firefox
+tags: Firefox Chromium Opera
 external-url: https://www.reddit.com/r/firefox/comments/gh0wfe/why_firefox_does_not_switch_to_chromium/fq6jz0p/
 image:
 
