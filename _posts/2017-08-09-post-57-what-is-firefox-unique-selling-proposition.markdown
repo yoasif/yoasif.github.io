@@ -23,8 +23,10 @@ Also, and this one is obvious -- Mozilla is already extending WebExtensions to d
 
 Do people really think that by moving to Chrome they just get to what Firefox will be earlier? That may explain some of these "I quit" posts. Again, Firefox *has already extended WebExtensions past what Chrome can do*.
 
+### Context
+
+Readers can learn more from a development perspective by reading Mozilla developer [David Teller](https://yoric.github.io/about/)'s account of [why Mozilla removed legacy extensions](https://yoric.github.io/post/why-did-mozilla-remove-xul-addons/).
+
 ---
 
-{% include donate.html %} You can also message me on [Mastodon](https://mastodon.social/@yoasif).
-
----
+{% include donate-social.html %} You can also message me on [Mastodon](https://mastodon.social/@yoasif).
