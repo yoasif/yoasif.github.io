@@ -27,6 +27,8 @@ Stay tuned for more, and feel free to drop your thoughts or comments on Mastodon
 
 * [MovieLens: Personalized Movie Recommendations]({% post_url 2017-08-09-movielens-personalized-movie-recommendations %})
 * [Post 57, what is Firefox&rsquo;s unique selling proposition?]({% post_url 2017-08-09-post-57-what-is-firefox-unique-selling-proposition %})
+* [What cool features does Firefox have over Chrome?]({% post_url 2017-11-22-what-cool-features-does-firefox-have-over-chrome %})
+* [How to get started contributing to OpenStreetMap]({% post_url 2018-05-25-how-to-get-started-contributing-to-openstreetmap %})
 
 ---
 
