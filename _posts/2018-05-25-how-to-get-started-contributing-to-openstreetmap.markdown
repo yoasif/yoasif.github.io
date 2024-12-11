@@ -5,7 +5,7 @@ date:   2018-05-25 00:03:00 UTC
 categories: social comments
 tags: openstreetmap
 external-url: https://www.reddit.com/r/openstreetmap/comments/8lxdlq/how_to_get_started_contributing/dzj5gpt/
-image: 
+image: /assets/images/social-previews/openstreetmap-2x.png
 
 ---
 
