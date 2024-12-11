@@ -21,8 +21,11 @@ If you’ve ever stumbled upon one of my posts, keep an eye on this blog! I’ll
 
 Stay tuned for more, and feel free to drop your thoughts or comments on Mastodon!
 
-### The List
+## The Salvaged Posts
 
+### 2017
+
+* [MovieLens: Personalized Movie Recommendations]({% post_url 2017-08-09-movielens-personalized-movie-recommendations %})
 * [Post 57, what is Firefox&rsquo;s unique selling proposition?]({% post_url 2017-08-09-post-57-what-is-firefox-unique-selling-proposition %})
 
 ---
