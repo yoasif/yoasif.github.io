@@ -37,6 +37,7 @@ Stay tuned for more, and feel free to drop your thoughts or comments on Mastodon
 
 * [Is there any difference between Facebook Container and Firefox Multi-Account Containers?]({% post_url 2019-02-04-is-there-any-difference-between-facebook-container-and-firefox-multi-account-containers %})
 * [How can I set a manually installed browser as the default on Debian-based distributions?]({% post_url 2019-02-05-how-can-i-set-a-manually-installed-browser-as-the-default-on-debian-ubuntu-mint %})
+* [Prevent Firefox from inheriting system font size]({% post_url 2019-02-06-prevent-firefox-from-inheriting-system-font-size %})
 
 ---
 
