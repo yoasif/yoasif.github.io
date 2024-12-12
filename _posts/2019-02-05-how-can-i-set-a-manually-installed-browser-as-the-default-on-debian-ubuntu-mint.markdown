@@ -17,7 +17,9 @@ image:
 >
 >Thanks.
 
-This may be helpful for you: https://askubuntu.com/a/965417 (mirrored below)
+This may be helpful for you: https://askubuntu.com/a/965417
+
+Mirrored below:
 
 > I have qutebrowser installed to ~/.local/bin which is on my $PATH. I had put the full path to the executable, meaning I had to run
 >
