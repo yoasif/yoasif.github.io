@@ -5,7 +5,7 @@ date:   2024-10-02 08:48:00 -0400
 categories: social posts
 tags: Firefox
 redirect_from: /writing/2024/10/02/the-reason-the-list-all-tabs-button-is-permanent-is-because-of-firefox-view.html
-image: /assets/images/firefox-view-opentabs.svg
+image: /assets/images/social-previews/firefox.png
 
 ---
 
