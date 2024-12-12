@@ -32,6 +32,7 @@ Stay tuned for more, and feel free to drop your thoughts or comments on Mastodon
 ### 2018
 
 * [How to get started contributing to OpenStreetMap]({% post_url 2018-05-25-how-to-get-started-contributing-to-openstreetmap %})
+* [Does Airsonic support Opus?]({% post_url 2018-08-12-does-airsonic-support-opus %})
 
 ### 2019
 
@@ -39,7 +40,10 @@ Stay tuned for more, and feel free to drop your thoughts or comments on Mastodon
 * [How can I set a manually installed browser as the default on Debian-based distributions?]({% post_url 2019-02-05-how-can-i-set-a-manually-installed-browser-as-the-default-on-debian-ubuntu-mint %})
 * [Prevent Firefox from inheriting system font size]({% post_url 2019-02-06-prevent-firefox-from-inheriting-system-font-size %})
 * [What ever happened to native Windows notifications in Firefox?]({% post_url 2019-02-05-what-ever-happened-to-native-windows-notifications-in-firefox %})
-
+* [Is Firefox planning on adding support for conic-gradient?]({% post_url 2019-02-14-is-firefox-planning-on-adding-support-for-conic-gradient %})
+* [Is there a blog for Fenix or upcoming features planned for it?]({% post_url 2019-02-13-is-there-a-blog-for-fenix-or-upcoming-features-planned-for-it %})
+* [Can we get a permanent fix for the tab strip accent color issue with Firefox 65 version in Windows 10?]({% post_url 2019-02-13-can-we-get-a-permanent-fix-for-the-tab-strip-accent-color-issue-with-firefox-65-version-in-windows-10 %})
+* [Mozilla to add cryptomining blocking. Why not ad blocking?]({% post_url 2019-02-15-mozilla-to-add-cryptomining-blocking-why-not-ad-blocking %})
 
 ---
 
