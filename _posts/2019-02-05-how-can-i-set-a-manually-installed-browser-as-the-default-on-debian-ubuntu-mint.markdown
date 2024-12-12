@@ -3,7 +3,7 @@ layout: post
 title:  "How can I set a manually installed browser as the default on Debian-based distributions like Ubuntu and Mint?"
 date:   2019-02-05 10:21:34 UTC
 categories: social comments
-tags: firefox linux debian ubuntu mint
+tags: browsers linux debian ubuntu mint
 external-url: https://www.reddit.com/r/firefox/comments/ancrgu/set_firefox_developer_as_default_in_gnulinux/efscqfe/
 image: 
 
