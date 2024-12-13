@@ -5,7 +5,7 @@ date:   2018-11-14 23:57:59 UTC
 categories: social comments
 tags: Firefox
 external-url: https://www.reddit.com/r/firefox/comments/9wo3vx/firefox_is_secure_google_is_not_if_i_use_firefox/e9pq7x6/
-image:
+image: /assets/images/social-previews/startpage.png
 
 ---
 
