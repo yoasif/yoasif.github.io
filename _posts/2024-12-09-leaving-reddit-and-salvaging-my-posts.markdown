@@ -45,8 +45,8 @@ Stay tuned for more, and feel free to drop your thoughts or comments on Mastodon
 * [Is there a blog for Fenix or upcoming features planned for it?]({% post_url 2019-02-13-is-there-a-blog-for-fenix-or-upcoming-features-planned-for-it %})
 * [Can we get a permanent fix for the tab strip accent color issue with Firefox 65 version in Windows 10?]({% post_url 2019-02-13-can-we-get-a-permanent-fix-for-the-tab-strip-accent-color-issue-with-firefox-65-version-in-windows-10 %})
 * [Mozilla to add cryptomining blocking. Why not ad blocking?]({% post_url 2019-02-15-mozilla-to-add-cryptomining-blocking-why-not-ad-blocking %})
+* [18th year old Firefox bug: Web page controls are unreadable if you use a dark GTK theme]({% post_url 2019-02-28-18th-year-old-firefox-bug-web-page-controls-are-unreadable-if-you-use-a-dark-gtk-theme %})
 * [Is Firefox really fighting against freedom and trying to censor people?]({% post_url 2019-03-02-is-firefox-really-fighting-against-freedom-and-trying-to-censor-people %})
-
 
 ---
 
