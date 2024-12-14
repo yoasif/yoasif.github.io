@@ -35,15 +35,6 @@ Visit the driver page for the GPU you have in your computer. If you have a dual 
 * [Nvidia](https://www.nvidia.com/Download/index.aspx)
 * [AMD](https://www.amd.com/support)
 
-### Enable WebRender
-
-If updated drivers don't help, you can try enabling WebRender, Firefox's [new rendering engine](https://hacks.mozilla.org/2017/10/the-whole-web-at-maximum-fps-how-webrender-gets-rid-of-jank/):
-
-1. Navigate to `about:config` and accept the warning.
-2. Search for <kbd>gfx.webrender.all</kbd>
-3. Toggle <kbd>gfx.webrender.all</kbd> to **true**
-4. Restart Firefox
-
 ## Using too much memory
 
 ### Windows: Enable Automatic Page File sizing
@@ -72,7 +63,7 @@ If Firefox is using an unexpected amount of RAM, report a bug by following the s
 3. Attach the memory report to a [new bug](https://bugzilla.mozilla.org/enter_bug.cgi?product=Core&component=Memory%20Allocator)
 4. Paste your <kbd>about:support</kbd> info (Click *Copy text to clipboard*) to your bug.
 
-> [If you are experiencing a bug, the best way to ensure that something can be done about your bug is to report it in Bugzilla. This might seem a little bit intimidating for somebody who is new to bug reporting, but Mozillians are really nice!](http://dblohm7.ca/blog/2014/08/14/diffusion-of-responsibility/)
+If you are experiencing a bug, the best way to ensure that something can be done about your bug is to report it in Bugzilla. This might seem a little bit intimidating for somebody who is new to bug reporting, but [Mozillians are really nice](http://dblohm7.ca/blog/2014/08/14/diffusion-of-responsibility/)!
 
 {% include edit-on-GitHub.html %}
 
