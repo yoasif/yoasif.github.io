@@ -47,6 +47,7 @@ Stay tuned for more, and feel free to drop your thoughts or comments on Mastodon
 * [Mozilla to add cryptomining blocking. Why not ad blocking?]({% post_url 2019-02-15-mozilla-to-add-cryptomining-blocking-why-not-ad-blocking %})
 * [18th year old Firefox bug: Web page controls are unreadable if you use a dark GTK theme]({% post_url 2019-02-28-18th-year-old-firefox-bug-web-page-controls-are-unreadable-if-you-use-a-dark-gtk-theme %})
 * [Is Firefox really fighting against freedom and trying to censor people?]({% post_url 2019-03-02-is-firefox-really-fighting-against-freedom-and-trying-to-censor-people %})
+* [UI Changes make for bad UX: &ldquo;Recently Closed Tabs&rdquo; and &ldquo;Bookmark Tabs&rdquo;]({% post_url 2019-03-02-ui-changes-make-for-bad-ux-recently-closed-tabs-and-bookmark-tabs %})
 
 ---
 
