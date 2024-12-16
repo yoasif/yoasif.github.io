@@ -33,6 +33,7 @@ Stay tuned for more, and feel free to drop your thoughts or comments on Mastodon
 
 * [How to get started contributing to OpenStreetMap]({% post_url 2018-05-25-how-to-get-started-contributing-to-openstreetmap %})
 * [Does Airsonic support Opus?]({% post_url 2018-08-12-does-airsonic-support-opus %})
+* [Firefox should focus on being a great browser that integrates well with each operating system]({% post_url 2018-10-21-firefox-should-focus-on-being-a-great-browser-that-integrates-well-with-each-operating-system %})
 * [What search engine do you use?]({% post_url 2018-11-14-what-search-engine-do-you-use %})
 
 ### 2019
