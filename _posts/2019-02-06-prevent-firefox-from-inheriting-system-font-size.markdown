@@ -9,6 +9,8 @@ image:
 
 ---
 
+# Original Post
+
 >I've recently changed my Windows 7 system font size to 110%.
 >
 >I notice Chrome and IE don't apply the system size, and continue to display the base font at 16px, the browser default. This is the way I prefer it for development.
@@ -16,6 +18,8 @@ image:
 >But Firefox (and Dev edition) apply the system font size to the base size for all text. Consequently the pages render at 110% of the actual font size setting.
 >
 >Is there a setting I can use to force Firefox to use 16px or to prevent it inheriting the system font size?
+
+## My Comments
 
 Setting `layout.css.devPixelsPerPx` to **1.0** should give you what you want.
 

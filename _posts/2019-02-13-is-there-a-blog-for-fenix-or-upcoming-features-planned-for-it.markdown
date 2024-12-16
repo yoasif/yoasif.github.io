@@ -9,7 +9,11 @@ image:
 
 ---
 
->When is it planned to come out?
+# Original Post
+
+> When is it planned to come out?
+
+## My Comments
 
 You can watch the issues on [GitHub](https://github.com/mozilla-mobile/fenix/issues).
 

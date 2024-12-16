@@ -9,6 +9,10 @@ image: /assets/images/reddit/can-we-get-a-permanent-fix-for-the-tab-bar-color-is
 
 ---
 
+# Original Post
+
+> Can we get a permanent fix for the tab bar color issue with the latest FF version in W10? This looks absolutely terrible now.
+
 <p>
 	<figure>
 	<picture>
@@ -17,6 +21,8 @@ image: /assets/images/reddit/can-we-get-a-permanent-fix-for-the-tab-bar-color-is
 	</picture>
 </figure>
 </p>
+
+## My Comments
 
 Have you tried disabling your accent color in Windows?
 

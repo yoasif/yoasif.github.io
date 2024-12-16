@@ -9,6 +9,8 @@ image: /assets/images/reddit/can-we-get-a-permanent-fix-for-the-tab-bar-color-is
 
 ---
 
+# Original Post
+
 >I can get a circular progress indicator very easily with it in Chrome. Is there another simple way in Firefox?
 >
 > `previewElement.style.backgroundImage = "conic-gradient(#BBB " + pieValue + "deg,#FFF 0)";`
@@ -23,11 +25,13 @@ image: /assets/images/reddit/can-we-get-a-permanent-fix-for-the-tab-bar-color-is
 
 >Is there an easy way to do this in firefox? Ive seen the "move rectangles around" solution but im looking for something simpler.
 
+## My Comments
+
 Watch bug id [1175958](https://bugzilla.mozilla.org/show_bug.cgi?id=1175958 "[meta] Implement conic gradients from CSS Image Values Level 4"). 
 
 People in the bug mention using SVG for what sounded like a similar use case.
 
-This would work: https://codepen.io/xgad/post/svg-radial-progress-meters
+This would work: <https://codepen.io/xgad/post/svg-radial-progress-meters>
 
 ---
 
