@@ -37,7 +37,7 @@ This is not available as a Firefox feature. Copying and pasting works, of course
 
 There is an open feature request to support this filed to bug [1601351](https://bugzilla.mozilla.org/show_bug.cgi?id=1601351 "Provide option in Profile Manager for links from external applications to open into last active profile window").
 
-If you are using Windows, you can try [BrokenURL](https://brokenevent.com/projects/brokenurl) to route URLs.
+If you are using Windows, you can try [BrokenURL](https://brokenevent.com/projects/brokenurl) to route URLs. If you are on Linux, you can try [Firefox Deflector](https://github.com/murar8/firefox-deflector).
 
 ---
 
