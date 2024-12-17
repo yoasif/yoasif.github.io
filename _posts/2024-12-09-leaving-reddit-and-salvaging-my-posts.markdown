@@ -39,6 +39,7 @@ Stay tuned for more, and feel free to drop your thoughts or comments on Mastodon
 
 ### 2019
 
+* [Dashlane doesn't work with Firefox]({% post_url 2019-01-29-dashlane-doesnt-work-with-firefox %})
 * [Is there any difference between Facebook Container and Firefox Multi-Account Containers?]({% post_url 2019-02-04-is-there-any-difference-between-facebook-container-and-firefox-multi-account-containers %})
 * [How can I set a manually installed browser as the default on Debian-based distributions?]({% post_url 2019-02-05-how-can-i-set-a-manually-installed-browser-as-the-default-on-debian-ubuntu-mint %})
 * [Prevent Firefox from inheriting system font size]({% post_url 2019-02-06-prevent-firefox-from-inheriting-system-font-size %})
@@ -50,6 +51,10 @@ Stay tuned for more, and feel free to drop your thoughts or comments on Mastodon
 * [18th year old Firefox bug: Web page controls are unreadable if you use a dark GTK theme]({% post_url 2019-02-28-18th-year-old-firefox-bug-web-page-controls-are-unreadable-if-you-use-a-dark-gtk-theme %})
 * [Is Firefox really fighting against freedom and trying to censor people?]({% post_url 2019-03-02-is-firefox-really-fighting-against-freedom-and-trying-to-censor-people %})
 * [UI Changes make for bad UX: &ldquo;Recently Closed Tabs&rdquo; and &ldquo;Bookmark Tabs&rdquo;]({% post_url 2019-03-02-ui-changes-make-for-bad-ux-recently-closed-tabs-and-bookmark-tabs %})
+
+### 2022
+
+* [Opening linked URLs from external apps in the last active Firefox profile]({% post_url 2022-05-06-opening-linked-urls-from-external-apps-in-the-last-active-firefox-profile %})
 
 ---
 
