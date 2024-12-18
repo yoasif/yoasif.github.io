@@ -5,7 +5,7 @@ date:   2024-12-18 23:40:17 UTC
 categories: social comments
 tags: firefox RoPro Roblox
 external-url: https://www.reddit.com/r/firefox/comments/1hhf4dw/is_this_the_real_ropro_extension/
-image: 
+image: /assets/images/social-previews/ropro-extension-firefox.png
 
 ---
 
