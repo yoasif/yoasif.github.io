@@ -3,7 +3,7 @@ layout: post
 title:  "Is the Firefox add-on the real RoPro extension?"
 date:   2024-12-18 23:40:17 UTC
 categories: social comments
-tags: firefox RoPro
+tags: firefox RoPro Roblox
 external-url: https://www.reddit.com/r/firefox/comments/1hhf4dw/is_this_the_real_ropro_extension/
 image: 
 
