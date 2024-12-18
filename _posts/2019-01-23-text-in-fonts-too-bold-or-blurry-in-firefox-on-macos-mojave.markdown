@@ -33,6 +33,8 @@ This fixes a bug in Firefox. Compare the text to Safari - Firefox is respecting 
 
 Most Mac users want that. 
 
+You can [disable font smoothing](https://blog.macsales.com/46527-is-macos-mojave-making-some-fonts-blurry-heres-how-to-fix-it) if you prefer that look.
+
 FYI, if you are on a non-retina display, you will need to wait until Firefox 66 for a further fix (I guess developers are mostly on laptops with high DPI).
 
 ### Context
