@@ -39,6 +39,7 @@ Stay tuned for more, and feel free to drop your thoughts or comments on Mastodon
 
 ### 2019
 
+* [Text in fonts too bold or blurry in Firefox on macOS Mojave?]({% post_url 2019-01-23-text-in-fonts-too-bold-or-blurry-in-firefox-on-macos-mojave %})
 * [Dashlane doesn't work with Firefox]({% post_url 2019-01-29-dashlane-doesnt-work-with-firefox %})
 * [Is there any difference between Facebook Container and Firefox Multi-Account Containers?]({% post_url 2019-02-04-is-there-any-difference-between-facebook-container-and-firefox-multi-account-containers %})
 * [How can I set a manually installed browser as the default on Debian-based distributions?]({% post_url 2019-02-05-how-can-i-set-a-manually-installed-browser-as-the-default-on-debian-ubuntu-mint %})
