@@ -23,8 +23,6 @@ image:
 >
 >With Firefox though, the link is always opened in the default Profile, even if the most recently focused Firefox window was for a non-default Profile.
 >
->I've tried to customize Firefox Containers to suit my needs, but there is a fair amount of overlap in the websites I log in to between my Work and Personal profiles, so setting "Always open this site in..." can't differentiate Work google.com from Personal google.com.
->
 >Does anyone have any advice on how to accomplish something like this in Firefox?
 >
 >Thanks!
