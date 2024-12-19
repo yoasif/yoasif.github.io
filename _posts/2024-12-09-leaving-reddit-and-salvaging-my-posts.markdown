@@ -53,6 +53,10 @@ Stay tuned for more, and feel free to drop your thoughts or comments on Mastodon
 * [Is Firefox really fighting against freedom and trying to censor people?]({% post_url 2019-03-02-is-firefox-really-fighting-against-freedom-and-trying-to-censor-people %})
 * [UI Changes make for bad UX: &ldquo;Recently Closed Tabs&rdquo; and &ldquo;Bookmark Tabs&rdquo;]({% post_url 2019-03-02-ui-changes-make-for-bad-ux-recently-closed-tabs-and-bookmark-tabs %})
 
+### 2020
+
+* [Does Firefox support Chromecast and Accelerated Mobile Pages?]({% post_url 2020-01-22-does-firefox-support-chromecast-and-accelerated-mobile-pages %})
+
 ### 2022
 
 * [Opening linked URLs from external apps in the last active Firefox profile]({% post_url 2022-05-06-opening-linked-urls-from-external-apps-in-the-last-active-firefox-profile %})
