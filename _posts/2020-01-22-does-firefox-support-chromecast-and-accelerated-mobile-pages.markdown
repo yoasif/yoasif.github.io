@@ -21,7 +21,7 @@ I don't think Chromecast works in Firefox.
 
 Google could contribute code upstream to Firefox, but I think their interest isn't in promoting Chromecast, but Chrome.
 
-> At some point the responsibility lies on projects to merge public code rather than expect companies to do it for them.
+>The Chromium source bundle contains the source of the Chromecast implementation with a BSD license and VLC implemented the protocol independently with a GPL 2 license. At some point the responsibility lies on projects to merge public code rather than expect companies to do it for them.
 
 That isn't how it generally works though -- you don't see the Linux Foundation paying to have Linus Torvalds merge "publicly available" Google code in from Android to Linux - and that is in the same project!
 
