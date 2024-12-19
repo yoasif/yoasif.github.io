@@ -11,7 +11,7 @@ image: /assets/images/social-previews/openstreetmap-2x.png
 
 > I was wondering if anyone could point me in the direction of some resources to get me started contributing to OSM. I recently discovered OSM and have found it is much better than Google Maps, however there are some parts of the bike path that are not part of OSM yet and I would like to add them. Thank you for any help!
 
-If you just want to edit as soon as possible, visit [OpenStreetMap](https://www.openstreetmap.org), zoom to an area, and click "edit". (You'll need an account first). The editor has a built-in guide that will explain the basics. You can also click the built-in "help" button at any time.
+If you just want to edit as soon as possible, visit [OpenStreetMap](https://www.openstreetmap.org), zoom to an area, and click "Edit". (You'll need an account first). The editor has a built-in guide that will explain the basics. You can also click the built-in "help" button at any time.
 
 ### Context
 
@@ -23,7 +23,7 @@ While less pleasant to use, if you want to edit [POIs](https://en.wikipedia.org/
 
 I have never been an iOS user, so I am less familiar with options on that OS - I most often recommend that friends use [MapComplete](https://mapcomplete.org/) while on the go. Unfortunately, [this does not work offline](https://github.com/pietervdvn/MapComplete/issues/2111), in case you don't have a mobile data connection to the internet.
 
-OpenStreetMap is awesome, and it is extremely gratifying to see your changes show up on apps like [Organic Maps](https://organicmaps.app/) and [Apple Maps](https://www.apple.com/maps/). Ensuring that organizations that you care about are represented on the map ([put them on the map](https://www.merriam-webster.com/dictionary/put%20%28something%20or%20someone%29%20on%20the%20mapgit)!) can be a form of [digital activism](https://mastodon.social/@yoasif/112944642638540978) -- so get mapping!
+OpenStreetMap is awesome, and it is extremely gratifying to see your changes show up on apps like [Organic Maps](https://organicmaps.app/) and [Apple Maps](https://www.apple.com/maps/). Ensuring that organizations that you care about are represented on the map ([put them on the map](https://www.merriam-webster.com/dictionary/put%20%28something%20or%20someone%29%20on%20the%20map)!) can be a form of [digital activism](https://mastodon.social/@yoasif/112944642638540978) -- so get mapping!
 
 ---
 
