@@ -25,7 +25,7 @@ More of a missing feature. And no, your collections are gone. Sorry.
 
 ### Context
 
-As if 2024, collections do not sync, and there is no way to export them either. I personally do not use them and they seem to be a bit of a forgotten/ignored feature on Firefox for Android.
+As of 2024, collections do not sync, and there is no way to export them. I personally do not use them and they seem to be a bit of a forgotten/ignored feature on Firefox for Android.
 
 ---
 
