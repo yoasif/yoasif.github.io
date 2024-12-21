@@ -52,6 +52,7 @@ Stay tuned for more, and feel free to drop your thoughts or comments on Mastodon
 * [18th year old Firefox bug: Web page controls are unreadable if you use a dark GTK theme]({% post_url 2019-02-28-18th-year-old-firefox-bug-web-page-controls-are-unreadable-if-you-use-a-dark-gtk-theme %})
 * [Is Firefox really fighting against freedom and trying to censor people?]({% post_url 2019-03-02-is-firefox-really-fighting-against-freedom-and-trying-to-censor-people %})
 * [UI Changes make for bad UX: &ldquo;Recently Closed Tabs&rdquo; and &ldquo;Bookmark Tabs&rdquo;]({% post_url 2019-03-02-ui-changes-make-for-bad-ux-recently-closed-tabs-and-bookmark-tabs %})
+* [I deleted Firefox Preview Nightly and installed Firefox Preview for Android. Now my Collections are gone. Do they sync?]({% post_url 2019-12-31-i-deleted-firefox-preview-nightly-and-installed-firefox-preview-for-android-now-my-collections-are-gone-do-they-sync %})
 
 ### 2020
 
