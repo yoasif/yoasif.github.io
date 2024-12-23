@@ -88,7 +88,9 @@ Fortunately, Firefox also comes with a more privacy aware search engine, [DuckDu
 		</picture>
 	</figure>
 	
-As with everything else in this guide, this is totally optional, and some people really prefer Google's search results. If you don't like the setting, it is easy to undo, so feel free to come back if you need help with that.
+As with everything else in this guide, this is totally optional, and some people really prefer Google's search results. If that is you, you may want to use [Startpage]({% post_url 2018-11-14-what-search-engine-do-you-use %}) - a search engine that delivers Google's search results, without the tracking.
+
+If you don't like the setting, it is easy to undo, so feel free to come back if you need help with that.
 
 Although this guide recommends the **DuckDuckGo** search engine, I *don't* recommend **[DuckDuckGo Privacy Essentials](https://addons.mozilla.org/firefox/addon/duckduckgo-for-firefox/)** -- it is fine, but there are better alternatives. Running this extension alongside those alternatives can cause problems, so I recommend against it.
 
