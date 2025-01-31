@@ -4,7 +4,7 @@ title:  "Thoughts on Local Media Coverage on Immigration"
 date:   2025-01-30 01:00 -0400
 categories: politics posts
 tags: politics
-external-url: /assets/images/social-previews/the-scream.jpg
+external-url: /assets/images/the-scream.jpg
 image:
 
 ---
@@ -68,7 +68,7 @@ How about if the detention camp is [somewhere where the US Constitution doesn't 
 <p>
 	<figure>
 	<picture>
-	  <img src="{{site.url}}/assets/images/social-previews/the-scream.jpg" alt="The Scream: a composition created by Norwegian artist Edvard Munch" height="825" width="1024"/>
+	  <img src="{{site.url}}/assets/images/the-scream.jpg" alt="The Scream: a composition created by Norwegian artist Edvard Munch" />
 	  <figcaption>The Scream</figcaption>
 	</picture>
 </figure>
