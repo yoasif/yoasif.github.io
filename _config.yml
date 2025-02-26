@@ -34,6 +34,13 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-redirect-from
+defaults:
+  -
+    scope:
+      path: "_posts" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
+    values:
+      image: /assets/images/default-card.png
 
 # Exclude from processing.
 # The following items will not be processed, by default.
