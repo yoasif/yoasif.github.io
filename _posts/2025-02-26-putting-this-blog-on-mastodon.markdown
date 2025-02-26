@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Putting this Blog on Mastodon"
-date:   2025-01-30 12:46 -0400
+date:   2025-02-26 00:46 -0400
 categories: posts
 tags: blogging mastodon meta
 external-url: 
