@@ -2,10 +2,11 @@
 layout: post
 title:  "Mozilla&rsquo;s New Terms of Use are out of step with Firefox&rsquo;s Direct Competition"
 date:   2025-02-26 17:42 -0500
-categories: posts
+categories: writing
 tags: firefox
 external-url: 
 image: /assets/images/social-previews/firefox.png
+redirect_from: /posts/2025/02/26/mozillas-new-terms-of-use-are-out-of-step-with-firefoxs-direct-competition.html
 
 ---
 On Wednesday, [Mozilla introduced legal updates to users of Firefox](https://blog.mozilla.org/en/products/firefox/firefox-news/firefox-terms-of-use/), and something feels off. I read, and re-read the new [Terms of Use](https://www.mozilla.org/en-US/about/legal/terms/firefox/) and while much of it reads like standard boilerplate from any tech company, there's a new section that is unexpected:
