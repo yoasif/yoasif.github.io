@@ -14,19 +14,19 @@ On Wednesday, [Mozilla introduced legal updates to users of Firefox](https://blo
 
 The community [has](https://mastodon.social/@jomo@mstdn.io/114072136832770185) [also](https://mastodon.social/@mttaggart@infosec.exchange/114071999430250354) [zeroed](https://www.reddit.com/r/firefox/comments/1iyuvjf/introducing_a_terms_of_use_and_updated_privacy/meyb9e9/) in on this phrase, with contributors [asking directly](https://discourse.mozilla.org/t/why-does-mozilla-now-require-a-nonexclusive-royalty-free-worldwide-license-when-entering-information-in-firefox/140700) [what up with that?](https://www.youtube.com/watch?v=sqpnRyfz_aY)
 
-I'm not going to ponder about why Mozilla wants this royalty-free license, but I did immediately wonder whether using Microsoft Word also needed this kind of license -- since it is *processing my words*.
+While I'm not going to ponder about *why* Mozilla wants this royalty-free license to my intellectual property, I immediately wondered whether using Microsoft Word also needed this kind of license grant -- since it is *processing my words*.
 
-I was quickly [informed](https://www.microsoft.com/en-us/legal/terms-of-use) that:
+I was quickly [informed](https://www.microsoft.com/en-us/legal/terms-of-use) by a chatroom interlocutor that:
 
 >To the extent necessary to provide the Services to you and others, to protect you and the Services, and to improve Microsoft products and services, you grant to Microsoft a worldwide and royalty-free intellectual property license to use Your Content, for example, to make copies of, retain, transmit, reformat, display, and distribute via communication tools Your Content on the Services.
 
-which is part of a section called "Your Content" where Microsoft explicitly disclaims ownership of your content:
+which definitely feels sketchy. However, this copy is part of a section called "Your Content" where Microsoft explicitly disclaims ownership of your content:
 
 > Many of our Services allow you to create, store or share Your Content or receive material from others. **We don’t claim ownership of Your Content.** Your Content remains yours and you are responsible for it.
 
-The verbiage in this section seems to describe terms for user generated content that is transmitted to or hosted on Microsoft cloud software. Beyond that, Microsoft specifically disclaims ownership of your content - something Mozilla does not do.
-
 If that gives you the ick, or you simply want to avoid the [ads coming to Office](https://beebom.com/microsoft-free-ad-supported-office-quietly-launched/), you may want to try [LibreOffice](https://www.libreoffice.org/) - which doesn't seem to have a terms of service. Just local, open source software.
+
+Ultimately, Microsoft specifically disclaims ownership of your content - something Mozilla does not do.
 
 Is Mozilla an outlier here? Is this as weird as it seems? Mozilla has a [browser comparison page](https://www.mozilla.org/en-US/firefox/browsers/compare/), so we can use those as a basis for comparison - let's look at the data!
 
