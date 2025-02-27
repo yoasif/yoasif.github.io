@@ -64,6 +64,8 @@ It is not clear to me why Mozilla needs a license grant to protect itself from t
 
 Lacking a transferable, sub-licensable agreement means that Mozilla can't escape liability for sending the file to the "wrong" site by granting the "wrong" site the license to the information. The lawsuits that I have come up with in my thought exercises don't seem coherent to me. It is hard for me to imagine a lawsuit that would be prevented by this phrase.
 
+My interpretation could be totally wrong! If it is, Mozilla can help the community understand why this verbiage is necessary -- and what risks forks and other vendors who do not have this language in their ToS harbor. If forks are exposing themselves to legal liability, Mozilla would be performing a community service to non-Mozilla Gecko developers by clarifying their understanding of why copyright law requires users to grant these intellectual property rights to developers.
+
 ### This is how software works, the ToS just reflects it
 
 Another response I've gotten is that computers need to copy data and transform it in order to do valuable things with your data. Thus, Mozilla needs these rights in order to correctly describe how software is working in the background.
