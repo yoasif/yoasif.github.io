@@ -16,7 +16,7 @@ The community [has](https://mastodon.social/@jomo@mstdn.io/114072136832770185) [
 
 While I'm not going to ponder about *why* Mozilla wants this royalty-free license to my intellectual property, I immediately wondered whether using Microsoft Word also needed this kind of license grant -- since it is *processing my words*.
 
-I was quickly [informed](https://www.microsoft.com/en-us/legal/terms-of-use) by a chatroom interlocutor that:
+I was quickly [informed](https://www.microsoft.com/en-US/servicesagreement) by a chatroom interlocutor that:
 
 >To the extent necessary to provide the Services to you and others, to protect you and the Services, and to improve Microsoft products and services, you grant to Microsoft a worldwide and royalty-free intellectual property license to use Your Content, for example, to make copies of, retain, transmit, reformat, display, and distribute via communication tools Your Content on the Services.
 
