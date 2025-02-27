@@ -34,7 +34,7 @@ Is Mozilla an outlier here? Is this as weird as it seems? Mozilla has a [browser
 |---|---|---|
 | [Mozilla Firefox](https://www.mozilla.org/en-US/about/legal/terms/firefox/)  | ✅  |    |
 | [Google Chrome](https://policies.google.com/terms?hl=en-US)  |  ❌ | Google says that "your content remains yours, which means that you retain any intellectual property rights that you have in your content". They also retain the right to use "content you’ve shared publicly to promote" their service, such as reviews.  |
-| Microsoft Edge  | ❌  | Microsoft grants itself a "worldwide and royalty-free intellectual property license to use Your Content, for example, to make copies of, retain, transmit, reformat, display, and distribute via communication tools Your Content on the Services" while explicitly disclaiming ownership of your content.  |
+| [Microsoft Edge](https://www.microsoft.com/en-US/servicesagreement)  | ❌  | Microsoft grants itself a "worldwide and royalty-free intellectual property license to use Your Content, for example, to make copies of, retain, transmit, reformat, display, and distribute via communication tools Your Content on the Services" while explicitly disclaiming ownership of your content.  |
 | [Apple Safari](https://www.apple.com/legal/privacy/data/en/safari/)  | ❌  | No reference to user generated intellectual property. Apple says that they retain "personal data only for so long as necessary to fulfill the purposes for which it was collected".  |
 | [Brave](https://brave.com/terms-of-use/)  | ❌  | No language about intellectual property licenses of user generated content.  |
 | [Opera](https://www.opera.com/legal/terms)  |  ❌ |  No language about intellectual property licenses of user generated content |
