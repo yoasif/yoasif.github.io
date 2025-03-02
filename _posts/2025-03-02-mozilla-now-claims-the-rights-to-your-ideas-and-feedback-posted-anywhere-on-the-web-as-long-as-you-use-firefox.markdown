@@ -26,7 +26,7 @@ The new ToS extends that right to any ideas you "give" Mozilla as long as you al
 
 I'm not a lawyer, but my naive reading of the clause is that *I have given permission to Mozilla to the ideas in this blog post for free -- even though I am writing my ideas about Firefox in a text editor and posting them via Git -- because I **also** use Firefox*.
 
-A more obvious scenario might be if Mozilla claims that ideas people post to reddit are given to Mozilla for free -- because they are posted by Firefox users.
+A more obvious scenario might be if Mozilla claims that ideas people post to reddit are given to Mozilla for free -- [because they are posted by Firefox users](https://hachyderm.io/@joeyh/114083933134680127).
 
 I think that is contrary to the way we expect these rights to be granted, and goes beyond the rights Mozilla claimed prior to last week. 
 
