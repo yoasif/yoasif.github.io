@@ -28,7 +28,7 @@ While I doubt many people are going to have much of an outcry about this (if you
 
 I'm not a lawyer, but my reading of this clause supports the idea that while I am writing my ideas about Firefox in a text editor and posting them via Git, because I *also* use Firefox, Mozilla has rights to those ideas. I think that is contrary to the way we expect these rights to be granted, and goes beyond the rights Mozilla claimed previous to last week.
 
-Mozilla: Legally, this idea is free for you (but you already knew that): **Please scope this right this right to ideas, suggestions, or feedback *posted* or *sent* via Crash Reporter or to Mozilla properties.** Simply using the browser shouldn't grant such an over-broad right.
+Mozilla: Legally, this idea is free for you (but you already knew that): **Please scope this right to ideas, suggestions, or feedback *posted* or *sent* via Crash Reporter or to Mozilla properties.** Simply using the browser shouldn't grant such an over-broad right.
 
 ---
 
