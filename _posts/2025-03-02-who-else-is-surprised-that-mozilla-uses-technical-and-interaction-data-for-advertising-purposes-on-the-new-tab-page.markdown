@@ -23,7 +23,7 @@ Clearly, I should have looked at the Privacy Notice before posting 😔.
 
 I was so sure that there was no way that the setting related to "technical and interaction data” was connected to data processed for advertising, that I surprised myself when reading the Privacy Notice.
 
-My immediate reaction was that is incredibly unintuitive -- Mozilla is using data that it has access to only because I want to help Firefox *development* -- for **advertising**. 
+My immediate reaction was that is incredibly unintuitive: Mozilla is using data that it has access to only because I want to help Firefox *development* -- for **advertising**. 
 
 I did some quick testing, and found that you can disable the sharing of "technical and interaction data” and still receive ads on the New Tab page. It seems that opting to not assist Firefox technical development grants users additional privacy from advertising.
 
@@ -68,13 +68,13 @@ On the contrary, in both cases, Mozilla is seemingly telling us that NTP interac
 
 > By default, when stories are recommended on your [New Tab page](https://support.mozilla.org/en-US/kb/about-new-tab-page), Firefox collects data on how often they appear and how many times they are clicked. **This data is not linked to any technical or interaction information about you or your Firefox browser.**
 
-Here, Mozilla says that interactions with stories displayed on the New Tab page are **"not linked to any technical or interaction information about you or your Firefox browser"**. This seems pretty self evident - Mozilla is saying that New Tab story data is not linked to "technical or interaction" information - they even use the exact words that appear in the UI (and in the Privacy Notice).
+Here, Mozilla says that interactions with stories displayed on the New Tab page are **"not linked to any technical or interaction information about you or your Firefox browser"**. What this is saying seems pretty self evident - Mozilla is saying that New Tab story data is not linked to "technical or interaction" information - they even use the exact words that appear in the UI (and in the Privacy Notice).
 
 > When you view or click on a sponsored shortcut, Firefox sends [anonymized technical data](https://www.mozilla.org/privacy/firefox/#recommend-relevant-content) to our partner through a Mozilla-owned proxy service. The code for this proxy service is available [on GitHub](https://github.com/mozilla/gcp-ingestion) for interested technical audiences. **This data does not include any personally identifying information and is only shared when you click on a sponsored shortcut.**
 
 Mozilla says that data about interactions with sponsored shortcuts are **"only shared when you click on a sponsored shortcut"** via a Mozilla-owned proxy service. There is no mention here of *linking* that data with personally identifiable information ("technical and interaction data" is personally identifiable), and Mozilla even says that "this data is ... only shared when you click" -- Firefox telemetry data is not sent on demand!
 
-As far as I can tell, Firefox help was not upfront about this, but *please* correct me with any additional references to documentation.
+As far as I can tell, Firefox help was not upfront about this, but please correct me with any additional references to documentation.
 
 ### "Technical and interaction data" is not personally identifiable
 
@@ -82,7 +82,7 @@ In the [figure above](#extract-from-the-firefox-privacy-notice), Mozilla states 
 
 ### Ads are optional / You can use a blank new tab
 
-I know ads are optional. I just don't expect that after sharing technical and interaction data to help **improve Firefox**, that Mozilla would turn around and monetize that technical data by linking it to advertising data in ways that Mozilla specifically disclaims in their documentation.
+I know that ads are optional. I just don't expect that after sharing technical and interaction data to help improve Firefox, that Mozilla would turn around and monetize that technical data by linking it to advertising data in ways that Mozilla [specifically disclaims](#mozilla-was-upfront-about-this--rtfm) in their documentation.
 
 [^1]: "[Content recommendations on the Firefox New Tab page - FAQ](https://support.mozilla.org/en-US/kb/new-tab/revision/285809)"  Sep 30, 2024, 11:09:15 AM.
 [^2]: "[Sponsored shortcuts on the New Tab page](https://support.mozilla.org/en-US/kb/sponsor-privacy/revision/277826)"   Mar 12, 2024, 2:17:43 PM.
