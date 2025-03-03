@@ -44,7 +44,7 @@ On the [Content recommendations on the Firefox New Tab page - FAQ](https://suppo
 >
 >If you choose topics of interest to personalize your recommendations, the selected topics will be collected to improve the relevance of the recommended articles and sponsored content on your New Tab page. This information is also not associated with any technical or interaction data about you or your Firefox browser. 
 
-On [Sponsored shortcuts on the New Tab page](https://support.mozilla.org/en-US/kb/sponsor-privacy#w_what-data-is-shared), Mozilla says:
+On [Sponsored shortcuts on the New Tab page](https://support.mozilla.org/en-US/kb/sponsor-privacy#w_what-data-is-shared)[^1], Mozilla says:
 
 > **What data is shared?**
 >
@@ -54,11 +54,14 @@ I don't see *any* reference on the help pages above to the new recommendation pr
 
 On the contrary, in both cases, Mozilla is seemingly telling us that NTP interactions are explicitly *not* linked to Firefox technical and interaction data (my emphasis):
 
-> By default, when stories are recommended on your [New Tab page](https://support.mozilla.org/en-US/kb/about-new-tab-page), Firefox collects data on how often they appear and how many times they are clicked. **This data is not linked to any technical or interaction information about you or your Firefox browser.**
+> By default, when stories are recommended on your [New Tab page](https://support.mozilla.org/en-US/kb/about-new-tab-page)[^2], Firefox collects data on how often they appear and how many times they are clicked. **This data is not linked to any technical or interaction information about you or your Firefox browser.**
 
 > **This data does not include any personally identifying information and is only shared when you click on a sponsored shortcut.**
 
 How were end users supposed to glean something different?
+
+[^1]: "[Content recommendations on the Firefox New Tab page - FAQ](https://support.mozilla.org/en-US/kb/new-tab/revision/285809)"  Sep 30, 2024, 11:09:15 AM.
+[^2]: "[Sponsored shortcuts on the New Tab page](https://support.mozilla.org/en-US/kb/sponsor-privacy/revision/277826)"   Mar 12, 2024, 2:17:43 PM.
 
 ---
 
