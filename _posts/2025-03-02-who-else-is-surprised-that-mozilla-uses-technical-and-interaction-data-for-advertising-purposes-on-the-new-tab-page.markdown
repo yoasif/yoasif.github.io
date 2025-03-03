@@ -52,6 +52,13 @@ On [Sponsored shortcuts on the New Tab page](https://support.mozilla.org/en-US/k
 
 I don't see *any* reference on the help pages above to the new recommendation provided on the privacy notice to turn off the setting related to "technical and interaction data".
 
+On the contrary, in both cases, Mozilla is seemingly telling us that NTP interactions are explicitly *not* linked to Firefox technical and interaction data (my emphasis):
+
+> By default, when stories are recommended on your [New Tab page](https://support.mozilla.org/en-US/kb/about-new-tab-page), Firefox collects data on how often they appear and how many times they are clicked. **This data is not linked to any technical or interaction information about you or your Firefox browser.**
+
+> **This data does not include any personally identifying information and is only shared when you click on a sponsored shortcut.**
+
+How were end users supposed to glean something different?
 ---
 
 {% include donate-social.html %} You can also message me on [Mastodon](https://mastodon.social/@yoasif).
