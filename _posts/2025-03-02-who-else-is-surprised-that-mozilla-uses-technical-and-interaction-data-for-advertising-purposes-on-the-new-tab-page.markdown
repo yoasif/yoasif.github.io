@@ -92,11 +92,11 @@ This section of the old Privacy Notice is incredibly confusing.
 
 Mozilla says (in very obfuscated fashion) that Firefox's **"technical and interaction data"** encompass the available ad slots in Firefox, and how users interact with content (*ads*), including impression count and number of clicks. Mozilla also (erroneously) claims that this data is used to "better understand our users and improve our product".
 
-Mozilla then goes on to say that they "share aggregated data about the sponsored content you see and click with our third-party ad platform Kevel" and that "this aggregated data does not identify you personally" There is no explanation given on how to opt out of this sharing.
+Mozilla then goes on to say that they "share aggregated data about the sponsored content you see and click with our third-party ad platform Kevel" and that "this aggregated data does not identify you personally". There is no explanation given on how to opt out of this sharing.
 
 Mozilla ends this area by describing that if a user clicks on a sponsored tile, data is shared with AdMarketplace. They go on to say that "Firefox does not share ... any other information that could be used to identify you".
 
-**What's the takeaway here?** It's honestly hard to hazard a guess. I'll simply note that Mozilla doesn't say with clarity what they say in the new Privacy Notice - that "You can opt out of having your data processed for personalization or advertising purposes by turning off 'technical and interaction data' ... at any time."
+**What's the takeaway here?** It's honestly hard to hazard a guess. I'll simply note that Mozilla doesn't say with clarity what they say in the new Privacy Notice - that "you can opt out of having your data processed for personalization or advertising purposes by turning off 'technical and interaction data' ... at any time."
 
 I'll leave it up to the reader to decide if this was "clearly disclosed" or "upfront".
 
