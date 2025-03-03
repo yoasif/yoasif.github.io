@@ -72,7 +72,7 @@ Here, Mozilla says that interactions with stories displayed on the New Tab page 
 
 > When you view or click on a sponsored shortcut, Firefox sends [anonymized technical data](https://www.mozilla.org/privacy/firefox/#recommend-relevant-content) to our partner through a Mozilla-owned proxy service. The code for this proxy service is available [on GitHub](https://github.com/mozilla/gcp-ingestion) for interested technical audiences. **This data does not include any personally identifying information and is only shared when you click on a sponsored shortcut.**
 
-Mozilla says that data about interactions with sponsored shortcuts are **"only shared when you click on a sponsored shortcut"** via a Mozilla-owned proxy service. There is no mention here of *linking* that data with personally identifiable information ("technical and interaction data" is personally identifiable), and Mozilla even says that "this data is ... only shared when you click" -- Firefox telemetry data is not sent on demand!
+Mozilla says that data about interactions with sponsored shortcuts are **"only shared when you click on a sponsored shortcut"** via a Mozilla-owned proxy service. There is no mention here of *linking* that data with personally identifiable information, and Mozilla even says that "this data is ... only shared when you click" -- Firefox telemetry data is not sent on demand!
 
 As far as I can tell, Firefox help was not upfront about this, but please correct me with any additional references to documentation.
 
