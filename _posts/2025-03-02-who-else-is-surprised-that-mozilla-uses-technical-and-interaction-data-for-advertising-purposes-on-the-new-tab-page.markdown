@@ -23,9 +23,9 @@ Clearly, I should have looked at the Privacy Notice before posting 😔.
 
 I was so sure that there was no way that the setting related to "technical and interaction data” was connected to data processed for advertising, that I surprised myself when reading the Privacy Notice.
 
-My immediate reaction was that is incredibly unintuitive -- Mozilla is using data it has access to *because i want to help Firefox development* for **advertising**. 
+My immediate reaction was that is incredibly unintuitive -- Mozilla is using data that it has access to only because I want to help Firefox *development* -- for **advertising**. 
 
-I did a little quick testing, and I found that you can disable the sharing of "technical and interaction data” and still receive ads on the New Tab page. It seems that opting to not assist Firefox technical development grants users additional privacy from advertising.
+I did some quick testing, and found that you can disable the sharing of "technical and interaction data” and still receive ads on the New Tab page. It seems that opting to not assist Firefox technical development grants users additional privacy from advertising.
 
 <p>
 	<figure>
