@@ -50,15 +50,19 @@ On [Sponsored shortcuts on the New Tab page](https://support.mozilla.org/en-US/k
 >
 > When you view or click on a sponsored shortcut, Firefox sends [anonymized technical data](https://www.mozilla.org/privacy/firefox/#recommend-relevant-content) to our partner through a Mozilla-owned proxy service. The code for this proxy service is available [on GitHub](https://github.com/mozilla/gcp-ingestion) for interested technical audiences. This data does not include any personally identifying information and is only shared when you click on a sponsored shortcut.
 
-I don't see *any* reference on the help pages above to the new recommendation provided on the privacy notice to turn off the setting related to "technical and interaction data".
+I don't see any reference on the help pages linked above to the new recommendation [provided on the privacy notice](https://www.mozilla.org/en-US/privacy/firefox/#notice:~:text=products%20and%20services%29.-,You%20can%20read%20more%20information%20about%20how%20to%20manage%20your%20New%20Tab%20page%20including%20your%20data%20settings.%20You%20can%20opt%20out%20of%20having%20your%20data%20processed%20for%20personalization%20or%20advertising%20purposes%20by%20turning%20off%20%E2%80%9Ctechnical%20and%20interaction%20data%E2%80%9D%20on%20Desktop%20and%20Mobile%20at%20any%20time.,-To%20provide%20Mozilla) to turn off the setting related to "technical and interaction data".
 
 On the contrary, in both cases, Mozilla is seemingly telling us that NTP interactions are explicitly *not* linked to Firefox technical and interaction data (my emphasis):
 
 > By default, when stories are recommended on your [New Tab page](https://support.mozilla.org/en-US/kb/about-new-tab-page), Firefox collects data on how often they appear and how many times they are clicked. **This data is not linked to any technical or interaction information about you or your Firefox browser.**
 
+Here, Mozilla says that interactions with stories displayed on the New Tab page are **"not linked to any technical or interaction information about you or your Firefox browser"**.
+
 > **This data does not include any personally identifying information and is only shared when you click on a sponsored shortcut.**
 
-How were end users supposed to glean something different?
+Mozilla says that data about interactions with sponsored shortcuts are **"only shared when you click on a sponsored shortcut"** via a Mozilla-owned proxy service. There is no mention here of *linking* that data with personally identifiable information ("technical and interaction data" is personally identifiable), and Mozilla even says that "this data is ... only shared when you click" -- Firefox telemetry data is not sent on demand!
+
+How were end users supposed to think something different?
 
 [^1]: "[Content recommendations on the Firefox New Tab page - FAQ](https://support.mozilla.org/en-US/kb/new-tab/revision/285809)"  Sep 30, 2024, 11:09:15 AM.
 [^2]: "[Sponsored shortcuts on the New Tab page](https://support.mozilla.org/en-US/kb/sponsor-privacy/revision/277826)"   Mar 12, 2024, 2:17:43 PM.
