@@ -78,7 +78,7 @@ As far as I can tell, Firefox help was not upfront about this, but *please* corr
 
 ### "Technical and interaction data" is not personally identifiable
 
-In the [figure above](#extract-from-the-firefox-privacy-notice), Mozilla states that "unique identifiers" as used to serve ads.
+In the [figure above](#extract-from-the-firefox-privacy-notice), Mozilla states that "unique identifiers" are processed to serve ads.
 
 ### Ads are optional / You can use a blank new tab
 
