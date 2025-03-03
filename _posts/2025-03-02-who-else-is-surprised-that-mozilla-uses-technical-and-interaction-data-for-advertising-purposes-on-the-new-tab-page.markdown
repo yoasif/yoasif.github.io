@@ -25,7 +25,7 @@ I was so sure that there was no way that the setting related to "technical and i
 
 My immediate reaction was that is incredibly unintuitive -- Mozilla is using data it has access to *because i want to help Firefox development* for **advertising**. 
 
-I did a little quick testing, and I found that you can disable the sharing of "technical and interaction data” and still receive ads on the New Tab page. It seems that I would have had *more privacy* by viewing ads and opting to not assist Firefox technical development by sharing technical data.
+I did a little quick testing, and I found that you can disable the sharing of "technical and interaction data” and still receive ads on the New Tab page. It seems that opting to not assist Firefox technical development grants users additional privacy from advertising.
 
 <p>
 	<figure>
