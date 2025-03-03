@@ -82,7 +82,7 @@ In the [figure above](#extract-from-the-firefox-privacy-notice), Mozilla states 
 
 ### Ads are optional / You can use a blank new tab
 
-I know ads are optional. I just don't expect that after sharing technical and interaction data to help **improve Firefox**, that Mozilla would turn around and monetize that technical data by linking it to advertising data in ways that Mozilla specifically disclaimed in their documentation.
+I know ads are optional. I just don't expect that after sharing technical and interaction data to help **improve Firefox**, that Mozilla would turn around and monetize that technical data by linking it to advertising data in ways that Mozilla specifically disclaims in their documentation.
 
 [^1]: "[Content recommendations on the Firefox New Tab page - FAQ](https://support.mozilla.org/en-US/kb/new-tab/revision/285809)"  Sep 30, 2024, 11:09:15 AM.
 [^2]: "[Sponsored shortcuts on the New Tab page](https://support.mozilla.org/en-US/kb/sponsor-privacy/revision/277826)"   Mar 12, 2024, 2:17:43 PM.
