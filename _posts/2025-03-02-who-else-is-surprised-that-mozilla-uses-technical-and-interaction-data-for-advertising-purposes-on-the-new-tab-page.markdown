@@ -59,6 +59,7 @@ On the contrary, in both cases, Mozilla is seemingly telling us that NTP interac
 > **This data does not include any personally identifying information and is only shared when you click on a sponsored shortcut.**
 
 How were end users supposed to glean something different?
+
 ---
 
 {% include donate-social.html %} You can also message me on [Mastodon](https://mastodon.social/@yoasif).
