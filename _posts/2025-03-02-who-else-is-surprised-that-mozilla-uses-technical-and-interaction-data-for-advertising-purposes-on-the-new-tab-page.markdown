@@ -36,7 +36,7 @@ I got a comment after posting that Mozilla was [upfront](https://lemmy.dbzer0.co
 
 I'll admit that I didn't look deeply into this before posting, but after I saw the comment, I looked.
 
-On the [Content recommendations on the Firefox New Tab page - FAQ](https://support.mozilla.org/en-US/kb/new-tab#w_data-and-privacy), Mozilla says:
+On the [Content recommendations on the Firefox New Tab page - FAQ](https://support.mozilla.org/en-US/kb/new-tab#w_data-and-privacy)[^1], Mozilla says:
 
 > **Is data collected when I interact with New Tab recommendations, and what controls do I have?**
 >
@@ -44,7 +44,7 @@ On the [Content recommendations on the Firefox New Tab page - FAQ](https://suppo
 >
 >If you choose topics of interest to personalize your recommendations, the selected topics will be collected to improve the relevance of the recommended articles and sponsored content on your New Tab page. This information is also not associated with any technical or interaction data about you or your Firefox browser. 
 
-On [Sponsored shortcuts on the New Tab page](https://support.mozilla.org/en-US/kb/sponsor-privacy#w_what-data-is-shared)[^1], Mozilla says:
+On [Sponsored shortcuts on the New Tab page](https://support.mozilla.org/en-US/kb/sponsor-privacy#w_what-data-is-shared)[^2], Mozilla says:
 
 > **What data is shared?**
 >
@@ -54,7 +54,7 @@ I don't see *any* reference on the help pages above to the new recommendation pr
 
 On the contrary, in both cases, Mozilla is seemingly telling us that NTP interactions are explicitly *not* linked to Firefox technical and interaction data (my emphasis):
 
-> By default, when stories are recommended on your [New Tab page](https://support.mozilla.org/en-US/kb/about-new-tab-page)[^2], Firefox collects data on how often they appear and how many times they are clicked. **This data is not linked to any technical or interaction information about you or your Firefox browser.**
+> By default, when stories are recommended on your [New Tab page](https://support.mozilla.org/en-US/kb/about-new-tab-page), Firefox collects data on how often they appear and how many times they are clicked. **This data is not linked to any technical or interaction information about you or your Firefox browser.**
 
 > **This data does not include any personally identifying information and is only shared when you click on a sponsored shortcut.**
 
