@@ -30,7 +30,7 @@ I did some quick testing, and found that you can disable the sharing of "technic
 <p>
 	<figure>
 	<picture>
-	  <img src="{{site.url}}/assets/images/social/posts/firefox-data-collection-135-2x.png" alt="Screenshot of Firefox's Data Collection and Use preferences panel" />
+	  <img src="{{site.url}}/assets/images/social/posts/firefox-data-collection-135-2x.png" alt="Screenshot of Firefox's Data Collection and Use preferences panel" id="screenshot" />
 	  <figcaption>Firefox 135's &ldquo;Data Collection and Use&rdquo; panel</figcaption>
 	</picture>
 </figure>
@@ -76,9 +76,37 @@ Mozilla says that data about interactions with sponsored shortcuts are **"only s
 
 As far as I can tell, Firefox help was not upfront about this, but please correct me with any additional references to documentation.
 
+### "This was in the privacy notice"
+
+Let's take a look: [Firefox Privacy Notice: Effective May 13, 2024](https://web.archive.org/web/20250221202435/https://www.mozilla.org/en-US/privacy/firefox/).
+
+Mozilla makes a few mentions of the New Tab page within the **Recommend relevant content** section:
+
+> **Technical & interaction data:** Firefox sends us data such as the position, size and placement of content we suggest, as well as basic data about your interactions with content. This includes the number of times content is displayed or clicked. We use technical and interaction data in order to better understand our users and improve our product.
+>
+> **Recommendations:** We may recommend content to you based on your browsing history, language, and country location. The process of deciding which stories you should see based on your browsing history happens locally in your copy of Firefox, and Mozilla does not receive a copy of your browsing history. Mozilla does receive aggregated data about the recommendations you see and click. We also share aggregated data about the sponsored content you see and click with our third-party ad platform Kevel so advertisers can see how many people click on their articles. This aggregated data does not identify you personally.
+>
+> **Top Sites:** When you click on a Sponsored Top Sites tile on New Tab, we share your country, region, county (if you’re in the US), the tile you clicked, and the time you clicked with AdMarketplace (a third-party referral platform) to verify you navigated to the website. Firefox does not share your IP address or any other information that could be used to identify you.
+
+This section of the old Privacy Notice is incredibly confusing. 
+
+Mozilla says (in very obfuscated fashion) that Firefox's **"technical and interaction data"** encompass the available ad slots in Firefox, and how users interact with content (*ads*), including impression count and number of clicks. Mozilla also (erroneously) claims that this data is used to "better understand our users and improve our product".
+
+Mozilla then goes on to say that they "share aggregated data about the sponsored content you see and click with our third-party ad platform Kevel" and that "this aggregated data does not identify you personally" There is no explanation given on how to opt out of this sharing.
+
+Mozilla ends this area by describing that if a user clicks on a sponsored tile, data is shared with AdMarketplace. They go on to say that "Firefox does not share ... any other information that could be used to identify you".
+
+**What's the takeaway here?** It's honestly hard to hazard a guess. I'll simply note that Mozilla doesn't say with clarity what they say in the new Privacy Notice - that "You can opt out of having your data processed for personalization or advertising purposes by turning off 'technical and interaction data' ... at any time."
+
+I'll leave it up to the reader to decide if this was "clearly disclosed" or "upfront".
+
 ### "Technical and interaction data" is not personally identifiable
 
 In the [figure above](#extract-from-the-firefox-privacy-notice), Mozilla states that "unique identifiers" are processed to serve ads.
+
+### "You didn't read the settings"
+
+Look at the [screenshot](#screenshot) of the settings. Help us by pointing me to where users could have understood this from the settings.
 
 ### Ads are optional / You can use a blank new tab
 
