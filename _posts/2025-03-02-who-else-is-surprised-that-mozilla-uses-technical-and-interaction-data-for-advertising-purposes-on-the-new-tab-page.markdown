@@ -5,7 +5,7 @@ date:   2025-03-02 06:07:03 -0500
 categories: social posts
 tags: firefox privacy
 external-url:
-image: /assets/images/social/posts/firefox-data-collection-135-2x.png
+image: /assets/images/social-previews/firefox.png
 
 ---
 
