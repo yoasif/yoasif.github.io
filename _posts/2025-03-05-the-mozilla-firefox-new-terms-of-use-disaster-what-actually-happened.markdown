@@ -102,13 +102,11 @@ So while it is great that Mozilla has backed away from the worst abuse of the pr
 
 This also confirms that this move has more to do with advertising than it does to do with AI -- just as they had said in their statements to the media.
 
-It doesn't explain why they needed to make this change *now*, given that ads and search sponsorships have been a part of Firefox for a *very* long time.
+Unfortunately, Mozilla doesn't explain why they needed to make this change *now*, given that ads and search sponsorships have been a part of Firefox for a *very* long time.
 
-Not only that, Mozilla has been [aware of CCPA for years](https://blog.mozilla.org/en/mozilla/internet-policy/new-year-new-rights/) - the fact that "sale of data" could be squishy is not something that is a surprise. 
+[Other commentators](https://www.youtube.com/watch?v=-8bTquKjzos) believe that the ToU updates have more to do with clarifying that Mozilla has been selling data all along -- at least when it comes to ads on the New Tab page. If that is the case, the latest developments are troubling; Mozilla has been [aware of CCPA for years](https://blog.mozilla.org/en/mozilla/internet-policy/new-year-new-rights/) - the idea that "sale of data" could be squishy is not something that is a surprise.
 
-Prior to the latest update, [Don Marti](https://federate.social/@dmarti/114088323172276255) had suggested one possibility: noyb filed a [complaint against Mozilla](https://noyb.eu/en/firefox-tracks-you-privacy-preserving-feature) for enabling Privacy Preserving Attribution without asking its users if they wanted to enable it.
-
-[Other commentators](https://www.youtube.com/watch?v=-8bTquKjzos) believe that the ToU updates have more to do with clarifying that Mozilla has been selling data all along -- at least when it comes to ads on the New Tab page.
+[Don Marti](https://federate.social/@dmarti/114088323172276255) points out that noyb filed a [complaint against Mozilla](https://noyb.eu/en/firefox-tracks-you-privacy-preserving-feature) for enabling Privacy Preserving Attribution without asking its users if they wanted to enable it. This may help explain why Mozilla wants Firefox users to [acknowledge the new Terms](https://blog.mozilla.org/en/products/firefox/firefox-news/firefox-terms-of-use/) this month.
 
 ## Takeaways
 
