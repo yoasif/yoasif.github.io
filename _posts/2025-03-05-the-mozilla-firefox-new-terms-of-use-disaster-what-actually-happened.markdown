@@ -104,7 +104,7 @@ By updating the terms to disclaim ownership of user data, Mozilla helps clarify 
 
 Their statement goes on to tell us how California's CCPA defines [sale](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB375), without explaining why Mozilla's data practices do not qualify as a sale. Still, their latest statement confirms prior statements to the media that this was about ads, not AI.
 
-While it is great that Mozilla has backed away from the worst abuse of the previous iteration of the Terms of Use, we are still granting Mozilla the rights to process any data we input into Firefox for virtually any purpose -- just without an IP grant. That is better than before, but is definitely worse than the relationship that users had with Firefox previously -- before we the new Terms of Use.
+While it is great that Mozilla has backed away from the worst abuse of the previous iteration of the Terms of Use, we are still granting Mozilla the rights to process any data we input into Firefox for virtually any purpose -- just without an IP grant. That is better than before, but is definitely worse than the relationship that users had with Firefox previously -- before Mozilla's imposition of its new Terms of Use.
 
 Mozilla doesn't explain specifically why they needed to make this change *now*, given that ads and search sponsorships have been a part of Firefox for a *very* long time.
 
