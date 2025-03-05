@@ -100,7 +100,7 @@ The rights grant had been so over-broad that the community (including myself) ha
 
 So while it is great that Mozilla has backed away from the worst abuse of the previous iteration of the Terms of Use, we are still granting Mozilla the rights to process any data we input into Firefox for virtually any purpose -- just without an IP grant. That is better than before, but is definitely worse than the relationship that users had with Firefox previously. 
 
-This also confirms that this move has more to do with advertising than it does to with AI -- just as they had said in their statements to the media.
+This also confirms that this move has more to do with advertising than it does to do with AI -- just as they had said in their statements to the media.
 
 It doesn't explain why they needed to make this change *now*, given that ads and search sponsorships have been a part of Firefox for a *very* long time.
 
