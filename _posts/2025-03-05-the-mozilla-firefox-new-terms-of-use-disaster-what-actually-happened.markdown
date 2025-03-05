@@ -23,7 +23,11 @@ I wrote most of this as part of an upcoming post about my coda on this whole sit
 
 Mozilla introduced a "[Terms of Use](https://www.mozilla.org/about/legal/terms/firefox/)" for Firefox for the first time last Wednesday, and included a clause in the document that [granted Mozilla a royalty-free license]({% post_url 2025-02-26-mozillas-new-terms-of-use-are-out-of-step-with-firefoxs-direct-competition %}) to any information transmitted via Firefox. People were unhappy about that, and Mozilla eventually backed off from the over-broad license grant and issued some clarifying updates.
 
-## The First Update
+
+
+## What Happened
+
+### The First Update
 
 We need to explain how we got here, and why Mozilla's explanations weren't enough for them to be able to move on with just lip service -- they had to make changes.
 
@@ -41,7 +45,7 @@ Instead, they doubled down and provided an explanation that was *untrue* - an ob
 
 We'll learn more from what they told the media.
 
-## The Media Response
+### The Media Response
 
 Soon after the update on their blog post, Mozilla was responding to queries about [whether the terms now indicated that user data was being provided to AI companies or advertisers](https://techcrunch.com/2025/02/28/mozilla-responds-to-backlash-over-new-terms-saying-its-not-using-peoples-data-for-ai/).
 
@@ -53,7 +57,7 @@ Interesting. The policy change has nothing to do with using people's data for AI
 
 Once again, Mozilla continues to defend their over-broad rights grant.
 
-## Updates to the Privacy Notice
+### Updates to the Privacy Notice
 
 It was around this time that [changes to the Privacy Notice](https://github.com/mozilla/bedrock/commit/d459addab846d8144b61939b7f4310eb80c5470e#commitcomment-153095625) went live on Mozilla's website.
 
@@ -94,9 +98,11 @@ The update does more than simply back off from the over-broad <abbr title="Terms
 
 Mozilla says:
 
-> The reason we’ve stepped away from making blanket claims that “We never sell your data” is because, in some places, the LEGAL definition of “sale of data” is broad and evolving. As an example, the California Consumer Privacy Act (CCPA) defines “sale” as the “selling, renting, releasing, disclosing, disseminating, making available, transferring, or otherwise communicating orally, in writing, or by electronic or other means, a consumer’s personal information by [a] business to another business or a third party” in exchange for “monetary” or “other valuable consideration.”
+>TL;DR Mozilla doesn’t sell data about you (in the way that most people think about “selling data”), and we don’t buy data about you. We changed our language because some jurisdictions define “sell” more broadly than most people would usually understand that word.
 
-The rights grant had been so over-broad that the community (including myself) had focused on intellectual property, rather than privacy. What Mozilla has helped clarify for us though is that the new <abbr title="Terms of Use">ToU</abbr>, the new privacy updates - they are less to do with users' intellectual property, and more about how Mozilla can use data - *any data* - that Firefox has access to in order to power its online advertising ambitions.
+The rights grant had been so over-broad that the community (including myself) had focused on intellectual property, rather than privacy. What Mozilla helps clarify here is that the new <abbr title="Terms of Use">ToU</abbr>, the new privacy updates - they have less to do with users' intellectual property, and more about how Mozilla can use data - *any data* - that Firefox has access to in order to power its online advertising ambitions.
+
+Their statement goes on to make tell us how California's CCPA defines [sale](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB375), *without explaining* why Mozilla's data practices do not qualify as a sale.
 
 So while it is great that Mozilla has backed away from the worst abuse of the previous iteration of the Terms of Use, we are still granting Mozilla the rights to process any data we input into Firefox for virtually any purpose -- just without an IP grant. That is better than before, but is definitely worse than the relationship that users had with Firefox previously. 
 
