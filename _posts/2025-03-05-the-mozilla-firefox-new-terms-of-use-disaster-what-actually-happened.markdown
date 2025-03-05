@@ -100,15 +100,13 @@ Mozilla says:
 
 >TL;DR Mozilla doesn’t sell data about you (in the way that most people think about “selling data”), and we don’t buy data about you. We changed our language because some jurisdictions define “sell” more broadly than most people would usually understand that word.
 
-The rights grant had been so over-broad that the community (including myself) had focused on intellectual property, rather than privacy. What Mozilla helps clarify here is that the new <abbr title="Terms of Use">ToU</abbr>, the new privacy updates - they have less to do with users' intellectual property, and more about how Mozilla can use data - *any data* - that Firefox has access to in order to power its online advertising ambitions.
+By updating the terms to disclaim ownership of user data, Mozilla helps clarify here that the new <abbr title="Terms of Use">ToU</abbr>, the privacy updates - they have less to do with users' intellectual property, and more about how Mozilla can use data - *any data* - that your copy of Firefox has access to in order to power its online advertising ambitions.
 
-Their statement goes on to make tell us how California's CCPA defines [sale](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB375), *without explaining* why Mozilla's data practices do not qualify as a sale.
+Their statement goes on to tell us how California's CCPA defines [sale](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB375), without explaining why Mozilla's data practices do not qualify as a sale. Still, their latest statement confirms prior statements to the media that this was about ads, not AI.
 
-So while it is great that Mozilla has backed away from the worst abuse of the previous iteration of the Terms of Use, we are still granting Mozilla the rights to process any data we input into Firefox for virtually any purpose -- just without an IP grant. That is better than before, but is definitely worse than the relationship that users had with Firefox previously. 
+While it is great that Mozilla has backed away from the worst abuse of the previous iteration of the Terms of Use, we are still granting Mozilla the rights to process any data we input into Firefox for virtually any purpose -- just without an IP grant. That is better than before, but is definitely worse than the relationship that users had with Firefox previously -- before we the new Terms of Use.
 
-This also confirms that this move has more to do with advertising than it does to do with AI -- just as they had said in their statements to the media.
-
-Unfortunately, Mozilla doesn't explain why they needed to make this change *now*, given that ads and search sponsorships have been a part of Firefox for a *very* long time.
+Mozilla doesn't explain specifically why they needed to make this change *now*, given that ads and search sponsorships have been a part of Firefox for a *very* long time.
 
 [Other commentators](https://www.youtube.com/watch?v=-8bTquKjzos) believe that the ToU updates have more to do with clarifying that Mozilla has been selling data all along -- at least when it comes to ads on the New Tab page. If that is the case, the latest developments are troubling; Mozilla has been [aware of CCPA for years](https://blog.mozilla.org/en/mozilla/internet-policy/new-year-new-rights/) - the idea that "sale of data" could be squishy is not something that is a surprise.
 
