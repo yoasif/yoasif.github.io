@@ -98,7 +98,7 @@ Mozilla says:
 
 The rights grant had been so over-broad that the community (including myself) had focused on intellectual property, rather than privacy. What Mozilla has helped clarify for us though is that the new <abbr title="Terms of Use">ToU</abbr>, the new privacy updates - they are less to do with users' intellectual property, and more about how Mozilla can use data - *any data* - that Firefox has access to in order to power its online advertising ambitions.
 
-So while it is great that Mozilla has backed away from the worst abuse of the previous iteration of the Terms of Use, we are still granting Mozilla the rights to process any data we input into data for virtually any purpose -- just without an IP grant. That is better than before, but is definitely worse than the relationship that users had with Firefox previously. 
+So while it is great that Mozilla has backed away from the worst abuse of the previous iteration of the Terms of Use, we are still granting Mozilla the rights to process any data we input into Firefox for virtually any purpose -- just without an IP grant. That is better than before, but is definitely worse than the relationship that users had with Firefox previously. 
 
 This also confirms that this move has more to do with advertising than it does to with AI -- just as they had said in their statements to the media.
 
