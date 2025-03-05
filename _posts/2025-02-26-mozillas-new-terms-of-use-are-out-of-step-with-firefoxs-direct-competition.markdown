@@ -66,7 +66,7 @@ Lacking a transferable, sub-licensable agreement means that Mozilla can't escape
 
 My interpretation could be totally wrong! If it is, Mozilla can help the community understand why this verbiage is necessary -- and what risks forks and other vendors who do not have this language in their ToS harbor. If forks are exposing themselves to legal liability, Mozilla would be performing a community service to non-Mozilla Gecko developers by clarifying their understanding of why copyright law requires users to grant these intellectual property rights to developers.
 
-### This is how software works, the ToS just reflects it
+### This is how software works, the Terms of Use just reflects it
 
 Another response I've gotten is that computers need to copy data and transform it in order to do valuable things with your data. Thus, Mozilla needs these rights in order to correctly describe how software is working in the background.
 
