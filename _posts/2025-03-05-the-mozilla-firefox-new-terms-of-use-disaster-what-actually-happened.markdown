@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Mozilla Firefox New Terms of Use Disaster: What Actually Happened?"
-date:   2025-03-05 3:22 -0500
+date:   2025-03-05 15:22 -0500
 categories: writing
 tags: firefox
 external-url: 
@@ -22,8 +22,6 @@ I wrote most of this as part of an upcoming post about my coda on this whole sit
 ## Background
 
 Mozilla introduced a "[Terms of Use](https://www.mozilla.org/about/legal/terms/firefox/)" for Firefox for the first time last Wednesday, and included a clause in the document that [granted Mozilla a royalty-free license]({% post_url 2025-02-26-mozillas-new-terms-of-use-are-out-of-step-with-firefoxs-direct-competition %}) to any information transmitted via Firefox. People were unhappy about that, and Mozilla eventually backed off from the over-broad license grant and issued some clarifying updates.
-
-
 
 ## What Happened
 
@@ -102,7 +100,9 @@ Mozilla says:
 
 By updating the terms to disclaim ownership of user data, Mozilla helps clarify here that the new <abbr title="Terms of Use">ToU</abbr>, the privacy updates - they have less to do with users' intellectual property, and more about how Mozilla can use the data you input in Firefox to power its online advertising ambitions.
 
-Their statement goes on to tell us how California's CCPA defines [sale](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB375), without explaining why Mozilla's data practices do not qualify as a sale. Still, their latest statement confirms prior statements to the media that this was about ads, not AI.
+Their statement goes on to tell us how California's CCPA defines [sale](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CIV&sectionNum=1798.140.#:~:text=%E2%80%9Csale), without explaining why Mozilla's data practices do not qualify as a sale. Still, their latest statement confirms prior statements to the media that this was about ads, not AI.
+
+**Update:** Since publication, I was [alerted to the fact that Mozilla's blog post contains an error]({% post_url 2025-03-05-the-mozilla-firefox-new-terms-of-use-disaster-what-actually-happened %}) when referencing the CCPA -- it seems that Mozilla is quoting from a draft that contains a [drafting error](https://iapp.org/news/a/ccpa-cpras-hidden-third-party-business-classification/#:~:text=Yes%2C%20the%20definition%20of%20'sale'%20has%20a%20drafting%20error).
 
 While it is great that Mozilla has backed away from the worst abuse of the previous iteration of the Terms of Use, we are still granting Mozilla the rights to process any data we input into Firefox for virtually any purpose -- just without an IP grant. That is better than before, but is definitely worse than the relationship that users had with Firefox previously -- before Mozilla's imposition of its new Terms of Use.
 
