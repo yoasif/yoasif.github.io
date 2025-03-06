@@ -98,9 +98,9 @@ The update does more than simply back off from the over-broad <abbr title="Terms
 
 Mozilla says:
 
->TL;DR Mozilla doesn’t sell data about you (in the way that most people think about “selling data”), and we don’t buy data about you. We changed our language because some jurisdictions define “sell” more broadly than most people would usually understand that word.
+>**TL;DR** Mozilla doesn’t sell data about you (in the way that most people think about “selling data”), and we don’t buy data about you. We changed our language because some jurisdictions define “sell” more broadly than most people would usually understand that word.
 
-By updating the terms to disclaim ownership of user data, Mozilla helps clarify here that the new <abbr title="Terms of Use">ToU</abbr>, the privacy updates - they have less to do with users' intellectual property, and more about how Mozilla can use data - *any data* - that your copy of Firefox has access to in order to power its online advertising ambitions.
+By updating the terms to disclaim ownership of user data, Mozilla helps clarify here that the new <abbr title="Terms of Use">ToU</abbr>, the privacy updates - they have less to do with users' intellectual property, and more about how Mozilla can use the data you input in Firefox to power its online advertising ambitions.
 
 Their statement goes on to tell us how California's CCPA defines [sale](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB375), without explaining why Mozilla's data practices do not qualify as a sale. Still, their latest statement confirms prior statements to the media that this was about ads, not AI.
 
