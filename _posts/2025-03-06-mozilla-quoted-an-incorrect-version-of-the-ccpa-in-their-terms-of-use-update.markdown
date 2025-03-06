@@ -20,7 +20,7 @@ The [correct](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtm
 
 > “Sell,” “selling,” “sale,” or "sold," means selling, renting, releasing, disclosing, disseminating, making available, transferring, or otherwise communicating orally, in writing, or by electronic or other means, a consumer’s personal information by the business to a third party for monetary or other valuable consideration.
 
-I don't know how much this changes things; we don't really know whether the new ToU is a response to the CCPA, or something else -- and whether the language change here would change Mozilla's legal counsel's opinion of their data practices.
+I don't know how much this changes things, since we don't know whether the new ToU is a response to the CCPA, or something else. Even if it were, the language change might not change Mozilla's legal counsel's opinion of their data practices. Obviously some more clarity on how our data is used would be *very* useful.
 
 ---
 
