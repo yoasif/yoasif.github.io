@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mozilla Has Been Sharing Aggregated Firefox Data With Advertisers Since 2017, When it Enabled Telemetry by Default"
+title:  "Mozilla Has Likely Been Sharing Aggregated Firefox Data With Advertisers Since 2017, When it Enabled Telemetry by Default"
 date:   2025-03-12 1:57 -0500
 categories: writing
 tags: firefox
@@ -10,7 +10,7 @@ redirect_from:
 
 ---
 
-**TL;DR**: With Firefox 56, Mozilla combined Firefox Health Report and Telemetry data into a single setting called "technical and interaction data", which was then enabled by default. This data was then shared with advertising partners on a de-identified or aggregated basis.
+**TL;DR**: With Firefox 56, Mozilla combined Firefox Health Report and Telemetry data into a single setting called "technical and interaction data", which was then enabled by default. This included data about advertising within Firefox's New Tab page, along with a lot of other technical information about the installation of Firefox. The Firefox preferences UI makes no mention of usage of this technical data for advertising purposes. Mozilla has also recently shared that they share data with their advertising partners "on a de-identified or aggregated basis". Mozilla has given no indication that this is a new occurrence.
 
 {:toc}
 * toc
@@ -41,7 +41,7 @@ Since Mozilla was saying that the changes in language had been to clarify "broad
 
 ### The New Privacy Notice
 
-The new privacy notice is pretty easy to read, and the place where settings for technical and interaction data are implicated are pretty easy to find - including for sponsored content and ads - both *Firefox New Tab* and *Firefox New Tab* are called out specifically as showing "advertising" and "sponsored content".
+The new privacy notice is pretty easy to read, and the places where settings for technical and interaction data are implicated are pretty easy to find - including for sponsored content and ads - both *Firefox New Tab* and *Firefox New Tab* are called out specifically as showing "advertising" and "sponsored content".
 
 In the new notice, Mozilla says:
 
@@ -140,7 +140,7 @@ Instead, Mozilla had successfully enabled data collection in its largest user po
 
 People who had willingly opted into sharing telemetry data by running Nightly or Beta builds to help Mozilla make a better product -- those are the people who are blindsided by this change. We chose to opt in to share data with Mozilla, and the way that the data was used changed after we made our decision -- and it wasn't really clear that it was the case.
 
-It reminds of how I felt once reddit [started selling content freely given by users to AI companies]({% post_url 2023-05-03-with-its-API-update-reddit-should-start-paying-its-users %}) - they were within their rights, but my expectations had been breached.
+It reminds me of how I felt once reddit [started selling content freely given by users to AI companies]({% post_url 2023-05-03-with-its-API-update-reddit-should-start-paying-its-users %}) - they were within their rights, but my expectations had been breached.
 
 I thought by now that I would have a path forward on how I wanted to move forward in my browser usage. It hasn't worked out that way. I wish we had more clarity from Mozilla on how data is used - I still want to help build Firefox. I hate that Mozilla has made this decision so hard - why must I get into bed with ad-tech in order to help Mozilla build a better product? Is that really the bargain we have struck?
 
