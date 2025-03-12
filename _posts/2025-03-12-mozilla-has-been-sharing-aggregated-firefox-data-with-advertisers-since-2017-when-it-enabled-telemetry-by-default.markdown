@@ -130,7 +130,7 @@ The [previous Privacy Notice](https://web.archive.org/web/20151112122914/https:/
 
 jwz likes to say that Mozilla bundling DRM in Firefox is its [original sin](https://www.jwz.org/blog/2024/06/mozillas-original-sin/), but if it isn't that, allowing opt-out data collection has to be a candidate. Unfortunately, it seems that once a company has data (including your data), they tend to see it as an [asset to be monetized](https://atlan.com/data-as-an-asset/) -- and while Mozilla has shown great restraint, they are continuing down a [troubling path]({% post_url 2024-10-13-protecting-your-privacy-while-eroding-your-democracy-PPAs-considered-harmful %}).
 
-I looked on reddit and the general tech press to see if the community had understood what is obvious today -- enabling this setting by default allowed Mozilla to further monetize the new tab page. I found this [sad submission](https://www.reddit.com/r/firefox/comments/736o33/improving_the_firefox_privacy_notice/) with afnan-khan sharing the Mozilla post about the new privacy notice. 13 net upvotes, 0 comments.
+I looked on reddit and the general tech press to see if the community had understood what is obvious today -- enabling this setting by default allowed Mozilla to further monetize the new tab page. I found this [sad submission](https://www.reddit.com/r/firefox/comments/736o33/improving_the_firefox_privacy_notice/) from afnan-khan sharing Mozilla's post about the new privacy notice. 13 net upvotes, 0 comments.
 
 A massively consequential change with regards to data sharing in advertising, and the community had nothing to say about it.
 
