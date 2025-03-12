@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mozilla Has Likely Been Sharing Firefox Data With Advertisers Since 2017, When it Enabled Telemetry by Default"
+title:  "Mozilla Has Been Sharing Aggregated Firefox Data With Advertisers Since 2017, When it Enabled Telemetry by Default"
 date:   2025-03-12 1:57 -0500
 categories: writing
 tags: firefox
