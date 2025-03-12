@@ -10,6 +10,8 @@ redirect_from:
 
 ---
 
+**TL;DR**: With Firefox 56, Mozilla combined Firefox Health Report and Telemetry data into a single setting called "technical and interaction data", which was then enabled by default. This data was then shared with advertising partners on a de-identified or aggregated basis.
+
 {:toc}
 * toc
 
