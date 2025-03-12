@@ -17,7 +17,7 @@ redirect_from:
 
 Mozilla introduced a "[Terms of Use](https://www.mozilla.org/about/legal/terms/firefox/)" for Firefox for the first time two weeks ago, and since then, I have been trying to figure out [what has changed]({% post_url 2025-03-05-the-mozilla-firefox-new-terms-of-use-disaster-what-actually-happened %}) and where to go from here.
 
-Once Mozilla updated their <abbr title="Terms of Use">ToU</abbr> and the initial outcry over the possibility of [Mozilla owning information transmitted via Firefox]({% post_url 2025-02-26-mozillas-new-terms-of-use-are-out-of-step-with-firefoxs-direct-competition %}) died down, I was surprised to learn that Mozilla recommended that people can out of having their data processed for advertising purposes by turning off a setting related to “technical and interaction data”.
+Once Mozilla updated their <abbr title="Terms of Use">ToU</abbr> and the initial outcry over the possibility of [Mozilla owning information transmitted via Firefox]({% post_url 2025-02-26-mozillas-new-terms-of-use-are-out-of-step-with-firefoxs-direct-competition %}) died down, I was surprised to learn that Mozilla recommended that people can opt out of having their data processed for advertising purposes by turning off a setting related to “technical and interaction data”.
 
 I [read](https://techcrunch.com/2025/02/28/mozilla-responds-to-backlash-over-new-terms-saying-its-not-using-peoples-data-for-ai/) with surprise:
 
