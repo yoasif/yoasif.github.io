@@ -33,13 +33,13 @@ Ever since this setting has existed, Mozilla contributors and employees have tol
 
 And yet, that is what Mozilla is telling us.
 
-### Updates to the Privacy Notice
+## Updates to the Privacy Notice
 
 Once the updated Privacy Notice was posted, I looked closer at the new notice [and surprised myself]({% post_url 2025-03-02-who-else-is-surprised-that-mozilla-uses-technical-and-interaction-data-for-advertising-purposes-on-the-new-tab-page %}).
 
 Since Mozilla was saying that the changes in language had been to clarify "broad and evolving" definitions of the legal definition of the "sale of data" *not* because of any change in the way data was processed or in how the product worked, I got even more confused. How could I have gotten it so wrong?
 
-#### The New Privacy Notice
+### The New Privacy Notice
 
 The new privacy notice is pretty easy to read, and the place where settings for technical and interaction data are implicated are pretty easy to find - including for sponsored content and ads - both *Firefox New Tab* and *Firefox New Tab* are called out specifically as showing "advertising" and "sponsored content".
 
@@ -60,7 +60,7 @@ Mozilla is pretty clear here in saying that "Mozilla collects technical and inte
 
 Remember that Mozilla is telling us that nothing is changing - this Privacy Notice and associated product changes are intended to clarify the existing way that Firefox works. That means that we can look at the previous privacy notices to see how I missed something so obvious.
 
-### Firefox 56: Mozilla Enables Telemetry by Default for the First Time
+## Firefox 56: Mozilla Enables Telemetry by Default for the First Time
 
 On September 28 2017, Mozilla [released Firefox 56](https://www.mozilla.org/en-US/firefox/56.0/releasenotes/) and [updated](https://web.archive.org/web/20170928143905/https://www.mozilla.org/en-US/privacy/firefox/) its privacy notice.
 
@@ -147,6 +147,10 @@ I thought by now that I would have a path forward on how I wanted to move forwar
 ## Feedback
 
 ### How is Mozilla going to get paid for the ads on the new tab page?
+
+I got some feedback:
+
+>If you read about the details, this is about anonymized information about the ads in the newtab page. How do you figure Mozilla is getting paid for those without any information about their effect.
 
 I'm going to respond to that question with a related question -- how does Mozilla get paid for the ads that appear when "technical and interaction data" sharing is disabled? If you think Mozilla isn't getting paid for those ads, do you think Mozilla is displaying those ads without any expectation of getting paid?
 
