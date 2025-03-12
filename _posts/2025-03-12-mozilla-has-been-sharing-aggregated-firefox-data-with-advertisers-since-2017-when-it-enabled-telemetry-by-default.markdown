@@ -144,6 +144,14 @@ It reminds me a bit of how I felt once reddit started selling content freely giv
 
 I thought by now that I would have a path forward on how I wanted to move forward in my browser usage. It hasn't worked out that way. I wish we had more clarity from Mozilla on how data is used - I still want to help build Firefox. I hate that Mozilla has made this decision so hard - why must I get into bed with ad-tech in order to help Mozilla build a better product? Is that really the bargain we have struck?
 
+## Feedback
+
+### How is Mozilla going to get paid for the ads on the new tab page?
+
+I'm going to respond to that question with a related question -- how does Mozilla get paid for the ads that appear when "technical and interaction data" sharing is disabled? If you think Mozilla isn't getting paid for those ads, do you think Mozilla is displaying those ads without any expectation of getting paid?
+
+Given that Firefox is presumably getting paid for ads that people interact with even if they aren't sharing technical and interaction data, why does Mozilla need the additional information?
+
 ---
 
 {% include donate-social.html %} You can [message me](https://mastodon.social/@yoasif) or follow [this blog](https://mastodon.social/@quippdblog) on Mastodon.
