@@ -118,7 +118,7 @@ In Firefox 56, Mozilla combined the old *Firefox Health Report* and *Telemetry* 
 
 It's finally making sense. Mozilla reduced granularity into the options for data collection in Firefox, enabled additional data collection by default, and gave itself the ability to use this new data for advertising purposes. Users would have to opt out of this data collection for it not to be used for advertising purposes (a purpose that Mozilla in this iteration is not forthright about). 
 
-The [previous Privacy Nptice](https://web.archive.org/web/20151112122914/https://www.mozilla.org/en-US/privacy/firefox/) included this section:
+The [previous Privacy Notice](https://web.archive.org/web/20151112122914/https://www.mozilla.org/en-US/privacy/firefox/) included this section:
 
 > Usage statistics (also called "Telemetry" in non-release builds)
 >
