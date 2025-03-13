@@ -54,7 +54,7 @@ Since Mozilla was saying that the changes in language had been to clarify "broad
 
 ### The New Privacy Notice
 
-The new privacy notice is pretty easy to read, and the places where settings for technical and interaction data are implicated are pretty easy to find - including for sponsored content and ads - both *Firefox New Tab* and *Firefox New Tab* are called out specifically as showing "advertising" and "sponsored content".
+The new privacy notice is pretty easy to read, and the places where settings for technical and interaction data are implicated are pretty easy to find - including for sponsored content and ads - both *Firefox New Tab* and *Review Checker* are called out specifically as showing "advertising" and "sponsored content".
 
 In the new notice, Mozilla says:
 
