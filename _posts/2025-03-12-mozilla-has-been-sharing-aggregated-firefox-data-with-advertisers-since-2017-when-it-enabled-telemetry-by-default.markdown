@@ -33,6 +33,19 @@ Ever since this setting has existed, Mozilla contributors and employees have tol
 
 And yet, that is what Mozilla is telling us.
 
+### The Preference
+
+<p>
+	<figure>
+	<picture>
+	  <img src="{{site.url}}/assets/images/social/posts/firefox-data-collection-135-2x.png" alt="Screenshot of Firefox's Data Collection and Use preferences panel" id="screenshot" />
+	  <figcaption>Firefox 135's &ldquo;Data Collection and Use&rdquo; panel -- see anything here about advertising?</figcaption>
+	</picture>
+</figure>
+</p>
+
+Take a look at the Firefox Preferences UI that Mozilla is telling us to toggle if we don't want our data being processed for ads. I don't see anything here says that this setting is about sharing data with advertisers. I have to go to the Privacy Notice to understand that. That doesn't feel very upfront to me.
+
 ## Updates to the Privacy Notice
 
 Once the updated Privacy Notice was posted, I looked closer at the new notice [and surprised myself]({% post_url 2025-03-02-who-else-is-surprised-that-mozilla-uses-technical-and-interaction-data-for-advertising-purposes-on-the-new-tab-page %}).
