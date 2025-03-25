@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Anti-Woke NYC-area Restaurants, Bakeries and Eateries on PublicSquare"
-date:   2025-03-25 4:24:03 -0500
+date:   2025-03-25 16:24:03 -0500
 categories: social posts
 tags: maps
 external-url:
