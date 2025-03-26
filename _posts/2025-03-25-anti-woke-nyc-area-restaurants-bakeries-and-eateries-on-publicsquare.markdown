@@ -73,7 +73,7 @@ image: /assets/images/social-previews/seinfeld-the-couch.jpg
     loadMarkers();
 </script>
 
-I recently learned about [Public Square](https://en.wikipedia.org/wiki/Public_Square_(company)), an "[anti-woke](https://archive.ph/Doas5)" online marketplace. When I searched for a list of places in NYC that were on it, I found the Public Square website, which is a great canonical source, but I don't really want to direct people to it.
+I recently learned about [Public Square](https://en.wikipedia.org/wiki/Public_Square_(company)), an "[anti-woke](https://archive.ph/Doas5)" online marketplace. When I searched for a list of places in NYC that were on it, I found the Public Square website (duh) -- not exactly a place I want to direct people to.
 
 I've been curious about how to accomplish setting up pins on a webpage for a while now, ever since learning about the [NYC Bathroom Map](https://www.got2gonyc.com) - and there was no way I was going to use Google Maps to do it.
 
