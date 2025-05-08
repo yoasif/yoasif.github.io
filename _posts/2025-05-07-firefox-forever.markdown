@@ -42,7 +42,7 @@ Mozilla showed the court an internal presentation from December 2024 where the c
 
 Scary times.
 
-Also, the US Government *really* wants [Google to sell Chrome](https://www.theverge.com/news/626502/trump-doj-recommends-google-breakup-antitrust-search-chrome). Yahoo (remember those guys?) [wants to buy Chrome](https://www.theverge.com/policy/655975/yahoo-search-web-browser-prototype-google-trial-antitrust-chrome).
+The US Government *really* wants [Google to sell Chrome](https://www.theverge.com/news/626502/trump-doj-recommends-google-breakup-antitrust-search-chrome). Yahoo (remember those guys?) [wants to buy it](https://www.theverge.com/policy/655975/yahoo-search-web-browser-prototype-google-trial-antitrust-chrome).
 
 Unfortunately, we probably need to pay attention to what is happening to Chrome now that Firefox is in actual crisis. Does anyone really believe that wresting control from Google to Yahoo is going to make Chrome *good*? You think [Perplexity](https://www.theverge.com/policy/654835/perplexity-google-antitrust-trial-remedies-chrome) would be a good steward of the Chromium codebase? [Perplexity](https://techcrunch.com/2025/04/24/perplexity-ceo-says-its-browser-will-track-everything-users-do-online-to-sell-hyper-personalized-ads/)?
 
