@@ -22,7 +22,7 @@ After the [Firefox terms of use fiasco]({% post_url 2025-03-05-the-mozilla-firef
 
 What did it mean that Mozilla thought that it was okay to push such an [over-broad rights grant]({% post_url 2025-02-26-mozillas-new-terms-of-use-are-out-of-step-with-firefoxs-direct-competition %}) in the first place? While I think redemption is both valuable and desirable, we need to understand what we are forgiving people *for*, lest they repeat themselves. 
 
-    If we don't understand what we did wrong, we aren't learning a principle, but rather a fear of punishment.
+If we don't understand what we did wrong, we aren't learning a principle, but rather a fear of punishment.
 
 Even with dark visions of malevolent motivations pervading, the reality seemed more mundane - the browser was installed, it was still open source, and it wasn't surreptitiously exfiltrating data to Mozilla. Could I (and other Firefox users) be bothered?
 
