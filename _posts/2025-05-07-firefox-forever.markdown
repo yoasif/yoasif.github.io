@@ -20,13 +20,15 @@ There's been a lot going on, in tech, and in the world.
 
 After the [Firefox terms of use fiasco]({% post_url 2025-03-05-the-mozilla-firefox-new-terms-of-use-disaster-what-actually-happened %}) lo those months ago, I wanted to write a coda - but to do that, I needed a resolution, and I was stuck in *denouement*.
 
-What did it mean that Mozilla thought that it was okay to push such an [over-broad rights grant]({% post_url 2025-02-26-mozillas-new-terms-of-use-are-out-of-step-with-firefoxs-direct-competition %}) in the first place? While I think redemption is both valuable and desirable, it is worth understanding the sin that we are forgiving. If we don't understand what we did wrong, we aren't learning a principle, but rather a fear of punishment.
+What did it mean that Mozilla thought that it was okay to push such an [over-broad rights grant]({% post_url 2025-02-26-mozillas-new-terms-of-use-are-out-of-step-with-firefoxs-direct-competition %}) in the first place? While I think redemption is both valuable and desirable, we need to understand what we are forgiving people *for*, lest they repeat themselves. 
 
-Even with dark visions of malevolent motivations pervading, the reality seemed more prosaic - the browser was installed, it was still open source, and it wasn't surreptitiously exfiltrating data to Mozilla. Could I (and other Firefox users) be bothered?
+If we don't understand what we did wrong, we aren't learning a principle, but rather a fear of punishment.
 
-Aside from a few principled folk (perhaps with more pride than sense) who jumped to LibreWolf, clearly not.
+Even with dark visions of malevolent motivations pervading, the reality seemed more mundane - the browser was installed, it was still open source, and it wasn't surreptitiously exfiltrating data to Mozilla. Could I (and other Firefox users) be bothered?
 
-Even with the terms of use mess, the underlying facts whereupon a principled Firefox user motivates themselves (and ideally others) to use the browser remains the same.
+Aside from a few principled folks (perhaps with more pride than sense) who jumped to LibreWolf, clearly not.
+
+Even with the terms of use mess, the reasons a principled Firefox user convinces themselves (and ideally others) to use the browser remains the same.
 
 As if on cue, the US government and big tech teamed up to remind us all about it.
 
@@ -200,7 +202,7 @@ Steve Jobs used to say that [computers are a bicycle for the mind](https://www.y
 
 John M. Culkin Jr. said that "[we shape our tools and thereafter our tools shape us](https://mcluhangalaxy.wordpress.com/2013/04/01/we-shape-our-tools-and-thereafter-our-tools-shape-us/)", and I would argue that the tools that we have built have led to us feeling like we have less agency. That feeling comes from *actually* having less of it. 
 
-One of the tools that work invisibly in the background on my kitchen PC is [BlockTube](https://addons.mozilla.org/en-US/firefox/addon/blocktube/). While it has a bunch of features, I use it for just one - the ability to block a specific channel from YouTube recommendations. Tiny feature, but it really helps make YouTube a lot less annoying when you can block what you want to block. 
+One of the tools that works invisibly in the background on my kitchen PC is [BlockTube](https://addons.mozilla.org/en-US/firefox/addon/blocktube/). While it has a bunch of features, I use it for just one - the ability to block a specific channel from YouTube recommendations. Tiny feature, but it really helps make YouTube a lot less annoying when you can block what you want to block. 
 
 Why doesn't YouTube have this feature? On my TV, the native YouTube apps only allow me to "influence" YouTube's algorithm by letting it know that I am not interested in a video, or to not recommend a channel. But there's no way to simply block a channel. Clearly this is a very basic feature - don't show me content from this creator. 
 
