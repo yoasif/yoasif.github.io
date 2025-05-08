@@ -212,7 +212,7 @@ My guess is that that YouTube knows that recommending a video or channel to you 
 
 Firefox users have been warning our Chromium cousins for years that the sky is falling -- erm [Google is killing uBlock Origin]({% post_url 2024-10-16-google-is-killing-uBlock-origin-no-chromium-browser-is-safe %}) - I even had a friend reach out *while writing this post* asking whether one of the Chromium browsers was a real alternative.
 
-I get it. It is easier to wait until the disaster happens, rather than worry about trying to get ahead of it. I got that Plex email a couple of days ago, and I haven't gotten around to doing anything about it.
+I get it. It is easier to wait until the disaster happens, rather than worrying about trying to get ahead of it. I got that Plex email a couple of days ago, and I haven't gotten around to doing anything about it.
 
 The problem is that ignoring the risk doesn't make it go away. Not taking advantage of the options we have today might mean that they are foreclosed to us tomorrow.
 
