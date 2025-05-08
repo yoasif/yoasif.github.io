@@ -44,9 +44,9 @@ Mozilla showed the court an internal presentation from December 2024 where the c
 
 Scary times.
 
-The US Government *really* wants [Google to sell Chrome](https://www.theverge.com/news/626502/trump-doj-recommends-google-breakup-antitrust-search-chrome). Yahoo (remember those guys?) [wants to buy it](https://www.theverge.com/policy/655975/yahoo-search-web-browser-prototype-google-trial-antitrust-chrome).
+The US Government also wants [Google to sell Chrome](https://www.theverge.com/news/626502/trump-doj-recommends-google-breakup-antitrust-search-chrome). Yahoo (remember those guys?) [wants to buy it](https://www.theverge.com/policy/655975/yahoo-search-web-browser-prototype-google-trial-antitrust-chrome).
 
-Unfortunately, we probably need to pay attention to what is happening to Chrome now that Firefox is in actual crisis. Does anyone really believe that wresting control from Google to Yahoo is going to make Chrome *good*? You think [Perplexity](https://www.theverge.com/policy/654835/perplexity-google-antitrust-trial-remedies-chrome) would be a good steward of the Chromium codebase? [Perplexity](https://techcrunch.com/2025/04/24/perplexity-ceo-says-its-browser-will-track-everything-users-do-online-to-sell-hyper-personalized-ads/)?
+Unfortunately, we probably need to pay attention to what is happening to Chrome now that Firefox is in crisis. Does anyone really believe that wresting control from Google to Yahoo is going to make Chrome *good*? You think [Perplexity](https://www.theverge.com/policy/654835/perplexity-google-antitrust-trial-remedies-chrome) would be a good steward of the Chromium codebase? [Perplexity](https://techcrunch.com/2025/04/24/perplexity-ceo-says-its-browser-will-track-everything-users-do-online-to-sell-hyper-personalized-ads/)?
 
 (If you didn't visit the link, it is about Perplexity's CEO talking about how their browser is going to track everything you do online so that they can sell hyper personalized ads.)
 
@@ -58,9 +58,9 @@ If you aren't using it, you are missing out.
 
 While I think Firefox is a high quality product ([the best](https://www.youtube.com/watch?v=s1UOk6nVzpE)), its appeal is greater than that.
 
-Earlier, I referred to the principled Firefox user, and you might have no idea what I'm thinking of. I'm thinking of the "Take Back the Web" ethos, where we cared about monopoly and open standards - ActiveX and Flash were scourges not just because they were proprietary - an open source reskin of the bigco browser isn't the open web. 
+Earlier, I referred to the principled Firefox user, and you might have no idea what I'm talking about. I'm thinking of the "Take Back the Web" ethos, where open web enthusiasts cared about monopoly and open standards - ActiveX and Flash were scourges not just because they were proprietary. An open source reskin of the bigco browser isn't the open web. 
 
-I was a Mac user back then, and people *actually* used products like DataViz' [MacLinkPlus](https://en.wikipedia.org/wiki/MacLinkPlus), and open standards were *really* at top of mind for Mac users. Not being able to use Silverlight on Mac OS was kind of esoteric, but it was also really annoying. So was trying to play back DRMed Windows Media files. Try being a Mac user in [Korea](https://archive.ph/rdj2x) -- you might have needed to resort to an (very slow) *emulator*!
+I was a Mac user then, and people *actually* used products like DataViz' [MacLinkPlus](https://en.wikipedia.org/wiki/MacLinkPlus), and open standards were *really* at top of mind for Mac users. Not being able to use Silverlight on Mac OS was kind of esoteric, but it was also really annoying. So was trying to play back DRMed Windows Media files. Try being a Mac user in [Korea](https://archive.ph/rdj2x) -- you might have needed to resort to an (very slow) *emulator*!
 
 The fact that Mozilla spends a lot of money (and employs a lot of people) to produce an open standards, open source web browser, is kind of a big deal - and kind of a unicorn. If you think that comes easy, I'd love for you to explain to me why Ladybird isn't further along. Explaining to me that Brave exists simply shows me that you are suffering from disease of *category error*.
 
