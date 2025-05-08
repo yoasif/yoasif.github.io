@@ -3,7 +3,7 @@ layout: post
 title:  "Firefox Forever"
 date:   2025-05-07 10:50 -0500
 categories: writing
-tags: firefox
+tags: firefox politics google ad-tech uspol browsers chrome chromium
 external-url: 
 image: /assets/images/social-previews/firefox.png
 redirect_from: 
