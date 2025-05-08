@@ -46,7 +46,7 @@ The US Government *really* wants [Google to sell Chrome](https://www.theverge.co
 
 Unfortunately, we probably need to pay attention to what is happening to Chrome now that Firefox is in actual crisis. Does anyone really believe that wresting control from Google to Yahoo is going to make Chrome *good*? You think [Perplexity](https://www.theverge.com/policy/654835/perplexity-google-antitrust-trial-remedies-chrome) would be a good steward of the Chromium codebase? [Perplexity](https://techcrunch.com/2025/04/24/perplexity-ceo-says-its-browser-will-track-everything-users-do-online-to-sell-hyper-personalized-ads/)?
 
-(If you didn't visit the link, it is about Perplexity's CEO talking about how their browser is going to track everything you do online so that they can sell hyper personalized ads. 
+(If you didn't visit the link, it is about Perplexity's CEO talking about how their browser is going to track everything you do online so that they can sell hyper personalized ads.)
 
 Clearly these are not the companies that are going to save us.
 
