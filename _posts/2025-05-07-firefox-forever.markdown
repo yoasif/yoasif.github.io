@@ -174,7 +174,7 @@ Once Russia invaded Ukraine, I began watching [1420 by Daniil Orain](https://www
 
 This was Russian propaganda to manipulate the news cycle and to flood the information space of Russian media, in order to misinform their own citizens.
 
-I took to mocking the concept -- after all, it is only an information "war" if one side actually believes the fake news -- and clearly, the Russian on the street had a pretty good inkling that it was nonsense. So how is it a war? Given time, I realize how apt the expression actually is - the man on the street was describing an actual war playing out in the information space - the propaganda was successfully crowding out good information for enough of the population to make it controversial - a "war".
+I took to mocking the concept -- after all, it is only an information "war" if one side actually believes the fake news -- and clearly, the Russian on the street had a pretty good inkling that it was nonsense. So how is it a war? Given time, I realize how apt the expression actually is - the woman on the street was describing an actual war playing out in the information space - the propaganda was successfully crowding out good information for enough of the population to make it controversial - a "war".
 
 The point of the blatantly false propaganda wasn't to convince you to believe it, it was both to devalue the idea of truth, and to demonstrate the inefficacy of trying to stand up for it. We can't even agree on the truth, how can I convince you of my opinion?
 
@@ -186,7 +186,7 @@ I used to read a lot of Slashdot, and back then, people used to think that the a
 
 Back then, political economy and tech seemed *obviously* intertwined - we were dealing with the aftermath of [Microsoft illegally bundling Internet Explorer in Windows](https://en.wikipedia.org/wiki/United_States_v._Microsoft_Corp.), killing Netscape (and leading to the birth of Mozilla), leading to the very "open web" mantra I referenced earlier.
 
-It might have made sense in the abstract that open source and an open society would inevitably lead to flourishing of human ideas, and that we'd never lose what makes the web special. After all, governments had stepped in after the market damage had occurred to try to rectify things. Things could be improved, and after all, we still had choices.
+It made sense in the abstract that open source and an open society would inevitably lead to flourishing of human ideas, and that we'd never lose what makes the web special. After all, governments had stepped in after the market damage had occurred to try to rectify things. Things could be improved, and after all, we still had choices.
 
 Since then, tech has [learned](https://www.politico.com/story/2011/04/how-microsoft-learned-abcs-of-dc-052483) about [lobbying](https://www.nytimes.com/2001/09/07/business/us-vs-microsoft-the-lobbying-a-huge-4-year-crusade-gets-credit-for-a-coup.html), and Google is making movies and TV shows to [try to convince you that tech isn't evil](https://www.businessinsider.com/google-tv-movie-hollywood-boost-tech-image-hundred-zeros-2025-5).
 
