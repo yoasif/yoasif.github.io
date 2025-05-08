@@ -58,7 +58,7 @@ While I think Firefox is a high quality product ([the best](https://www.youtube.
 
 Earlier, I referred to the principled Firefox user, and you might have no idea what I'm thinking of. I'm thinking of the "Take Back the Web" ethos, where we cared about monopoly and open standards - ActiveX and Flash were scourges not just because they were proprietary - an open source reskin of the bigco browser isn't the open web. 
 
-I was a Mac user back then, and people back then used *actually* used products like DataViz' [MacLinkPlus](https://en.wikipedia.org/wiki/MacLinkPlus), and open standards were *really* at top of mind for Mac users. Not being able to use Silverlight on Mac OS was kind of esoteric, but it was also really annoying. So was trying to play back DRMed Windows Media files. Try being a Mac user in [Korea](https://archive.ph/rdj2x) -- you might have needed to resort to an (very slow) *emulator*!
+I was a Mac user back then, and people *actually* used products like DataViz' [MacLinkPlus](https://en.wikipedia.org/wiki/MacLinkPlus), and open standards were *really* at top of mind for Mac users. Not being able to use Silverlight on Mac OS was kind of esoteric, but it was also really annoying. So was trying to play back DRMed Windows Media files. Try being a Mac user in [Korea](https://archive.ph/rdj2x) -- you might have needed to resort to an (very slow) *emulator*!
 
 The fact that Mozilla spends a lot of money (and employs a lot of people) to produce an open standards, open source web browser, is kind of a big deal - and kind of a unicorn. If you think that comes easy, I'd love for you to explain to me why Ladybird isn't further along. Explaining to me that Brave exists simply shows me that you are suffering from disease of *category error*.
 
@@ -152,7 +152,7 @@ While the story of how our usage of technology has affected humanity continues t
 
 Somehow, the technology that we saw as being as revolutionary to democracy and self-expression as the printing press - *self publishing on the web* - has driven us apart.
 
-You would think that being able to communicate with each other effortlessly would mean that we'd have better access to information, that we would *know* more. Instead, we saw the rise of "fake news". Mozilla co-founder Mitchell Baker opined on the algorithms that amplify content [a few years ago](https://web.archive.org/web/20241025163821/https://blog.mozilla.org/en/mozilla/we-need-more-than-deplatforming/) (disconcertingly, this post was removed - [free speech absolutism](https://archive.ph/kiLca), I guess -- [not cool](https://www.w3.org/Provider/Style/URI)) -- it seemed obvious to me at the time that we ought to understand how the algorithms worked because of how they affected us all. 
+You would think that being able to communicate with each other effortlessly would mean that we'd have better access to information, that we would *know* more. Instead, we saw the rise of "fake news". Mozilla co-founder Mitchell Baker opined on the algorithms that amplify content [a few years ago](https://blog.mozilla.org/blogarchive/blog/2021/01/08/we-need-more-than-deplatforming/) (this post was [moved](https://blog.mozilla.org/en/mozilla/we-need-more-than-deplatforming/) -- [not cool](https://www.w3.org/Provider/Style/URI)) -- it seemed obvious to me at the time that we ought to understand how the algorithms worked because of how they affected us all. 
 
 Instead, since then we have seen [platforms sell out their users to AI companies]({% post_url 2023-05-03-with-its-API-update-reddit-should-start-paying-its-users %}), all while the platforms are increasingly [taking humans out of social media](https://archive.ph/2JNKK) -- over [40% of posts on Facebook are likely AI generated](https://originality.ai/blog/ai-facebook-posts-study).
 
@@ -188,7 +188,7 @@ It might have made sense in the abstract that open source and an open society wo
 
 Since then, tech has [learned](https://www.politico.com/story/2011/04/how-microsoft-learned-abcs-of-dc-052483) about [lobbying](https://www.nytimes.com/2001/09/07/business/us-vs-microsoft-the-lobbying-a-huge-4-year-crusade-gets-credit-for-a-coup.html), and Google is making movies and TV shows to [try to convince you that tech isn't evil](https://www.businessinsider.com/google-tv-movie-hollywood-boost-tech-image-hundred-zeros-2025-5).
 
-That is the hidden tax attached to all of the profit-driven companies - [there is no problem that can't be assuaged by buying something](https://www.youtube.com/watch?v=l4Mn2NbjlqU). What is worse is that since the only action that can be monetized is... monetization, that is all that seemingly companies (and their proxies) want from you.
+That is the hidden tax attached to all of the profit-driven companies - [there is no problem that can't be assuaged by buying something](https://www.youtube.com/watch?v=l4Mn2NbjlqU). What is worse is that since the only action that can be monetized is... monetization, that is seemingly all that companies (and their proxies) want from you.
 
 Truly, voting with our dollars is a literal fact.
 
@@ -200,7 +200,7 @@ Steve Jobs used to say that [computers are a bicycle for the mind](https://www.y
 
 John M. Culkin Jr. said that "[we shape our tools and thereafter our tools shape us](https://mcluhangalaxy.wordpress.com/2013/04/01/we-shape-our-tools-and-thereafter-our-tools-shape-us/)", and I would argue that the tools that we have built have led to us feeling like we have less agency. That feeling comes from *actually* having less of it. 
 
-One of the tools that I use on my desktop Firefox install that works invisibly in the background on my kitchen PC is [BlockTube](https://addons.mozilla.org/en-US/firefox/addon/blocktube/). While it has a bunch of features, I use it for just one - the ability to block a specific channel from YouTube recommendations. Tiny feature, but it really helps make YouTube a lot less annoying when you can block what you want to block. 
+One of the tools that work invisibly in the background on my kitchen PC is [BlockTube](https://addons.mozilla.org/en-US/firefox/addon/blocktube/). While it has a bunch of features, I use it for just one - the ability to block a specific channel from YouTube recommendations. Tiny feature, but it really helps make YouTube a lot less annoying when you can block what you want to block. 
 
 Why doesn't YouTube have this feature? On my TV, the native YouTube apps only allow me to "influence" YouTube's algorithm by letting it know that I am not interested in a video, or to not recommend a channel. But there's no way to simply block a channel. Clearly this is a very basic feature - don't show me content from this creator. 
 
