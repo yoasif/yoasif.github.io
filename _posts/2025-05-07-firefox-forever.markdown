@@ -130,7 +130,7 @@ Dare Obasanjo jokes that AI went from something that would reduce our labor and 
 
 It is ironic that the people in power want to us to give up material benefits today in order to seek theoretical gains tomorrow. Somehow, it is never time for them to suffer risks to their livelihoods. 
 
-What is more insidious is the fact that their purported claims and goals are largely non-falsifiable, rendering them meaningless. What does it mean to for something to be better "for collaboration, innovation and company culture"? Probably whatever they want it to mean. They can never fail their goals, they can only be failed by our collective inaction. Heads I win, tails you lose.
+What is more insidious is the fact that their purported claims and goals are largely non-falsifiable, rendering them meaningless. What does it mean for something to be better "for collaboration, innovation and company culture"? Probably whatever they want it to mean. They can never fail their goals, they can only be failed by our collective inaction. Heads I win, tails you lose.
 
 It would be hilarious if it weren't so maddening.
 
