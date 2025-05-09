@@ -260,7 +260,7 @@ You may have heard of the [Columbia campus protests](https://en.wikipedia.org/wi
 
 It is with bitterness that I see some of my fellow Americans cry out for the Democrats to do more, to #resist. The fact is, the Democrats are shut out of power. The powers they have are limited. The powers that they may have had, my fellow Americans chose to hand to Republicans. In many ways, it is *too late* for them to do much.
 
-So while Mozilla isn't perfect, what I said at the top hasn't changed - for over 20 years, Mozilla has been a vanguard of open source, fighting for user agency on the web, and mostly standing by the [Mozilla Manifesto](https://www.mozilla.org/en-US/about/manifesto/). Mozilla has been supporting *people* over profit since their inception.
+So while Mozilla isn't perfect, what I said at the top hasn't changed - for over 20 years, Mozilla has been a vanguard of open source, fighting for user agency on the web, and mostly standing by the [Mozilla Manifesto](https://www.mozilla.org/en-US/about/manifesto/). Mozilla has been supporting *people over profit* since their inception.
 
 Could we do more for user agency if there were more Firefox users? If Firefox were sustainable with less (or no) funding from big tech? 
 
