@@ -142,7 +142,7 @@ We were promised efficiency and savings. Instead - like with the tech industry's
 
 Clearly, we are failing AI. We need to work harder for it, let it index more of our knowledge and one day... it'll fix the climate crisis.
 
-Ignore the next two paragraphs if you don't care about US politics. 
+Skip the next two paragraphs if you don't care about US politics. 
 
 Unfortunately, it's gonna get worse. Republicans are set to cut [healthcare for the poorest Americans](https://archive.ph/LuwYh), and are likely going to call it a victory over waste, fraud and abuse. That won't be anywhere near the truth - instead, the non-partisan [Congressional Budget Office](https://en.wikipedia.org/wiki/Congressional_Budget_Office) found that [between 2.3 million to 8.6 million Americans](https://www.usatoday.com/story/money/2025/05/07/cbo-millions-americans-lose-medicaid-coverage/83495422007/) would lose Medicaid coverage under the Republican proposals.
 
