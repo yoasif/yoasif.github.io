@@ -250,7 +250,7 @@ Unfortunately, we live in a society.
 
 It isn't enough for you to be savvy -- enough people have to make different choices for things to actually change. We can't be warring over *information*.
 
-My friends at Mozilla insist that they are the vanguard protecting us from the greatest abuses of big tech. I tend to agree with them - the Mozilla employees that tend to interact with community members are clearly passionate about their jobs and are believers in the mission. Seemingly though, they aren't always the ones calling the shots.
+My friends at Mozilla insist that they are the vanguard protecting us from the greatest abuses of big tech. I tend to agree with them - the people that tend to interact with community members are clearly passionate about their jobs and are believers in the mission. Seemingly though, they aren't always the ones calling the shots.
 
 This means that community members need to exist in large enough numbers to give privacy enthusiasts, nerds, and free software anarchists a seat at the table. That isn't going to happen with Google in charge, let alone Yahoo or Perplexity.
 
