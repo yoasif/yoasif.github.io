@@ -208,7 +208,7 @@ Why doesn't YouTube have this feature? On my TV, the native YouTube apps only al
 
 Why isn't this a feature built into YouTube?
 
-My guess is that that YouTube knows that recommending a video or channel to you is likely to influence you to watch it. YouTube wants you to watch more videos, and it knows that other people who like the kinds of videos that you like like the video it is recommending to you. You might not want to watch the video, but YouTube doesn't care - YouTube knows that if they keep recommending the video to you, you will likely watch it eventually, and then you'll probably watch more. Taking away your agency is good for YouTube, so you don't get the feature.
+My guess is that that YouTube knows that recommending a video or channel to you is likely to influence you to watch it. YouTube wants you to watch more videos, and it knows that other people who like the kinds of videos that you like *also* like the video it is recommending to you. You might not want to watch the video, but YouTube doesn't care - YouTube knows that if they keep recommending the video to you, you will likely watch it eventually, and then you'll probably watch more. Taking away your agency is good for YouTube, so you don't get the feature.
 
 Firefox users have been warning our Chromium cousins for years that the sky is falling -- erm [Google is killing uBlock Origin]({% post_url 2024-10-16-google-is-killing-uBlock-origin-no-chromium-browser-is-safe %}) - I even had a friend reach out *while writing this post* asking whether one of the Chromium browsers was a real alternative.
 
