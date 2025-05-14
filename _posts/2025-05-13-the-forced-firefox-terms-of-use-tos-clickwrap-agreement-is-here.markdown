@@ -18,12 +18,14 @@ I made a video walking through it.
 
 <p>
 <figure>
+	<a href="https://www.youtube.com/watch?v=XCWaQfh4d6E">
 	<picture>
 	  <source type="image/png" srcset="{{site.url}}/assets/images/thumbnails/ToS-video.png,
 	  								   {{site.url}}/assets/images/thumbnails/ToS-video-2x.png 2x">
 	  <img src="{{site.url}}/assets/images/thumbnails/ToS-video.png" srcset="{{site.url}}/assets/images/thumbnails/ToS-video-2x.png 2x" alt="A picture of a YouTube video"/>
 	  <figcaption>Mozilla Begins Enforcing their new Terms of Use/ToS in New Installs: First Look</figcaption>
 	</picture>
+	</a>
 </figure>
 </p>
 
