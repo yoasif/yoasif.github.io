@@ -12,9 +12,9 @@ redirect_from:
 
 When Mozilla [announced their Terms of Use a few months ago]({% post_url 2025-03-05-the-mozilla-firefox-new-terms-of-use-disaster-what-actually-happened %}), they told us that they would be [asking us to acknowledge](https://blog.mozilla.org/en/firefox/firefox-terms-of-use/) it at a later date. That day is here, and I took a quick look at it.
 
-Mozilla started enforcing their new [ToS for new users](https://bugzilla.mozilla.org/show_bug.cgi?id=1959542), starting with version 138.0.3. Enforcement for new users is likely to come at a later date.
+Mozilla started enforcing their new [ToS for new users](https://bugzilla.mozilla.org/show_bug.cgi?id=1959542), starting with version 138.0.3. Enforcement for new users is likely to come at a later date. 
 
-I made a video walking through it.
+I made a video walking through it; feel free to keep reading.
 
 <p>
 <figure>
