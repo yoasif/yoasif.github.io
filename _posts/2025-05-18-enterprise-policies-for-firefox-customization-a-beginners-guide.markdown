@@ -10,7 +10,24 @@ redirect_from:
 
 ---
 
-**TL;DR**: If you want to customize Firefox using Enterprise Polices, you can create customized policies via the handy [Enterprise Policy Generator](https://addons.mozilla.org/en-US/firefox/addon/enterprise-policy-generator/). You can also browse a [collection of policies I created](#policies), available for [download](https://github.com/yoasif/awesome-firefox-policies/).
+**TL;DR**: If you want to customize Firefox using Enterprise Polices, you can create customized policies via the handy [Enterprise Policy Generator](https://addons.mozilla.org/en-US/firefox/addon/enterprise-policy-generator/). You can also browse a [collection of policies I created](#policies), available for [download](https://github.com/yoasif/awesome-firefox-policies/).'
+
+You can also watch a video.
+
+<p>
+<figure>
+	<a href="https://www.youtube.com/watch?v=LNV23ByLKMk">
+	<picture>
+	  <source type="image/png" srcset="{{site.url}}/assets/images/thumbnails/enterprise-policies.png,
+	  								   {{site.url}}/assets/images/thumbnails/enterprise-policies-2x.png 2x">
+	  <img src="{{site.url}}/assets/images/thumbnails/ToS-video.png" srcset="{{site.url}}/assets/images/thumbnails/enterprise-policies-2x.png 2x" alt="A picture of a YouTube video"/>
+	  <figcaption>Enterprise Policies for Firefox Customization: A Beginner’s Guide to policies.json</figcaption>
+	</picture>
+	</a>
+</figure>
+</p>
+
+---
 
 {:toc}
 * toc
