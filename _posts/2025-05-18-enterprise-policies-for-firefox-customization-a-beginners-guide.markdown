@@ -25,6 +25,17 @@ That's the promise behind [user.js](https://kb.mozillazine.org/User.js_file) ove
 
 Being that Mozilla supports it, there are some niceties built into Firefox that make enterprise policies easier to troubleshoot, like the <kbd>about:policies</kbd> page, and the notification that appears in the settings page when policies are active.
 
+<p>
+	<figure>
+	<picture>
+	  <source type="image/png" srcset="{{site.url}}/assets/images/firefox/managed-firefox.png,
+	  		  {{site.url}}/assets/images/firefox/managed-firefox-2x.png 2x">
+	  <img src="{{site.url}}/assets/images/firefox/managed-firefox.png" srcset="{{site.url}}/assets/images/firefox/managed-firefox-2x.png 2x" alt="Screenshot of Firefox preferences UI cropped to a notice that the browser is being managed by your organization"/>
+	  <figcaption>Your browser is being managed by your organization - a notice in Firefox</figcaption>
+	</picture>
+</figure>
+</p>
+
 While I had planned a how-to on enterprise policies in Firefox for years, mostly as a response to `user.js` projects, I never got around to writing it up, as it is fiddlier than pointing and clicking on buttons in Firefox -- too much work for not a lot of gain. 
 
 Beyond that, it is a bit weird to want or need to *manage* your tools in the way an enterprise would - that feels almost like willingly putting on a straitjacket - why would I want to restrict myself in this way?
