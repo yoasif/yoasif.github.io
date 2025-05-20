@@ -53,7 +53,7 @@ Conveniently, while you must agree to the overall relationship you have with Moz
 
 Data collection is enabled by default, [as it has been for years]({% post_url 2025-03-12-mozilla-has-been-sharing-aggregated-firefox-data-with-advertisers-since-2017-when-it-enabled-telemetry-by-default %}).
 
-I've been working on a tutorial to help people use policies.json to manage their Firefox installs, now that this ToS clickwrap is live. 
+I've been working on a [tutorial to help people use policies.json to manage their Firefox installs]({% post_url 2025-05-18-enterprise-policies-for-firefox-customization-a-beginners-guide %}), now that this ToS clickwrap is live. 
 
 Stay tuned for that, and thanks for reading!
 
