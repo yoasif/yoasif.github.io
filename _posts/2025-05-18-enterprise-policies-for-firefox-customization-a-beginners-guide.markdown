@@ -34,13 +34,13 @@ You can also watch a video.
 
 ## Background
 
-I have posted various Firefox [setup]({% post_url 2021-07-26-firefox-privacy-stop-hardening-love-strict-etp %}) [guides]({% post_url 2022-10-01-firefox-switch-a-guide-for-beginners %}), and while I think they are easy to follow, it would be a lot simpler for you to download a file and get my preferred setup. 
+I have posted various Firefox [setup]({% post_url 2021-07-26-firefox-privacy-stop-hardening-love-strict-etp %}) [guides]({% post_url 2022-10-01-firefox-switch-a-guide-for-beginners %}), and while they are easy to follow, it would be a lot simpler for you to download a file to get my preferred setup. 
 
-That's the promise behind [user.js](https://kb.mozillazine.org/User.js_file) overrides like Arkenfox and Betterfox (I don't recommend these).
+That's the premise behind [user.js](https://kb.mozillazine.org/User.js_file) overrides like Arkenfox and Betterfox.
 
-`user.js` is *a* way to override Firefox preferences, but can be [annoying to troubleshoot](https://support.mozilla.org/en-US/kb/how-to-fix-preferences-wont-save#w_user-js-file-overriding-firefox-settings) and is not the preferred method for managing Firefox configurations centrally. For that, we can look to [enterprise policies](https://support.mozilla.org/en-US/kb/enforcing-policies-firefox-enterprise) for Firefox.
+`user.js` is a way to override Firefox preferences, but it can be [annoying to troubleshoot](https://support.mozilla.org/en-US/kb/how-to-fix-preferences-wont-save#w_user-js-file-overriding-firefox-settings) and is not the preferred method for managing Firefox configurations centrally. For that, we look to [Enterprise Policies](https://support.mozilla.org/en-US/kb/enforcing-policies-firefox-enterprise) for Firefox.
 
-Being that Mozilla supports it, there are some niceties built into Firefox that make enterprise policies easier to troubleshoot, like the <kbd>about:policies</kbd> page, and the notification that appears in the settings page when policies are active.
+Since Mozilla actively supports it, there are some niceties built into Firefox that make enterprise policies easier to troubleshoot, like the <kbd>about:policies</kbd> page, and the notification that appears in the settings page when policies are active.
 
 <p>
 	<figure>
@@ -53,17 +53,17 @@ Being that Mozilla supports it, there are some niceties built into Firefox that 
 </figure>
 </p>
 
-While I had planned a how-to on enterprise policies in Firefox for years, mostly as a response to `user.js` projects, I never got around to writing it up, as it is fiddlier than pointing and clicking on buttons in Firefox -- too much work for not a lot of gain. 
+While I had planned a tutorial on enterprise policies in Firefox for years, mostly as a response to `user.js` projects, I never got around to writing it up, as it is fiddlier than pointing and clicking on buttons in Firefox -- too much work for not a lot of gain. 
 
 Beyond that, it is a bit weird to want or need to *manage* your tools in the way an enterprise would - that feels almost like willingly putting on a straitjacket - why would I want to restrict myself in this way?
 
-For the *really* geeky among us, people curate, store and deploy their [dotfiles](https://dotfiles.github.io/) in order to preserve settings - especially complex ones -- people on a *nix shell may manage custom `.bashrc` or `.aliases` files, and Git users likely have a custom `.gitconfig` that they'd rather not recreate across installs.
+For the geeky among us, people curate, store and deploy their [dotfiles](https://dotfiles.github.io/) in order to preserve settings - especially complex ones -- people on a *nix shell may manage custom `.bashrc` or `.aliases` files, and Git users likely have a custom `.gitconfig` that they'd rather not recreate across installs.
 
 Still, that isn't something *I* as an end user had a whole lot of interest in for Firefox - I run the Nightly release channel, and I *like* playing with the new bits and bobs - my inclination isn't to "manage" Firefox, it is to explore it as a living project.
 
 Still, I wanted to post something to enable people who are currently using dodgy `user.js` files and [forks without security teams](https://blog.mozilla.org/security/2025/05/17/firefox-security-response-to-pwn2own-2025/) to use the mainline version of Firefox, just tweaked in known safe ways.
 
-I think it is of paramount importance for us to [support Firefox]({% post_url 2025-05-07-firefox-forever %}), so people suffering from subpar experiences on the web that reflect poorly on the browser (because they are using dodgy `user.js` overrides) is a problem that we should try to solve.
+I think it is really important to [support Firefox]({% post_url 2025-05-07-firefox-forever %}), so people suffering from subpar experiences on the web that reflect poorly on the browser (because they are using dodgy `user.js` overrides) is a problem that we should try to solve.
 
 If you want to manage your Firefox settings (or just want a pre-configured setup), read on. 
 
@@ -90,13 +90,13 @@ If you'd rather download a file to get an optimized setup, read on.
 
 ## My recommended policies
 
-I went through the options available in the *Enterprise Policy Generator* extension, and pored through Mozilla's documentation, along with lists of tweaks (like on [r/firefox]({% link firefox/wiki/useful-customizations.markdown %})), and ended up with three configuration personas. 
+I went through the options available in the *Enterprise Policy Generator* extension, and pored through Mozilla's documentation, along with lists of tweaks (like on [r/firefox]({% link firefox/wiki/useful-customizations.markdown %})), and ended up with three personas. 
 
-First, I wanted to create a setup for my friends and family, people who want something that works. These are people that may be using Chrome or Edge today. Firefox is already more user focused than those browsers - my setup just tweaks it a bit more. I call this one my "Home" persona. 
+1. I wanted to create a setup for my friends and family, for people who want something that *just works*. These are people that may be using Chrome or Edge today. Firefox is already more user focused than those browsers - my setup just tweaks it a bit more. This is the "Home" persona. 
 
-If that isn't geeky enough for you, and you are interested in privacy or more technical features, I created policies for an "Enthusiast" persona. This might feel similar to something like Brave.
+2. If you are interested in privacy or more technical features, I created policies for an "Enthusiast" persona. This might feel similar to something like Brave.
 
-If you are geekier still - you can instead choose my "Amnesiac" persona - this one sets up Firefox to not delete cookies on browser restart, and enables some additional privacy features. If you are interested in browsers like LibreWolf, this setup will get you most of what you want, without a lot of the downside.
+3. If you *really* into privacy, you can instead choose my "Amnesiac" persona - this one sets up Firefox to not delete cookies on browser restart, and enables some additional privacy features. If you are interested in browsers like LibreWolf, this setup will get you most of what you want, without a lot of the downside.
 
 The table below shows how the policies are setup.
 
