@@ -63,7 +63,7 @@ Still, that isn't something *I* as an end user had a whole lot of interest in fo
 
 Still, I wanted to post something to enable people who are currently using dodgy `user.js` files and [forks without security teams](https://blog.mozilla.org/security/2025/05/17/firefox-security-response-to-pwn2own-2025/) to use the mainline version of Firefox, just tweaked in known safe ways.
 
-I think it is really important to [support Firefox]({% post_url 2025-05-07-firefox-forever %}), so people suffering from subpar experiences on the web that reflect poorly on the browser (because they are using dodgy `user.js` overrides) is a problem that we should try to solve.
+I [support Firefox]({% post_url 2025-05-07-firefox-forever %}), so people suffering from subpar experiences on the web that reflect poorly on the browser (because they are using dodgy `user.js` overrides) is a problem that we should try to solve.
 
 If you want to manage your Firefox settings (or just want a pre-configured setup), read on. 
 
