@@ -78,9 +78,9 @@ If you prefer a point and click method to customize your settings, you can inste
 <p>
 	<figure>
 	<picture>
-	  <source type="image/png" srcset="{{site.url}}/assets/images/firefox/enterprise-policies.png,
-	  		  {{site.url}}/assets/images/firefox/enterprise-policies-2x.png 2x">
-	  <img src="{{site.url}}/assets/images/firefox/enterprise-policies.png" srcset="{{site.url}}/assets/images/firefox/enterprise-policies-2x.png 2x" alt="Screenshot of Enterprise Policy Generator"/>
+	  <source type="image/png" srcset="{{site.url}}/assets/images/firefox/EnterprisePolicyGenerator.png,
+	  		  {{site.url}}/assets/images/firefox/EnterprisePolicyGenerator-2x.png 2x">
+	  <img src="{{site.url}}/assets/images/firefox/EnterprisePolicyGenerator.png" srcset="{{site.url}}/assets/images/firefox/EnterprisePolicyGenerator-2x.png 2x" alt="Screenshot of Enterprise Policy Generator"/>
 	  <figcaption>Enterprise Policy Generator</figcaption>
 	</picture>
 </figure>
