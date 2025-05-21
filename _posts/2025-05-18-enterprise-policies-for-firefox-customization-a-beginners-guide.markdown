@@ -20,7 +20,7 @@ You can also watch a video.
 	<picture>
 	  <source type="image/png" srcset="{{site.url}}/assets/images/thumbnails/enterprise-policies.png,
 	  								   {{site.url}}/assets/images/thumbnails/enterprise-policies-2x.png 2x">
-	  <img src="{{site.url}}/assets/images/thumbnails/ToS-video.png" srcset="{{site.url}}/assets/images/thumbnails/enterprise-policies-2x.png 2x" alt="A picture of a YouTube video"/>
+	  <img src="{{site.url}}/assets/images/thumbnails/enterprise-policies.png" srcset="{{site.url}}/assets/images/thumbnails/enterprise-policies-2x.png 2x" alt="A picture of a YouTube video"/>
 	  <figcaption>Enterprise Policies for Firefox Customization: A Beginner’s Guide to policies.json</figcaption>
 	</picture>
 	</a>
