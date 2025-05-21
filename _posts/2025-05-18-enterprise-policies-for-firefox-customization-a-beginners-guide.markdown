@@ -12,7 +12,7 @@ redirect_from:
 
 **TL;DR**: If you want to customize Firefox using Enterprise Polices, you can create customized policies via the handy [Enterprise Policy Generator](https://addons.mozilla.org/en-US/firefox/addon/enterprise-policy-generator/). You can also browse a [collection of policies I created](#policies), available for [download](https://github.com/yoasif/awesome-firefox-policies/).
 
-You can also watch a video.
+You can also <a href="https://www.youtube.com/watch?v=LNV23ByLKMk">watch a video</a>.
 
 <p>
 <figure>
