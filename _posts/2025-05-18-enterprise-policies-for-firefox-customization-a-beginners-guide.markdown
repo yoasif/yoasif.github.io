@@ -92,11 +92,11 @@ If you'd rather download a file to get an optimized setup, read on.
 
 I went through the options available in the *Enterprise Policy Generator* extension, and pored through Mozilla's documentation, along with lists of tweaks (like on [r/firefox]({% link firefox/wiki/useful-customizations.markdown %})), and ended up with three personas. 
 
-1. I wanted to create a setup for my friends and family, for people who want something that *just works*. These are people that may be using Chrome or Edge today. Firefox is already more user focused than those browsers - my setup just tweaks it a bit more. This is the "Home" persona. 
+1. I wanted to create a setup for my friends and family, for people who want something that *just works*. These are people that may be using Chrome or Edge today. Firefox is already more user focused than those browsers - my setup just tweaks it a bit more. This is the **Home** persona. 
 
-2. If you are interested in privacy or more technical features, I created policies for an "Enthusiast" persona. This might feel similar to something like Brave.
+2. If you are interested in privacy or more technical features, I created policies for an **Enthusiast** persona. This might feel similar to something like Brave.
 
-3. If you *really* into privacy, you can instead choose my "Amnesiac" persona - this one sets up Firefox to not delete cookies on browser restart, and enables some additional privacy features. If you are interested in browsers like LibreWolf, this setup will get you most of what you want, without a lot of the downside.
+3. If you *really* into privacy, you can instead choose my **Amnesiac** persona - this one sets up Firefox to not delete cookies on browser restart, and enables some additional privacy features. If you are interested in browsers like LibreWolf, this setup will get you most of what you want, without a lot of the downside.
 
 The table below shows how the policies are setup.
 
