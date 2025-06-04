@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mozilla&rsquo;s New Terms of Use are out of step with Firefox&rsquo;s Direct Competition"
+title:  "Mozilla’s New Terms of Use are out of step with Firefox’s Direct Competition"
 date:   2025-02-26 17:42 -0500
 categories: writing
 tags: firefox
