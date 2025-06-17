@@ -27,6 +27,10 @@ I made <a href="https://www.youtube.com/watch?v=1lOLe-NagMg">a video</a> if you 
 </figure>
 </p>
 
+**Note:** I've gotten a lot of feedback on the idea that Mozilla is moving away from open source. I wrote up a small [update](#note) with some additional thoughts -- I want to be clear that while I believe the addition of Terms and feature-gating of features to Firefox are moves away from the spirit of open source, I agree with everyone who has pointed out that Firefox remains open source.
+
+Hope you enjoyed the post!
+
 ---
 
 {:toc}
@@ -268,9 +272,20 @@ Is Firefox really open source if we have to submit to data collection to access 
 
 Yes, ordinary end users can create a patch set to enable these features without needing to submit data to Mozilla - but that would clearly no longer be *Firefox*.
 
-I am not a lawyer and I don't have those answers -- I'm certainly realistic enough to believe that Mozilla could defend this practice legally, even if it seems to be against the *spirit* of open source (and the open source license Firefox is released under). 
+I'm realistic enough to believe that Mozilla can defend this practice legally, even if it seems to be against the *spirit* of open source (and the open source license Firefox is released under). 
 
 I don't think most open source users expect that the open source software they use will require data collection to use it. I think that generally, users of open source software use it to *escape* that kind of abuse from proprietary vendors. 
+
+**Note:** Since posting, this section has gotten a lot of feedback; I agree with readers that Firefox remains open source. The purpose in discussing licenses was in reference to Mozilla's own language (e.g. "although we’ve historically relied on our open source license for Firefox and public commitments to you, we are building in a much different technology landscape today") and the weirdness inherent to the fact that while the software is open source, it is locked behind data collection.
+{: #note}
+
+I think it is obvious that Mozilla's Terms of Use is now imposing new restrictions on Firefox users (not developers!) that did not exist prior to their introduction. I interpreted that as a move away from open source, while many of my loving readers see only a binary - Firefox *is* open source.
+
+Before Firefox 138, every piece of open source code was open to be tested and used by anyone using Firefox. After 138, Mozilla requires data collection to use some of that open source software in compiled form. Mozilla enforces that restriction via their Terms of Use.
+
+If you don't agree to the terms, you have to be a developer to use this software - you have to compile the open source code yourself. In doing so, you haven't compiled Firefox - only Mozilla can do that - you have compiled a fork. It was in that sense that I wrote that your fork would no longer be Firefox - and that the code - *in Firefox* was inaccessible without submitting to additional terms.
+
+I think Firefox is still open source. That doesn't change that I see the imposition of the Terms and the feature-gating behind data collection as moves away from the spirit of open source - especially in the product that Mozilla releases for download.
 
 ## The Future is Spyware
 
