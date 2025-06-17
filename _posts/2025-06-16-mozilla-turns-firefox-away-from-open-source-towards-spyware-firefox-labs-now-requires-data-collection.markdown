@@ -303,6 +303,30 @@ Most importantly, giving people access to features that aren't part of your expe
 
 The alternative is that "grim meathook" future where Mozillians become those NPCs in Mozilla's growth funnel. I don't think that opting out is enough.
 
+## Feedback
+
+I got a lot of feedback about Firefox being open source. I posted some [additional thoughts](#note)  -- I want to be clear that while I believe the addition of Terms and feature-gating of features behind telemetry are moves away from the spirit of open source, I agree with everyone who has pointed out that Firefox remains open source.
+
+### Features Aren't Actually Gated
+
+Soon after I posted, a friend asked me which features - if any - were blocked by this new gate. 
+
+I had assumed that Mozilla's public postings on Support Mozillla were accurate - that people needed to enable data collection for Labs features to function.
+
+I went ahead and played around with enabling "[Passwords in the sidebar](https://connect.mozilla.org/t5/firefox-labs/try-managing-your-passwords-right-from-the-sidebar/td-p/87890)" in Labs to try to figure out which <kbd>about:config</kbd> key might allow access to the feature. 
+
+I quickly found that setting `browser.contextual-password-manager.enabled` to **true** enabled the functionality without needing to enable data collection.
+
+That is good news!
+
+While I continue to believe that features ought not to be gated by telemetry, if there *is* an escape hatch, that is good news for people who are interested in testing the latest functionality without submitting to data collection.
+
+Mozilla hasn't given us a lot of clarity about how this is supposed to work; on the surface, this looks like an oversight, since users have access to features without enabling data collection, contrary to Mozilla's statements.
+
+If this continues to work in future releases for future Labs features, the Labs change ends up looking more like a minor roadblock -- one that will still limit usage, but likely not enough to dissuade interested enthusiasts.
+
+I don't know what this looks like in the future, but we may find Firefox users posting about the <kbd>about:config</kbd> keys and values that enable Labs features - no forking required. That is great. 👍
+
 ---
 
 {% include donate-social.html %} You can [message me](https://mastodon.social/@yoasif) or follow [this blog](https://mastodon.social/@quippdblog) on Mastodon.
