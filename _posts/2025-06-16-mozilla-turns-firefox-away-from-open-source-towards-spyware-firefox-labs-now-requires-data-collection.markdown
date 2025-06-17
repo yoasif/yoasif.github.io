@@ -36,16 +36,19 @@ I made <a href="https://www.youtube.com/watch?v=1lOLe-NagMg">a video</a> if you 
 
 It started with an innocent question -- "Anybody else notice Firefox Labs doesn't work unless you've enabled telemetry?"
 
-<p>
 <figure>
-	<picture>
-	  <source type="image/png" srcset="{{site.url}}/assets/images/firefox/labs-telemetry.png,
-	  								   {{site.url}}/assets/images/firefox/labs-telemetry-2x.png 2x">
-	  <img src="{{site.url}}/assets/images/firefox/labs-telemetry.png" srcset="{{site.url}}/assets/images/firefox/labs-telemetry-2x.png 2x" alt="A message from lastbern - Anybody else notice Firefox Labs doesn't work unless you've enabled telemetry? I don't recall that being a requirement back when they were adding AI bots"/>
-	  <figcaption>A question from lastbern on <a href="https://matrix.to/#/#reddit-firefox:mozilla.org">Firefox Social</a></figcaption>
-	</picture>
+  <picture>
+    <source 
+      type="image/png" 
+      srcset="{{site.url}}/assets/images/firefox/labs-telemetry.png,
+              {{site.url}}/assets/images/firefox/labs-telemetry-2x.png 2x">
+    <img 
+      src="{{site.url}}/assets/images/firefox/labs-telemetry.png" 
+      srcset="{{site.url}}/assets/images/firefox/labs-telemetry-2x.png 2x" 
+      alt="A screenshot showing a message from lastbern about Firefox Labs and telemetry.">
+  </picture>
+  <figcaption>A question from lastbern on <a href="https://matrix.to/#/#reddit-firefox:mozilla.org">Firefox Social</a></figcaption>
 </figure>
-</p>
 
 I hadn't noticed, but a quick mozregression later, and I found [the changes](https://hg-edge.mozilla.org/integration/autoland/pushloghtml?fromchange=2d99d5ccb64f44aa0ef76ccc293efb9d0ec16cad&tochange=e4ec27d13a503218a250593825b2395577304747) starting in Firefox 138.
 
@@ -65,31 +68,37 @@ The note says "Firefox Labs is now controlled by Nimbus, our testing platform, s
 
 I soon found [bug 1959804](https://bugzilla.mozilla.org/show_bug.cgi?id=1959804 "Disabling telemetry makes Firefox Labs go away"), where Mike Kaply reported the new behavior as a regression. Mike reported: "Based on the regressing bug, I don't think this was deliberate. *Just because Firefox Labs is tied to Nimbus doesn't mean it should be tied to telemetry.*" 
 
-<p>
 <figure>
-	<picture>
-	  <source type="image/png" srcset="{{site.url}}/assets/images/firefox/1959804-cropped.png,
-	  								   {{site.url}}/assets/images/firefox/1959804-cropped-2x.png 2x">
-	  <img src="{{site.url}}/assets/images/firefox/1959804-cropped.png" srcset="{{site.url}}/assets/images/firefox/1959804-cropped-2x.png 2x" alt="A screenshot of comment 1 on Mozilla bug 1959804"/>
-	  <figcaption>Mike Kaply's <a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1959804#c0">bug report</a></figcaption>
-	</picture>
+  <picture>
+    <source 
+      type="image/png" 
+      srcset="{{site.url}}/assets/images/firefox/1959804-cropped.png,
+              {{site.url}}/assets/images/firefox/1959804-cropped-2x.png 2x">
+    <img 
+      src="{{site.url}}/assets/images/firefox/1959804-cropped.png" 
+      srcset="{{site.url}}/assets/images/firefox/1959804-cropped-2x.png 2x" 
+      alt="A screenshot of comment 1 on Mozilla bug 1959804">
+  </picture>
+  <figcaption>Mike Kaply's <a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1959804#c0">bug report</a></figcaption>
 </figure>
-</p>
 
 Unfortunately, it wasn't a mistake; the bug report was closed within the hour as [intended](https://bugzilla.mozilla.org/show_bug.cgi?id=1959804#c2) behavior.
 
 Mozilla hasn't responded to my inquiry for clarification, but they have posted [reintroducing Labs](https://blog.mozilla.org/en/firefox/firefox-labs-fx138/), and the [Support Mozilla article](https://support.mozilla.org/en-US/kb/firefox-labs-explore-experimental-features-firefox) for Labs had been updated with this note:
 
-<p>
 <figure>
-	<picture>
-	  <source type="image/png" srcset="{{site.url}}/assets/images/firefox/labs-telemetry-sumo.png,
-	  								   {{site.url}}/assets/images/firefox/labs-telemetry-sumo-2x.png 2x">
-	  <img src="{{site.url}}/assets/images/firefox/labs-telemetry-sumo.png" srcset="{{site.url}}/assets/images/firefox/labs-telemetry-sumo-2x.png 2x" alt="A screenshot from Support Mozilla: Note: The Firefox Labs panel will be missing if telemetry has been disabled."/>
-	  <figcaption>The note on SUMO</figcaption>
-	</picture>
+  <picture>
+    <source 
+      type="image/png" 
+      srcset="{{site.url}}/assets/images/firefox/labs-telemetry-sumo.png,
+              {{site.url}}/assets/images/firefox/labs-telemetry-sumo-2x.png 2x">
+    <img 
+      src="{{site.url}}/assets/images/firefox/labs-telemetry-sumo.png" 
+      srcset="{{site.url}}/assets/images/firefox/labs-telemetry-sumo-2x.png 2x" 
+      alt="Screenshot showing Firefox Labs panel note on SUMO.">
+  </picture>
+  <figcaption>The note on SUMO</figcaption>
 </figure>
-</p>
 
 I had been [dreading news like this](https://www.zdnet.com/article/the-firefox-i-loved-is-gone-how-to-protect-your-privacy-on-it-now/) since Mozilla announced its new Terms - **Firefox is now feature-gating new features behind data collection**.
 
@@ -125,16 +134,19 @@ It's not like Firefox doesn't already have a mechanism for studying user behavio
 
 I have been a participant in a whole bunch of them.
 
-<p>
 <figure>
-	<picture>
-	  <source type="image/png" srcset="{{site.url}}/assets/images/firefox/shield-studies.png,
-	  								   {{site.url}}/assets/images/firefox/shield-studies-2x.png 2x">
-	  <img src="{{site.url}}/assets/images/firefox/shield-studies.png" srcset="{{site.url}}/assets/images/firefox/shield-studies-2x.png 2x" alt="A screenshot of my about:studies page"/>
-	  <figcaption>Active and completed Studies in Firefox</figcaption>
-	</picture>
+  <picture>
+    <source 
+      type="image/png" 
+      srcset="{{site.url}}/assets/images/firefox/shield-studies.png,
+              {{site.url}}/assets/images/firefox/shield-studies-2x.png 2x">
+    <img 
+      src="{{site.url}}/assets/images/firefox/shield-studies.png" 
+      srcset="{{site.url}}/assets/images/firefox/shield-studies-2x.png 2x" 
+      alt="A screenshot of my about:studies page">
+  </picture>
+  <figcaption>Active and completed Studies in Firefox</figcaption>
 </figure>
-</p>
 
 Mozilla [introduced studies](https://mgrimes.medium.com/shield-studies-go-faster-bet-smarter-1010ae8d8e) as "controlled A/B tests built right into Firefox" and they "allow us to compare *proposed changes* to the *default experience* in Firefox for small, representative, populations before shipping those changes to everyone."
 
