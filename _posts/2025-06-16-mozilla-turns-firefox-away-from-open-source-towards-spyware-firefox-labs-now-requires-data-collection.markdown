@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mozilla Turns Firefox Away from Open Source, Towards Spyware: Firefox Labs Now Requires Data Collection"
+title:  "Mozilla Turns Firefox Towards Spyware: Firefox Labs Now Requires Data Collection"
 date:   2025-06-16 9:28 -0500
 categories: writing
 tags: firefox
