@@ -27,7 +27,7 @@ I made <a href="https://www.youtube.com/watch?v=1lOLe-NagMg">a video</a> if you 
 </figure>
 </p>
 
-**Note:** I've gotten a lot of feedback on the idea that Mozilla is moving away from open source. I wrote up a small [update](#note) with some additional thoughts -- I want to be clear that while I believe the addition of Terms and feature-gating of features to Firefox are moves away from the spirit of open source, I agree with everyone who has pointed out that Firefox remains open source.
+**Note:** I've gotten a lot of feedback on the idea that Mozilla is moving away from open source. I wrote up a small [update](#note) with some additional thoughts -- I want to be clear that while I believe the addition of Terms and feature-gating of features behind telemetry are moves away from the spirit of open source, I agree with everyone who has pointed out that Firefox remains open source.
 
 Hope you enjoyed the post!
 
