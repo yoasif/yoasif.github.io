@@ -36,6 +36,7 @@ I made <a href="https://www.youtube.com/watch?v=1lOLe-NagMg">a video</a> if you 
 
 It started with an innocent question -- "Anybody else notice Firefox Labs doesn't work unless you've enabled telemetry?"
 
+<p>
 <figure>
   <picture>
     <source 
@@ -49,6 +50,7 @@ It started with an innocent question -- "Anybody else notice Firefox Labs doesn'
   </picture>
   <figcaption>A question from lastbern on <a href="https://matrix.to/#/#reddit-firefox:mozilla.org">Firefox Social</a></figcaption>
 </figure>
+</p>
 
 I hadn't noticed, but a quick mozregression later, and I found [the changes](https://hg-edge.mozilla.org/integration/autoland/pushloghtml?fromchange=2d99d5ccb64f44aa0ef76ccc293efb9d0ec16cad&tochange=e4ec27d13a503218a250593825b2395577304747) starting in Firefox 138.
 
@@ -68,6 +70,7 @@ The note says "Firefox Labs is now controlled by Nimbus, our testing platform, s
 
 I soon found [bug 1959804](https://bugzilla.mozilla.org/show_bug.cgi?id=1959804 "Disabling telemetry makes Firefox Labs go away"), where Mike Kaply reported the new behavior as a regression. Mike reported: "Based on the regressing bug, I don't think this was deliberate. *Just because Firefox Labs is tied to Nimbus doesn't mean it should be tied to telemetry.*" 
 
+<p>
 <figure>
   <picture>
     <source 
@@ -81,11 +84,13 @@ I soon found [bug 1959804](https://bugzilla.mozilla.org/show_bug.cgi?id=1959804 
   </picture>
   <figcaption>Mike Kaply's <a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1959804#c0">bug report</a></figcaption>
 </figure>
+</p>
 
 Unfortunately, it wasn't a mistake; the bug report was closed within the hour as [intended](https://bugzilla.mozilla.org/show_bug.cgi?id=1959804#c2) behavior.
 
 Mozilla hasn't responded to my inquiry for clarification, but they have posted [reintroducing Labs](https://blog.mozilla.org/en/firefox/firefox-labs-fx138/), and the [Support Mozilla article](https://support.mozilla.org/en-US/kb/firefox-labs-explore-experimental-features-firefox) for Labs had been updated with this note:
 
+<p>
 <figure>
   <picture>
     <source 
@@ -99,6 +104,7 @@ Mozilla hasn't responded to my inquiry for clarification, but they have posted [
   </picture>
   <figcaption>The note on SUMO</figcaption>
 </figure>
+</p>
 
 I had been [dreading news like this](https://www.zdnet.com/article/the-firefox-i-loved-is-gone-how-to-protect-your-privacy-on-it-now/) since Mozilla announced its new Terms - **Firefox is now feature-gating new features behind data collection**.
 
@@ -134,6 +140,7 @@ It's not like Firefox doesn't already have a mechanism for studying user behavio
 
 I have been a participant in a whole bunch of them.
 
+<p>
 <figure>
   <picture>
     <source 
@@ -147,6 +154,7 @@ I have been a participant in a whole bunch of them.
   </picture>
   <figcaption>Active and completed Studies in Firefox</figcaption>
 </figure>
+</p>
 
 Mozilla [introduced studies](https://mgrimes.medium.com/shield-studies-go-faster-bet-smarter-1010ae8d8e) as "controlled A/B tests built right into Firefox" and they "allow us to compare *proposed changes* to the *default experience* in Firefox for small, representative, populations before shipping those changes to everyone."
 
