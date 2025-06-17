@@ -18,9 +18,9 @@ I made <a href="https://www.youtube.com/watch?v=1lOLe-NagMg">a video</a> if you 
 <figure>
 	<a href="https://www.youtube.com/watch?v=1lOLe-NagMg">
 	<picture>
-	  <source type="image/png" srcset="{{site.url}}/assets/images/thumbnails/enterprise-policies.png,
-	  								   {{site.url}}/assets/images/thumbnails/enterprise-policies-2x.png 2x">
-	  <img src="{{site.url}}/assets/images/thumbnails/enterprise-policies.png" srcset="{{site.url}}/assets/images/thumbnails/enterprise-policies-2x.png 2x" alt="A picture of a YouTube video"/>
+	  <source type="image/png" srcset="{{site.url}}/assets/images/thumbnails/labs.png,
+	  								   {{site.url}}/assets/images/thumbnails/labs-2x.png 2x">
+	  <img src="{{site.url}}/assets/images/thumbnails/labs.png" srcset="{{site.url}}/assets/images/thumbnails/labs-2x.png 2x" alt="A picture of a YouTube video"/>
 	  <figcaption>Mozilla Backs Away from Open Source, Towards Spyware: Firefox Labs Now Requires Data Collection</figcaption>
 	</picture>
 	</a>
