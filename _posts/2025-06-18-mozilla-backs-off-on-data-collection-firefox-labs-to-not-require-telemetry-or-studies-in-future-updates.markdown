@@ -42,13 +42,13 @@ Mozilla had announced that some new Firefox features would be released via [Fire
 
 There is no mention in the post that Mozilla is moving functionality behind data collection -- that was relegated to the [Enterprise release notes for 138](https://support.mozilla.org/en-US/kb/firefox-enterprise-138-release-notes "Firefox for Enterprise 138 - Release notes").
 
-Well, it has been a few hours since I posted, and there is reason to celebrate -- Mozilla is updating Firefox Labs to let people access features without needing to enable data collection. 
+It is now a few hours since I posted, and there is reason to celebrate -- Mozilla is updating Firefox Labs to let people access features without needing to enable data collection. 
 
 ## Mozilla's Update
 
 A couple of hours after I published my last post, I heard from a Mozilla employee that they might have an interesting update for me. 
 
-A little while later, they linked [bug 1972647](https://bugzilla.mozilla.org/show_bug.cgi?id=1972647 "Enable Firefox Labs when Telemetry or Studies are Disabled") to me.
+A little while later, they pointed me to [bug 1972647](https://bugzilla.mozilla.org/show_bug.cgi?id=1972647 "Enable Firefox Labs when Telemetry or Studies are Disabled").
 
 Let's have a look!
 
