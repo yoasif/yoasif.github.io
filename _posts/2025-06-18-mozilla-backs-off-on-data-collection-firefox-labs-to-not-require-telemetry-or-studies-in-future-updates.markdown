@@ -18,10 +18,10 @@ I made <a href="https://www.youtube.com/watch?v=z-jJ-VWx5y0">a video</a> if you 
 <figure>
 	<a href="https://www.youtube.com/watch?v=z-jJ-VWx5y0">
 	<picture>
-	  <source type="image/png" srcset="{{site.url}}/assets/images/thumbnails/labs-backoff.png,
-	  								   {{site.url}}/assets/images/thumbnails/labs-backoff-2x.png 2x">
-	  <img src="{{site.url}}/assets/images/thumbnails/labs-backoff.png" srcset="{{site.url}}/assets/images/thumbnails/labs-backoff-2x.png 2x" alt="A picture of a YouTube video"/>
-	  <figcaption>Mozilla Backs off on Data Collection: Firefox Labs Won't Demand Your Data in the Future</figcaption>
+	  <source type="image/png" srcset="{{site.url}}/assets/images/thumbnails/labs-shift.png,
+	  								   {{site.url}}/assets/images/thumbnails/labs-shift-2x.png 2x">
+	  <img src="{{site.url}}/assets/images/thumbnails/labs-shift.png" srcset="{{site.url}}/assets/images/thumbnails/labs-shift-2x.png 2x" alt="A picture of a YouTube video"/>
+	  <figcaption>Mozilla Shifts on Data Collection: Firefox Labs Won't Demand Your Data in the Future</figcaption>
 	</picture>
 	</a>
 </figure>
