@@ -10,6 +10,8 @@ redirect_from:
 
 ---
 
+**TL;DR**: Mozilla is backing off from the [forced telemetry introduced in Firefox 138 for Firefox Labs]({% post_url 2025-06-16-mozilla-turns-firefox-away-from-open-source-towards-spyware-firefox-labs-now-requires-data-collection %}). Mozilla created [bug 1972647](https://bugzilla.mozilla.org/show_bug.cgi?id=1972647 "Enable Firefox Labs when Telemetry or Studies are Disabled"), which describes a change to Labs to allow it to be used when telemetry or studies are disabled.
+
 I made <a href="https://www.youtube.com/watch?v=z-jJ-VWx5y0">a video</a> if you want to watch instead.
 
 <p>
