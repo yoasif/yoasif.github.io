@@ -48,6 +48,10 @@ On the notes, Mozilla wrote:
 
 >Firefox Labs is now controlled by Nimbus, our testing platform, so disabling telemetry also disables Firefox Labs. 
 
+On Support Mozilla, [Mozilla says](https://support.mozilla.org/en-US/kb/firefox-labs-explore-experimental-features-firefox):
+
+>**Note:** To run experiments in Firefox Labs, [Studies](https://support.mozilla.org/en-US/kb/shield) and [telemetry](https://support.mozilla.org/en-US/kb/technical-and-interaction-data) must be enabled, which are the default settings. If you’ve opted out of Studies or telemetry, you won’t be able to use Firefox Labs to turn on experiments.
+
 It is now a few hours since I posted, and there is reason to celebrate -- Mozilla is updating Firefox Labs to let people access features without needing to enable data collection. 
 
 ## Mozilla's Update
