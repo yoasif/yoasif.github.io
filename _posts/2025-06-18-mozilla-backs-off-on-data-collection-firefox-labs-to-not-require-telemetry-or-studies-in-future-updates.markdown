@@ -5,7 +5,7 @@ date:   2025-06-18 3:05 -0500
 categories: writing
 tags: firefox
 external-url: 
-image: /assets/images/social-previews/firefox-labs-spyware.png
+image: /assets/images/social-previews/labs-telemetry-backoff.png
 redirect_from: 
 
 ---
@@ -14,11 +14,11 @@ I made <a href="https://www.youtube.com/watch?v=z-jJ-VWx5y0">a video</a> if you 
 
 <p>
 <figure>
-	<a href="https://www.youtube.com/watch?v=1lOLe-NagMg">
+	<a href="https://www.youtube.com/watch?v=z-jJ-VWx5y0">
 	<picture>
-	  <source type="image/png" srcset="{{site.url}}/assets/images/thumbnails/labs.png,
-	  								   {{site.url}}/assets/images/thumbnails/labs-2x.png 2x">
-	  <img src="{{site.url}}/assets/images/thumbnails/labs.png" srcset="{{site.url}}/assets/images/thumbnails/labs-2x.png 2x" alt="A picture of a YouTube video"/>
+	  <source type="image/png" srcset="{{site.url}}/assets/images/thumbnails/labs-backoff.png,
+	  								   {{site.url}}/assets/images/thumbnails/labs-backoff-2x.png 2x">
+	  <img src="{{site.url}}/assets/images/thumbnails/labs-backoff.png" srcset="{{site.url}}/assets/images/thumbnails/labs-backoff-2x.png 2x" alt="A picture of a YouTube video"/>
 	  <figcaption>Mozilla Backs off on Data Collection: Firefox Labs Won't Demand Your Data in the Future</figcaption>
 	</picture>
 	</a>
