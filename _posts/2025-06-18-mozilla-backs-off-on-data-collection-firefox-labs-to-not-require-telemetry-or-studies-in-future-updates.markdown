@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mozilla Backs off on Data Collection: Firefox Labs to Not Require Telemetry or Studies in Future Updates"
+title:  "Mozilla Clarifies on Data Collection: Firefox Labs to Not Require Telemetry or Studies in Future Updates"
 date:   2025-06-18 3:05 -0500
 categories: writing
 tags: firefox
