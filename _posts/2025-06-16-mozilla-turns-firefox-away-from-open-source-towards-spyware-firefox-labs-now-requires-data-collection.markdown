@@ -21,15 +21,17 @@ I made <a href="https://www.youtube.com/watch?v=1lOLe-NagMg">a video</a> if you 
 	  <source type="image/png" srcset="{{site.url}}/assets/images/thumbnails/labs.png,
 	  								   {{site.url}}/assets/images/thumbnails/labs-2x.png 2x">
 	  <img src="{{site.url}}/assets/images/thumbnails/labs.png" srcset="{{site.url}}/assets/images/thumbnails/labs-2x.png 2x" alt="A picture of a YouTube video"/>
-	  <figcaption>Mozilla Backs Away from Open Source, Towards Spyware: Firefox Labs Now Requires Data Collection</figcaption>
+	  <figcaption>Mozilla Turns Firefox Towards Spyware: Firefox Labs Now Requires Data Collection</figcaption>
 	</picture>
 	</a>
 </figure>
 </p>
 
-**Note:** I've gotten a lot of feedback on the idea that Mozilla is moving away from open source. I wrote up a small [update](#note) with some additional thoughts -- I want to be clear that while I believe the addition of Terms and feature-gating of features behind telemetry are moves away from the spirit of open source, I agree with everyone who has pointed out that Firefox remains open source.
+**Note:** I've gotten a lot of feedback on the idea that Mozilla is moving away from open source. I wrote up a small [update](#note) with some additional thoughts -- I want to be clear that while I believe the addition of Terms and feature-gating of features behind telemetry are moves away from the spirit of open source, I agree with everyone who has pointed out that Firefox remains open source as a factual matter.
 
 Hope you enjoyed the post!
+
+**Update**: A couple of hours after publication, [Mozilla backed off from their requirement to enable data collection to access Firefox Labs features]({% post_url 2025-06-18-mozilla-backs-off-on-data-collection-firefox-labs-to-not-require-telemetry-or-studies-in-future-updates %}). 🎉
 
 ---
 
@@ -56,7 +58,7 @@ It started with an innocent question -- "Anybody else notice Firefox Labs doesn'
 </figure>
 </p>
 
-I hadn't noticed, but a quick mozregression later, and I found [the changes](https://hg-edge.mozilla.org/integration/autoland/pushloghtml?fromchange=2d99d5ccb64f44aa0ef76ccc293efb9d0ec16cad&tochange=e4ec27d13a503218a250593825b2395577304747) starting in Firefox 138.
+I hadn't noticed, but after a quick mozregression, I found [the changes](https://hg-edge.mozilla.org/integration/autoland/pushloghtml?fromchange=2d99d5ccb64f44aa0ef76ccc293efb9d0ec16cad&tochange=e4ec27d13a503218a250593825b2395577304747) starting in Firefox 138.
 
 The change in behavior is simple -- disabling [data collection on Firefox desktop](https://support.mozilla.org/en-US/kb/technical-and-interaction-data#w_on-desktop) makes the Firefox Labs section of the Firefox Preferences UI go away.
 
@@ -64,9 +66,9 @@ Running the release version of Firefox confirmed that this is the released behav
 
 Like lastbern, I was surprised that Mozilla was now locking features behind data collection, and I went looking for communication from Mozilla announcing this change.
 
-I figured that there might be a mention in the [Firefox Nightly News blog](https://blog.nightly.mozilla.org/). Unfortunately, after looking through the last few posts, I saw no mention of this change to Labs. 
+I first looked at the [Firefox Nightly News blog](https://blog.nightly.mozilla.org/). Unfortunately, after looking through the last few posts, I saw no mention of this change to Labs. 
 
-I reached out to the SUMO chat and to Mozilla's [Press Inquiry form](https://www.mozilla.org/en-US/press/press-inquiry/) to see if I was missing something. 
+I reached out to the [SUMO chat](https://chat.mozilla.org/#/room/#SUMO:mozilla.org) and to Mozilla's [Press Inquiry form](https://www.mozilla.org/en-US/press/press-inquiry/) to see if I was missing something. 
 
 The chatroom responded that this was announced in the [Enterprise release notes for version 138](https://support.mozilla.org/en-US/kb/firefox-enterprise-138-release-notes). That is a strange place to put this note, since this isn't an "enterprise" feature, and [138 isn't an ESR release](https://whattrainisitnow.com/release/?version=esr).
 
@@ -104,7 +106,7 @@ Mozilla hasn't responded to my inquiry for clarification, but they have posted [
     <img 
       src="{{site.url}}/assets/images/firefox/labs-telemetry-sumo.png" 
       srcset="{{site.url}}/assets/images/firefox/labs-telemetry-sumo-2x.png 2x" 
-      alt="Screenshot showing Firefox Labs panel note on SUMO.">
+      alt="Screenshot from SUMO with text: Note: The Firefox Labs panel will be missing if telemetry has been disabled">
   </picture>
   <figcaption>The note on SUMO</figcaption>
 </figure>
