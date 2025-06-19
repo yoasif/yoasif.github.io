@@ -1,0 +1,81 @@
+---
+layout: post
+title:  "Mozilla Backs off on Data Collection: Firefox Labs to Not Require Telemetry or Studies in Future Updates"
+date:   2025-06-18 3:05 -0500
+categories: writing
+tags: firefox
+external-url: 
+image: /assets/images/social-previews/firefox-labs-spyware.png
+redirect_from: 
+
+---
+
+I made <a href="https://www.youtube.com/watch?v=z-jJ-VWx5y0">a video</a> if you want to watch instead.
+
+<p>
+<figure>
+	<a href="https://www.youtube.com/watch?v=1lOLe-NagMg">
+	<picture>
+	  <source type="image/png" srcset="{{site.url}}/assets/images/thumbnails/labs.png,
+	  								   {{site.url}}/assets/images/thumbnails/labs-2x.png 2x">
+	  <img src="{{site.url}}/assets/images/thumbnails/labs.png" srcset="{{site.url}}/assets/images/thumbnails/labs-2x.png 2x" alt="A picture of a YouTube video"/>
+	  <figcaption>Mozilla Backs off on Data Collection: Firefox Labs Won't Demand Your Data in the Future</figcaption>
+	</picture>
+	</a>
+</figure>
+</p>
+
+---
+
+{:toc}
+* toc
+
+## Firefox Labs and Telemetry
+
+Starting in Firefox 138, [Mozilla started gating Firefox Labs features behind data collection]({% post_url 2025-06-16-mozilla-turns-firefox-away-from-open-source-towards-spyware-firefox-labs-now-requires-data-collection %}). 
+
+In my last post, I explained that while testing builds have been a part of Firefox's open source legacy from the start, Mozilla had announced that some new Firefox features would be released via Firefox Labs.
+
+Although Mozilla published a blog post about Firefox Labs for the Firefox 138 release, they didn't mention that Firefox Labs would only be accessible if users had opted into data collection.
+
+Well, it has been a few hours since I posted, and there is reason to celebrate -- Mozilla is updating Firefox Labs to let people access features without needing to enable data collection. 
+
+## Mozilla's Update
+
+A couple of hours after I published my last post, I heard from a Mozilla employee that they might have an interesting update for me. 
+
+A little while later, they linked [bug 1972647](https://bugzilla.mozilla.org/show_bug.cgi?id=1972647 "Enable Firefox Labs when Telemetry or Studies are Disabled") to me.
+
+Let's have a look!
+
+The bug states:
+
+>In bug 1937147 we ported Firefox Labs to be powered by Nimbus, our A/B testing and feature delivery platform, which (as its configured) requires both telemetry and studies to be enabled in order to function. Nimbus was originally designed to be an A/B test platform and so it made sense at the time that if telemetry was disabled that Nimbus should be disabled because there if you need to collect data in order to do quantitative experimentation. However, as Nimbus has grown into more of a feature delivery platform, it no longer makes sense to gate everything behind having telemetry or even studies enabled. We should add a new preference toggle that enables/disables Firefox Labs and update the Nimbus logic as follows:
+>
+> 1. Telemetry disabled -> Experiments and rollouts are disabled except for Firefox Labs opt-ins (i.e., when recipe.isFirefoxLabsOptIn = true)
+> 2. Studies disabled -> Experiments and rollouts are disabled EXCEPT for Firefox Labs opt-ins (i.e., when recipe.isFirefoxLabsOptIn = true)
+> 3. Firefox Labs disabled -> Firefox Labs is disabled and experiments and rollouts work as normal
+
+This resolves the main criticism of my previous post - Mozilla will no longer lock Firefox Labs features behind data collection.
+
+Since Nimbus is now being repurposed to deliver features, not just studies, it makes sense for Nimbus to differentiate between the studies and feature delivery -- pretty much exactly what I said in my last post -- studies are *different* than new features. 
+
+We'll obviously have to wait until this is deployed, but in the mean time, the other good news is that the feature gating that Mozilla announced isn't actually operational. 
+
+## Features Aren’t Actually Gated
+
+Soon after I posted, a friend asked me which features - if any - were blocked by this new gate. I had assumed that Mozilla’s public postings on Support Mozillla were accurate - that people needed to enable data collection for Labs features to function.
+
+I went ahead and played around with enabling "[Passwords in the sidebar](https://connect.mozilla.org/t5/firefox-labs/try-managing-your-passwords-right-from-the-sidebar/td-p/87890)" in Labs to try to figure out which <kbd>about:config</kbd> key might allow access to the feature.
+
+After I enabled it, I looked at modified values in about:config to locate the preference to enable, and it is `browser.contextual-password-manager.enabled`.
+
+Once I disabled data collection (and Labs disappeared from my settings), I went to <kbd>about:config</kbd> and set `browser.contextual-password-manager.enabled` to **true**, and it worked. 
+
+This means that while we wait for Mozilla to update Labs to not require data collection, Firefox users can still get access to Labs features -- as long as they can find the <kbd>about:config</kbd> key-values that enable the features. 
+
+I'm glad that Mozilla came to the same conclusion I did - that Labs features shouldn't be locked behind data collection.
+
+---
+
+{% include donate-social.html %} You can [message me](https://mastodon.social/@yoasif) or follow [this blog](https://mastodon.social/@quippdblog) on Mastodon.
