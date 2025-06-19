@@ -44,6 +44,10 @@ Mozilla had announced that some new Firefox features would be released via [Fire
 
 There is no mention in the post that Mozilla is moving functionality behind data collection -- that was relegated to the [Enterprise release notes for 138](https://support.mozilla.org/en-US/kb/firefox-enterprise-138-release-notes "Firefox for Enterprise 138 - Release notes").
 
+On the notes, Mozilla wrote:
+
+>Firefox Labs is now controlled by Nimbus, our testing platform, so disabling telemetry also disables Firefox Labs. 
+
 It is now a few hours since I posted, and there is reason to celebrate -- Mozilla is updating Firefox Labs to let people access features without needing to enable data collection. 
 
 ## Mozilla's Update
