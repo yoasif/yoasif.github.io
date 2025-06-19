@@ -5,7 +5,7 @@ date:   2025-06-18 3:05 -0500
 categories: writing
 tags: firefox
 external-url: 
-image: /assets/images/social-previews/labs-telemetry-backoff.png
+image: /assets/images/social-previews/labs-telemetry-shift.png
 redirect_from: 
 
 ---
