@@ -34,9 +34,13 @@ I made <a href="https://www.youtube.com/watch?v=z-jJ-VWx5y0">a video</a> if you 
 
 Starting in Firefox 138, [Mozilla started gating Firefox Labs features behind data collection]({% post_url 2025-06-16-mozilla-turns-firefox-away-from-open-source-towards-spyware-firefox-labs-now-requires-data-collection %}). 
 
-In my last post, I explained that while testing builds have been a part of Firefox's open source legacy from the start, Mozilla had announced that some new Firefox features would be released via Firefox Labs.
+Mozilla had announced that some new Firefox features would be released via [Firefox Labs](https://blog.mozilla.org/en/firefox/firefox-labs-fx138/), saying:
 
-Although Mozilla published a blog post about Firefox Labs for the Firefox 138 release, they didn't mention that Firefox Labs would only be accessible if users had opted into data collection.
+>“We created Firefox Labs to get features into users’ hands earlier,” said Karen Kim, senior product manager at Mozilla. “It’s a safe space where people can turn things on, play around, and help us learn faster.”
+>
+>In the past, testing out new ideas usually meant downloading special builds like Nightly or digging into advanced settings. That’s not for everyone. Firefox Labs makes it way easier — just head to your Firefox settings, flip a switch, and try something new.
+
+There is no mention in the post that Mozilla is moving functionality behind data collection -- that was relegated to the [Enterprise release notes for 138](https://support.mozilla.org/en-US/kb/firefox-enterprise-138-release-notes "Firefox for Enterprise 138 - Release notes").
 
 Well, it has been a few hours since I posted, and there is reason to celebrate -- Mozilla is updating Firefox Labs to let people access features without needing to enable data collection. 
 
@@ -48,19 +52,35 @@ A little while later, they linked [bug 1972647](https://bugzilla.mozilla.org/sho
 
 Let's have a look!
 
+<p>
+<figure>
+  <picture>
+    <source 
+      type="image/png" 
+      srcset="{{site.url}}/assets/images/firefox/1972647.png,
+              {{site.url}}/assets/images/firefox/1972647-2x.png 2x">
+    <img 
+      src="{{site.url}}/assets/images/firefox/1972647.png" 
+      srcset="{{site.url}}/assets/images/firefox/1972647-2x.png 2x" 
+      alt="A screenshot of comment 1 on Mozilla bug 1972647">
+  </picture>
+  <figcaption><a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1972647">Bug 1972647</a></figcaption>
+</figure>
+</p>
+
 The bug states:
 
->In bug 1937147 we ported Firefox Labs to be powered by Nimbus, our A/B testing and feature delivery platform, which (as its configured) requires both telemetry and studies to be enabled in order to function. Nimbus was originally designed to be an A/B test platform and so it made sense at the time that if telemetry was disabled that Nimbus should be disabled because there if you need to collect data in order to do quantitative experimentation. However, as Nimbus has grown into more of a feature delivery platform, it no longer makes sense to gate everything behind having telemetry or even studies enabled. We should add a new preference toggle that enables/disables Firefox Labs and update the Nimbus logic as follows:
+>In [bug 1937147](https://bugzilla.mozilla.org/show_bug.cgi?id=1937147 "Migrate about:preferences#experimental to Nimbus") we ported Firefox Labs to be powered by Nimbus, our A/B testing and feature delivery platform, which (as its configured) requires both telemetry and studies to be enabled in order to function. Nimbus was originally designed to be an A/B test platform and so it made sense at the time that if telemetry was disabled that Nimbus should be disabled because there if you need to collect data in order to do quantitative experimentation. However, as Nimbus has grown into more of a feature delivery platform, it no longer makes sense to gate everything behind having telemetry or even studies enabled. We should add a new preference toggle that enables/disables Firefox Labs and update the Nimbus logic as follows:
 >
-> 1. Telemetry disabled -> Experiments and rollouts are disabled except for Firefox Labs opt-ins (i.e., when recipe.isFirefoxLabsOptIn = true)
-> 2. Studies disabled -> Experiments and rollouts are disabled EXCEPT for Firefox Labs opt-ins (i.e., when recipe.isFirefoxLabsOptIn = true)
+> 1. Telemetry disabled -> Experiments and rollouts are disabled except for Firefox Labs opt-ins (i.e., when `recipe.isFirefoxLabsOptIn = true`)
+> 2. Studies disabled -> Experiments and rollouts are disabled EXCEPT for Firefox Labs opt-ins (i.e., when `recipe.isFirefoxLabsOptIn = true`)
 > 3. Firefox Labs disabled -> Firefox Labs is disabled and experiments and rollouts work as normal
 
-This resolves the main criticism of my previous post - Mozilla will no longer lock Firefox Labs features behind data collection.
+This resolves the main criticism of my [previous post]({% post_url 2025-06-16-mozilla-turns-firefox-away-from-open-source-towards-spyware-firefox-labs-now-requires-data-collection %}) - Mozilla will no longer lock Firefox Labs features behind data collection.
 
-Since Nimbus is now being repurposed to deliver features, not just studies, it makes sense for Nimbus to differentiate between the studies and feature delivery -- pretty much exactly what I said in my last post -- studies are *different* than new features. 
+Since Nimbus is now being repurposed to deliver features, not just studies, it makes sense for Nimbus to differentiate between the studies and feature delivery -- pretty much exactly what I said in my last post. As Beth says, studies "need to collect data in order to do quantitative experimentation".
 
-We'll obviously have to wait until this is deployed, but in the mean time, the other good news is that the feature gating that Mozilla announced isn't actually operational. 
+We'll obviously have to wait until this is developed and released, but in the mean time, the other good news is that the feature gating that Mozilla announced isn't actually operational. 
 
 ## Features Aren’t Actually Gated
 
