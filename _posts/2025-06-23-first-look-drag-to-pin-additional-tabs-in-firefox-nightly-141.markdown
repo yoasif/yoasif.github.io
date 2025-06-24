@@ -51,7 +51,7 @@ Based on Paul's encouragement, I decided to take a closer look at the new featur
 
 At first, I thought I would be able to pin a tab by just dragging and dropping.
 
-Once I looked at the [bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1944907), it was clear that you had to have a pinned tab before you could pin _more_ tabs via drag and drop. 
+Once I looked at the [bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1944907), it became clear that you had to have a pinned tab before you could pin _more_ tabs via drag and drop. 
 
 That seems like an obvious feature that will get requested soon.
 
@@ -101,7 +101,7 @@ The same goes for the other way around.
 
 The placement of pinned tabs are also not coherent with the position of where you drop.
 
-No matter where you position the tab as you are dragging to pin it, the tab will be placed as the last pinned tab (I am using a left to right language for my testing) -- even if you put it in between two pinned tabs, or at the leftmost position.
+No matter where you position the tab as you are dragging to pin it, the tab will be placed as the last pinned tab (I am using a left to right language in my testing) -- even if you put it in between two pinned tabs, or at the leftmost position.
 
 When dragging to unpin a tab, the newly unpinned tab will always be the leftmost tab in the window - no matter where you dragged it to.
 
@@ -183,7 +183,7 @@ When you drag a tab from one window to another in the horizontal tab layout, a s
 
 ## Takeaways
 
-I think that Mozilla could definitely improve this in the future to allow people to pin tabs even when there isn't an existing pinned tab - but upon first look, this is an improvement and it is nice to see.
+I think that this feature could definitely be improved in the future to allow people to pin tabs even when there isn't an existing pinned tab - but upon first look, this is an improvement and it is nice to see.
 
 Beyond that, the addition of more affordances would make it more obvious what happens after a drag, and it would make the feature more usable overall.
 
