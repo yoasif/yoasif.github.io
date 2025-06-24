@@ -59,7 +59,7 @@ That seems like an obvious feature that will get requested soon.
 
 In my testing, I noticed some papercuts that could be improved. 
 
-When dragging a tab into or our out of the tab strip, the drag happens without any affordances. While the tab is animated as you drag, the tab doesn't transform to look like a pinned tab as you drag it into the drop zone. In fact, there is no indication that _anything_ is going to happen once you drop into the strip.
+When dragging a tab into or or out of the tab strip, the drag happens without any affordances. While the tab is animated as you drag, the tab doesn't transform to look like a pinned tab as you drag it into the drop zone. In fact, there is no indication that _anything_ is going to happen once you drop into the strip.
 
 The area where you are dragging the tab to doesn't shift to make room for the tab you are dragging in. You can even drag a tab directly on top of the pinned tabs and the pinned tabs won't dodge to make room for your new pin.
 
