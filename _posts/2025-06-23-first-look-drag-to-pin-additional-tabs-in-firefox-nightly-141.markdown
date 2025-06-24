@@ -99,6 +99,14 @@ The area where you are dragging the tab to doesn't shift to make room for the ta
 
 The same goes for the other way around. 
 
+The placement of pinned tabs are also not coherent with the position of where you drop.
+
+No matter where you position the tab as you are dragging to pin it, the tab will be placed as the last pinned tab (I am using a left to right language for my testing) -- even if you put it in between two pinned tabs, or at the leftmost position.
+
+When dragging to unpin a tab, the newly unpinned tab will always be the leftmost tab in the window - no matter where you dragged it to.
+
+When in the vertical tab layout, dragging to pin tabs will always create them as the last pinned tab, and unpinning them will always put them as the topmost (or first) tab in the window.
+
 <p>
 <figure>
 <video controls>
