@@ -123,7 +123,7 @@ What's the bottom line here?
 
 It is clear is that Mozilla wants to be able to unambiguously claim to regulators that people agreed to have their data sold -- they want that permission to be persistent, and they want it to be modifiable in perpetuity.
 
-That changes what Firefox has been, and [the Firefox I loved is gone](https://www.zdnet.com/article/the-firefox-i-loved-is-gone-how-to-protect-your-privacy-on-it-now/). More on why, and where we go from here, in the next post.
+That changes what Firefox has been. More on where we go from here in the next post.
 
 ---
 
