@@ -49,17 +49,17 @@ Based on Paul's encouragement, I decided to take a closer look at the new featur
 
 ## Introduction
 
-Before I read the bug, I thought I would be able to pin a tab by just dragging and dropping.
+At first, I thought I would be able to pin a tab by just dragging and dropping.
 
-Once I looked at the bug, it was clear that you had to have a pinned tab before you could pin more tabs via drag and drop. 
+Once I looked at the [bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1944907), it was clear that you had to have a pinned tab before you could pin _more_ tabs via drag and drop. 
 
-That seems like an obvious feature that will get requested down the line.
+That seems like an obvious feature that will get requested soon.
 
 ## Testing
 
 In my testing, I noticed some papercuts that could be improved. 
 
-When dragging a tab into or our out of the tab strip, the drag happens blindly. While the tab is animated as you drag, the tab doesn't transform to look like a pinned tab as you drag it into the drop zone. In fact, there is no indication that anything is going to happen once you drop into the strip. 
+When dragging a tab into or our out of the tab strip, the drag happens without any affordances. While the tab is animated as you drag, the tab doesn't transform to look like a pinned tab as you drag it into the drop zone. In fact, there is no indication that _anything_ is going to happen once you drop into the strip.
 
 The area where you are dragging the tab to doesn't shift to make room for the tab you are dragging in. You can even drag a tab directly on top of the pinned tabs and the pinned tabs won't dodge to make room for your new pin.
 
@@ -133,7 +133,9 @@ The same goes for the other way around.
 </figure>
 </p>
 
-The lack of affordance makes it look pretty much the same as tearing a tab out of a window.
+The lack of affordance makes it look pretty much the same as tearing a tab out of a window. If you try pinning a tab on release Firefox (via drag and drop), you might actually end up tearing your dragged tab out of the window. 
+
+Firefox Nightly doesn't indicate in any way that that won't happen.
 
 <p>
 <figure>
@@ -152,7 +154,7 @@ The lack of affordance makes it look pretty much the same as tearing a tab out o
 </figure>
 </p>
 
-A symbol doesn't appear - to show you where the tab will get dropped - like you get when dragging a tab from one window to another.
+When you drag a tab from one window to another in the horizontal tab layout, a symbol appears to show you where the tab will get dropped. You don't get that kind of affordance when dragging tabs into the pinned tabs area, or out of it.
 
 <p>
 <figure>
@@ -173,9 +175,9 @@ A symbol doesn't appear - to show you where the tab will get dropped - like you 
 
 ## Takeaways
 
-I think that Mozilla could definitely improve this in the future to allow people to pin tabs even when there isn't an existing pinned tab - but upon first look, this is a nice improvement and it is nice to see.
+I think that Mozilla could definitely improve this in the future to allow people to pin tabs even when there isn't an existing pinned tab - but upon first look, this is an improvement and it is nice to see.
 
-Beyond that, the addition of more affordances would make it more obvious what happens after a drag.
+Beyond that, the addition of more affordances would make it more obvious what happens after a drag, and it would make the feature more usable overall.
 
 ---
 
