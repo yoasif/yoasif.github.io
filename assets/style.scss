@@ -46,3 +46,9 @@ kbd {
 .prose blockquote p { font-size: 18px; font-style: normal; }
 
 #breadcrumbs {margin-bottom: 1em;}
+
+video {
+  /* override other styles to make responsive */
+  width: 100%    !important;
+  height: auto   !important;
+}
