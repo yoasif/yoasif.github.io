@@ -49,6 +49,6 @@ kbd {
 
 video {
   /* override other styles to make responsive */
-  width: 100%    !important;
+  max-width: 100%;
   height: auto   !important;
 }
