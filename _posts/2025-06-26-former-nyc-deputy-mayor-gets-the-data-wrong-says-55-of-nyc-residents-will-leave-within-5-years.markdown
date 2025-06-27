@@ -103,7 +103,7 @@ The survey is called "[Straight from New Yorkers 2025](https://cbcny.org/researc
 
 Let's skip on down to the section we're interested in.
 
-[Majority of New Yorkers say they will stay in NYC the next 5 years, but still lower than 2017](https://cbcny.org/research/straight-new-yorkers-2025)
+[Majority of New Yorkers say they will stay in NYC the next 5 years, but still lower than 2017](https://cbcny.org/research/straight-new-yorkers-2025#migration)
 
 Remember that the former deputy mayor said that 55% of New Yorkers won't be here in 5 years.
 
