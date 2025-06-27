@@ -12,7 +12,7 @@ redirect_from:
 
 **TL;DR**: Ed Skyler, Citi head of enterprise services and public affairs and former deputy mayor in the Bloomberg administration joined 'Squawk Box' to [discuss the results](https://www.youtube.com/watch?v=qw-TNP_2X3k) from New York City's Democratic mayoral primary.
 
-Towards the end of his appearance, Skyler claimed that 55% of NYC was planning on leaving within 5 years. He said this to bolster his argument that NYC residents are leaving due to high taxes (among other reasons). 
+Towards the [end](https://youtu.be/qw-TNP_2X3k?si=2v3V5xcLL88PvuP6&t=446) of his appearance, Skyler claimed that 55% of NYC was planning on leaving within 5 years. He said this to bolster his argument that NYC residents are leaving due to high taxes (among other reasons). 
 
 The [survey he references](https://cbcny.org/research/straight-new-yorkers-2025#migration) says the opposite of what he claimed, however, with 19% of people planning to leave NYC within the next 5 years.
 
