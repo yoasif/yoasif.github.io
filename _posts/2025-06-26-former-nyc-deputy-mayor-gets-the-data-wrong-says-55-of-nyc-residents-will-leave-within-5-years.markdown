@@ -14,7 +14,7 @@ redirect_from:
 
 Towards the end of his appearance, Skyler claimed that 55% of NYC was planning on leaving within 5 years. He said this to bolster his argument that NYC residents are leaving due to high taxes (among other reasons). 
 
-The [survey he references](https://cbcny.org/research/straight-new-yorkers-2025) says the opposite of what he claimed, however, with 19% of people planning to leave NYC within the next 5 years.
+The [survey he references](https://cbcny.org/research/straight-new-yorkers-2025#migration) says the opposite of what he claimed, however, with 19% of people planning to leave NYC within the next 5 years.
 
 I made <a href="https://www.youtube.com/watch?v=Az6godiB0TE">a video</a> if you want to watch instead.
 
