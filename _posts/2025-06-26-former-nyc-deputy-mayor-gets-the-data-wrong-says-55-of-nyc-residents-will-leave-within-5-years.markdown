@@ -152,6 +152,22 @@ Zohran Mamdani's signature appeal in the primary election was a focus on afforda
 His [campaign website](https://www.zohranfornyc.com/) says: "Zohran Mamdani
 is running for Mayor to lower the cost of living for working class New Yorkers."
 
+<p>
+<figure>
+  <picture>
+    <source 
+      type="image/png" 
+      srcset="{{site.url}}/assets/images/politics/zohran-website.png,
+              {{site.url}}/assets/images/politics/zohran-website-2x.png 2x">
+    <img 
+      src="{{site.url}}/assets/images/politics/zohran-website.png" 
+      srcset="{{site.url}}/assets/images/politics/zohran-website-2x.png 2x" 
+      alt="A screenshot Zohran Mamdani's campaign website">
+  </picture>
+  <figcaption>Zohran Mamdani's campaign website</figcaption>
+</figure>
+</p>
+
 Unfortunately, over the next couple of months we're going to see an uptick in the amount of misinformation being spread about this election - because we know that it works. 
 
 I hope that New Yorkers question the information they are receiving, because not everyone is interested in checking the information they are passing along. Sometimes, people are pushing a message that is based on half remembered statistics that say the opposite of what they thought. 
