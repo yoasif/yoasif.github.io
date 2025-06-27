@@ -20,7 +20,7 @@ I made <a href="https://www.youtube.com/watch?v=Az6godiB0TE">a video</a> if you 
 
 <p>
 <figure>
-	<a href="https://www.youtube.com/watch?v=Az6godiB0TE">
+	<a href="https://www.youtube.com/watch?v=WQkIgze3hi8">
 	<picture>
 	  <source type="image/png" srcset="{{site.url}}/assets/images/thumbnails/deputy-mayor.png,
 	  								   {{site.url}}/assets/images/thumbnails/deputy-mayor-2x.png 2x">
