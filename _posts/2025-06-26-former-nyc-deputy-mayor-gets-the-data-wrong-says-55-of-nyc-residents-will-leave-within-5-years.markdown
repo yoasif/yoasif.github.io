@@ -16,7 +16,7 @@ Towards the end of his appearance, Skyler claimed that 55% of NYC was planning o
 
 The [survey he references](https://cbcny.org/research/straight-new-yorkers-2025#migration) says the opposite of what he claimed, however, with 19% of people planning to leave NYC within the next 5 years.
 
-I made <a href="https://www.youtube.com/watch?v=Az6godiB0TE">a video</a> if you want to watch instead.
+I made <a href="https://www.youtube.com/watch?v=WQkIgze3hi8">a video</a> if you want to watch instead.
 
 <p>
 <figure>
