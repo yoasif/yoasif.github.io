@@ -58,7 +58,7 @@ Mozilla talked about this a few times on the call, and yeah... there is not goin
 
 Mozilla weirdly says the reason for this is that it serves as a "safety net".
 
-Personally, I don't quite understand the safety net that doesn't provide safety. This sounds a bit like jumping out of a plane without checking your parachute first. Sure, it might be fine, but are you going to risk your life to that? 
+Personally, I don't quite understand the safety net that doesn't provide safety. This sounds a bit like jumping out of a plane without checking your parachute first. Sure, it might be fine, but are you going to risk your data to that? I guess non-American Firefox users are about to find out.
 
 ### Bonus Takeaway
 
