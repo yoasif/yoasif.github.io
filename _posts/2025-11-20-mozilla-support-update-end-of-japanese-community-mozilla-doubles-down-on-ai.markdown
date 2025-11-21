@@ -5,7 +5,7 @@ date:   2025-11-20 09:24 -0500
 categories: writing
 tags: firefox
 external-url: 
-image: /assets/images/social-previews/deputy-mayor.png
+image: /assets/images/social-previews/mozilla-ai.png
 redirect_from:
 
 ---
