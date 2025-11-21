@@ -10,9 +10,11 @@ redirect_from:
 
 ---
 
-**TL;DR**: On the [November 2025 Mozilla Support Community call](https://support.mozilla.org/en-US/forums/contributors/717462), Mozilla provided updates on the recent controversy from the Japanese Support Mozilla community quitting over AI. During the call, Mozilla doubled down on AI, confirming that volunteers would be unable to disable AI translations across the entire Mozilla knowledge-base, with the American English version of articles serving as the blessed, canonical version. Locale specific contributions will be overwritten (by design) by AI.
+**TL;DR**: On the [November 2025 Mozilla Support Community call](https://support.mozilla.org/en-US/forums/contributors/717462), Mozilla provided updates on the recent controversy from the Japanese Support Mozilla community quitting over AI, calling it a "miscommunication" and "misinterpretation".
 
-Mozilla also notes that AI cannot be disabled. This means that without human intervention, Mozilla intends to roll out automated AI slop across the entire knowledge-base, especially for archival content.
+During the call, Mozilla also doubled down on AI, confirming that volunteers would be unable to disable AI translations across the entire Mozilla knowledge-base, with the American English version of articles serving as the blessed, canonical version. Locale specific contributions will be overwritten (by design) by AI.
+
+This means that without human intervention, Mozilla intends to roll out automated AI slop across the entire knowledge-base, especially for archival content.
 
 I made <a href="https://youtu.be/m4Iwksydr5o">a video</a> if you want to watch instead.
 
