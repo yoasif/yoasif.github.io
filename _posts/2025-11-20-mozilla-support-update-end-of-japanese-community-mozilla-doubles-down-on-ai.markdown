@@ -40,7 +40,7 @@ This was due to the introduction of automated AI translations to Mozilla local c
 
 The entire post by the locale leader, marsf is worth reading, and they raised a number of issues in it.
 
-Mozilla's official response to the team rage quitting is that it is all a big miscommunication and that they continue to be in communication. It is ironic to me that since introducing AI translations, Mozilla is unable to communicate with volunteers that have been trusted to be Mozilla's international voice for over 20 years.
+Mozilla's official response to the team rage quitting is that it is all a [big miscommunication](https://www.youtube.com/watch?v=m4Iwksydr5o&t=48s) and that they continue to be in communication. It is ironic to me that since introducing AI translations, Mozilla is unable to communicate with volunteers that have been trusted to be Mozilla's international voice for over 20 years.
 
 From my perspective, it doesn't look like miscommunication at all. 
 
@@ -65,7 +65,7 @@ One of the first comments in the SUMO chat following the call from people who ha
 </figure>
 </p>
 
-Mozilla talked about this a few times on the call, and yeah... there is not going to be any way to disable AI translation anywhere on the SUMO knowledgebase. 
+Mozilla talked about this a few times on the call, and yeah... there is [not going to be any way to disable AI translation](https://www.youtube.com/watch?v=m4Iwksydr5o&t=237s) anywhere on the SUMO knowledgebase. 
 
 Mozilla weirdly says the reason for this is that it serves as a "safety net".
 
