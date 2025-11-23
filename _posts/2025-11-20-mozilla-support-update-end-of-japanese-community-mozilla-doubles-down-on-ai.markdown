@@ -40,6 +40,17 @@ This was due to the introduction of automated AI translations to Mozilla local c
 
 The entire post by the locale leader, marsf is worth reading, and they raised a number of issues in it.
 
+<p>
+<figure>
+	<picture>
+	  <source type="image/png" srcset="{{site.url}}/assets/images/sumo/end-of-japanese-community.png,
+	  								   {{site.url}}/assets/images/sumo/end-of-japanese-community-2x.png 2x">
+	  <img src="{{site.url}}/assets/images/sumo/end-of-japanese-community.png" srcset="{{site.url}}/assets/images/sumo/end-of-japanese-community-2x.png 2x" alt="Screenshot of a post by marsf, locale leader of the Japanese SUMO community, where they quit"/>
+	  <figcaption>marsf's post announcing their departure</figcaption>
+	</picture>
+</figure>
+</p>
+
 Mozilla's official response to the team rage quitting is that it is all a [big miscommunication](https://www.youtube.com/watch?v=m4Iwksydr5o&t=48s) and that they continue to be in communication. It is ironic to me that since introducing AI translations, Mozilla is unable to communicate with volunteers that have been trusted to be Mozilla's international voice for over 20 years.
 
 From my perspective, it doesn't look like miscommunication at all. 
@@ -57,9 +68,11 @@ marsf noted that 300 [slop](https://en.wikipedia.org/wiki/AI_slop) articles have
 One of the first comments in the SUMO chat following the call from people who hadn't watched it was [whether it would be possible for specific locales to disable AI translation](https://matrix.to/#/!LxGoPWpREgbnMiZrmI:mozilla.org/$6Ib4nR2h51N_9J-6aw1a6PTh20E9_MdA6-wdyyyEmOg?via=mozilla.org&via=matrix.org&via=t2bot.io). 
 
 <p>
-	<figure>
+<figure>
 	<picture>
-	  <img src="{{site.url}}/assets/images/sumo/sumo-chat-nov-2025-2x.png" alt="Screenshot of the Support Mozilla (SUMO) chat on Matrix, showing a user asking if MT can be translated if a locale prefers it to be disabled" id="screenshot" />
+	  <source type="image/png" srcset="{{site.url}}/assets/images/sumo/sumo-chat-nov-2025.png,
+	  								   {{site.url}}/assets/images/sumo/sumo-chat-nov-2025-2x.png 2x">
+	  <img src="{{site.url}}/assets/images/sumo/sumo-chat-nov-2025.png" srcset="{{site.url}}/assets/images/sumo/sumo-chat-nov-2025-2x.png 2x" alt="Screenshot of the Support Mozilla (SUMO) chat on Matrix, showing a user asking if MT can be translated if a locale prefers it to be disabled"/>
 	  <figcaption>SUMO chat after the community call</figcaption>
 	</picture>
 </figure>
