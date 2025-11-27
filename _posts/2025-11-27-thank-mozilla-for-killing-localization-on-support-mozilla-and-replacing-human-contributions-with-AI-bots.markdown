@@ -10,7 +10,7 @@ redirect_from:
 
 ---
 
-**TL;DR**: Mozilla is killing localization on Support Mozilla, overwriting articles written by humans with machine generated translations. Although Mozilla knows that their AI doesn't localize or adhere to style guides, Mozilla is going live with it anyway. I thank locale leaders and localizers. Locale leaders seem to be obviated by AI, and Mozilla has nothing to say about it.
+**TL;DR**: Mozilla is killing localization on Support Mozilla, overwriting articles written by humans with machine generated translations. Although Mozilla knows that their AI doesn't localize or adhere to style guides, Mozilla is going live with it anyway. I thank locale leaders and localizers for their tireless efforts. Locale leaders seem to be obviated by AI, and Mozilla has nothing to say about it.
 
 I made <a href="https://youtu.be/m4Iwksydr5o">a video</a> if you want to watch instead.
 
@@ -24,7 +24,7 @@ I made <a href="https://youtu.be/m4Iwksydr5o">a video</a> if you want to watch i
 
 My post about the deeper implications of what Mozilla is doing to the Support Mozilla community is coming, but I figured over the Thanksgiving holiday that I could focus on giving thanks.
 
-While the the title of this post is a bit tongue in cheek, I realized that many people weren't even aware of what was going on. [Support Mozilla](https://support.mozilla.org) isn't Firefox, and if you aren't aware of developments in AI or communities you might not be clear how it all affects you, a Firefox user.
+While the the title of this post is a bit tongue in cheek, I realized that some people weren't even aware of what was going on. [Support Mozilla](https://support.mozilla.org) isn't Firefox, and if you aren't aware of developments in AI or communities you might not be clear how it all affects you, a Firefox user.
 
 Support Mozilla is Mozilla's helpdesk and knowledgebase.
 
@@ -32,7 +32,7 @@ This is where you can get help for Mozilla products like Firefox and Thunderbird
 
 The helpdesk and knowledgebase are all [volunteer driven](https://support.mozilla.org/en-US/contribute), and people spend hours of their time helping other people use and troubleshoot Mozilla products.
 
-Mozilla isn't shy about asking for people's help on the Support Mozilla website -  they literally say "save the world from the comfort of your couch".
+Mozilla isn't shy about asking for people's help on the Support Mozilla website -  their website says "save the world from the comfort of your couch".
 
 Contributors can answer support questions, write help articles, and they can also localize support content.
 
@@ -81,7 +81,7 @@ This is all work that Mozilla is throwing away in its move to machine translatio
 
 It is easy to see why marsf if angry and in pain. As a locale leader, marsf maintained the Japanese style guide. As a contributor for over 20 years, marsf likely had a hand in nearly every article on the locale. 
 
-Those were the articles that were overwritten by Mozilla and it's machine translation bot, sumobot. The overwritten articles represented years of effort - a real labor of love, given that volunteers are not getting paid. 
+Those were the articles that were overwritten by Mozilla and it's machine translation bot, sumobot. The overwritten articles represented years of effort - a real labor of love, given that volunteers are unpaid. 
 
 Without discussion, without communication, without testing, untold years of human effort were overwritten by a machine with no love in its heart. 
 
@@ -93,7 +93,10 @@ Thank you for the over 20 years as a Mozillian. Thank you for helping Mozilla cr
 
 Some commenters said that none of this really mattered. Machine translations are good now, it's not like we're really missing anything.
 
-I got a really great comment on YouTube from pandakekok9 that really dispels that notion. They pointed that Mozilla shouldn't be calling what sumobot is doing "localization" if what it is doing is translation. 
+I got a great [comment](https://www.youtube.com/watch?v=m4Iwksydr5o&lc=UgwOsX2Q7mViyIWzkap4AaABAg) on YouTube from pandakekok9 that dispels that notion. They pointed that Mozilla shouldn't be calling what sumobot is doing "localization" if what it is doing is translation.
+
+>If that was the intent Mozilla, maybe don't call what you're doing "localization" then and just call it literal translation? A crucial difference between localization and translation is that former DOES add and change stuff that would not be found or recognizable in the original. As much as localization gets flak recently from Western fans of anime there are instances where localization works better than simply translating. Watch an episode of Keroro Gunsou / Sgt. Frog in English dub first, then the original Japanese dub with English subtitles. Each version has their own jokes and references that their intended audience get!
+
 
 Localise.com says the [difference between translation and localization](https://lokalise.com/blog/translation-and-localization-difference/) is:
 
@@ -103,9 +106,9 @@ Localise.com says the [difference between translation and localization](https://
 
 Before Mozilla introduced machine translations to SUMO, locale contributors were referencing their style guides to localize content.
 
-Here's the one for Japan: https://mozilla-l10n.github.io/styleguides/ja/index.html
+Here's the one for [Japan](https://mozilla-l10n.github.io/styleguides/ja/index.html).
 
-I know a lot of people think that machine translation is good now -- we even have it in Firefox as a feature. Machine translation can be good -- but is it better than a human that is goings through reviews and working with a style guide?
+You might think machine translation is good now -- we even have it in Firefox as a feature. Machine translation can be good -- but is it better than a human that that lives in the locale and is consulting a style guide?
 
 What Mozilla is telling us is that yes actually, the bots are better than a human. 
 
@@ -115,13 +118,13 @@ Mozilla gave [linuxiac a statement](https://linuxiac.com/ai-controversy-forces-e
 
 Mozilla says that the point of machine translations is to fill in the gaps, and that humans continue to review and approve translations. 
 
-But marsf is telling us that the bot isn't filling in the gaps, it is overwriting stuff written by humans. Humans don't need to approve the bot, the bot approves itself. 
+But marsf is telling us otherwise: the bot isn't filling in the gaps, it is overwriting stuff written by humans. Humans don't need to approve the bot, the bot approves itself. 
 
-Mozilla knew at the time that the bot doesn't understand the style guides across various locales. Months later, marsf pointed out the same fact in his quit note.
+Mozilla knew when introducing Machine Translation that the bot doesn't understand the style guides across various locales. Months later, marsf pointed out the same fact in their quit note.
 
 A contributor on the call pointed out that in Dutch, there may be two words for a button, and that Firefox may use one - the localization community on SUMO would obviously always use the correct one. That is just one example, and yet -- one not handled by the machine translation.
 
-In the call introducing machine translations, Mozilla said that they realize that AI makes mistakes and that they don't want to force this onto the community. 
+In the community call introducing machine translations, Mozilla said that they realize that AI makes mistakes and that they don't want to force this onto the community. 
 
 Months later, when marsf pointed out that human contributions were being overwritten, Mozilla staff instead explained that it is logical for machines to overwrite human contributions.
 
