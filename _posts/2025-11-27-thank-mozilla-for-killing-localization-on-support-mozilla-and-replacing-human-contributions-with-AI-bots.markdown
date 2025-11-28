@@ -83,7 +83,7 @@ Let's take a look at the kinds of things you do as a locale leader:
     * Approving good revisions and encouraging Editors to continue their great work
     * Rejecting revisions that can be improved, and letting their authors know what and why could be better 
 
-You can see that locale leaders do a lot of work to create community around localization. 
+You can see that locale leaders do a lot of work to build community around localization. 
 
 This is all work that Mozilla is throwing away in its move to machine translation.
 
@@ -95,13 +95,13 @@ Without discussion, without communication, without testing, untold years of huma
 
 It is obvious that locale leaders are unable to foster a culture to train new contributors in process and style if AI is providing machine translations. 
 
-At this point, I want to thank marsf. 
+We need to thank marsf. 
 
-Thank you for the over 20 years as a Mozillian. Thank you for helping Mozilla create culture. Thank you for helping millions of Japanese Mozilla fans. Thank you for caring. 
+Thank you for the over 20 years as a Mozillian. Thank you for helping Mozilla build culture. Thank you for helping millions of Japanese Mozilla fans. Thank you for caring. 
 
-Some commenters said that none of this really mattered. Machine translations are good now, it's not like we're really missing anything.
+Some commenters say that none of this really matters. Machine translations are good now, it's not like we're really missing anything.
 
-I got a great [comment](https://www.youtube.com/watch?v=m4Iwksydr5o&lc=UgwOsX2Q7mViyIWzkap4AaABAg) on YouTube from pandakekok9 that dispels that notion. They said that Mozilla shouldn't be calling what sumobot is doing "localization" if what it is doing is translation.
+I got a great [comment](https://www.youtube.com/watch?v=m4Iwksydr5o&lc=UgwOsX2Q7mViyIWzkap4AaABAg) on YouTube from pandakekok9 that dispels that notion. They say that Mozilla shouldn't be calling what sumobot is doing "localization" if what it is doing is translation:
 
 >If that was the intent Mozilla, maybe don't call what you're doing "localization" then and just call it literal translation? A crucial difference between localization and translation is that former DOES add and change stuff that would not be found or recognizable in the original. As much as localization gets flak recently from Western fans of anime there are instances where localization works better than simply translating. Watch an episode of Keroro Gunsou / Sgt. Frog in English dub first, then the original Japanese dub with English subtitles. Each version has their own jokes and references that their intended audience get!
 
@@ -113,7 +113,7 @@ Localise.com says the [difference between translation and localization](https://
 
 Before Mozilla introduced machine translations to SUMO, locale contributors were referencing their style guides to localize content, like the [Japanese](https://mozilla-l10n.github.io/styleguides/ja/index.html) one.
 
-You might think machine translation is good now -- we even have it in Firefox as a feature. Machine translation can be good -- but is it better than a human that that lives in the locale and is consulting the style guide?
+You might think machine translation is good now -- we even have it in Firefox as a feature. Sure, it *can* be good -- but is it better than a human that has lived in the locale and is consulting the style guide?
 
 What Mozilla is telling us is that yes actually, the bots are better than a human. 
 
@@ -123,7 +123,7 @@ Mozilla gave [linuxiac a statement](https://linuxiac.com/ai-controversy-forces-e
 
 Mozilla [says](https://youtu.be/R0s3WPU0WD0?si=XvoDf-HYR7Bz4Ybf&t=311) that the point of machine translations is to fill in the gaps, and that humans continue to review and approve translations. 
 
-But marsf is telling us otherwise: the bot isn't filling in the gaps, it is overwriting stuff written by humans. Humans don't need to approve the bot, the bot approves itself. 
+But marsf is telling us otherwise: the bot isn't filling in the gaps, it is overwriting articles written by humans. Humans don't need to approve the bot, the bot approves itself. 
 
 Mozilla knew when introducing machine translations that [the bot doesn't understand the style guides](https://youtu.be/R0s3WPU0WD0?si=-oOgSX-ch3aZaU9E&t=417) across various locales. Months later, marsf pointed out the same fact in their quit note.
 
