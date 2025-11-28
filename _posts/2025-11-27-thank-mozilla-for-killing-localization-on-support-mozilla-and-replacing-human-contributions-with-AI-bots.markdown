@@ -50,7 +50,7 @@ Mozilla is pretty complimentary towards their localizers, calling them "[heroic]
 	  <img src="{{site.url}}/assets/images/sumo/heroic.png" alt="Screenshot of the Mozilla Contribution Localization page"/>
 </p>
 
-## The Japanese Locale Leader Resigns
+## Japanese Locale Leader Resigns
 
 On November 4, the locale leader of the Japanese Support community on SUMO [very publicly resigned](https://support.mozilla.org/en-US/forums/contributors/717446).
 
@@ -71,11 +71,11 @@ marsf has been contributing to Mozilla for over 20 years, even before Support Mo
 
 They were a [locale leader](https://support.mozilla.org/en-US/kb/how-be-sumo-locale-leader), someone who coordinates localization efforts for a locale. 
 
-Mozilla enabled machine translation on October 22 on the Japanese locale. marsf quit on November 4. It took less than two weeks to scare away someone who had spent 20 years contributing to the Mozilla mission. 
+Mozilla enabled machine translation on the Japanese locale on October 22. marsf quit on November 4. It took less than two weeks to scare away someone who had spent 20 years contributing to the Mozilla mission. 
 
 ### Locale Leaders
 
-Prior to the introduction of machine translation, locale leaders were a core part of the localization process. 
+Prior to the introduction of machine translation, [locale leaders](https://support.mozilla.org/en-US/kb/how-be-sumo-locale-leader) were a core part of the localization process. 
 
 On Mozilla's knowledgebase article for localization contributions, the [documented process is to send a locale leader a private message](https://support.mozilla.org/en-US/kb/how-contribute-article-localization) to get started. 
 
