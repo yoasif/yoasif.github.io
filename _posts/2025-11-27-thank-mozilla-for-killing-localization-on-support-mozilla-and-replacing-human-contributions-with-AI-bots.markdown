@@ -137,7 +137,7 @@ But marsf is telling us otherwise: the bot isn't filling in the gaps, it is over
 
 Mozilla knew when introducing machine translations that [the bot doesn't understand the style guides](https://youtu.be/R0s3WPU0WD0?si=-oOgSX-ch3aZaU9E&t=417) across various locales. Months later, marsf pointed out the same fact in their quit note.
 
-A contributor on the call pointed out that in Dutch, there may be multiple possible words for a button's label, but Firefox uses specific labels. In those cases, the [localization community on SUMO would always use the language used in Firefox](https://youtu.be/R0s3WPU0WD0?si=PkBr-Amsgwcpywyk&t=455) - not an alternative word. That is just one example of localization not handled by Mozilla's machine translation.
+A contributor on the call pointed out that in Dutch, there may be multiple possible words for a button's label, but Firefox will use a specific one. In those cases, the [localization community on SUMO would always use the language used in Firefox](https://youtu.be/R0s3WPU0WD0?si=PkBr-Amsgwcpywyk&t=455) - not an alternative word. That is just one example of localization not handled by Mozilla's machine translation.
 
 In the community call [introducing machine translations](https://support.mozilla.org/en-US/forums/contributors/717385), Mozilla said that they realize that [AI makes mistakes and that they don't want to force this onto the community](https://youtu.be/R0s3WPU0WD0?si=6P7fKUmJkvzM4m5o&t=554).
 
