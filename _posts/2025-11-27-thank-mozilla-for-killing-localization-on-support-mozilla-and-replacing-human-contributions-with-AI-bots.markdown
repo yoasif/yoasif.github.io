@@ -24,7 +24,7 @@ I made <a href="https://www.youtube.com/watch?v=R0s3WPU0WD0">a video</a> if you 
 
 My post about the deeper implications of what Mozilla is doing to the Support Mozilla community is coming, but I figured over the Thanksgiving holiday that I could focus on giving thanks.
 
-While the the title of this post is a bit tongue in cheek, I realized that some people weren't even aware of what was going on. [Support Mozilla](https://support.mozilla.org) isn't Firefox, and if you aren't aware of developments in AI or communities you might not be clear how it all affects you, a Firefox user.
+While the title of this post is a bit tongue in cheek, I realized that some people weren't even aware of what was going on. [Support Mozilla](https://support.mozilla.org) isn't Firefox, and if you aren't aware of developments in AI or communities you might not be clear how it all affects you, a Firefox user.
 
 Support Mozilla is Mozilla's helpdesk and knowledgebase.
 
