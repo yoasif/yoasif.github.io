@@ -167,7 +167,7 @@ More miscommunication, I guess.
 
 On this Thanksgiving day, let us give thanks to marsf and to all the other contributors on SUMO whose contributions are being unceremoniously overwritten by a bot that has no connection to the locale it is slopping about. 
 
-Long live Mozilla!
+[Long live Mozilla]({% post_url 2025-05-07-firefox-forever %})!
 
 ---
 
