@@ -53,6 +53,9 @@ The entire post by the locale leader, marsf is worth reading, and they raised a 
 
 Mozilla's official response to the team rage quitting is that it is all a [big miscommunication](https://www.youtube.com/watch?v=m4Iwksydr5o&t=48s) and that they continue to be in communication. It is ironic to me that since introducing AI translations, Mozilla is unable to communicate with volunteers that have been trusted to be Mozilla's international voice for over 20 years.
 
+<p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m4Iwksydr5o?si=vC9FBi2hrIgS3K7R&start=48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+
 From my perspective, it doesn't look like miscommunication at all. 
 
 On the call, Mozilla doubled down on many of the issues raised by the Japanese community.
@@ -79,6 +82,9 @@ One of the first comments in the SUMO chat following the call from people who ha
 </p>
 
 Mozilla talked about this a few times on the call, and yeah... there is [not going to be any way to disable AI translation](https://www.youtube.com/watch?v=m4Iwksydr5o&t=237s) anywhere on the SUMO knowledgebase. 
+
+<p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m4Iwksydr5o?si=vC9FBi2hrIgS3K7R&start=237" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
 
 Mozilla weirdly says the reason for this is that it serves as a "safety net".
 
