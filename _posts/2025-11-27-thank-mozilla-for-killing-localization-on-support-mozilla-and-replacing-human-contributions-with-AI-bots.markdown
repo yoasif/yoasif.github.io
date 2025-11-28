@@ -129,7 +129,7 @@ Mozilla knew when introducing Machine Translation that [the bot doesn't understa
 
 A contributor on the call pointed out that in Dutch, there may be two words for a button, and that Firefox may use one - [the localization community on SUMO would obviously always use the correct one](https://youtu.be/R0s3WPU0WD0?si=PkBr-Amsgwcpywyk&t=455). That is just one example, and yet -- one not handled by the machine translation.
 
-In the community call introducing machine translations, Mozilla said that they realize that [AI makes mistakes and that they don't want to force this onto the community](https://youtu.be/R0s3WPU0WD0?si=6P7fKUmJkvzM4m5o&t=554). 
+In the community call [introducing machine translations](https://support.mozilla.org/en-US/forums/contributors/717385), Mozilla said that they realize that [AI makes mistakes and that they don't want to force this onto the community](https://youtu.be/R0s3WPU0WD0?si=6P7fKUmJkvzM4m5o&t=554). 
 
 Months later, when marsf pointed out that human contributions were being overwritten, Mozilla staff instead explained that [it is logical for machines to overwrite human contributions](https://youtu.be/R0s3WPU0WD0?si=4tggEUmni_nU9Dml&t=591s).
 
