@@ -125,7 +125,7 @@ Mozilla [says](https://youtu.be/R0s3WPU0WD0?si=XvoDf-HYR7Bz4Ybf&t=311) that the 
 
 But marsf is telling us otherwise: the bot isn't filling in the gaps, it is overwriting stuff written by humans. Humans don't need to approve the bot, the bot approves itself. 
 
-Mozilla knew when introducing Machine Translation that [the bot doesn't understand the style guides](https://youtu.be/R0s3WPU0WD0?si=-oOgSX-ch3aZaU9E&t=417) across various locales. Months later, marsf pointed out the same fact in their quit note.
+Mozilla knew when introducing machine translations that [the bot doesn't understand the style guides](https://youtu.be/R0s3WPU0WD0?si=-oOgSX-ch3aZaU9E&t=417) across various locales. Months later, marsf pointed out the same fact in their quit note.
 
 A contributor on the call pointed out that in Dutch, there may be two words for a button, and that Firefox may use one - [the localization community on SUMO would obviously always use the correct one](https://youtu.be/R0s3WPU0WD0?si=PkBr-Amsgwcpywyk&t=455). That is just one example, and yet -- one not handled by the machine translation.
 
@@ -137,7 +137,7 @@ Mozilla clearly understands on multiple levels that the AI doesn't actually loca
 
 Why hasn't that happened?
 
-Everyone is on the same page that the AI doesn't do localization.
+Everyone is on the same page: the AI doesn't do localization.
 
 Since Mozilla is going forward with overwriting already localized articles with machine translated slop, Mozilla is telling their userbase that machine translations are good enough. 
 
