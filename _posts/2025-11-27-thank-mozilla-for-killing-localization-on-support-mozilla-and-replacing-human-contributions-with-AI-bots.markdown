@@ -133,7 +133,7 @@ In the community call [introducing machine translations](https://support.mozilla
 
 Months later, when marsf pointed out that human contributions were being overwritten, Mozilla staff instead explained that [it is logical for machines to overwrite human contributions](https://youtu.be/R0s3WPU0WD0?si=4tggEUmni_nU9Dml&t=591s).
 
-Mozilla clearly understands on multiple levels that the AI doesn't actually localize articles, it simply translates them. If Mozilla cared about that, Mozilla would simply revert the changes sumobot made, and the locale leader could work with developers to ensure that sumobot adhered to the guidelines in place for the locale. 
+Mozilla clearly understands on multiple levels that the AI doesn't actually localize articles, it simply translates them. If Mozilla cared about that, Mozilla would revert the changes sumobot made, and locale leaders could work with developers to ensure that sumobot adhered to the locale's style guide. 
 
 Why hasn't that happened?
 
