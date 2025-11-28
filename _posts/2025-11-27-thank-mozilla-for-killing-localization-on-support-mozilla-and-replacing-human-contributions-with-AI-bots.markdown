@@ -131,7 +131,7 @@ Mozilla knew when introducing machine translations that [the bot doesn't underst
 <p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/R0s3WPU0WD0?si=DkvOpDC5CbK51pMG&start=417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
 
-A contributor on the call pointed out that in Dutch, there may be two words for a button, and that Firefox may use one - [the localization community on SUMO would obviously always use the correct one](https://youtu.be/R0s3WPU0WD0?si=PkBr-Amsgwcpywyk&t=455). That is just one example, and yet -- one not handled by the machine translation.
+A contributor on the call pointed out that in Dutch, there may be multiple words for a button, and that Firefox will use a specific one. In those cases, the [localization community on SUMO would always use the language used in Firefox](https://youtu.be/R0s3WPU0WD0?si=PkBr-Amsgwcpywyk&t=455) - not the alternative word. That is just one example of localization not handled by Mozilla's machine translation.
 
 <p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/R0s3WPU0WD0?si=DkvOpDC5CbK51pMG&start=455" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
