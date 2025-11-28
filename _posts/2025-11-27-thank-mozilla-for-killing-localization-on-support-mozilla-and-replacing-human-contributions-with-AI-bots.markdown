@@ -32,7 +32,7 @@ This is where you can get help for Mozilla products like Firefox and Thunderbird
 
 The helpdesk and knowledgebase are all [volunteer driven](https://support.mozilla.org/en-US/contribute), and people spend hours of their time helping other people use and troubleshoot Mozilla products.
 
-Mozilla isn't shy about asking for people's help on the Support Mozilla website -  their website says "save the world from the comfort of your couch".
+Mozilla isn't shy about asking for people's help on the Support Mozilla website -  their [website](https://support.mozilla.org/en-US/contribute) says "save the world from the comfort of your couch".
 
 <p>
 	  <img src="{{site.url}}/assets/images/sumo/sumo-contribute.png" alt="Screenshot of the Mozilla Contribute page"/>
@@ -40,14 +40,13 @@ Mozilla isn't shy about asking for people's help on the Support Mozilla website 
 
 Contributors can answer support questions, write help articles, and they can also localize support content.
 
-Mozilla is pretty complimentary towards their localizers, calling them "heroic".
+Mozilla is pretty complimentary towards their localizers, calling them "[heroic](https://support.mozilla.org/en-US/contribute/l10n)".
 
 <p>
 	  <img src="{{site.url}}/assets/images/sumo/heroic.png" alt="Screenshot of the Mozilla Contribution Localization page"/>
 </p>
 
-
-On November 4, the locale leader of the Japanese Support community on SUMO very publicly resigned.
+On November 4, the locale leader of the Japanese Support community on SUMO [very publicly resigned](https://support.mozilla.org/en-US/forums/contributors/717446).
 
 <p>
 <figure>
@@ -106,7 +105,6 @@ I got a great [comment](https://www.youtube.com/watch?v=m4Iwksydr5o&lc=UgwOsX2Q7
 
 >If that was the intent Mozilla, maybe don't call what you're doing "localization" then and just call it literal translation? A crucial difference between localization and translation is that former DOES add and change stuff that would not be found or recognizable in the original. As much as localization gets flak recently from Western fans of anime there are instances where localization works better than simply translating. Watch an episode of Keroro Gunsou / Sgt. Frog in English dub first, then the original Japanese dub with English subtitles. Each version has their own jokes and references that their intended audience get!
 
-
 Localise.com says the [difference between translation and localization](https://lokalise.com/blog/translation-and-localization-difference/) is:
 
 >Translation is the process of converting text from one language to another. Localization goes beyond translation to ensure content is culturally appropriate and well-received in the target market.
@@ -133,7 +131,7 @@ Mozilla knew when introducing Machine Translation that [the bot doesn't understa
 
 A contributor on the call pointed out that in Dutch, there may be two words for a button, and that Firefox may use one - [the localization community on SUMO would obviously always use the correct one](https://youtu.be/R0s3WPU0WD0?si=PkBr-Amsgwcpywyk&t=455). That is just one example, and yet -- one not handled by the machine translation.
 
-In the community call introducing machine translations, Mozilla said that they realize that AI makes mistakes and that they don't want to force this onto the community. 
+In the community call introducing machine translations, Mozilla said that they realize that [AI makes mistakes and that they don't want to force this onto the community](https://youtu.be/R0s3WPU0WD0?si=6P7fKUmJkvzM4m5o&t=554). 
 
 Months later, when marsf pointed out that human contributions were being overwritten, Mozilla staff instead explained that [it is logical for machines to overwrite human contributions](https://youtu.be/R0s3WPU0WD0?si=4tggEUmni_nU9Dml&t=591s).
 
