@@ -28,15 +28,24 @@ While the title of this post is a bit tongue in cheek, I realized that some peop
 
 Support Mozilla is Mozilla's helpdesk and knowledgebase.
 
-This is where you can get help for Mozilla products like Firefox and Thunderbird. The products themselves link to the knowledgebase, in place of in product documentation.
+This is where you can get help for Mozilla products like Firefox and Thunderbird. The products themselves also link to the knowledgebase, in place of in-product documentation.
 
 The helpdesk and knowledgebase are all [volunteer driven](https://support.mozilla.org/en-US/contribute), and people spend hours of their time helping other people use and troubleshoot Mozilla products.
 
 Mozilla isn't shy about asking for people's help on the Support Mozilla website -  their website says "save the world from the comfort of your couch".
 
+<p>
+	  <img src="{{site.url}}/assets/images/sumo/sumo-contribute.png" alt="Screenshot of the Mozilla Contribute page"/>
+</p>
+
 Contributors can answer support questions, write help articles, and they can also localize support content.
 
 Mozilla is pretty complimentary towards their localizers, calling them "heroic".
+
+<p>
+	  <img src="{{site.url}}/assets/images/sumo/heroic.png" alt="Screenshot of the Mozilla Contribution Localization page"/>
+</p>
+
 
 On November 4, the locale leader of the Japanese Support community on SUMO very publicly resigned.
 
