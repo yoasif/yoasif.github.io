@@ -77,8 +77,6 @@ Let's take a look at the kinds of things you do as a locale leader:
 * Work together with other Locale Leaders and Reviewers on guiding all Editors in their work:
     * through 1:1 mentoring on language and quality
     * through documentation (for example, a Style Guide for your locale) 
-* Help organize and attend regional and global Mozilla events
-* Communicate with and be a part of the global localization community
 * Provide fair reviews of contributions provided by all Editors in your locale – and provide constructive feedback on their quality, which includes:
     * Approving good revisions and encouraging Editors to continue their great work
     * Rejecting revisions that can be improved, and letting their authors know what and why could be better 
