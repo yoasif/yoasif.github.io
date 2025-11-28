@@ -93,6 +93,8 @@ You can see that locale leaders do a lot of work to build community around local
 
 This is all work that Mozilla is throwing away in its move to machine translation.
 
+### Resignation
+
 It is easy to see why marsf is angry and in pain. As a locale leader, marsf maintained the [Japanese style guide](https://mozilla-l10n.github.io/styleguides/ja/index.html). As a contributor for over 20 years, marsf likely had a hand in nearly every article on the locale. 
 
 Those were the articles that were overwritten by Mozilla and it's machine translation bot, sumobot. The overwritten articles represented years of effort - a real labor of love, given that volunteers are unpaid. 
@@ -123,9 +125,9 @@ Before Mozilla introduced machine translations to SUMO, locale contributors were
 
 You might think machine translation is good now -- we even have it in Firefox as a feature. Sure, it *can* be good -- but is it better than a human that has lived in the locale and is consulting the style guide?
 
-### Mozilla's Position
-
 What Mozilla is telling us is that yes actually, the bots are better than a human. 
+
+### Mozilla's Position(s)
 
 Mozilla gave [linuxiac a statement](https://linuxiac.com/ai-controversy-forces-end-of-mozilla-japanese-sumo-community/) that doesn't tell the truth. 
 
@@ -147,6 +149,8 @@ Mozilla clearly understands on multiple levels that the AI doesn't actually loca
 
 Why hasn't that happened?
 
+## Mozilla Kills Localization
+
 Everyone is on the same page: the AI doesn't do localization.
 
 Since Mozilla is going forward with overwriting already localized articles with machine translated slop, Mozilla is telling their userbase that machine translations are good enough. 
@@ -162,8 +166,6 @@ Mozilla is saying that they trust machine translation more than human contributi
 This leaves locale leaders in a very strange place. They are very clearly being ignored in the move to AI, and Mozilla has said nothing about their role going forward.
 
 More miscommunication, I guess. 
-
----
 
 On this Thanksgiving day, let us give thanks to marsf and to all the other contributors on SUMO whose contributions are being unceremoniously overwritten by a bot that has no connection to the locale it is slopping about. 
 
