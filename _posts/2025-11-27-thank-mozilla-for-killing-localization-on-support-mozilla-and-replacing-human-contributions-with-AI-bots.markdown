@@ -12,10 +12,10 @@ redirect_from:
 
 **TL;DR**: Mozilla is killing localization on Support Mozilla, overwriting articles written by humans with machine generated translations. Although Mozilla knows that their AI doesn't localize or adhere to style guides, Mozilla is going live with it anyway. I thank locale leaders and localizers for their tireless efforts. Locale leaders seem to be obviated by AI, and Mozilla has nothing to say about it.
 
-I made <a href="https://youtu.be/m4Iwksydr5o">a video</a> if you want to watch instead.
+I made <a href="https://www.youtube.com/watch?v=R0s3WPU0WD0">a video</a> if you want to watch instead.
 
 <p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/m4Iwksydr5o?si=vC9FBi2hrIgS3K7R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R0s3WPU0WD0?si=DkvOpDC5CbK51pMG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
 
 ---
 
