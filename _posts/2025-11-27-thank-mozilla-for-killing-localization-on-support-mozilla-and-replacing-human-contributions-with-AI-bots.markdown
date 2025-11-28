@@ -116,17 +116,17 @@ Mozilla gave [linuxiac a statement](https://linuxiac.com/ai-controversy-forces-e
 
 >These changes were designed to deliver additional translation support to our community and provide even more articles in local languages. Machine translation helps fill in the gaps, while contributors continue to review, edit, and approve translations to ensure quality and cultural accuracy. We introduced the change by sharing the update publicly, holding a call with the contributor community, and notifying each locale in advance of activation.
 
-Mozilla says that the point of machine translations is to fill in the gaps, and that humans continue to review and approve translations. 
+Mozilla [says](https://youtu.be/R0s3WPU0WD0?si=XvoDf-HYR7Bz4Ybf&t=311) that the point of machine translations is to fill in the gaps, and that humans continue to review and approve translations. 
 
 But marsf is telling us otherwise: the bot isn't filling in the gaps, it is overwriting stuff written by humans. Humans don't need to approve the bot, the bot approves itself. 
 
-Mozilla knew when introducing Machine Translation that the bot doesn't understand the style guides across various locales. Months later, marsf pointed out the same fact in their quit note.
+Mozilla knew when introducing Machine Translation that [the bot doesn't understand the style guides](https://youtu.be/R0s3WPU0WD0?si=-oOgSX-ch3aZaU9E&t=417) across various locales. Months later, marsf pointed out the same fact in their quit note.
 
-A contributor on the call pointed out that in Dutch, there may be two words for a button, and that Firefox may use one - the localization community on SUMO would obviously always use the correct one. That is just one example, and yet -- one not handled by the machine translation.
+A contributor on the call pointed out that in Dutch, there may be two words for a button, and that Firefox may use one - [the localization community on SUMO would obviously always use the correct one](https://youtu.be/R0s3WPU0WD0?si=PkBr-Amsgwcpywyk&t=455). That is just one example, and yet -- one not handled by the machine translation.
 
 In the community call introducing machine translations, Mozilla said that they realize that AI makes mistakes and that they don't want to force this onto the community. 
 
-Months later, when marsf pointed out that human contributions were being overwritten, Mozilla staff instead explained that it is logical for machines to overwrite human contributions.
+Months later, when marsf pointed out that human contributions were being overwritten, Mozilla staff instead explained that [it is logical for machines to overwrite human contributions](https://youtu.be/R0s3WPU0WD0?si=4tggEUmni_nU9Dml&t=591s).
 
 Mozilla clearly understands on multiple levels that the AI doesn't actually localize articles, it simply translates them, If Mozilla cared about that, Mozilla would simply revert the changes sumobot made, and the locale leader could work with developers to ensure that sumobot adhered to the guidelines in place for the locale. 
 
