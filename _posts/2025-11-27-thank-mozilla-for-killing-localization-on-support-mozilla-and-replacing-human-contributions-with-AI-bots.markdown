@@ -26,9 +26,13 @@ My post about the deeper implications of what Mozilla is doing to the Support Mo
 
 While the title of this post is a bit tongue in cheek, I realized that some people weren't even aware of what was going on. [Support Mozilla](https://support.mozilla.org) isn't Firefox or Thunderbird, and if you aren't aware of developments in AI or communities you might not be clear how it all affects you, a Mozilla user.
 
+## Support Mozilla
+
 Support Mozilla is Mozilla's helpdesk and knowledgebase.
 
 This is where you can get help for Mozilla products like Firefox and Thunderbird. The products themselves also link to the knowledgebase, in place of in-product documentation.
+
+### Contributions
 
 The helpdesk and knowledgebase are all [volunteer driven](https://support.mozilla.org/en-US/contribute), and people spend hours of their time helping other people use and troubleshoot Mozilla products.
 
@@ -45,6 +49,8 @@ Mozilla is pretty complimentary towards their localizers, calling them "[heroic]
 <p>
 	  <img src="{{site.url}}/assets/images/sumo/heroic.png" alt="Screenshot of the Mozilla Contribution Localization page"/>
 </p>
+
+## The Japanese Locale Leader Resigns
 
 On November 4, the locale leader of the Japanese Support community on SUMO [very publicly resigned](https://support.mozilla.org/en-US/forums/contributors/717446).
 
@@ -66,6 +72,8 @@ marsf has been contributing to Mozilla for over 20 years, even before Support Mo
 They were a [locale leader](https://support.mozilla.org/en-US/kb/how-be-sumo-locale-leader), someone who coordinates localization efforts for a locale. 
 
 Mozilla enabled machine translation on October 22 on the Japanese locale. marsf quit on November 4. It took less than two weeks to scare away someone who had spent 20 years contributing to the Mozilla mission. 
+
+### Locale Leaders
 
 Prior to the introduction of machine translation, locale leaders were a core part of the localization process. 
 
@@ -93,9 +101,11 @@ Without discussion, without communication, without testing, untold years of huma
 
 It is obvious that locale leaders are unable to foster a culture to train new contributors in process and style if AI is providing machine translations. 
 
-Let's thank marsf. 
+### Thank You, marsf
 
 Thank you for the over 20 years as a Mozillian. Thank you for helping Mozilla build culture. Thank you for helping millions of Japanese Mozilla fans. Thank you for caring. 
+
+## Localization
 
 Some commenters say that none of this really matters. Machine translations are good now, it's not like we're really missing anything.
 
@@ -113,6 +123,8 @@ Before Mozilla introduced machine translations to SUMO, locale contributors were
 
 You might think machine translation is good now -- we even have it in Firefox as a feature. Sure, it *can* be good -- but is it better than a human that has lived in the locale and is consulting the style guide?
 
+### Mozilla's Position
+
 What Mozilla is telling us is that yes actually, the bots are better than a human. 
 
 Mozilla gave [linuxiac a statement](https://linuxiac.com/ai-controversy-forces-end-of-mozilla-japanese-sumo-community/) that doesn't tell the truth. 
@@ -121,31 +133,15 @@ Mozilla gave [linuxiac a statement](https://linuxiac.com/ai-controversy-forces-e
 
 Mozilla [says](https://youtu.be/R0s3WPU0WD0?si=XvoDf-HYR7Bz4Ybf&t=311) that the point of machine translations is to fill in the gaps, and that humans continue to review and approve translations. 
 
-<p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/R0s3WPU0WD0?si=DkvOpDC5CbK51pMG&start=311" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
-
 But marsf is telling us otherwise: the bot isn't filling in the gaps, it is overwriting articles written by humans. Humans don't need to approve the bot, the bot approves itself. 
 
 Mozilla knew when introducing machine translations that [the bot doesn't understand the style guides](https://youtu.be/R0s3WPU0WD0?si=-oOgSX-ch3aZaU9E&t=417) across various locales. Months later, marsf pointed out the same fact in their quit note.
 
-<p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/R0s3WPU0WD0?si=DkvOpDC5CbK51pMG&start=417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
-
 A contributor on the call pointed out that in Dutch, there may be multiple possible words for a button's label, but Firefox uses specific labels. In those cases, the [localization community on SUMO would always use the language used in Firefox](https://youtu.be/R0s3WPU0WD0?si=PkBr-Amsgwcpywyk&t=455) - not an alternative word. That is just one example of localization not handled by Mozilla's machine translation.
-
-<p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/R0s3WPU0WD0?si=DkvOpDC5CbK51pMG&start=455" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
-
 
 In the community call [introducing machine translations](https://support.mozilla.org/en-US/forums/contributors/717385), Mozilla said that they realize that [AI makes mistakes and that they don't want to force this onto the community](https://youtu.be/R0s3WPU0WD0?si=6P7fKUmJkvzM4m5o&t=554).
 
-<p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/R0s3WPU0WD0?si=DkvOpDC5CbK51pMG&start=554" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
-
 Months later, when marsf pointed out that human contributions were being overwritten, Mozilla staff instead explained that [it is logical for machines to overwrite human contributions](https://youtu.be/R0s3WPU0WD0?si=4tggEUmni_nU9Dml&t=591s).
-
-<p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/R0s3WPU0WD0?si=DkvOpDC5CbK51pMG&start=591" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
 
 Mozilla clearly understands on multiple levels that the AI doesn't actually localize articles, it simply translates them. If Mozilla cared about that, Mozilla would revert the changes sumobot made, and locale leaders could work with developers to ensure that sumobot adhered to the locale's style guide. 
 
@@ -166,6 +162,8 @@ Mozilla is saying that they trust machine translation more than human contributi
 This leaves locale leaders in a very strange place. They are very clearly being ignored in the move to AI, and Mozilla has said nothing about their role going forward.
 
 More miscommunication, I guess. 
+
+---
 
 On this Thanksgiving day, let us give thanks to marsf and to all the other contributors on SUMO whose contributions are being unceremoniously overwritten by a bot that has no connection to the locale it is slopping about. 
 
