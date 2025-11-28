@@ -87,7 +87,7 @@ You can see that locale leaders do a lot of work to create community around loca
 
 This is all work that Mozilla is throwing away in its move to machine translation.
 
-It is easy to see why marsf if angry and in pain. As a locale leader, marsf maintained the Japanese style guide. As a contributor for over 20 years, marsf likely had a hand in nearly every article on the locale. 
+It is easy to see why marsf if angry and in pain. As a locale leader, marsf maintained the [Japanese style guide](https://mozilla-l10n.github.io/styleguides/ja/index.html). As a contributor for over 20 years, marsf likely had a hand in nearly every article on the locale. 
 
 Those were the articles that were overwritten by Mozilla and it's machine translation bot, sumobot. The overwritten articles represented years of effort - a real labor of love, given that volunteers are unpaid. 
 
@@ -101,7 +101,7 @@ Thank you for the over 20 years as a Mozillian. Thank you for helping Mozilla cr
 
 Some commenters said that none of this really mattered. Machine translations are good now, it's not like we're really missing anything.
 
-I got a great [comment](https://www.youtube.com/watch?v=m4Iwksydr5o&lc=UgwOsX2Q7mViyIWzkap4AaABAg) on YouTube from pandakekok9 that dispels that notion. They pointed that Mozilla shouldn't be calling what sumobot is doing "localization" if what it is doing is translation.
+I got a great [comment](https://www.youtube.com/watch?v=m4Iwksydr5o&lc=UgwOsX2Q7mViyIWzkap4AaABAg) on YouTube from pandakekok9 that dispels that notion. They said that Mozilla shouldn't be calling what sumobot is doing "localization" if what it is doing is translation.
 
 >If that was the intent Mozilla, maybe don't call what you're doing "localization" then and just call it literal translation? A crucial difference between localization and translation is that former DOES add and change stuff that would not be found or recognizable in the original. As much as localization gets flak recently from Western fans of anime there are instances where localization works better than simply translating. Watch an episode of Keroro Gunsou / Sgt. Frog in English dub first, then the original Japanese dub with English subtitles. Each version has their own jokes and references that their intended audience get!
 
@@ -111,11 +111,9 @@ Localise.com says the [difference between translation and localization](https://
 >
 >Translation prioritizes language accuracy, while localization pays specific attention to cultural, social, and linguistic nuances.
 
-Before Mozilla introduced machine translations to SUMO, locale contributors were referencing their style guides to localize content.
+Before Mozilla introduced machine translations to SUMO, locale contributors were referencing their style guides to localize content, like the [Japanese](https://mozilla-l10n.github.io/styleguides/ja/index.html) one.
 
-Here's the one for [Japan](https://mozilla-l10n.github.io/styleguides/ja/index.html).
-
-You might think machine translation is good now -- we even have it in Firefox as a feature. Machine translation can be good -- but is it better than a human that that lives in the locale and is consulting a style guide?
+You might think machine translation is good now -- we even have it in Firefox as a feature. Machine translation can be good -- but is it better than a human that that lives in the locale and is consulting the style guide?
 
 What Mozilla is telling us is that yes actually, the bots are better than a human. 
 
