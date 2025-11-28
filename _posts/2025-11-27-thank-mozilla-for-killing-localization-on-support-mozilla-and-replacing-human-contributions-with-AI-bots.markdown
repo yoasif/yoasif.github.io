@@ -3,7 +3,7 @@ layout: post
 title:  "Thank Mozilla for Killing Localization on Support Mozilla (And Replacing Human Contributions With AI Bots)"
 date:   2025-11-27 02:59 -0500
 categories: writing
-tags: firefox
+tags: firefox mozilla
 external-url: 
 image: /assets/images/social-previews/Mozilla-Kills-Localization.png
 redirect_from:
@@ -24,7 +24,7 @@ I made <a href="https://www.youtube.com/watch?v=R0s3WPU0WD0">a video</a> if you 
 
 My post about the deeper implications of what Mozilla is doing to the Support Mozilla community is coming, but I figured over the Thanksgiving holiday that I could focus on giving thanks.
 
-While the title of this post is a bit tongue in cheek, I realized that some people weren't even aware of what was going on. [Support Mozilla](https://support.mozilla.org) isn't Firefox, and if you aren't aware of developments in AI or communities you might not be clear how it all affects you, a Firefox user.
+While the title of this post is a bit tongue in cheek, I realized that some people weren't even aware of what was going on. [Support Mozilla](https://support.mozilla.org) isn't Firefox or Thunderbird, and if you aren't aware of developments in AI or communities you might not be clear how it all affects you, a Mozilla user.
 
 Support Mozilla is Mozilla's helpdesk and knowledgebase.
 
@@ -85,7 +85,7 @@ You can see that locale leaders do a lot of work to build community around local
 
 This is all work that Mozilla is throwing away in its move to machine translation.
 
-It is easy to see why marsf if angry and in pain. As a locale leader, marsf maintained the [Japanese style guide](https://mozilla-l10n.github.io/styleguides/ja/index.html). As a contributor for over 20 years, marsf likely had a hand in nearly every article on the locale. 
+It is easy to see why marsf is angry and in pain. As a locale leader, marsf maintained the [Japanese style guide](https://mozilla-l10n.github.io/styleguides/ja/index.html). As a contributor for over 20 years, marsf likely had a hand in nearly every article on the locale. 
 
 Those were the articles that were overwritten by Mozilla and it's machine translation bot, sumobot. The overwritten articles represented years of effort - a real labor of love, given that volunteers are unpaid. 
 
@@ -93,7 +93,7 @@ Without discussion, without communication, without testing, untold years of huma
 
 It is obvious that locale leaders are unable to foster a culture to train new contributors in process and style if AI is providing machine translations. 
 
-We need to thank marsf. 
+Let's thank marsf. 
 
 Thank you for the over 20 years as a Mozillian. Thank you for helping Mozilla build culture. Thank you for helping millions of Japanese Mozilla fans. Thank you for caring. 
 
