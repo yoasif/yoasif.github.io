@@ -165,7 +165,7 @@ According to the [latest documentation](https://support.mozilla.org/en-US/forums
 
 Mozilla is saying that they trust machine translation more than human contributions, even when those contributions have been previously approved. 
 
-This leaves locale leaders in a very strange place. They are very clearly being ignored in the move to AI, and Mozilla has said nothing about their role going forward.
+This leaves locale leaders in a very strange place. They are clearly being ignored in the move to AI, and Mozilla has said nothing about their role going forward.
 
 More miscommunication, I guess. 
 
