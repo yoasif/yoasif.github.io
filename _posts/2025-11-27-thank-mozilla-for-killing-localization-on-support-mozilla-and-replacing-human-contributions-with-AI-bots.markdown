@@ -75,7 +75,7 @@ Mozilla enabled machine translation on the Japanese locale on October 22. marsf 
 
 ### Locale Leaders
 
-Prior to the introduction of machine translation, [locale leaders](https://support.mozilla.org/en-US/kb/how-be-sumo-locale-leader) were a core part of the localization process. 
+Prior to the introduction of machine translation, [locale leaders](https://support.mozilla.org/en-US/groups/sumo-locale-leaders/) were a core part of the localization process. 
 
 On Mozilla's knowledgebase article for localization contributions, the [documented process is to send a locale leader a private message](https://support.mozilla.org/en-US/kb/how-contribute-article-localization) to get started. 
 
@@ -97,7 +97,7 @@ This is all work that Mozilla is throwing away in its move to machine translatio
 
 It is easy to see why marsf is angry and in pain. As a locale leader, marsf maintained the [Japanese style guide](https://mozilla-l10n.github.io/styleguides/ja/index.html). As a contributor for over 20 years, marsf likely had a hand in nearly every article on the locale. 
 
-Those were the articles that were overwritten by Mozilla and it's machine translation bot, sumobot. The overwritten articles represented years of effort - a real labor of love, given that volunteers are unpaid. 
+Those were the articles that were overwritten by Mozilla and its machine translation bot, sumobot. The overwritten articles represented years of effort - a real labor of love, given that volunteers are unpaid. 
 
 Without discussion, without communication, without testing, untold years of human effort were overwritten by a machine with no love in its heart. 
 
@@ -106,6 +106,8 @@ It is obvious that locale leaders are unable to foster a culture to train new co
 ### Thank You, marsf
 
 Thank you for the over 20 years as a Mozillian. Thank you for helping Mozilla build culture. Thank you for helping millions of Japanese Mozilla fans. Thank you for caring. 
+
+Check out [marsf's profile on SUMO](https://support.mozilla.org/en-US/user/marsf/) - he's got a lot of badges!
 
 ## Localization
 
@@ -139,7 +141,7 @@ But marsf is telling us otherwise: the bot isn't filling in the gaps, it is over
 
 Mozilla knew when introducing machine translations that [the bot doesn't understand the style guides](https://youtu.be/R0s3WPU0WD0?si=-oOgSX-ch3aZaU9E&t=417) across various locales. Months later, marsf pointed out the same fact in their quit note.
 
-A contributor on the call pointed out that in Dutch, there may be multiple possible words for a button's label, but Firefox will use a specific one. In those cases, the [localization community on SUMO would always use the language used in Firefox](https://youtu.be/R0s3WPU0WD0?si=PkBr-Amsgwcpywyk&t=455) - not an alternative word. That is just one example of localization not handled by Mozilla's machine translation.
+A contributor on the call pointed out that in Dutch, there may be multiple possible words for a button's label, but Firefox will use a specific word. In those cases, the [localization community on SUMO would always use the language used in Firefox](https://youtu.be/R0s3WPU0WD0?si=PkBr-Amsgwcpywyk&t=455) - not an alternative word. That is just one example of localization not handled by Mozilla's machine translation.
 
 In the community call [introducing machine translations](https://support.mozilla.org/en-US/forums/contributors/717385), Mozilla said that they realize that [AI makes mistakes and that they don't want to force this onto the community](https://youtu.be/R0s3WPU0WD0?si=6P7fKUmJkvzM4m5o&t=554).
 
