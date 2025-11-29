@@ -139,7 +139,7 @@ Mozilla [says](https://youtu.be/R0s3WPU0WD0?si=XvoDf-HYR7Bz4Ybf&t=311) that the 
 
 But marsf is telling us otherwise: the bot isn't filling in the gaps, it is overwriting articles written by humans. Humans don't need to approve the bot, the bot approves itself. 
 
-Mozilla knew when introducing machine translations that [the bot doesn't understand the style guides](https://youtu.be/R0s3WPU0WD0?si=-oOgSX-ch3aZaU9E&t=417) across various locales. Months later, marsf pointed out the same fact in their quit note.
+Mozilla knew when introducing machine translations that [the bot doesn't respect the style guides](https://youtu.be/R0s3WPU0WD0?si=-oOgSX-ch3aZaU9E&t=417) across various locales. Months later, marsf pointed out the same fact in their quit note.
 
 A contributor on the call pointed out that in Dutch, there may be multiple possible words for a button's label, but Firefox will use a specific word. In those cases, the [localization community on SUMO would always use the language used in Firefox](https://youtu.be/R0s3WPU0WD0?si=PkBr-Amsgwcpywyk&t=455) - not an alternative word. That is just one example of localization not handled by Mozilla's machine translation.
 
