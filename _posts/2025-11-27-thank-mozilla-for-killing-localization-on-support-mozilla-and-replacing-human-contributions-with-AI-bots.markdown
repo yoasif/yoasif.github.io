@@ -95,13 +95,13 @@ This is all work that Mozilla is throwing away in its move to machine translatio
 
 ### Resignation
 
-It is easy to see why marsf is angry and in pain. As a locale leader, marsf maintained the [Japanese style guide](https://mozilla-l10n.github.io/styleguides/ja/index.html). As a contributor for over 20 years, marsf likely had a hand in nearly every article on the locale. 
+It is easy to see why marsf is angry and in pain. As a locale leader, marsf maintained the [Japanese style guide](https://mozilla-l10n.github.io/styleguides/ja/index.html). As a [contributor](https://support.mozilla.org/en-US/user/marsf/documents) for over 20 years, marsf likely had a hand in nearly every article on the locale. 
 
 Those were the articles that were overwritten by Mozilla and its machine translation bot, sumobot. The overwritten articles represented years of effort - a real labor of love, given that volunteers are unpaid. 
 
 Without discussion, without communication, without testing, untold years of human effort were overwritten by a machine with no love in its heart. 
 
-It is obvious that locale leaders are unable to foster a culture to train new contributors in process and style if AI is providing machine translations. 
+It is obvious that locale leaders are [unable to foster a culture to train new contributors](https://support.mozilla.org/en-US/forums/contributors/717446#post-89608) in process and style if AI is providing machine translations. 
 
 ### Thank You, marsf
 
