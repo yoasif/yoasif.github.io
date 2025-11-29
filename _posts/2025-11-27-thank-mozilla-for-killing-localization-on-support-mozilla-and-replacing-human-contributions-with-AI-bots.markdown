@@ -123,11 +123,11 @@ Localise.com says the [difference between translation and localization](https://
 >
 >Translation prioritizes language accuracy, while localization pays specific attention to cultural, social, and linguistic nuances.
 
-Before Mozilla introduced machine translations to SUMO, locale contributors were referencing their style guides to localize content, like the [Japanese](https://mozilla-l10n.github.io/styleguides/ja/index.html) one.
+Before Mozilla introduced machine translations to SUMO, locale contributors referenced style guides to localize content (e.g: [Japanese](https://mozilla-l10n.github.io/styleguides/ja/index.html)).
 
-You might think machine translation is good now -- we even have it in Firefox as a feature. Sure, it *can* be good -- but is it better than a human that has lived in the locale and is consulting the style guide?
+You might think machine translations are good -- we even have it in Firefox as a feature! While it *can* be good, do we really think it is better than a human that has *lived* in the locale?
 
-What Mozilla is telling us is that yes actually, the bots are better than a human. 
+What Mozilla is telling us is that yes actually, the bots *are* better than a human. 
 
 ### Mozilla's Position(s)
 
