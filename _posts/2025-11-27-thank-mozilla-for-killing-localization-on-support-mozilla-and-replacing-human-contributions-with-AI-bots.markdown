@@ -26,7 +26,7 @@ My post about the deeper implications of what Mozilla is doing to the Support Mo
 
 While the title of this post is a bit tongue in cheek, I realized that some people didn't know what was going on. [Support Mozilla](https://support.mozilla.org) isn't Firefox or Thunderbird, and if you aren't aware of developments in AI or communities you might not be clear how it all affects you, a Mozilla user.
 
-## Support Mozilla
+## Support Mozilla (SUMO)
 
 Support Mozilla is Mozilla's helpdesk and knowledgebase.
 
