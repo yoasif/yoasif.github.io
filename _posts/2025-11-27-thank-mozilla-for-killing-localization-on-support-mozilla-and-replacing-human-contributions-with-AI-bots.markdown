@@ -24,7 +24,7 @@ I made <a href="https://www.youtube.com/watch?v=R0s3WPU0WD0">a video</a> if you 
 
 My post about the deeper implications of what Mozilla is doing to the Support Mozilla community is coming, but I figured over the Thanksgiving holiday that I could focus on giving thanks.
 
-While the title of this post is a bit tongue in cheek, I realized that some people weren't even aware of what was going on. [Support Mozilla](https://support.mozilla.org) isn't Firefox or Thunderbird, and if you aren't aware of developments in AI or communities you might not be clear how it all affects you, a Mozilla user.
+While the title of this post is a bit tongue in cheek, I realized that some people didn't know what was going on. [Support Mozilla](https://support.mozilla.org) isn't Firefox or Thunderbird, and if you aren't aware of developments in AI or communities you might not be clear how it all affects you, a Mozilla user.
 
 ## Support Mozilla
 
@@ -42,7 +42,7 @@ Mozilla isn't shy about asking for people's help on the Support Mozilla website 
 	  <img src="{{site.url}}/assets/images/sumo/sumo-contribute.png" alt="Screenshot of the Mozilla Contribute page"/>
 </p>
 
-Contributors can answer support questions, write help articles, and they can also localize support content.
+Contributors can [answer support questions](https://support.mozilla.org/en-US/contribute/forum), [write help articles](https://support.mozilla.org/en-US/contribute/kb), and they can also [localize support content](https://support.mozilla.org/en-US/contribute/l10n).
 
 Mozilla is pretty complimentary towards their localizers, calling them "[heroic](https://support.mozilla.org/en-US/contribute/l10n)".
 
