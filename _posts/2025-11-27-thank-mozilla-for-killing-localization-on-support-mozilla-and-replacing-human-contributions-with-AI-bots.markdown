@@ -113,9 +113,9 @@ Check out [marsf's profile on SUMO](https://support.mozilla.org/en-US/user/marsf
 
 Some commenters say that none of this really matters. Machine translations are good now, it's not like we're really missing anything.
 
-I got a great [comment](https://www.youtube.com/watch?v=m4Iwksydr5o&lc=UgwOsX2Q7mViyIWzkap4AaABAg) on YouTube from pandakekok9 that dispels that notion. They say that Mozilla shouldn't be calling what sumobot is doing "localization" if what it is doing is translation:
+I got a great [comment](https://www.youtube.com/watch?v=m4Iwksydr5o&lc=UgwOsX2Q7mViyIWzkap4AaABAg) from [pandakekok9](https://www.youtube.com/@pandakekok9) that dispels that notion. They say that Mozilla shouldn't be calling what sumobot is doing "localization" if what it is doing is translation:
 
->If that was the intent Mozilla, maybe don't call what you're doing "localization" then and just call it literal translation? A crucial difference between localization and translation is that former DOES add and change stuff that would not be found or recognizable in the original. As much as localization gets flak recently from Western fans of anime there are instances where localization works better than simply translating. Watch an episode of Keroro Gunsou / Sgt. Frog in English dub first, then the original Japanese dub with English subtitles. Each version has their own jokes and references that their intended audience get!
+>If that was the intent Mozilla, maybe don't call what you're doing "localization" then and just call it literal translation? A crucial difference between localization and translation is that former DOES add and change stuff that would not be found or recognizable in the original. As much as localization gets flak recently from Western fans of anime there are instances where localization works better than simply translating. Watch an episode of Keroro Gunsou / [Sgt. Frog](https://en.wikipedia.org/wiki/Sgt._Frog) in English dub first, then the original Japanese dub with English subtitles. Each version has their own jokes and references that their intended audience get!
 
 Localise.com says the [difference between translation and localization](https://lokalise.com/blog/translation-and-localization-difference/) is:
 
