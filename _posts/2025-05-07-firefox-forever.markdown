@@ -170,7 +170,7 @@ I have previously written that [ad-tech doesn't care about democracy]({% post_ur
 
 Perhaps one of the most insidious developments of the world we live in today is the pervasiveness of fake news.
 
-Once Russia invaded Ukraine, I began watching [1420 by Daniil Orain](https://www.youtube.com/@1420channel) street interviews of Russians. I wanted to understand how they felt about the invasion, how they saw what their government was doing. Beyond their evident self-censorship, one thing I noticed a lot of was a reference to a so-called "[information war](https://en.wikipedia.org/wiki/Russian_information_war_against_Ukraine)".
+Once Russia invaded Ukraine, I began watching [1420 by Daniil Orain](https://www.youtube.com/@1420channel) street interviews of Russians. I wanted to understand what they felt about the invasion, how they saw what their government was doing. Beyond their evident self-censorship, one thing I noticed a lot of was a reference to a so-called "[information war](https://en.wikipedia.org/wiki/Russian_information_war_against_Ukraine)".
 
 This was Russian propaganda to manipulate the news cycle and to flood the information space of Russian media, in order to misinform their own citizens.
 
