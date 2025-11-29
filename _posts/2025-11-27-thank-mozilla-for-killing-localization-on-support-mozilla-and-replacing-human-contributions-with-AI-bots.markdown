@@ -12,10 +12,10 @@ redirect_from:
 
 **TL;DR**: Mozilla is killing localization on Support Mozilla, overwriting articles written by humans with machine generated translations. Although Mozilla knows that their AI doesn't localize or adhere to style guides, Mozilla is going live with it anyway. I thank locale leaders and localizers for their tireless efforts. Locale leaders seem to be obviated by AI, and Mozilla has nothing to say about it.
 
-I made <a href="https://www.youtube.com/watch?v=R0s3WPU0WD0">a video</a> if you want to watch instead.
+I made <a href="https://www.youtube.com/watch?v=5xaadPWNnYM">a video</a> if you want to watch instead.
 
 <p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/R0s3WPU0WD0?si=DkvOpDC5CbK51pMG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5xaadPWNnYM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
 
 ---
 
@@ -135,17 +135,17 @@ Mozilla gave [linuxiac a statement](https://linuxiac.com/ai-controversy-forces-e
 
 >These changes were designed to deliver additional translation support to our community and provide even more articles in local languages. Machine translation helps fill in the gaps, while contributors continue to review, edit, and approve translations to ensure quality and cultural accuracy. We introduced the change by sharing the update publicly, holding a call with the contributor community, and notifying each locale in advance of activation.
 
-Mozilla [says](https://youtu.be/R0s3WPU0WD0?si=XvoDf-HYR7Bz4Ybf&t=311) that the point of machine translations is to fill in the gaps, and that humans continue to review and approve translations. 
+Mozilla [says](https://youtu.be/5xaadPWNnYM?t=311) that the point of machine translations is to fill in the gaps, and that humans continue to review and approve translations. 
 
 But marsf is telling us otherwise: the bot isn't filling in the gaps, it is overwriting articles written by humans. Humans don't need to approve the bot, the bot approves itself. 
 
-Mozilla knew when introducing machine translations that [the bot doesn't respect the style guides](https://youtu.be/R0s3WPU0WD0?si=-oOgSX-ch3aZaU9E&t=417) across various locales. Months later, marsf pointed out the same fact in their quit note.
+Mozilla knew when introducing machine translations that [the bot doesn't respect the style guides](https://youtu.be/5xaadPWNnYM?t=417) across various locales. Months later, marsf pointed out the same fact in their quit note.
 
-A contributor on the call pointed out that in Dutch, there may be multiple possible words for a button's label, but Firefox will use a specific word. In those cases, the [localization community on SUMO would always use the language used in Firefox](https://youtu.be/R0s3WPU0WD0?si=PkBr-Amsgwcpywyk&t=455) - not an alternative word. That is just one example of localization not handled by Mozilla's machine translation.
+A contributor on the call pointed out that in Dutch, there may be multiple possible words for a button's label, but Firefox will use a specific word. In those cases, the [localization community on SUMO would always use the language used in Firefox](https://youtu.be/5xaadPWNnYM?t=455) - not an alternative word. That is just one example of localization not handled by Mozilla's machine translation.
 
-In the community call [introducing machine translations](https://support.mozilla.org/en-US/forums/contributors/717385), Mozilla said that they realize that [AI makes mistakes and that they don't want to force this onto the community](https://youtu.be/R0s3WPU0WD0?si=6P7fKUmJkvzM4m5o&t=554).
+In the community call [introducing machine translations](https://support.mozilla.org/en-US/forums/contributors/717385), Mozilla said that they realize that [AI makes mistakes and that they don't want to force this onto the community](https://youtu.be/5xaadPWNnYM?t=554).
 
-Months later, when marsf pointed out that human contributions were being overwritten, Mozilla staff instead explained that [it is logical for machines to overwrite human contributions](https://youtu.be/R0s3WPU0WD0?si=4tggEUmni_nU9Dml&t=591s).
+Months later, when marsf pointed out that human contributions were being overwritten, Mozilla staff instead explained that [it is logical for machines to overwrite human contributions](https://youtu.be/5xaadPWNnYM?t=591s).
 
 Mozilla clearly understands on multiple levels that the AI doesn't actually localize articles, it simply translates them. If Mozilla cared about that, Mozilla would revert the changes sumobot made, and locale leaders could work with developers to ensure that sumobot adhered to the locale's style guide. 
 
