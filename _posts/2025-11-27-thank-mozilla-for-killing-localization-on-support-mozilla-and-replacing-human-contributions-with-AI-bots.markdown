@@ -157,7 +157,7 @@ Everyone is on the same page: the AI doesn't do localization.
 
 Since Mozilla is going forward with overwriting already localized articles with machine translated slop, Mozilla is telling their userbase that machine translations are good enough. 
 
-If Mozilla thought localization mattered, they would let their localizers words' stand, instead of automatically believing that the bots are doing a better job. 
+If Mozilla thought localization mattered, they would let their localizers' words stand, instead of automatically believing that the bots are doing a better job. 
 
 According to the [latest documentation](https://support.mozilla.org/en-US/forums/contributors/717387) on Machine Translations on SUMO, Mozilla says:
 
