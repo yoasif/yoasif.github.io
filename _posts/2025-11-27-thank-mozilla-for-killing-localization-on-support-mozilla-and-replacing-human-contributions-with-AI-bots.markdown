@@ -107,7 +107,7 @@ It is obvious that locale leaders are unable to foster a culture to train new co
 
 Thank you for the over 20 years as a Mozillian. Thank you for helping Mozilla build culture. Thank you for helping millions of Japanese Mozilla fans. Thank you for caring. 
 
-Check out [marsf's profile on SUMO](https://support.mozilla.org/en-US/user/marsf/) - he's got a lot of badges!
+Check out [marsf's profile on SUMO](https://support.mozilla.org/en-US/user/marsf/) - they've got a lot of badges!
 
 ## Localization
 
