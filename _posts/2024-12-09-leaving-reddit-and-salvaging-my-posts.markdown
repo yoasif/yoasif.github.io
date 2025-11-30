@@ -15,7 +15,7 @@ I first joined Reddit on Jan 21, 2006, but it was after I created an "alt" to di
 
 I’ve made the decision to (mostly) part ways with Reddit. But as I take a step back from the platform, I realized that there’s a lot of material I’ve posted that I don’t want to disappear into the void.
 
-So, here’s what I’m doing: I’m taking the best of my posts and comments from Reddit and bringing them over to my blog. This isn’t just a one-time thing, either. As I dig through my Reddit history, I’m going to be updating this post with more gems I find along the way. I’ll also be sharing them on Mastodon in case anyone else finds them useful or interesting. It’s a way to preserve what I’ve contributed and, hopefully, share something useful with you.       
+So, here’s what I’m doing: I’m taking the best of my posts and comments from Reddit and bringing them over to my blog. This isn’t just a one-time thing, either. As I dig through my Reddit history, I’m going to be updating this post with more gems I find along the way. I’ll also be sharing them on Mastodon in case anyone else finds them useful or interesting. It’s a way to preserve what I’ve contributed and, hopefully, share something useful with you.
 
 If you’ve ever stumbled upon one of my posts, keep an eye on this blog! I’ll be posting updates and diving into some of the tech discussions I had over there.
 
@@ -52,6 +52,7 @@ Stay tuned for more, and feel free to drop your thoughts or comments on Mastodon
 * [18th year old Firefox bug: Web page controls are unreadable if you use a dark GTK theme]({% post_url 2019-02-28-18th-year-old-firefox-bug-web-page-controls-are-unreadable-if-you-use-a-dark-gtk-theme %})
 * [Is Firefox really fighting against freedom and trying to censor people?]({% post_url 2019-03-02-is-firefox-really-fighting-against-freedom-and-trying-to-censor-people %})
 * [UI Changes make for bad UX: &ldquo;Recently Closed Tabs&rdquo; and &ldquo;Bookmark Tabs&rdquo;]({% post_url 2019-03-02-ui-changes-make-for-bad-ux-recently-closed-tabs-and-bookmark-tabs %})
+* [Disable theme syncing between devices]({% post_url 2019-11-21-firefox-sync-disable-theme-syncing-between-devices %})
 * [I deleted Firefox Preview Nightly and installed Firefox Preview for Android. Now my Collections are gone. Do they sync?]({% post_url 2019-12-31-i-deleted-firefox-preview-nightly-and-installed-firefox-preview-for-android-now-my-collections-are-gone-do-they-sync %})
 
 ### 2020
