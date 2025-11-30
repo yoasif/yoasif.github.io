@@ -125,7 +125,7 @@ Localise.com says the [difference between translation and localization](https://
 
 Before Mozilla introduced machine translations to SUMO, locale contributors referenced style guides to localize content (e.g: [Japanese](https://mozilla-l10n.github.io/styleguides/ja/index.html)).
 
-You might think machine translations are good -- we even have it in Firefox as a feature! While it *can* be good, do we really think it is better than a human that has *lived* in the locale?
+You might think machine translations are good -- we even have it in Firefox as a feature! While it *can* be good, do we *really* think it is better than a human that has lived in the locale?
 
 What Mozilla is telling us is that yes actually, the bots *are* better than a human. 
 
@@ -141,7 +141,7 @@ But marsf is telling us otherwise: the bot isn't filling in the gaps, it is over
 
 Mozilla knew when introducing machine translations that [the bot doesn't respect the style guides](https://youtu.be/5xaadPWNnYM?t=417) across various locales. Months later, marsf pointed out the same fact in their quit note.
 
-A contributor on the call pointed out that in Dutch, there may be multiple possible words for a button's label, but Firefox will use a specific word. In those cases, the [localization community on SUMO would always use the language used in Firefox](https://youtu.be/5xaadPWNnYM?t=455) - not an alternative word. That is just one example of localization not handled by Mozilla's machine translation.
+A Dutch contributor on the call pointed out that although there may be multiple possible translations for a button's label, Firefox will use a specific word. In those cases, the [localization community on SUMO would always use the language used in Firefox](https://youtu.be/5xaadPWNnYM?t=455) - not an alternate translation. Just one example of localization not handled by Mozilla's machine translation.
 
 In the community call [introducing machine translations](https://support.mozilla.org/en-US/forums/contributors/717385), Mozilla said that they realize that [AI makes mistakes and that they don't want to force this onto the community](https://youtu.be/5xaadPWNnYM?t=554).
 
