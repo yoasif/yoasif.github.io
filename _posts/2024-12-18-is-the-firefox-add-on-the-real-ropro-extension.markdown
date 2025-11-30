@@ -9,13 +9,11 @@ image: /assets/images/social-previews/ropro-extension-firefox.png
 
 ---
 
-# Original Post
-
-> So I know that the firefox ropro extension got removed. But I saw this extension recently on the firefox addons page that seems to be the real ropro. But there is only 31 users and all of the 10 reviews are from 2 days ago. Is this the legit one or a fake?
+> So I know that the firefox ropro extension got removed. But I saw this extension recently on the firefox addons page that seems to be the real ropro. But there is only 31 users and all of the 10 reviews are from 2 days ago.
 >
 > <https://addons.mozilla.org/en-US/firefox/addon/ropro-upgrade-your-roblox/>
-
-## My Comments
+> 
+> Is this the legit one or a fake?
 
 According to the add-on listing:
 

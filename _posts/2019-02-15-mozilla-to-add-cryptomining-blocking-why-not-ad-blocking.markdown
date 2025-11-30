@@ -5,7 +5,7 @@ date:   2019-02-15 19:24:53 UTC
 categories: social comments
 tags: firefox cryptomining
 external-url: https://www.reddit.com/r/firefox/comments/aqz1sg/mozilla_to_add_cryptomining_blocking_why_not/egjsoh9/
-image: 
+image: /assets/images/social-previews/firefox.png
 
 ---
 

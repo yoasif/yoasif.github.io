@@ -5,15 +5,11 @@ date:   2019-02-13 18:13:03 UTC
 categories: social comments
 tags: firefox android fenix
 external-url: https://www.reddit.com/r/firefox/comments/aptjp0/is_there_a_blog_for_fenix_or_upcoming_features/egec3mi/
-image: 
+image: /assets/images/social-previews/firefox.png
 
 ---
 
-# Original Post
-
 > When is it planned to come out?
-
-## My Comments
 
 You can watch the issues on [GitHub](https://github.com/mozilla-mobile/fenix/issues).
 

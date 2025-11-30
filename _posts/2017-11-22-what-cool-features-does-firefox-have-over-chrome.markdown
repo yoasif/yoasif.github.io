@@ -5,7 +5,7 @@ date:   2017-11-22 05:13:30 UTC
 categories: social comments
 tags: Firefox browsers reddit social
 external-url: https://www.reddit.com/r/firefox/comments/7eob1n/what_cool_features_does_firefox_have_over_chrome/dq6ek2q/
-image: 
+image: /assets/images/social-previews/firefox.png
 
 ---
 

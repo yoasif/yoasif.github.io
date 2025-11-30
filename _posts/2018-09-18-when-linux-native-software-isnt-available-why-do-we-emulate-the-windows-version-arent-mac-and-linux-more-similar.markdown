@@ -9,8 +9,6 @@ image:
 
 ---
 
-# Original Post
-
 > I’ve probably used a bunch of incorrect terms but please bear with me.
 >
 > I was just thinking from what I’ve gathered MacOS/OSX seems pretty similar to linux, and there are linux packages and stuff that have been ported over/works on MacOS that were originally designed for linux (stuff via homebrew for example). This made me wonder: would it be easier to somehow “emulate”/port over Mac versions of software vs Windows?
@@ -18,8 +16,6 @@ image:
 > So for example, with Photoshop, it has a Mac and Windows version. Now I know that if you tinker with WINE, it will work ok in linux, but would it be easier to work off the MacOS version? And if so, why is it more common to work off the Windows version?
 >
 > Sorry if I’m rambling on/don’t know what I’m talking about, but I’m interested in what you guys think. 
-
-## My Comments
 
 If more work were put into [GNUstep](https://gnustep.github.io/), more macOS software could be recompiled for GNUstep to run on Linux or BSD or whatever.
 

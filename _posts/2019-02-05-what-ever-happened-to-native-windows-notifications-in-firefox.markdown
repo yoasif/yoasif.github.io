@@ -5,15 +5,11 @@ date:   2019-02-05 06:47:09 UTC
 categories: social comments
 tags: firefox windows
 external-url: https://www.reddit.com/r/firefox/comments/anbh8z/what_ever_happened_to_native_notifications/
-image: 
+image: /assets/images/social-previews/firefox.png
 
 ---
 
-# Original Post
-
 > Mozilla announced they were working on it shortly after [Chrome introduced them early last summer](https://www.thurrott.com/windows/windows-10/165455/google-chrome-now-uses-native-windows-10-notifications). Where did they go? I could've sworn they said something about launching the feature in version 63 or 64
-
-## My Comments
 
 Watch bug id [1497425](https://bugzilla.mozilla.org/show_bug.cgi?id=1497425 "Turn on Toast Notification on release channel").
 

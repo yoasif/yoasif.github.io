@@ -9,8 +9,6 @@ image:
 
 ---
 
-# Original Post
-
 >TL;DR: Is there a way to quickly switch which profile is 'current' so that links clicked from outside the browser (e.g. a password manager) open as a new tab in the 'current' profile window?
 >
 >Context:
@@ -26,10 +24,6 @@ image:
 >Does anyone have any advice on how to accomplish something like this in Firefox?
 >
 >Thanks!
-
-## My Comments
-
->Does anyone have any advice on how to accomplish something like this in Firefox?
 
 This is not available as a Firefox feature. Copying and pasting works, of course.
 

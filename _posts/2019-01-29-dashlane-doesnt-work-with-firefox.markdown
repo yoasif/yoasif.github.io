@@ -5,11 +5,9 @@ date:   2019-01-29 21:14:28 UTC
 categories: social comments
 tags: firefox dashlane
 external-url: https://www.reddit.com/r/firefox/comments/al2o9m/comment/efapjii/
-image: 
+image: /assets/images/social-previews/firefox.png
 
 ---
-
-# Original Post
 
 >Hello fellow community,
 >
@@ -22,8 +20,6 @@ image:
 > sincerely
 >
 > s2k9
-
-## My Comments
 
 Dashlane has problems everywhere from what I have read. I would recommend [Bitwarden](https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/) instead.
 

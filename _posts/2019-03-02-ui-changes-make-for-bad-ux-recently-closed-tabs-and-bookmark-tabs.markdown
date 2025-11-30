@@ -9,8 +9,6 @@ image: /assets/images/social-previews/firefox.png
 
 ---
 
-# Original Post
-
 > Recent update changes have changed two functions that now require more click throughs to complete.
 >
 > #### Recently Closed Tabs

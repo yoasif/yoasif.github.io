@@ -9,13 +9,9 @@ image: /assets/images/social-previews/firefox.png
 
 ---
 
-# Original Post
-
 > I wasn't really thinking and deleted Firefox Preview Nightly due to the constant crashing and downloaded Firefox Preview. I never thought about my Collections, which I had several. Will they sync or are they gone forever? Might I get them back if I reinstall Firefox Preview Nightly?
 
-## My Comments
-
-They are gone forever. There is a bug filed for this: <https://github.com/mozilla-mobile/fenix/issues/4424>
+They are gone forever. There is a [bug](https://github.com/mozilla-mobile/fenix/issues/4424) filed for this.
 
 Sorry about your experience.
 

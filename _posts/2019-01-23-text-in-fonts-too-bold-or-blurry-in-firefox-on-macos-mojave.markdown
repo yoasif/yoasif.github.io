@@ -5,11 +5,9 @@ date:   2019-01-23 22:23:08 UTC
 categories: social comments
 tags: firefox macos
 external-url: https://www.reddit.com/r/firefox/comments/aj3p2v/fonts_too_bold_since_firefox_devedition_660b1/eessjmm/
-image: 
+image: /assets/images/social-previews/firefox.png
 
 ---
-
-# Original Post
 
 >Hello Dear Firefox Community!
 >
@@ -22,8 +20,6 @@ image:
 >I already tried to purge caches to make sure there are no corrupt data there, tried a new user profile and fiddled with the hardware acceleration settings, but no changes there.
 >
 >Thanks in advance for your help or feedback to that problem!
-
-## My Comments
 
 It looks like this is the issue - but it looks like it is a [*fix*](https://bugzilla.mozilla.org/show_bug.cgi?id=1495282 "Some fonts are lighter weight after updating from macOS 10.13 to 10.14 Mojave").
 

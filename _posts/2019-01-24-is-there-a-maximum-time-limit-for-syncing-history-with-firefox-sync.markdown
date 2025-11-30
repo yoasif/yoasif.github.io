@@ -3,9 +3,9 @@ layout: post
 title:  "Is there a maximum time limit for syncing History with Firefox Sync?"
 date:   2019-01-24 17:58:10 UTC
 categories: social comments
-tags: Firefox
+tags: Firefox firefox-sync
 external-url: https://www.reddit.com/r/firefox/comments/ajduzt/is_there_any_history_limit_on_android_or_in_sync/eeuyl8t/
-image:
+image: /assets/images/social-previews/firefox.png
 
 ---
 

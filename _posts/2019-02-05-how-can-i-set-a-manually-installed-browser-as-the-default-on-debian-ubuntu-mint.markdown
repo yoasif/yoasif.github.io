@@ -9,8 +9,6 @@ image:
 
 ---
 
-# Original Post
-
 >Hi
 >
 >I am trying to set my Firefox developer as default in GNU/Linux, But I am stuck. Firefox Dev didn't shows up in `sudo update-alternatives --config x-www-browser`. In some app I have set them manually, but it's painful to set to every app, since they read the default value in my system. I don't use desktop environment so `.desktop` didn't work for me.
@@ -18,8 +16,6 @@ image:
 >Anyone successfully add firefox Dev as default using `sudo update-alternatives --config x-www-browser` ?
 >
 >Thanks.
-
-## My Comments
 
 This may be helpful for you: <https://askubuntu.com/a/965417>
 

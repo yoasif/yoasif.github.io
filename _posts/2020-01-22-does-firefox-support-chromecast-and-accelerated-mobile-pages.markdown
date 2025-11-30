@@ -9,11 +9,7 @@ image: /assets/images/social-previews/firefox.png
 
 ---
 
-# Original Post
-
 > I know these are things found in Chrome, but curious if Firefox supports them.
-
-## My Comments
 
 AMP pages are just web pages, so they work in Firefox.
 
