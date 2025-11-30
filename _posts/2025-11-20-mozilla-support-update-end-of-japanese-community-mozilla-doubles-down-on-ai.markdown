@@ -10,7 +10,7 @@ redirect_from:
 
 ---
 
-**TL;DR**: On the [November 2025 Mozilla Support Community call](https://support.mozilla.org/en-US/forums/contributors/717462), Mozilla provided updates on the recent controversy from the Japanese Support Mozilla community quitting over AI, calling it a "miscommunication" and "misinterpretation".
+**TL;DR**: On the [November 2025 Mozilla Support Community call](https://support.mozilla.org/en-US/forums/contributors/717462), Mozilla provided updates on the [disbandment of Japanese SUMO over AI]({% post_url 2025-11-27-thank-mozilla-for-killing-localization-on-support-mozilla-and-replacing-human-contributions-with-AI-bots %}), calling it a "miscommunication" and "misinterpretation".
 
 During the call, Mozilla also doubled down on AI, confirming that volunteers would be unable to disable AI translations across the entire Mozilla knowledge-base, with the American English version of articles serving as the blessed, canonical version. Locale specific contributions will be overwritten (by design) by AI.
 
@@ -19,7 +19,7 @@ This means that without human intervention, Mozilla intends to roll out automate
 I made <a href="https://youtu.be/m4Iwksydr5o">a video</a> if you want to watch instead.
 
 <p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/m4Iwksydr5o?si=vC9FBi2hrIgS3K7R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m4Iwksydr5o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
 
 ---
 
@@ -54,7 +54,7 @@ The entire post by the locale leader, marsf is worth reading, and they raised a 
 Mozilla's official response to the team rage quitting is that it is all a [big miscommunication](https://www.youtube.com/watch?v=m4Iwksydr5o&t=48s) and that they continue to be in communication. It is ironic to me that since introducing AI translations, Mozilla is unable to communicate with volunteers that have been trusted to be Mozilla's international voice for over 20 years.
 
 <p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/m4Iwksydr5o?si=vC9FBi2hrIgS3K7R&start=48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m4Iwksydr5o?start=48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
 
 From my perspective, it doesn't look like miscommunication at all. 
 
@@ -84,7 +84,7 @@ One of the first comments in the SUMO chat following the call from people who ha
 Mozilla talked about this a few times on the call, and yeah... there is [not going to be any way to disable AI translation](https://www.youtube.com/watch?v=m4Iwksydr5o&t=237s) anywhere on the SUMO knowledgebase. 
 
 <p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/m4Iwksydr5o?si=vC9FBi2hrIgS3K7R&start=237" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m4Iwksydr5o?start=237" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
 
 Mozilla weirdly says the reason for this is that it serves as a "safety net".
 
