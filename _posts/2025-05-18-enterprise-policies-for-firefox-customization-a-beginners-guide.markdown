@@ -10,21 +10,12 @@ redirect_from:
 
 ---
 
-**TL;DR**: If you want to customize Firefox using Enterprise Polices, you can create customized policies via the handy [Enterprise Policy Generator](https://addons.mozilla.org/en-US/firefox/addon/enterprise-policy-generator/). You can also browse a [collection of policies I created](#policies), available for [download](https://github.com/yoasif/awesome-firefox-policies/).
+**TL;DR**: If you want to customize Firefox using Enterprise Polices, you can create customized policies via the handy [Enterprise Policy Generator](https://addons.mozilla.org/en-US/firefox/addon/enterprise-policy-generator/). You can also browse [some policies I made](#policies), available for [download](https://github.com/yoasif/awesome-firefox-policies/).
 
 You can also <a href="https://www.youtube.com/watch?v=LNV23ByLKMk">watch a video</a>.
 
 <p>
-<figure>
-	<a href="https://www.youtube.com/watch?v=LNV23ByLKMk">
-	<picture>
-	  <source type="image/png" srcset="{{site.url}}/assets/images/thumbnails/enterprise-policies.png,
-	  								   {{site.url}}/assets/images/thumbnails/enterprise-policies-2x.png 2x">
-	  <img src="{{site.url}}/assets/images/thumbnails/enterprise-policies.png" srcset="{{site.url}}/assets/images/thumbnails/enterprise-policies-2x.png 2x" alt="A picture of a YouTube video"/>
-	  <figcaption>Enterprise Policies for Firefox Customization: A Beginner’s Guide to policies.json</figcaption>
-	</picture>
-	</a>
-</figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LNV23ByLKMk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
 
 ---
