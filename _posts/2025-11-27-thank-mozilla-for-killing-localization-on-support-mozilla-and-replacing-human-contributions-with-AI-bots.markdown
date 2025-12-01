@@ -117,15 +117,15 @@ I got a great [comment](https://www.youtube.com/watch?v=m4Iwksydr5o&lc=UgwOsX2Q7
 
 >If that was the intent Mozilla, maybe don't call what you're doing "localization" then and just call it literal translation? A crucial difference between localization and translation is that former DOES add and change stuff that would not be found or recognizable in the original. As much as localization gets flak recently from Western fans of anime there are instances where localization works better than simply translating. Watch an episode of Keroro Gunsou / [Sgt. Frog](https://en.wikipedia.org/wiki/Sgt._Frog) in English dub first, then the original Japanese dub with English subtitles. Each version has their own jokes and references that their intended audience get!
 
-Localise.com says the [difference between translation and localization](https://lokalise.com/blog/translation-and-localization-difference/) is:
+lokalise.com says the [difference between translation and localization](https://lokalise.com/blog/translation-and-localization-difference/) is:
 
 >Translation is the process of converting text from one language to another. Localization goes beyond translation to ensure content is culturally appropriate and well-received in the target market.
 >
 >Translation prioritizes language accuracy, while localization pays specific attention to cultural, social, and linguistic nuances.
 
-Before Mozilla introduced machine translations to SUMO, locale contributors referenced style guides to localize content (e.g: [Japanese](https://mozilla-l10n.github.io/styleguides/ja/index.html)).
+Before Mozilla introduced machine translations to SUMO, locale contributors referenced style guides to localize articles (e.g: the [Japanese](https://mozilla-l10n.github.io/styleguides/ja/index.html) guide).
 
-You might think machine translations are good -- we even have it in Firefox as a feature! While it *can* be good, do we *really* think it is better than a human that has lived in the locale?
+You might think that machine translations are good -- we even have them in Firefox as a feature! While they *can* be good, do we *really* think they are better than a dedicated volunteer?
 
 What Mozilla is telling us is that yes actually, the bots *are* better than a human. 
 
