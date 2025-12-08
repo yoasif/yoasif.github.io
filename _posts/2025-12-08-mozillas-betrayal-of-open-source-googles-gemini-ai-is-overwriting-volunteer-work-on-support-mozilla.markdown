@@ -26,7 +26,7 @@ In the world of open source, community contributions are the norm. That's why Mo
 
 Given Mozilla's open source history, you might assume that the <abbr title="artificial intelligence">AI</abbr> is powered by an open model with datasets available on [Mozilla Data Collective](https://datacollective.mozillafoundation.org/).
 
-Mozilla's leadership has recently been talking up open source <abbr title="artificial intelligence">AI</abbr>, saying that it is important to own what you build.
+Mozilla's leadership has recently been talking up open source <abbr title="artificial intelligence">AI</abbr>, saying that [it is important to own what you build](https://youtu.be/TvPMZeFrr7s?t=40).
 
 I took a look at the Data Collective to see whether the Support Mozilla data set was there. [No such luck](https://datacollective.mozillafoundation.org/datasets?q=support).
 
