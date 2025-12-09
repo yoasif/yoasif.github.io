@@ -92,7 +92,7 @@ That seems like a way to quash negative feedback, and to allow only approved fee
 
 As Mozilla elicits feedback, the translation bot continues to run on Support Mozilla, overwriting community contributions. A recently opened Kitsune feature request reveals the challenging environment that contributors are operating in -- contributors want a [listing of articles](https://github.com/mozilla/sumo/issues/2674) that have been overwritten by the bot. They want it to look like an existing listing of [unreviewed articles](https://support.mozilla.org/localization/unreviewed).
 
-A full month after marsf resigned from <abbr title="Support Mozilla">SUMO</abbr> as Japanese locale leader, contributors are asking for an easier way for them to find the AI's modifications.
+A full month after [marsf resigned]({% post_url 2025-11-27-thank-mozilla-for-killing-localization-on-support-mozilla-and-replacing-human-contributions-with-AI-bots %}) from <abbr title="Support Mozilla">SUMO</abbr> as Japanese locale leader, contributors are asking for an easier way to find the AI's modifications.
 
 Why is Mozilla barreling forward towards closed source AI? I have some ideas about that, but this post is already pretty long. Follow if you want to read my thoughts on that.
 
