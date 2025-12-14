@@ -4,6 +4,8 @@ title:  "Discovered While Mapping: Little Free Library #93137"
 date:   2022-07-20 7:50:00 -0400
 categories: OpenStreetMap
 tags: OpenStreetMap little-free-library
+image: /assets/images/openstreetmap/2022-07-17/little-free-library-93137.jpg
+
 ---
 
 While mapping on OpenStreetMap last Sunday, I came across a [Little Free Library](https://littlefreelibrary.org).

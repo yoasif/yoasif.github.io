@@ -4,6 +4,8 @@ title:  "Update on my SoFi Experience: My Account was Opened"
 date:   2022-05-17 05:25:00 -0400
 categories: writing
 tags: so-fi product
+image: /assets/images/SoFi-welcome-2x.png
+
 ---
 
 You may have read my post about the [poor customer service experience and product issues that I experienced with SoFi]({% post_url 2022-05-12-SoFi-banking-product-and-support-are-broken %}) last week.

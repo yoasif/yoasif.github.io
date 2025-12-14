@@ -4,6 +4,8 @@ title:  "The Narwhal Kbins at Dawn: A Reddit UserStyle for Kbin"
 date:   2023-07-10 02:13:00 -0400
 categories: writing
 tags: Reddit Protest Kbin userstyle
+image: /assets/images/userstyles/the-narwhal-kbins-at-dawn/3.0/light/post-styled-compact-2x.png
+
 ---
 
 TL;DR: I made a styled version of Reddit for Kbin instances for people participating in the reddit migration. Inspired mostly by Old Reddit, but it actually has a dark mode! 

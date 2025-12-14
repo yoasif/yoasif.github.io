@@ -17,13 +17,13 @@ There are a lot of ways to customize Firefox -- we try to collect some of the be
 
 Chrome has a profile feature that is integrated into the browser chrome. Firefox offers a similar feature (it is literally older than Chrome itself), but the easiest way to get to it is inside a page. 
 
-To use this, open ```about:profiles``` in Firefox - here, you can create and launch additional profiles. Not the best integration, but it exists. There is an [open bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1542189) that you can watch to improve the UX around this in Firefox.  
+To use this, open <kbd>about:profiles</kbd> in Firefox - here, you can create and launch additional profiles. Not the best integration, but it exists. There is an [open bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1542189) that you can watch to improve the UX around this in Firefox.  
 
 ### Tab Previews / Cycling through tabs in recently used order 
 
 By default, Firefox shows a tab preview and cycles through tabs in recently used order when using Ctrl+Tab. This looks like task switchers in Windows and macOS, but is not the same as prior Firefox behavior, or other browsers. If you don't like this feature, it is easy to disable. 
 
-1. Click the menu button (☰) and choose Preferences.
+1. Click the menu button (☰) and choose Settings.
 2. Select the General panel.
 3. Uncheck *Ctrl+Tab cycles through tabs in recently used order*
 
@@ -33,21 +33,27 @@ If you like the default behavior, but want to sometimes use the old behavior, yo
 
 You may prefer other browsers' behavior of opening bookmarks in new tabs. You can do the same thing in Firefox:
 
-Set ```browser.tabs.loadBookmarksInTabs``` to **true** in ```about:config``` 
+Set ```browser.tabs.loadBookmarksInTabs``` to **true** in <kbd>about:config</kbd>
+
+### Opening bookmarks in background tabs
+
+You may prefer other browsers' behavior of bookmark menu bookmarks being opened in background tabs. You can do the same thing in Firefox:
+
+Set ```browser.bookmarks.openInTabClosesMenu``` to **false** in <kbd>about:config</kbd>
 
 ### Show bookmarks in a tab
 
-Some other browsers show bookmarks in a tab, instead of a sidebar or new window. You can do this in Firefox by opening ```chrome://browser/content/places/places.xhtml``` in a new tab. You can also bookmark this page for easy access.
+Some other browsers show bookmarks in a tab, instead of a sidebar or new window. You can do this in Firefox by opening <kbd>chrome://browser/content/places/places.xhtml</kbd> in a new tab. You can also bookmark this page for easy access.
 
 ### Don't close the window when closing the last tab.
 
-Some other browsers do not close the window you are in when you close the last tab. You can replicate this in Firefox by setting ```browser.tabs.closeWindowWithLastTab``` to **false** in ```about:config``` 
+Some other browsers do not close the window you are in when you close the last tab. You can replicate this in Firefox by setting ```browser.tabs.closeWindowWithLastTab``` to **false** in <kbd>about:config</kbd>
 
 ### Smaller tabs
 
 Some other browsers let tabs get really tiny. Firefox doesn't do that by default, but you *can* make Firefox tabs narrower. Edit ```browser.tabs.tabMinWidth``` to a smaller number, as low as **50**.
 
-## Tips for people everyone else
+## Tips for everyone else
 
 ### Choose what color scheme (light or dark) Firefox chooses for web pages
 
@@ -55,34 +61,33 @@ By default, Firefox uses your theme colors to decide what color scheme it asks f
 
 To access these settings, follow the steps below:
 
-1. Click the Firefox menu.
-2. Select Settings.
-3.     Go to the General panel on the left.
-4.     Scroll down to Language and Appearance.
-5.     Select the color scheme you want to use for the websites you visit. 
+1. Click the menu button (☰) and choose Settings.
+2. Go to the General panel on the left.
+3. Scroll down to Language and Appearance.
+4. Select the color scheme you want to use for the websites you visit. 
 
 ### Compact density (make toolbars smaller)
 
 If you prefer a smaller toolbar UI, or you are on a lower resolution display, you may want to update make Firefox's toolbars smaller using the unsupported [compact mode density](https://support.mozilla.org/kb/compact-mode-workaround-firefox) option. 
 
-1.   Type **about:config** in the address bar and press Enter.
-2.    A warning page may appear. Click Accept the Risk and Continue to go to the about:config page.
-3.    Find the `browser.compactmode.show` preference.
-4.    Switch the toggle to **true** and then close the tab.
-5.    Click on the menu button to open the menu panel.
-6.    Click More tools.
-7.    Choose Customize toolbar….
-8.    At the bottom of the panel, click Density.
-9.    Choose Compact (not supported) from the menu options.
-10.    Click Done. 
+1. Type <kbd>about:config</kbd> in the address bar and press Enter.
+2. A warning page may appear. Click Accept the Risk and Continue to go to the about:config page.
+3. Find the `browser.compactmode.show` preference.
+4. Switch the toggle to **true** and then close the tab.
+5. Click on the menu button to open the menu panel.
+6. Click More tools.
+7. Choose Customize toolbar…
+8. At the bottom of the panel, click Density.
+9. Choose Compact (not supported) from the menu options.
+10. Click Done. 
  
 ## Advanced settings tweaking with about:config
 
-`about:config` is a page you can access in Firefox that allows you to view and edit a huge variety of settings Firefox uses. This index includes every single user preference and a whole lot more, including experimental works-in-progress and even a batch of very powerful settings uplifted from the Tor Browser, a fork of Firefox.
+<kbd>about:config</kbd> is a page you can access in Firefox that allows you to view and edit a huge variety of settings. These settings include user preferences and a whole lot more, including experimental works-in-progress and settings uplifted from the Tor Browser, a fork of Firefox.
 
 #### How to use about:config
 
-1. Enter `about:config` into the address bar and press enter.
+1. Enter <kbd>about:config</kbd> into the address bar and press enter.
 
 2. Accept the risks.
 
@@ -92,9 +97,9 @@ If you prefer a smaller toolbar UI, or you are on a lower resolution display, yo
 
 Things to note:
 
-* The warning is real. You can do a lot of damage to your browser by messing with the wrong settings here.
+* The warning is true. You can do a lot of damage to your browser by messing with the wrong settings here.
 
-* **Bold entries** are modified from the default values, either by you or by the browser. You can reset a setting to default by right-clicking and selecting 'reset'.
+* **Bold entries** are modified from the default values, either by you or by the browser. You can reset a setting to default by clicking the *Reset* button (&#x293A;) alongside the setting.
 
 * Spaces at any point in the search breaks it. Be careful when copy/pasting to not include one at the beginning or ending, and always use periods/full stops between words.
 
@@ -112,6 +117,7 @@ Things to note:
 | Show Firefox profiles as separate taskbar icons in Windows. | **taskbar.grouping.useprofile** | `true` (boolean)
 | Load bookmarks in a new tab. | **browser.tabs.loadBookmarksInTabs** | `true`
 | Load bookmarks in a new [*backgrounded* tab](https://www.reddit.com/r/firefox/comments/fbjxd5/open_new_tabs_from_firefoxs_bookmarks_and_history/). Requires *browser.tabs.loadBookmarksInTabs* to be set to `true` as well. | **browser.tabs.loadBookmarksInBackground** | `true`
+| Load contextual searches in a background tab. | **browser.search.context.loadInBackground** | `true`
 | Always shows the Picture in Picture toggle. Firefox shows the Picture in Picture toggle on videos longer than 45 seconds. | **media.videocontrols.picture-in-picture.video-toggle.always-show** | `true`
 | Disable text to speech in reader mode. | **narrate.enabled** | `false`
 | Choose a container when opening a new tab by clicking the new tab button. | **privacy.userContext.newTabContainerOnLeftClick.enabled** | `true`
@@ -123,6 +129,8 @@ Things to note:
 | Disable opening the download panel automatically after download completion. | **browser.download.alwaysOpenPanel** | `false`
 | Use the native OS print dialog. | **print.prefer_system_dialog** | `true`
 | Open link from external app in the new window. | **browser.link.open_newwindow.override.external** | `2`
+| Do not select trailing spaces when double-clicking a word to select. | **layout.word_select.eat_space_to_next_word** | `false`
+| Disable warning when closing a tab with unsubmitted data. | **dom.disable_beforeunload** | `false`
 
 {% include edit-on-GitHub.html %}
 

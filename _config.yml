@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Asif Youssuff
+title: Youssuff Quips
 email: yoasif@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Blogging since 2021.
@@ -32,6 +32,15 @@ theme: jekyll-swiss
 theme_color: white
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-redirect-from
+defaults:
+  -
+    scope:
+      path: "_posts" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
+    values:
+      image: /assets/images/default-card.png
 
 # Exclude from processing.
 # The following items will not be processed, by default.

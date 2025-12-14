@@ -88,7 +88,9 @@ Fortunately, Firefox also comes with a more privacy aware search engine, [DuckDu
 		</picture>
 	</figure>
 	
-As with everything else in this guide, this is totally optional, and some people really prefer Google's search results. If you don't like the setting, it is easy to undo, so feel free to come back if you need help with that.
+As with everything else in this guide, this is totally optional, and some people really prefer Google's search results. If that is you, you may want to use [Startpage]({% post_url 2018-11-14-what-search-engine-do-you-use %}) - a search engine that delivers Google's search results, without the tracking.
+
+If you don't like the setting, it is easy to undo, so feel free to come back if you need help with that.
 
 Although this guide recommends the **DuckDuckGo** search engine, I *don't* recommend **[DuckDuckGo Privacy Essentials](https://addons.mozilla.org/firefox/addon/duckduckgo-for-firefox/)** -- it is fine, but there are better alternatives. Running this extension alongside those alternatives can cause problems, so I recommend against it.
 
@@ -391,7 +393,7 @@ My brother uses this all the time to watch several live sports at once on many n
 
 ## Staying Safe on the Web (Ad Blocking)
 
-One of the reasons you may be giving Firefox a look *now* is that competing browsers are working to weaken ad blockers on the web. There has been a lot of articles about the situation, and the [EFF has a good summary of what is happening](https://www.eff.org/deeplinks/2021/12/googles-manifest-v3-still-hurts-privacy-security-innovation). In short, Chromium browsers (that includes most browsers - including major names like Google Chrome and Microsoft Edge) are dropping "blocking webRequest", a feature that enables browser based ad blockers to effectively disable the worst offenses of online scams and advertising. Safari has never had this feature, unfortunately. 
+One of the reasons you may be giving Firefox a look *now* is that competing browsers are working to weaken ad blockers on the web. There have been a lot of articles about the situation, and the [EFF has a good summary of what is happening](https://www.eff.org/deeplinks/2021/12/googles-manifest-v3-still-hurts-privacy-security-innovation). In short, Chromium browsers (that includes most browsers - including major names like Google Chrome and Microsoft Edge) are dropping "blocking webRequest", a feature that enables browser based ad blockers to effectively disable the worst offenses of online scams and advertising. Safari has never had this feature, unfortunately. 
 
 Currently, the best (fastest, most effective) browser based ad blocker is [uBlock Origin](https://addons.mozilla.org/firefox/addon/ublock-origin/), which *already* [works best in Firefox](https://github.com/gorhill/uBlock/wiki/uBlock-Origin-works-best-on-Firefox). The developer of uBlock Origin has [raised the alarm about the changes in Chromium](https://github.com/uBlockOrigin/uBlock-issues/issues/338#issuecomment-1253893421) and how they will weaken uBlock Origin.
 
@@ -403,7 +405,7 @@ I will note that I actually prefer a more measured approach to web safety and an
 
 ## Troubleshooting
 
-There shouldn't be a need for extensive troubleshooting - and I'm not going to include instructions here. There's a <a href="https://www.reddit.com/r/firefox/">good community on reddit</a> that you can visit with specific questions. 
+There shouldn't be a need for extensive troubleshooting - and I'm not going to include instructions here. There's a great community of volunteers at <a href="https://support.mozilla.org">Support Mozilla</a> that you can visit with specific questions. 
 
 However, there are two things that come up often that are worth detailing. 
 
@@ -425,4 +427,4 @@ Before you report an issue, try to do a little investigation on your own - like 
 
 ---
 
-Feel free to give me feedback on this post on [reddit](https://www.reddit.com/r/firefox/comments/xsw0zt/firefox_switch_a_guide_for_beginners/?). 
+{% include donate.html %} You can also message me on [Mastodon](https://mastodon.social/@yoasif).

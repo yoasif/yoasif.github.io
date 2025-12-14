@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Reddit is Trying to Sow Division in Mod Teams. That's Because the Protest is Working"
+title:  "Reddit is Trying to Sow Division in Mod Teams. That&rsquo;s Because the Protest is Working"
 date:   2023-06-18 06:30:00 -0400
-categories: writing
+categories: social posts
 tags: Reddit Protest
+redirect_from: /writing/2023/06/18/reddit-is-sowing-division-in-mod-teams-because-protest-is-working.html
+
 ---
 
 It is the weekend, and no one likes working on the weekend... but Reddit seems to have no issue making their teams do it. 

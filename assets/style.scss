@@ -40,8 +40,15 @@ kbd {
     white-space: nowrap;
    }
    
-@media (min-width: 52em) { .h0 { font-size: 96px; } }
+@media (min-width: 52em) { .h0 { font-size: 80px; } }
 
+.prose blockquote { margin: initial; }
 .prose blockquote p { font-size: 18px; font-style: normal; }
 
 #breadcrumbs {margin-bottom: 1em;}
+
+video {
+  /* override other styles to make responsive */
+  max-width: 100%;
+  height: auto   !important;
+}

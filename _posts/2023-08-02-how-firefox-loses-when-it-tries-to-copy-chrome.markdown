@@ -4,6 +4,8 @@ title:  "How Firefox Loses When it Tries to Copy Chrome"
 date:   2023-08-02 02:38:00 -0400
 categories: writing
 tags: Firefox Chrome
+image: /assets/images/they-live-chromium.png
+
 ---
 
 ## Prologue

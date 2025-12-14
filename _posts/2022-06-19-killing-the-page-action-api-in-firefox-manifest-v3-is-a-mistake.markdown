@@ -4,6 +4,8 @@ title:  "Killing the Page Action API in Firefox’s Manifest V3 is a Mistake"
 date:   2022-06-20 02:47:00 -0400
 categories: writing
 tags: Firefox manifest-v3 webextensions extensions
+image: /assets/images/killing-the-page-action-api-in-firefox-manifest-v3-is-a-mistake/photon-page-actions-overflow-2x.png
+
 ---
 
 Mozilla has announced that part of the move to Manifest V3 in Firefox will mean that the [`page_action`](https://developer.mozilla.org/docs/Mozilla/Add-ons/WebExtensions/API/pageAction) extension API will be merged into [`action`](https://developer.mozilla.org/docs/Mozilla/Add-ons/WebExtensions/manifest.json/action). Documentation for `action` shows that extension icons can appear in various places - but the address bar is not one of them. This strikes me as a mistake, one that will (predictably) annoy people who use extensions that currently use page actions - and who count on them to keep their browser toolbars free of clutter. 
