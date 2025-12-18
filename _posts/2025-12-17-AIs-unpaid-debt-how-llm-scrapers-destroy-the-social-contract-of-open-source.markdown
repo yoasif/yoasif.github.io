@@ -3,9 +3,9 @@ layout: post
 title:  "AI's Unpaid Debt: How LLM Scrapers Destroy the Social Contract of Open Source"
 date:   2025-12-17 08:26 -0500
 categories: writing
-tags: firefox mozilla
+tags: open-source ai llm
 external-url: 
-image: /assets/images/social-previews/💔.png
+image: /assets/images/social-previews/BIG TECH AI.png
 redirect_from:
 
 ---
@@ -81,8 +81,6 @@ That is because the US copyright office has [rightly advised that AI generated w
 This means that the LLMs are copyright removal devices - copy open source (or proprietary!) data into it, and you get copyright free data on the other side that you are free to plagiarize into newly copyrighted works.
 
 While this process robs all copyright owners, it is particularly damaging to people involved in sharing communities, since many are particpating not for money but for the love of the game - what librarian Fobazi Ettarh calls "[vocational awe](https://www.inthelibrarywiththeleadpipe.org/2018/vocational-awe/)".
-
-That's because many of the people on sharing communities are sharing not for money, but for the love of the game -- what librarian Fobazi Ettarh calls "[vocational awe](https://www.inthelibrarywiththeleadpipe.org/2018/vocational-awe/)".
 
 ### Vocational Awe and Sharing Communities
 
