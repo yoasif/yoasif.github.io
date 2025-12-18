@@ -38,7 +38,7 @@ What *is* copyleft?
 
 The FSF [defines it](https://www.gnu.org/licenses/copyleft.en.html) as a method to make a work free "and requiring all modified versions to be free as well".
 
-The default way that copyright works is [when you create an original work, you own the copyright on that work](https://www.copyright.gov/what-is-copyright/), which gives you some exclusive rights over the intellectual property. Since those rights are exclusive, you need to assign them to others if they want your permission to exercise those rights.
+The default way that copyright works is [when you create an original work, you own the copyright on that work](https://www.copyright.gov/what-is-copyright/), which gives you some exclusive rights over the intellectual property. Since those rights are exclusive, you need to assign them to others if you want to give them permission to exercise those rights.
 
 Open source subverts the default notion of copyright. By releasing your work under open licenses, the copyright owner grants others the same rights that the copyright owner has over the work. Since that means that the copyright owner is effectively giving the work away (with addtional restrictions, depending on the license), it gives that work new life.
 
