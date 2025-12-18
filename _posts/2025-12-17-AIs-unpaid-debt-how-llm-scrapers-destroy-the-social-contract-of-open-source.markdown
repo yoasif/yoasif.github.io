@@ -12,7 +12,7 @@ redirect_from:
 
 **TL;DR**: The big tech AI company LLMs have gobbled up all of our data, but the damage they have done to open source and free culture communities are particularly insidious. By taking advantage of those who share freely, they destroy the bargain that made free software spread like wildfire.
 
-I made <a href="https://www.youtube.com/watch?v=TvPMZeFrr7s">a video</a> if you want to watch instead.
+I made <a href="https://www.youtube.com/watch?v=H6mntOSKb1c">a video</a> if you want to watch instead.
 
 <p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TvPMZeFrr7s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
