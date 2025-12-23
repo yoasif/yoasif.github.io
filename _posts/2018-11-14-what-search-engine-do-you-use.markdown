@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: reddit-post
 title:  "What search engine do you use?"
 date:   2018-11-14 23:57:59 UTC
 categories: social comments
@@ -9,9 +9,13 @@ image: /assets/images/social-previews/startpage.png
 
 ---
 
-> What search engine do you use?
+<div class="comment-area" markdown="1">
+
+### u/yoasif
 
 [Startpage](https://www.startpage.com) uses Google results for their search, and doesn't track you. This is the most "drop in replacement" available for Google search.
+
+</div>
 
 ---
 

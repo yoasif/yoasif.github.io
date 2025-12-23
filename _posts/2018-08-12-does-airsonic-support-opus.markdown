@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: reddit-post
 title:  "Does Airsonic support Opus?"
 date:   2018-08-12 06:52:39 UTC
 categories: social comments
@@ -9,27 +9,34 @@ image:
 
 ---
 
->I'm having trouble trancoding from flac to opus, my command is the following: 
->
-> **Name**
->
-> flac > opus
->
-> **Convert from**
->
-> flac
->
-> **Convert to**
->
-> ogg
->
-> **Step 1**
->
-> `flac --silent --decode --stdout %s`
->
-> **Step 2**
->
-> `opusenc --quiet --bitrate %b - -`
+<div class="self-post-content" markdown="1">
+I'm having trouble trancoding from flac to opus, my command is the following: 
+
+**Name**
+
+flac > opus
+
+**Convert from**
+
+flac
+
+**Convert to**
+
+ogg
+
+**Step 1**
+
+`flac --silent --decode --stdout %s`
+
+**Step 2**
+
+`opusenc --quiet --bitrate %b - -`
+
+</div>
+
+<div class="comment-area" markdown="1">
+
+### u/yoasif
 
 I've been playing with this for a little while today and I came up with one step encode:
 
@@ -42,6 +49,8 @@ Also using it on FLAC to Opus (using ogg as "convert to"):
 `opusenc --vbr --bitrate 192 --downmix-stereo %s -`
 
 works well too.
+</div>
+
 
 ---
 

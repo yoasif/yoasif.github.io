@@ -1,0 +1,170 @@
+---
+layout: default
+---
+
+{% comment %}
+  Logic: Pulls all divs into the Reddit UI, pushes anything after 
+  the final closing div into the Editorial section.
+{% endcomment %}
+{% if content contains '</div>' %}
+    {% assign parts = content | split: '</div>' %}
+    {% assign last_index = parts.size | minus: 1 %}
+    
+    {% capture reddit_ui %}
+      {% for i in (0..last_index) %}
+        {% if i < last_index %}
+          {{ parts[i] }}</div>
+        {% else %}
+          {% assign editorial_ui = parts[i] %}
+        {% endif %}
+      {% endfor %}
+    {% endcapture %}
+{% else %}
+    {% assign reddit_ui = content %}
+    {% assign editorial_ui = "" %}
+{% endif %}
+
+<style>
+    /* THE REDDIT ARTIFACT */
+    .reddit-card { 
+        background: #fff !important; 
+        max-width: 850px; 
+        margin: 3rem auto; 
+        border: 1px solid #ccc !important; 
+        border-radius: 8px !important;
+        display: flex; 
+        text-align: left;
+        font-family: verdana, arial, helvetica, sans-serif !important;
+        color: #333 !important;
+        overflow: hidden;
+    }
+    
+    .vote-sidebar { 
+        width: 55px; background: #f7f7f8 !important; padding: 20px 0; 
+        display: flex; flex-direction: column; align-items: center; flex-shrink: 0;
+        border-right: 1px solid #ebebeb !important;
+    }
+    .vote-arrow { color: #c6c6c6; font-size: 24px; cursor: default; }
+    
+    .reddit-main { 
+        padding: 16px 25px 20px 25px; /* Nudged top padding up from 20px */
+        flex: 1; 
+        min-width: 0; 
+    }
+
+    /* SEO H1 RESET: Forced vertical alignment to the top */
+    .reddit-title-wrap {
+        margin: 0 !important;
+        padding: 0 !important;
+        line-height: 1.1 !important; 
+        display: block !important;
+        border: none !important;
+    }
+
+    .reddit-title { 
+        font-size: 20px !important; 
+        color: #0000ff !important; 
+        text-decoration: none !important; 
+        font-weight: normal !important; 
+        margin: 0 !important;
+        display: inline-block !important;
+        vertical-align: top;
+    }
+    .reddit-title:hover { text-decoration: underline !important; }
+
+    .reddit-body { font-size: 16px !important; line-height: 1.6 !important; }
+
+    /* Blue username headers */
+    .reddit-body h3, .reddit-body h3 a { 
+        color: #369 !important; font-size: 14px !important; 
+        font-weight: bold !important; text-transform: lowercase !important; 
+        margin: 20px 0 8px 0 !important; display: block;
+    }
+
+    /* Image Scaling inside the artifact */
+    .reddit-main img { max-width: 100% !important; height: auto !important; display: block; margin: 20px 0; }
+
+    .reddit-body blockquote {
+        border-left: 2px solid #369 !important; margin: 12px 0 12px 15px !important;
+        padding-left: 12px !important; color: #555 !important;
+    }
+
+    .reddit-meta { 
+        font-size: 13px; 
+        color: #888; 
+        margin-top: 4px; /* Precision gap to title */
+        margin-bottom: 10px; 
+    }
+    .reddit-meta a { color: #369 !important; font-weight: bold; text-decoration: none !important; }
+
+    .reddit-actions { 
+        font-size: 12px; font-weight: bold; color: #888; 
+        border-bottom: 1px solid #f0f0f0; padding-bottom: 10px; margin-bottom: 20px; 
+        display: flex; gap: 15px !important; 
+    }
+    
+    .reddit-body a { color: #0000ff !important; text-decoration: underline !important; }
+
+    .editorial-wrap { margin-top: 3.5rem; clear: both; }
+</style>
+
+<div class="container px-2 mx-auto mb4">
+
+    <article class="reddit-card">
+        <aside class="vote-sidebar" aria-hidden="true">
+            <div class="vote-arrow">▲</div>
+            <div style="color:#888; font-weight:bold; margin:5px 0;">•</div>
+            <div class="vote-arrow">▼</div>
+        </aside>
+
+        <main class="reddit-main">
+            <h1 class="reddit-title-wrap">
+                <a href="{{ page.external-url }}" class="reddit-title">{{ page.title }}</a>
+            </h1>
+            
+            <div class="reddit-meta">
+                submitted by <a href="#">u/{{ page.author }}</a> 
+                to <a href="#">r/{{ page.categories | first }}</a>
+            </div>
+            
+            <div class="reddit-actions">
+                <span>comments</span><span>share</span><span>save</span><span>hide</span><span>report</span>
+            </div>
+
+            <div class="reddit-body">
+                {{ reddit_ui }}
+            </div>
+        </main>
+    </article>
+
+    {% if editorial_ui != "" and editorial_ui != nil %}
+    <div class="editorial-wrap">
+        <div class="prose">
+            {{ editorial_ui }}
+        </div>
+    </div>
+    {% endif %}
+
+</div>
+
+<div class="container mx-auto px-2 py-2 clearfix">
+  {% if page.previous.url %}
+    <div class="col-4 sm-width-full left mr-lg-4 mt-3">
+      <a class="no-underline border-top-thin py-1 block" href="{{ page.previous.url }}">
+        <span class="h5 bold text-accent">Previous</span>
+        <p class="bold h3 link-primary mb-1">{{ page.previous.title }}</p>
+        <p>{{ page.previous.excerpt | strip_html | truncatewords: 15 }}</p>
+      </a>
+    </div>
+  {% endif %}
+
+  {% if page.next.url %}
+    <div class="col-4 sm-width-full left mt-3">
+      <a class="no-underline border-top-thin py-1 block" href="{{ page.next.url }}">
+        <span class="h5 bold text-accent">Next</span>
+        <p class="bold h3 link-primary mb-1">{{ page.next.title }}</p>
+        <p>{{ page.next.excerpt | strip_html | truncatewords: 15 }}</p>
+      </a>
+    </div>
+  {% endif %}
+</div>

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: reddit-post
 title:  "Can we get a permanent fix for the tab strip accent color issue with Firefox 65 version in Windows 10?"
 date:   2019-02-13 03:13:08 UTC
 categories: social comments
@@ -9,7 +9,7 @@ image: /assets/images/reddit/can-we-get-a-permanent-fix-for-the-tab-bar-color-is
 
 ---
 
-> Can we get a permanent fix for the tab bar color issue with the latest FF version in W10? This looks absolutely terrible now.
+<div class="self-post-content" markdown="1">
 
 <p>
 	<figure>
@@ -20,11 +20,18 @@ image: /assets/images/reddit/can-we-get-a-permanent-fix-for-the-tab-bar-color-is
 </figure>
 </p>
 
+</div>
+
+<div class="comment-area" markdown="1">
+
+### u/yoasif
+
 Have you tried disabling your accent color in Windows?
 
 >That's the whole point, I like the accent color in other windows like File Explorer etc, but in Firefox I prefer dark mode. I don't want to turn off the accent color in Windows.
 
 Watch bug id [1504766](https://bugzilla.mozilla.org/show_bug.cgi?id=1504766 "Explicit Dark and Light themes (!= Default theme in OS dark mode) shouldn't honor Windows 10 setting for accent color in title bars") and good luck.
+</div>
 
 ---
 

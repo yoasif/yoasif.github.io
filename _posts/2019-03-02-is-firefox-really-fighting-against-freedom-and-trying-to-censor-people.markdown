@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: reddit-post
 title:  "Is Firefox really fighting against freedom and trying to censor people?"
 date:   2019-03-02 01:27:20 UTC
 categories: social comments
@@ -8,6 +8,10 @@ external-url: https://www.reddit.com/r/firefox/comments/awblsx/is_firefox_really
 image: /assets/images/social-previews/firefox.png
 
 ---
+
+<div class="comment-area" markdown="1">
+
+### u/yoasif
 
 I'm curious -- what do you disagree with on the [linked page](https://foundation.mozilla.org/en/campaigns/eu-misinformation/)?
 
@@ -34,6 +38,7 @@ Did you read the page? It says nothing about censorship and only asks for increa
 Where do you see anything here about misinformation, even?
 
 Also, why do you even care about Facebook? It's like the kiddie version of the internet. If you want freedom of speech, get a domain outside the control of countries that care about censorship and post whatever you want. Are people really using Facebook as a blogging platform and complaining if stuff gets removed? That is what they do!
+</div>
 
 ---
 

@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: reddit-post
 title:  "How can I set a manually installed browser as the default on Debian-based distributions like Ubuntu and Mint?"
+author: azzamsa
 date:   2019-02-05 10:21:34 UTC
 categories: social comments
 tags: browsers linux debian ubuntu mint
@@ -9,13 +10,20 @@ image:
 
 ---
 
->Hi
->
->I am trying to set my Firefox developer as default in GNU/Linux, But I am stuck. Firefox Dev didn't shows up in `sudo update-alternatives --config x-www-browser`. In some app I have set them manually, but it's painful to set to every app, since they read the default value in my system. I don't use desktop environment so `.desktop` didn't work for me.
->
->Anyone successfully add firefox Dev as default using `sudo update-alternatives --config x-www-browser` ?
->
->Thanks.
+<div class="self-post-content" markdown="1">
+
+Hi
+
+I am trying to set my Firefox developer as default in GNU/Linux, But I am stuck. Firefox Dev didn't shows up in `sudo update-alternatives --config x-www-browser`. In some app I have set them manually, but it's painful to set to every app, since they read the default value in my system. I don't use desktop environment so `.desktop` didn't work for me.
+
+Anyone successfully add firefox Dev as default using `sudo update-alternatives --config x-www-browser` ?
+
+Thanks.
+</div>
+
+<div class="comment-area" markdown="1">
+
+### u/yoasif
 
 This may be helpful for you: <https://askubuntu.com/a/965417>
 
@@ -28,6 +36,8 @@ Mirrored below:
 >instead of using qutebrowser only as second-to-last argument (because update-alternatives complained about the path not being absolute) then
 >
 > `update-alternatives --config x-www-browser`
+
+</div>
 
 ---
 

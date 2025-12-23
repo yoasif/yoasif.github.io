@@ -1,6 +1,7 @@
 ---
-layout: post
-title:  "Post 57, what is Firefox&rsquo;s unique selling proposition?"
+layout: reddit-post
+title:  "Post 57, what is Firefox's unique selling proposition?"
+author: uhhuhlyrics
 date:   2017-08-09 11:55:38 UTC
 categories: social comments
 tags: Firefox browsers reddit social
@@ -11,7 +12,9 @@ image: /assets/images/social-previews/firefox.png
 
 ---
 
-> After version 57, what will be Firefox's USP?  
+<div class="comment-area" markdown="1">
+
+> After version 57, what will be Firefox's USP?
 
 Being the best browser. Look at WebVR, the CSS Grids dev tools, the tab handling improvements in v55, the plain better UX in general.
 
@@ -22,6 +25,8 @@ Firefox has always had a better chrome, in my mind -- and with a faster engine, 
 Also, and this one is obvious -- Mozilla is already extending WebExtensions to do things that are not possible in Chrome. Firefox post-57 is *not* a Chrome clone, so moving to Chrome will leave you using a browser with worse add-on support.
 
 Do people really think that by moving to Chrome they just get to what Firefox will be earlier? That may explain some of these "I quit" posts. Again, Firefox *has already extended WebExtensions past what Chrome can do*.
+
+</div>
 
 ### Context
 

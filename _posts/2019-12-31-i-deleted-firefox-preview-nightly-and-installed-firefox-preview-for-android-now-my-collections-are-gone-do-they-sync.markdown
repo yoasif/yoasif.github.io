@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: reddit-post
 title:  "I deleted Firefox Preview Nightly and installed Firefox Preview for Android. Now my Collections are gone. Do they sync?"
+author: PenPinapplPen
 date:   2019-12-31 05:23:24 UTC
 categories: social comments
 tags: firefox fenix android
@@ -9,7 +10,15 @@ image: /assets/images/social-previews/firefox.png
 
 ---
 
-> I wasn't really thinking and deleted Firefox Preview Nightly due to the constant crashing and downloaded Firefox Preview. I never thought about my Collections, which I had several. Will they sync or are they gone forever? Might I get them back if I reinstall Firefox Preview Nightly?
+<div class="self-post-content" markdown="1">
+
+I wasn't really thinking and deleted Firefox Preview Nightly due to the constant crashing and downloaded Firefox Preview. I never thought about my Collections, which I had several. Will they sync or are they gone forever? Might I get them back if I reinstall Firefox Preview Nightly?
+
+</div>
+
+<div class="comment-area" markdown="1">
+
+### u/yoasif
 
 They are gone forever. There is a [bug](https://github.com/mozilla-mobile/fenix/issues/4424) filed for this.
 
@@ -18,6 +27,7 @@ Sorry about your experience.
 >Oh, it's a bug? So there is a chance I can get them back if that's fixed?
 
 More of a missing feature. And no, your collections are gone. Sorry.
+</div>
 
 ### Context
 
