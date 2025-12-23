@@ -14,6 +14,8 @@ image: /assets/images/social-previews/firefox.png
 
 <div class="comment-area" markdown="1">
 
+### u/yoasif
+
 > After version 57, what will be Firefox's USP?
 
 Being the best browser. Look at WebVR, the CSS Grids dev tools, the tab handling improvements in v55, the plain better UX in general.
