@@ -33,8 +33,6 @@ I have never been an iOS user, so I am less familiar with options on that OS - I
 
 OpenStreetMap is awesome, and it is extremely gratifying to see your changes show up on apps like [Organic Maps](https://organicmaps.app/) and [Apple Maps](https://www.apple.com/maps/). Ensuring that organizations that you care about are represented on the map ([put them on the map](https://www.merriam-webster.com/dictionary/put%20%28something%20or%20someone%29%20on%20the%20map)!) can be a form of [digital activism](https://mastodon.social/@yoasif/112944642638540978) -- so get mapping!
 
-</div>
-
 ---
 
 {% include donate-social.html %} You can also message me on [Mastodon](https://mastodon.social/@yoasif).
