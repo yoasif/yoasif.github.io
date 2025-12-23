@@ -1,6 +1,7 @@
 ---
 layout: reddit-post
 title:  "How to get started contributing to OpenStreetMap"
+author: NolanRMcCarthy
 date:   2018-05-25 00:03:00 UTC
 categories: social comments
 tags: openstreetmap
