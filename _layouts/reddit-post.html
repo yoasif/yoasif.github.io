@@ -43,7 +43,13 @@ layout: default
         width: 55px; background: #f7f7f8 !important; padding: 20px 0; 
         display: flex; flex-direction: column; align-items: center; flex-shrink: 0;
         border-right: 1px solid #ebebeb !important;
-    }
+}
+
+/* Hide sidebar on small screens */
+@media (max-width: 640px) {
+    .vote-sidebar { display: none !important; }
+}
+
     .vote-arrow { color: #c6c6c6; font-size: 24px; cursor: default; }
     
     .reddit-main { 
