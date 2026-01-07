@@ -113,7 +113,7 @@ Eventually, the cost becomes non-trivial and at that point, "the user may decide
 
 The deceptive design pattern that makes it all possible is the last one I want to highlight: [preselection](https://www.deceptive.design/types/preselection).
 
-Deceptive Patterns notes that this pattern takes advantage of the default effect cognitive bias; "a psychological phenomenon where people tend to go with the option that is already chosen for them, even if there are other choices available."
+Deceptive Patterns notes that this pattern takes advantage of the [default effect](https://en.wikipedia.org/wiki/Default_effect) cognitive bias: "a psychological phenomenon where people tend to go with the option that is already chosen for them, even if there are other choices available."
 
 Preselection is what allows Mozilla to continually nag and obstruct users - all while putting the onus on disabling the interruptions on the person using Firefox.
 
