@@ -143,6 +143,17 @@ It really is that simple. Mozilla never designed Link Previews by itself, as the
 
 It's not even like we can point to people asking for this feature -- I looked for extensions that are similar to Link Previews, and [all of them](https://addons.mozilla.org/en-US/firefox/addon/linkover/) [combined](https://addons.mozilla.org/en-US/firefox/addon/open-in-popup-window/) [total](https://addons.mozilla.org/en-US/firefox/addon/open-in-popup/) up to around 300 users.
 
+<p>
+<figure>
+  <picture>
+    <img 
+      src="{{site.url}}/assets/images/firefox/link-previews/link-preview-extensions.png"
+      alt="Montage of link previewing extensions on Mozilla Add-ons">
+  </picture>
+  <figcaption>Link previewing extensions aren't very popular among Firefox fans</figcaption>
+</figure>
+</p>
+
 What's really happening is that Mozilla wanted people using AI features, but they want people to opt into them -- likely so they could say that Firefox AI features are always opt-in. How can you make that happen without actually enabling AI across the board?
 
 Mozilla figured it out - enable the feature without AI and use the stub feature to advertise for the complete version. It is basically a demo advertising the full version.
