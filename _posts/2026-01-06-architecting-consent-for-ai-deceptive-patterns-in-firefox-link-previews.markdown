@@ -72,7 +72,6 @@ Firefox now shows the Link Preview popups when long clicking a link. While this 
 </figure>
 </p>
 
-
 While Mozilla introduced Link Previews as "entirely optional", people are now seeing link previews without ever enabling the feature.
 
 You probably noticed that Mozilla said that the previews can optionally include AI-generated key points. That's because Mozilla enabled link previews by default, but made the summaries optional.
@@ -118,6 +117,17 @@ Deceptive Patterns notes that this pattern takes advantage of the [default effec
 Preselection is what allows Mozilla to continually nag and obstruct users - all while putting the onus on disabling the interruptions on the person using Firefox.
 
 Contrary to their messaging on social media, Mozilla preselected the option to  enable Link Previews in an automatic update.
+
+<p>
+<figure>
+  <picture>
+    <img 
+      src="{{site.url}}/assets/images/firefox/link-previews/link-previews-prefs.png"
+      alt="Screenshot of Firefox Link Previews preferences">
+  </picture>
+  <figcaption>Link Previews were enabled by default in certain regions</figcaption>
+</figure>
+</p>
 
 ## Opt-Ins and the "Kill Switch"
 
