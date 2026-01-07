@@ -12,6 +12,11 @@ redirect_from:
 
 **TL;DR**: Mozilla has a new CEO and a new mission: transform Firefox into an AI browser. That has run into some snags, as Firefox users don't seem that interested in AI. Mozilla is forging ahead, utilizing deceptive patterns (previously known as dark patterns) to nag and annoy people into enabling AI features. You can see this in the introduction of Link Previews, an extremely invasive anti-feature that exists solely to push AI into your experience.
 
+I made <a href="https://www.youtube.com/watch?v=3SdlKDD5jF8">a video</a> if you want to watch instead.
+
+<p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3SdlKDD5jF8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+
 ---
 
 {:toc}
