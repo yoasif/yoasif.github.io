@@ -135,7 +135,7 @@ The design of Link Previews shows us the lengths to which Mozilla is willing to 
 
 After designing the feature, Mozilla allowed users to use it by opting into it, first by enabling it in settings, then by performing a keyboard shortcut to activate the popup each time.
 
-Making the feature available in settings wasn't going to juice the metrics, though, so Mozilla decided that they needed to put it in front of people who weren't checking out the settings UI.
+Making the feature available in settings wasn't going to juice the metrics though, so Mozilla decided that they needed to put it in front of people who weren't checking out the settings UI.
 
 Likely predicting backlash for enabling an AI feature by default, Mozilla decided to split the original feature into two, so they could enable the non-AI portion by default.
 
