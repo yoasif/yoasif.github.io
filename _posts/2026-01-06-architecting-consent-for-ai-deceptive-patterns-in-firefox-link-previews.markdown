@@ -22,9 +22,9 @@ I made <a href="https://www.youtube.com/watch?v=3SdlKDD5jF8">a video</a> if you 
 {:toc}
 * toc
 
-Mozilla's new CEO has a new mission to make an AI browser. The community's reaction has been decidedly negative, with posters on social media saying that they have little to no interest in Mozilla's AI ambitions.
+Mozilla's [new CEO has a new mission to make an AI browser](https://blog.mozilla.org/en/mozilla/leadership/mozillas-next-chapter-anthony-enzor-demeo-new-ceo/). The community's reaction has been decidedly negative, with posters on social media saying that they have [little to no interest in Mozilla's AI ambitions](https://www.reddit.com/r/firefox/comments/1poe7kb/an_open_letter_to_mozillas_new_ceo_firefox_doesnt/).
 
-Mozilla's response to the community's backlash towards AI was to (re)announce that they would be developing an "AI Kill Switch" to disable any existing and forthcoming AI features in Firefox.
+Mozilla's response to the community's backlash towards AI was to (re)announce that they would be developing an "[AI Kill Switch](https://mastodon.social/@firefoxwebdevs/115740500373677782)" to disable any existing and forthcoming AI features in Firefox.
 
 Mozilla employees followed up on their traditional media response with a social media response, and [multiple](https://mastodon.social/@firefoxwebdevs/115740500373677782) [team members](https://www.reddit.com/r/firefox/comments/1ppydhv/firefox_is_adding_an_ai_kill_switch/nuqop1h/) fielded questions from the general public.
 
@@ -51,6 +51,27 @@ Link Previews was promoted to release on Firefox 142.
 Firefox 142's [release notes](https://www.firefox.com/en-US/firefox/142.0/releasenotes/) describes how the feature was changed upon release. Mozilla says: "Long press a link (or right-click and choose Preview Link). Previews can optionally include AI-generated key points, which are processed on your device to protect your privacy."
 
 Firefox now shows the Link Preview popups when long clicking a link. While this gesture is common on mobile, it is not on desktops - and many people are seeing the popups and not understanding why they appear. Some are even convinced that they are coming from the sites themselves, like from YouTube.
+
+<p>
+<figure>
+  <picture>
+    <img 
+      src="{{site.url}}/assets/images/firefox/link-previews/popups.png"
+      alt="Montage of screenshots of reddit threads asking about Link Preview popups">
+  </picture>
+  <figcaption>Firefox enthusiasts are confused about the Link Preview popups</figcaption>
+</figure>
+
+<figure>
+  <picture>
+    <img 
+      src="{{site.url}}/assets/images/firefox/link-previews/youtube-popups.png"
+      alt="Montage of screenshots of reddit threads asking about Link Preview popups on YouTube">
+  </picture>
+  <figcaption>Firefox users on reddit believed that YouTube was pushing AI on them</figcaption>
+</figure>
+</p>
+
 
 While Mozilla introduced Link Previews as "entirely optional", people are now seeing link previews without ever enabling the feature.
 
