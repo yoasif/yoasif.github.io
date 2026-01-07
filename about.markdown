@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Product person. Into open data and open source. Moderator of the Firefox subreddit. Open to work ([contact](mailto:amasroor@buffalo.edu) me 😊).
+Product person. Into open data and open source. [Ex-]({% post_url 2024-12-09-leaving-reddit-and-salvaging-my-posts %})Moderator of the Firefox subreddit. Open to work ([contact](mailto:amasroor@buffalo.edu) me 😊).
