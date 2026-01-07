@@ -26,8 +26,6 @@ Mozilla's new CEO has a new mission to make an AI browser. The community's react
 
 Mozilla's response to the community's backlash towards AI was to (re)announce that they would be developing an "AI Kill Switch" to disable any existing and forthcoming AI features in Firefox.
 
-Mozilla responded to the backlash by saying that they would be developing an "AI Kill Switch" to disable any existing and forthcoming AI features in Firefox.
-
 Mozilla employees followed up on their traditional media response with a social media response, and [multiple](https://mastodon.social/@firefoxwebdevs/115740500373677782) [team members](https://www.reddit.com/r/firefox/comments/1ppydhv/firefox_is_adding_an_ai_kill_switch/nuqop1h/) fielded questions from the general public.
 
 As Firefox users asked how the "kill switch" would work, [Mozilla began to sound more shifty](https://mastodon.social/@firefoxwebdevs/115740901466126279), saying that while there are some gray areas of what "opt-in" means to different people, their kill switch would [absolutely remove that stuff](https://mastodon.social/@firefoxwebdevs/115740500918701463).
