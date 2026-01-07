@@ -84,13 +84,13 @@ The obstruction in Firefox is obvious - the browser is obstructing the user from
 
 ### Nagging
 
-The obstruction in Link Previews doesn't just happen once, though. After Firefox updates, the popup appears continually as people browse the web normally. This is *nagging*, defined by the team over at Deceptive Patterns as: "a tax that the provider imposes on users who do not want to comply with the provider's wishes." 
+The obstruction in Link Previews doesn't just happen once, though. After Firefox updates, the popup appears continually as people browse the web normally. This is *[nagging](https://www.deceptive.design/types/nagging)*, defined by the team over at Deceptive Patterns as: "a tax that the provider imposes on users who do not want to comply with the provider's wishes." 
 
 Eventually, the cost becomes non-trivial and at that point, "the user may decide it's more cost effective to just give in and agree to whatever the provider is asking for, even if it is against their best interests".
 
 ### Preselection
 
-The deceptive design pattern that makes it all possible is the last one I want to highlight: preselection.
+The deceptive design pattern that makes it all possible is the last one I want to highlight: [preselection](https://www.deceptive.design/types/preselection).
 
 Deceptive Patterns notes that this pattern takes advantage of the default effect cognitive bias; "a psychological phenomenon where people tend to go with the option that is already chosen for them, even if there are other choices available."
 
