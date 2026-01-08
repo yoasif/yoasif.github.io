@@ -94,7 +94,7 @@ I got some responses that my criticism for Link Previews leaking your privacy do
 
 That is true, but it also doesn't defend Link Previews in any way. The reason that Mozilla tells us that the AI generated summaries are generated locally to protect your privacy is because the alternative would be to send it off to a cloud-based LLM. Mozilla doesn't apply the same thinking to the Link Previews itself, since privacy (like security) is layered.
 
-To demonstrate, we can do a [search](https://www.startpage.com/sp/search?query=things+you+should+never+do&cat=web&pl=opensearch) for the [same](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/) page I previewed in the mockups I generated.
+To demonstrate, we can do a [search](https://www.startpage.com/sp/search?query=things+you+should+never+do&cat=web&pl=opensearch) for the [same](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/) page I previewed in the [mockups](#an-alternative-opt-in) I generated.
 
 <p>
 <figure>
