@@ -88,7 +88,7 @@ The request to the page happens from your computer and is not proxied in any way
 
 #### Criticism
 
-(This section updated on January 8)
+**Note**: This section updated on January 8.
 
 I got some responses that my criticism for Link Previews leaking your privacy doesn't make sense, since visiting the page would also share the same data with the originating server.
 
