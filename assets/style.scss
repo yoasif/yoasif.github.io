@@ -54,10 +54,11 @@ kbd {
 
 #breadcrumbs {margin-bottom: 1em;}
 
-video {
-  /* override other styles to make responsive */
+video, iframe {
   max-width: 100%;
-  height: auto   !important;
+  height: auto;
+  aspect-ratio: attr(width) / attr(height); 
+  display: block;
 }
 
 .image-row {
