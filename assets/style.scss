@@ -52,3 +52,27 @@ video {
   max-width: 100%;
   height: auto   !important;
 }
+
+.image-row {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 16px;
+  margin-bottom: 1.5em;
+}
+
+.image-row picture {
+  width: 100%;
+  display: block;
+}
+
+.image-row img {
+  width: 100%;
+  height: auto;
+  display: block;
+  object-fit: cover;
+}
+
+.image-row figcaption {
+  grid-column: 1 / -1; 
+  margin-top: 10px;
+}

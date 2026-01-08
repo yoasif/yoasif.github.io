@@ -52,25 +52,55 @@ Firefox 142's [release notes](https://www.firefox.com/en-US/firefox/142.0/releas
 
 Firefox now shows the Link Preview popups when long clicking a link. While this gesture is common on mobile, it is not on desktops - and many people are seeing the popups and not understanding why they appear. Some are even convinced that they are coming from the sites themselves, like from YouTube.
 
-<p>
-<figure>
+<figure class="image-row">
+<a href="https://www.reddit.com/r/firefox/comments/1prq1kf/is_this_some_new_ai_feature_in_ff/">
   <picture>
     <img 
-      src="{{site.url}}/assets/images/firefox/link-previews/popups.png"
-      alt="Montage of screenshots of reddit threads asking about Link Preview popups">
+      src="{{site.url}}/assets/images/firefox/link-previews/reddit-ai.png"
+      alt="Screenshot of reddit page asking if this is some new AI feature in Firefox">
   </picture>
+</a>
+<a href="https://www.reddit.com/r/firefox/comments/1mvoong/randomly_getting_link_previews_on_webpages_using/">
+  <picture>
+    <img 
+      src="{{site.url}}/assets/images/firefox/link-previews/reddit-random.png"
+      alt="Screenshot of reddit page asking whether link previews can be disabled">
+  </picture>
+</a>
+<a href="https://www.reddit.com/r/firefox/comments/1ps6kc3/firefox_what_is_this/">
+  <picture>
+    <img 
+      src="{{site.url}}/assets/images/firefox/link-previews/reddit-what.png"
+      alt="Screenshot of reddit page asking Firefox what is this?">
+  </picture>
+</a>
   <figcaption>Firefox enthusiasts are confused about the Link Preview popups</figcaption>
 </figure>
 
-<figure>
+<figure class="image-row">
+<a href="https://www.reddit.com/r/firefox/comments/1pr67te/how_would_i_remove_this_popup_about_firefoxs_ai/">
   <picture>
     <img 
-      src="{{site.url}}/assets/images/firefox/link-previews/youtube-popups.png"
-      alt="Montage of screenshots of reddit threads asking about Link Preview popups on YouTube">
+      src="{{site.url}}/assets/images/firefox/link-previews/youtube-how.png"
+      alt="Screenshot of reddit page asking how remove a popup about Firefox AI on YouTube">
   </picture>
-  <figcaption>Firefox users on reddit believed that YouTube was pushing AI on them</figcaption>
+</a>
+<a href="https://www.reddit.com/r/firefox/comments/1oam4g9/how_to_get_rid_of_youtube_ai/">
+  <picture>
+    <img 
+      src="{{site.url}}/assets/images/firefox/link-previews/youtube-how-rid.png"
+      alt="Screenshot of reddit page asking how to get rid of YouTube AI">
+  </picture>
+</a>
+<a href="https://www.reddit.com/r/firefox/comments/1pnf3j4/we_cant_generate_key_points_for_this_page_popup/">
+  <picture>
+    <img 
+      src="{{site.url}}/assets/images/firefox/link-previews/youtube-we.png"
+      alt="Screenshot of reddit page asking why Firefox can't generate key points on YouTube">
+  </picture>
+</a>
+  <figcaption>Firefox enthusiasts are confused about the Link Preview popups</figcaption>
 </figure>
-</p>
 
 While Mozilla introduced Link Previews as "entirely optional", people are now seeing link previews without ever enabling the feature.
 
@@ -185,16 +215,30 @@ It really is that simple. Mozilla never designed Link Previews by itself, as the
 
 It's not even like we can point to people asking for this feature -- I looked for extensions that are similar to Link Previews, and [all of them](https://addons.mozilla.org/en-US/firefox/addon/linkover/) [combined](https://addons.mozilla.org/en-US/firefox/addon/open-in-popup-window/) [total](https://addons.mozilla.org/en-US/firefox/addon/open-in-popup/) up to around 300 users.
 
-<p>
-<figure>
+<figure class="image-row">
+<a href="https://addons.mozilla.org/en-US/firefox/addon/open-in-popup-window/">
   <picture>
     <img 
-      src="{{site.url}}/assets/images/firefox/link-previews/link-preview-extensions.png"
-      alt="Montage of link previewing extensions on Mozilla Add-ons">
+      src="{{site.url}}/assets/images/firefox/link-previews/extension-open-in-popup-window.png"
+      alt="Screenshot of Mozilla Add-ons page listing for Open in Popup Window">
   </picture>
+</a>
+<a href="https://addons.mozilla.org/en-US/firefox/addon/linkover/">
+  <picture>
+    <img 
+      src="{{site.url}}/assets/images/firefox/link-previews/extension-linkover.png"
+      alt="Screenshot of Mozilla Add-ons page listing for Linkover">
+  </picture>
+</a>
+<a href="https://addons.mozilla.org/en-US/firefox/addon/open-in-popup/">
+  <picture>
+    <img 
+      src="{{site.url}}/assets/images/firefox/link-previews/extension-open-in-popup.png"
+      alt="Screenshot of Mozilla Add-ons page listing for Open in Popup">
+  </picture>
+</a>
   <figcaption>Link previewing extensions aren't very popular among Firefox fans</figcaption>
 </figure>
-</p>
 
 What's really happening is that Mozilla wanted people using AI features, but they want people to opt into them -- likely so they could say that Firefox AI features are always opt-in. How can you make that happen without actually enabling AI across the board?
 
