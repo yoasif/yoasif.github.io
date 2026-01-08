@@ -86,6 +86,48 @@ If you click your mouse button over a link for a second, your browser will visit
 
 The request to the page happens from your computer and is not proxied in any way. That means that your IP address will be leaked to the server hosting the link that you are previewing. Mozilla says that key points are processed locally to protect your privacy in the release notes, but says nothing about leaking your privacy in showing the link preview (and enabling it by default).
 
+#### Criticism
+
+(This section updated on January 8)
+
+I got some responses that my criticism for Link Previews leaking your privacy doesn't make sense, since visiting the page would also share the same data with the originating server.
+
+That is true, but it also doesn't defend Link Previews in any way. The reason that Mozilla tells us that the AI generated summaries are generated locally to protect your privacy is because the alternative would be to send it off to a cloud-based LLM. Mozilla doesn't apply the same thinking to the Link Previews itself, since privacy (like security) is layered.
+
+To demonstrate, we can do a [search](https://www.startpage.com/sp/search?query=things+you+should+never+do&cat=web&pl=opensearch) for the [same](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/) page I previewed in the mockups I generated.
+
+<p>
+<figure>
+  <picture>
+    <img 
+      src="{{site.url}}/assets/images/firefox/link-previews/never-do.png"
+      alt="Screenshot of a Startpage search in Firefox">
+  </picture>
+  <figcaption>A Startpage search. Note the "Visit in Anonymous View" link below the search result</figcaption>
+</figure>
+</p>
+
+I use Startpage, and they offer a "Visit in Anonymous View" that actually works like a privacy preserving preview.
+
+<p>
+<figure>
+  <picture>
+    <img 
+      src="{{site.url}}/assets/images/firefox/link-previews/things-you-should-never-do-anonymous.png"
+      alt="Screenshot of a blog post inside of Startpage anonymous view">
+  </picture>
+  <figcaption>Anonymous view of a blog post on Startpage</figcaption>
+</figure>
+</p>
+
+This feature actually works to preserve my privacy. The originating host never sees my request, and I can visit the page on my own if I want to.
+
+Would people be saying that Mozilla is intruding on your privacy if they saw what pages you were previewing? If you wouldn't want Mozilla knowing what pages you are previewing, why would you want the originating host to?
+
+There is no doubt that Firefox is causing people to visit more pages than they normally would, and those pages aren't even being viewed by people, as they are processed by Link Previews. That Mozilla imposed this privacy leaking change on Firefox users in an automated update is indisputable.
+
+---
+
 While Mozilla says that the AI features in Link Previews have always been opt-in, it is obvious that this is sleight of hand. Mozilla thinks that by wrapping the AI feature inside a non-AI feature, and enabling the non-AI feature by default, the browser can interrupt you over and over again to finally opt into the AI features.
 
 If you don't know what is happening, this might be easy to miss. Thankfully, the team over at [Deceptive Patterns](https://www.deceptive.design/) have researched "the [growing issue](https://www.deceptive.design/about-us) of manipulative, deceptive and coercive design patterns in the digital world".
