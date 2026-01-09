@@ -98,7 +98,7 @@ Firefox now shows the Link Preview popups when long clicking a link. While this 
       alt="Screenshot of reddit page asking why Firefox can't generate key points on YouTube">
   </picture>
 </a>
-  <figcaption>Firefox enthusiasts are confused about the Link Preview popups</figcaption>
+  <figcaption>Firefox users on reddit believed that YouTube was pushing AI on them</figcaption>
 </figure>
 
 While Mozilla introduced Link Previews as "entirely optional", people are now seeing link previews without ever enabling the feature.
