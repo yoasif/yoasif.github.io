@@ -53,50 +53,54 @@ Firefox now shows the Link Preview popups when long clicking a link. While this 
 
 <figure class="image-row">
 <a href="https://www.reddit.com/r/firefox/comments/1prq1kf/is_this_some_new_ai_feature_in_ff/">
-  <picture>
-    <img 
-      src="{{site.url}}/assets/images/firefox/link-previews/reddit-ai.png"
-      alt="Screenshot of reddit page asking if this is some new AI feature in Firefox">
-  </picture>
+  
+<picture>
+<source srcset="{{site.url}}/assets/images/firefox/link-previews/reddit-ai.avif" type="image/avif">
+<source srcset="{{site.url}}/assets/images/firefox/link-previews/reddit-ai.webp" type="image/webp">
+<img src="{{site.url}}/assets/images/firefox/link-previews/reddit-ai.png" alt="Screenshot of reddit page asking if this is some new AI feature in Firefox">
+</picture>
 </a>
 <a href="https://www.reddit.com/r/firefox/comments/1mvoong/randomly_getting_link_previews_on_webpages_using/">
-  <picture>
-    <img 
-      src="{{site.url}}/assets/images/firefox/link-previews/reddit-random.png"
-      alt="Screenshot of reddit page asking whether link previews can be disabled">
-  </picture>
+  
+<picture>
+<source srcset="{{site.url}}/assets/images/firefox/link-previews/reddit-random.avif" type="image/avif">
+<source srcset="{{site.url}}/assets/images/firefox/link-previews/reddit-random.webp" type="image/webp">
+<img src="{{site.url}}/assets/images/firefox/link-previews/reddit-random.png" alt="Screenshot of reddit page asking whether link previews can be disabled">
+</picture>
 </a>
 <a href="https://www.reddit.com/r/firefox/comments/1ps6kc3/firefox_what_is_this/">
-  <picture>
-    <img 
-      src="{{site.url}}/assets/images/firefox/link-previews/reddit-what.png"
-      alt="Screenshot of reddit page asking Firefox what is this?">
-  </picture>
+  
+<picture>
+<source srcset="{{site.url}}/assets/images/firefox/link-previews/reddit-what.avif" type="image/avif">
+<source srcset="{{site.url}}/assets/images/firefox/link-previews/reddit-what.webp" type="image/webp">
+<img src="{{site.url}}/assets/images/firefox/link-previews/reddit-what.png" alt="Screenshot of reddit page asking Firefox what is this?">
+</picture>
 </a>
   <figcaption>Firefox enthusiasts are confused about the Link Preview popups</figcaption>
 </figure>
 
 <figure class="image-row">
 <a href="https://www.reddit.com/r/firefox/comments/1pr67te/how_would_i_remove_this_popup_about_firefoxs_ai/">
-  <picture>
-    <img 
-      src="{{site.url}}/assets/images/firefox/link-previews/youtube-how.png"
-      alt="Screenshot of reddit page asking how remove a popup about Firefox AI on YouTube">
-  </picture>
+  
+<picture>
+<source srcset="{{site.url}}/assets/images/firefox/link-previews/youtube-how.webp" type="image/webp">
+<img src="{{site.url}}/assets/images/firefox/link-previews/youtube-how.png" alt="Screenshot of reddit page asking how remove a popup about Firefox AI on YouTube">
+</picture>
 </a>
 <a href="https://www.reddit.com/r/firefox/comments/1oam4g9/how_to_get_rid_of_youtube_ai/">
-  <picture>
-    <img 
-      src="{{site.url}}/assets/images/firefox/link-previews/youtube-how-rid.png"
-      alt="Screenshot of reddit page asking how to get rid of YouTube AI">
-  </picture>
+  
+<picture>
+<source srcset="{{site.url}}/assets/images/firefox/link-previews/youtube-how-rid.avif" type="image/avif">
+<source srcset="{{site.url}}/assets/images/firefox/link-previews/youtube-how-rid.webp" type="image/webp">
+<img src="{{site.url}}/assets/images/firefox/link-previews/youtube-how-rid.png" alt="Screenshot of reddit page asking how to get rid of YouTube AI">
+</picture>
 </a>
 <a href="https://www.reddit.com/r/firefox/comments/1pnf3j4/we_cant_generate_key_points_for_this_page_popup/">
-  <picture>
-    <img 
-      src="{{site.url}}/assets/images/firefox/link-previews/youtube-we.png"
-      alt="Screenshot of reddit page asking why Firefox can't generate key points on YouTube">
-  </picture>
+  
+<picture>
+<source srcset="{{site.url}}/assets/images/firefox/link-previews/youtube-we.webp" type="image/webp">
+<img src="{{site.url}}/assets/images/firefox/link-previews/youtube-we.png" alt="Screenshot of reddit page asking why Firefox can't generate key points on YouTube">
+</picture>
 </a>
   <figcaption>Firefox users on reddit believed that YouTube was pushing AI on them</figcaption>
 </figure>
@@ -127,11 +131,11 @@ To demonstrate, we can do a [search](https://www.startpage.com/sp/search?query=t
 
 <p>
 <figure>
-  <picture>
-    <img 
-      src="{{site.url}}/assets/images/firefox/link-previews/never-do.png"
-      alt="Screenshot of a Startpage search in Firefox">
-  </picture>
+  
+<picture>
+<source srcset="{{site.url}}/assets/images/firefox/link-previews/never-do.webp" type="image/webp">
+<img src="{{site.url}}/assets/images/firefox/link-previews/never-do.png" alt="Screenshot of a Startpage search in Firefox">
+</picture>
   <figcaption>A Startpage search. Note the "Visit in Anonymous View" link below the search result</figcaption>
 </figure>
 </p>
@@ -140,11 +144,11 @@ I use Startpage, and they offer a "Visit in Anonymous View" that actually works 
 
 <p>
 <figure>
-  <picture>
-    <img 
-      src="{{site.url}}/assets/images/firefox/link-previews/things-you-should-never-do-anonymous.png"
-      alt="Screenshot of a blog post inside of Startpage anonymous view">
-  </picture>
+  
+<picture>
+<source srcset="{{site.url}}/assets/images/firefox/link-previews/things-you-should-never-do-anonymous.webp" type="image/webp">
+<img src="{{site.url}}/assets/images/firefox/link-previews/things-you-should-never-do-anonymous.png" alt="Screenshot of a blog post inside of Startpage anonymous view">
+</picture>
   <figcaption>Anonymous view of a blog post on Startpage</figcaption>
 </figure>
 </p>
@@ -191,11 +195,11 @@ Contrary to their messaging on social media, Mozilla preselected the option to  
 
 <p>
 <figure>
-  <picture>
-    <img 
-      src="{{site.url}}/assets/images/firefox/link-previews/link-previews-prefs.png"
-      alt="Screenshot of Firefox Link Previews preferences">
-  </picture>
+  
+<picture>
+<source srcset="{{site.url}}/assets/images/firefox/link-previews/link-previews-prefs.webp" type="image/webp">
+<img src="{{site.url}}/assets/images/firefox/link-previews/link-previews-prefs.png" alt="Screenshot of Firefox Link Previews preferences">
+</picture>
   <figcaption>Link Previews were enabled by default in certain regions</figcaption>
 </figure>
 </p>
@@ -216,25 +220,26 @@ It's not even like we can point to people asking for this feature -- I looked fo
 
 <figure class="image-row">
 <a href="https://addons.mozilla.org/en-US/firefox/addon/open-in-popup-window/">
-  <picture>
-    <img 
-      src="{{site.url}}/assets/images/firefox/link-previews/extension-open-in-popup-window.png"
-      alt="Screenshot of Mozilla Add-ons page listing for Open in Popup Window">
-  </picture>
+  
+<picture>
+<source srcset="{{site.url}}/assets/images/firefox/link-previews/extension-open-in-popup-window.webp" type="image/webp">
+<img src="{{site.url}}/assets/images/firefox/link-previews/extension-open-in-popup-window.png" alt="Screenshot of Mozilla Add-ons page listing for Open in Popup Window">
+</picture>
 </a>
 <a href="https://addons.mozilla.org/en-US/firefox/addon/linkover/">
-  <picture>
-    <img 
-      src="{{site.url}}/assets/images/firefox/link-previews/extension-linkover.png"
-      alt="Screenshot of Mozilla Add-ons page listing for Linkover">
-  </picture>
+  
+<picture>
+<source srcset="{{site.url}}/assets/images/firefox/link-previews/extension-linkover.webp" type="image/webp">
+<img src="{{site.url}}/assets/images/firefox/link-previews/extension-linkover.png" alt="Screenshot of Mozilla Add-ons page listing for Linkover">
+</picture>
 </a>
 <a href="https://addons.mozilla.org/en-US/firefox/addon/open-in-popup/">
-  <picture>
-    <img 
-      src="{{site.url}}/assets/images/firefox/link-previews/extension-open-in-popup.png"
-      alt="Screenshot of Mozilla Add-ons page listing for Open in Popup">
-  </picture>
+  
+<picture>
+<source srcset="{{site.url}}/assets/images/firefox/link-previews/extension-open-in-popup.avif" type="image/avif">
+<source srcset="{{site.url}}/assets/images/firefox/link-previews/extension-open-in-popup.webp" type="image/webp">
+<img src="{{site.url}}/assets/images/firefox/link-previews/extension-open-in-popup.png" alt="Screenshot of Mozilla Add-ons page listing for Open in Popup">
+</picture>
 </a>
   <figcaption>Link previewing extensions aren't very popular among Firefox fans</figcaption>
 </figure>
@@ -263,20 +268,20 @@ Once you load a page, Firefox can advertise that it can summarize the page to yo
 
 <p>
 <figure>
-  <picture>
-    <img 
-      src="{{site.url}}/assets/images/firefox/ai-summary/Firefox Desktop - Summarize1.png"
-      alt="A screenshot of Firefox with a new lightning bolt in the address bar">
-  </picture>
+  
+<picture>
+<source srcset="{{site.url}}/assets/images/firefox/ai-summary/Summarize1.webp" type="image/webp">
+<img src="{{site.url}}/assets/images/firefox/ai-summary/Summarize1.png" alt="A screenshot of Firefox with a new lightning bolt in the address bar">
+</picture>
   <figcaption>⚡ marks the new summarize feature in the address bar</figcaption>
 </figure>
 
 <figure>
-  <picture>
-    <img 
-      src="{{site.url}}/assets/images/firefox/ai-summary/Firefox Desktop - Summarize2.png"
-      alt="Firefox showing the summarize tooltip on mouse cursor hover">
-  </picture>
+  
+<picture>
+<source srcset="{{site.url}}/assets/images/firefox/ai-summary/Summarize2.webp" type="image/webp">
+<img src="{{site.url}}/assets/images/firefox/ai-summary/Summarize2.png" alt="Firefox showing the summarize tooltip on mouse cursor hover">
+</picture>
   <figcaption>The Summarize tooltip</figcaption>
 </figure>
 </p>
@@ -285,20 +290,20 @@ Once you click the button, Firefox will show you the summary, in a reader-view l
 
 <p>
 <figure>
-  <picture>
-    <img 
-      src="{{site.url}}/assets/images/firefox/ai-summary/Firefox Desktop - Summarize3.png"
-      alt="Firefox is loading a summary - the caption is reticulating splines">
-  </picture>
+  
+<picture>
+<source srcset="{{site.url}}/assets/images/firefox/ai-summary/Summarize3.webp" type="image/webp">
+<img src="{{site.url}}/assets/images/firefox/ai-summary/Summarize3.png" alt="Firefox is loading a summary - the caption is reticulating splines">
+</picture>
   <figcaption>Firefox summarizes the article</figcaption>
 </figure>
 
 <figure>
-  <picture>
-    <img 
-      src="{{site.url}}/assets/images/firefox/ai-summary/Firefox Desktop - Summarize4.png"
-      alt="Firefox showing the summary">
-  </picture>
+  
+<picture>
+<source srcset="{{site.url}}/assets/images/firefox/ai-summary/Summarize4.webp" type="image/webp">
+<img src="{{site.url}}/assets/images/firefox/ai-summary/Summarize4.png" alt="Firefox showing the summary">
+</picture>
   <figcaption>The summary is shown, like reader mode.</figcaption>
 </figure>
 </p>
