@@ -55,10 +55,15 @@ kbd {
 #breadcrumbs {margin-bottom: 1em;}
 
 video, iframe {
-  max-width: 100%;
-  height: auto;
-  aspect-ratio: attr(width) / attr(height); 
   display: block;
+  max-width: 100%;
+}
+
+@media (max-width: 52em) {
+  video, iframe {
+    height: auto;
+    aspect-ratio: auto; 
+  }
 }
 
 .image-row {
