@@ -155,7 +155,9 @@ I use Startpage, and they offer a "Visit in Anonymous View" that actually works 
 
 This feature actually works to preserve my privacy. The originating host never sees my request, and I can visit the page on my own if I want to.
 
-Would people be saying that Mozilla is intruding on your privacy if they saw what pages you were previewing? If you wouldn't want Mozilla knowing what pages you are previewing, why would you want the originating host to?
+Startpage shows us how a feature like this could help to protect your privacy -- even as it opens up the potential for abuse. For example, people might say that Mozilla is intruding on your privacy if they saw what pages you were previewing. If you wouldn't want Mozilla knowing what pages you are previewing, why would you want the originating host to?
+
+You may believe that Link Previews don't leak your privacy. Mozilla can improve Link Previews further. Firefox can visit link on pages you visit, so that long-clicking (or hovering) could show you a preview without delay. Would that intrude on users' privacy?
 
 There is no doubt that Firefox is causing people to visit more pages than they normally would, and those pages aren't even being viewed by people, as they are processed by Link Previews. That Mozilla imposed this privacy leaking change on Firefox users in an automated update is indisputable.
 
