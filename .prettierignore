@@ -1,0 +1,10 @@
+# Ignore the generated site
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Ignore dependencies
+node_modules/
+vendor/
+Gemfile.lock
