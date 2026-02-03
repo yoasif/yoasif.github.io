@@ -12,10 +12,10 @@ redirect_from:
 
 **TL;DR**: As Mozilla moves to make Firefox an AI browser, people are looking at other options. Some people are rediscovering Waterfox, a browser that has been around for a decade from independent developer BrowserWorks. In this post, I interview the founder of Waterfox - Alex Kontos, and we discuss Waterfox's history and look towards its future. We also talk about how Waterfox thinks about AI in the browser.
 
-I made <a href="https://www.youtube.com/watch?v=NHosGd7bO0U">a video</a> if you
+I made <a href="https://www.youtube.com/watch?v=Babxhs2WYMk">a video</a> if you
 want to watch instead.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NHosGd7bO0U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Babxhs2WYMk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
