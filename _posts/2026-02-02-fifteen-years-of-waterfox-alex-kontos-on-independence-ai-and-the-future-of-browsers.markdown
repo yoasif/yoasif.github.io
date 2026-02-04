@@ -25,7 +25,7 @@ want to watch instead.
 
 With Mozilla [announcing plans to turn Firefox into an “AI browser,”](https://blog.mozilla.org/en/mozilla/leadership/mozillas-next-chapter-anthony-enzor-demeo-new-ceo/) people are taking stock of browser options. People new to the Firefox community may be looking back towards Chromium-based options. Others are wary about helping Google extend its hegemony over the web platform and are looking to Firefox offshoots like [LibreWolf](https://librewolf.net/) and [Floorp](https://floorp.app/), or further afield with projects like [Servo](https://servo.org/) and [Ladybird](https://ladybird.org/).
 
-As people look for alternatives, they are rediscovering options that didn’t appear overnight. [Waterfox](https://www.waterfox.com/) has been around for more than a decade, built on Mozilla's work in Firefox but bringing it to people without telemetry and some user focused niceties.
+As people look for alternatives, they are rediscovering options that didn’t appear overnight. [Waterfox](https://www.waterfox.com/) has been around for more than a decade, built on Mozilla's work in Firefox but bringing it to people without data collection and some user focused niceties.
 
 As Mozilla goes off to [explore the world of AI](https://stateof.mozilla.org/roadmap/), I thought it would be interesting to catch up with Alex Kontos, the founder of Waterfox. I wanted to discuss with him what it means to build and sustain an independent browser over the long term, how Waterfox’s philosophy diverges from Mozilla’s current direction, and why there’s still value in software that doesn’t treat you like a lab rat.
 
