@@ -10,9 +10,9 @@ image: /assets/images/social-previews/itsatrap.png
 redirect_from:
 ---
 
-**TL;DR**: Mozilla recently released **AI controls** for Firefox — a single control panel that lets people disable AI features in the browser or pick and choose which to leave on. On the surface, this sounds like a win for user choice in an era of AI-everything.
+**TL;DR**: Mozilla recently released **AI controls** for Firefox: a single control panel that lets people disable AI features in the browser or pick and choose which to leave on. On the surface, this sounds like a win for user choice in an era of AI-everything.
 
-If we dig deeper, you can start to see that the kill switch isn’t the whole story. This isn’t just a control panel; it’s an *accountability sink*. By giving you an off-switch, Mozilla’s leadership shifts the ethical burden of AI onto the user - turning their design choices into your responsibility.
+If we dig deeper, you can start to see that the kill switch isn’t the whole story. This feature acts like an *accountability sink*. By giving you an off-switch, Mozilla’s leadership shifts the ethical burden of AI onto the user - turning their design choices into your responsibility.
 
 I made <a href="https://www.youtube.com/watch?v=51hXnOi8G4g">a video</a> if you
 want to watch instead.
