@@ -59,7 +59,7 @@ So the concerns are real and known, so Mozilla is taking people's concerns serio
 
 Right?
 
-That would be accurate, if it were true that Mozilla's translation models were trained on open data. Given how [Mozilla has been talking up open source AI](https://youtu.be/TvPMZeFrr7s?t=40), it would make sense if Mozilla was practicing what it preached.
+That would be accurate, if it were true that Mozilla's translation models were trained on open data. Given how [Mozilla has been talking up open source AI](https://youtu.be/51hXnOi8G4g?t=217), it would make sense if Mozilla was practicing what it preached.
 
 After all, Mozilla is the same company that garnered community contributions for [Common Voice](https://commonvoice.mozilla.org). Common Voice is an open source data set of speech data of over 130 languages, all contributed by members of the community, including myself. That data is available to download on Mozilla’s [Data Collective](https://datacollective.mozillafoundation.org/datasets).
 
@@ -105,7 +105,7 @@ Mozilla translations is also trained on non-public domain data sets.
 
 The fact that LLMs based on pirated data sets are useful is not an accident, or surprising. It would have been commendable if Mozilla had managed to train new translation models without needing to steal from the commons, like big tech has.
 
-By obfuscating the source of the training data in shipping Mozilla products, Mozilla is trying to convince ordinary people to support the theft of the commons. After all, it is useful, and are people really against accessibility improvements?
+By obfuscating the source of the training data in shipping Mozilla products, Mozilla is trying to convince ordinary people to support the [theft of the commons]({% post_url 2025-12-17-AIs-unpaid-debt-how-llm-scrapers-destroy-the-social-contract-of-open-source %}). After all, it is useful, and are people really against accessibility improvements?
 
 The problem is, Mozilla isn't being upfront about what is going on.
 
@@ -149,15 +149,15 @@ The message Mozilla is sending when choosing to overwrite human contributions wi
 
 Some of you may be reading and saying "So what? If you don't like it, just use the kill switch!"
 
-That is clearly the response Mozilla wants us to have, and why the kill switch exists. Don't get me wrong, I appreciate that the option exists for Firefox users that don't want to be nagged to try AI features - like the nags associated with the Link Previews feature.
+That is clearly the response Mozilla wants us to have, and why the kill switch exists. Don't get me wrong, I appreciate that the option exists for Firefox users that don't want to be nagged to try AI features - like the [nags associated with the Link Previews]({% post_url 2026-01-06-architecting-consent-for-ai-deceptive-patterns-in-firefox-link-previews %}) feature.
 
 That doesn't change the fact that by partnering with pirating AI vendors, and indulging in piracy itself, Mozilla helps to foreclose the introduction of the open source AI they claim to care about.
 
-Imagine if back in 2009, when Google introduced [Chrome Frame](https://en.wikipedia.org/wiki/Google_Chrome_Frame), Mozilla rushed to integrate it. If you don't remember Chrome Frame, it was a plugin for Internet Explorer that allowed you to run Chrome's engine in a tab.
+Imagine if back in 2009, when Google introduced [Chrome Frame](https://en.wikipedia.org/wiki/Google_Chrome_Frame), Mozilla rushed to integrate it. If you don't remember Chrome Frame, it was a [plugin for Internet Explorer that allowed you to run Chrome's engine in a tab](https://youtu.be/51hXnOi8G4g?t=795).
 
 Mozilla could have told Firefox users that the introduction of Chrome Frame in Firefox proved how far Microsoft's Intenet Explorer had fallen, and Mozilla could take advantage of the high quality and open source web engine that Google was building.
 
-Why bother investing in Gecko when Mozilla developers could instead work on user facing features, leaving engine work to Google? That is the path that Opera and Microsoft have gone in recent years - both have given up on developing their own web engines in order to instead develop browsers that rely on the work Google invests into Chromium. That relationship gives Google a whole lot of influence over the web platform, since their web platform is being shipped by multiple vendors - including other massive big tech companies.
+Why bother investing in Gecko when Mozilla developers could instead work on user facing features, leaving engine work to Google? That is the path that [Opera](https://www.extremetech.com/computing/148312-opera-drops-presto-switch-to-google-and-apples-webkit-rendering-engine) and [Microsoft](https://blogs.windows.com/msedgedev/2021/03/09/microsoft-edge-legacy-end-of-support/) have gone in recent years - both have given up on developing their own web engines in order to instead develop browsers that rely on the work Google invests into Chromium. That relationship gives Google a whole lot of influence over the web platform, since their web platform is being shipped by multiple vendors - including other massive big tech companies.
 
 Why then did it make sense for Mozilla to continue to invest in Gecko?
 
@@ -181,7 +181,7 @@ There would be little point in integrating Chrome Frame if Mozilla continued to 
 
 Mozilla investing $1.4 billion in non-Firefox AI projects while also integrating closed source, big tech AI is sending the signal that Mozilla isn't interested in developing an open source AI, and instead is looking to get paid by big tech.
 
-Mozilla's pronouncements around AI are incredibly confusing if you take what they say at face value. Mozilla is telling us to not trust big tech AI and to not rent our models, all while they do exactly that. Mozilla doesn't have an instance of Gemini running on Mozilla servers, overwriting human contributions - they are paying Google to rent their model.
+Mozilla's pronouncements around AI are incredibly confusing if you take what they say at face value. Mozilla is telling us to not trust big tech AI and to not rent our models, all while they do exactly that. Mozilla doesn't have an instance of Gemini running on Mozilla servers, [overwriting human contributions]({% post_url 2025-12-08-mozillas-betrayal-of-open-source-googles-gemini-ai-is-overwriting-volunteer-work-on-support-mozilla %}) - they are paying Google to rent their model.
 
 Mozilla says that Mozilla Translations are open source, but they are built exactly the same way that Google's models are built - scraping of copyrighted content without payment or permission.
 
@@ -211,7 +211,7 @@ They could have chosen to allow community members to opt into translation sugges
 
 They could have partnered with their community to help develop an open corpus like they had for Common Voice, in order to power their translation engine. The existing localizations on Support Mozilla could have been used to kickstart model creation, and volunteers could have worked with developers to tune models to ease localization work for contributors. Rather than needing to correct the same errors over and over (since paid Gemini queries don't train the model), contributors could have been actively assisting in training an open model. Instead, Mozilla ignored their community and partnered with slop generating pirates.
 
-Mozilla didn't need to choose to get paid by AI vendors and to try to distract us by investing in AI projects that -- let's face it -- will go nowhere. They could have instead taken that money and spent it anything else -- even home grown AI.
+Mozilla didn't need to choose to get paid by AI vendors and to try to distract us by investing in AI projects that -- let's face it -- will go nowhere. They could have instead taken that money and spent it on anything else -- even home grown AI.
 
 If AI is as amazing as advertised, Mozilla should be able to take that $1.4 billlion they are planning on pouring down the drain and instead turn it into hundreds of billions. Just think -- in just 5 short years, Anthopic went from not existing to being worth over [$300 billion dollars](https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation).
 
