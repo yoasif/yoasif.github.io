@@ -85,7 +85,7 @@ Mozilla is saying "Hey, if you hate AI so much that even pure and good (and opti
 
 The implication is that the AI kill switch exists to protect the sensibilities of whiny luddites, rather than to distract from Mozilla's own failings.
 
-When people later pointed out that the Mozilla's translation models don't qualify as open data, Mozilla [apologizes](https://mastodon.social/@firefoxwebdevs/115854287318814153) but says that they "don't think it impacts the results".
+When people later pointed out that the Mozilla's translation models don't qualify as open data, Mozilla [apologized](https://mastodon.social/@firefoxwebdevs/115854287318814153) but says that they "don't think it impacts the results".
 
 Right.
 
@@ -93,7 +93,7 @@ Right.
 
 With the AI kill switch, Mozilla is attempting to reframe the debate on AI as a question of user choice, rather than a positive vision of Mozilla's space in the industry.
 
-While Mozilla has long claimed to help people [break free](https://www.mozilla.org/en-US/) from big tech, their latest moves have the company joining with big tech to work against their community.
+While Mozilla has long claimed to help people break free from big tech, their latest moves have the company joining with big tech to work against their community.
 
 While features like AI powered tab grouping and link previews might have limited utility, their uselessness help to limit the damage they do to the browser and the broader web ecosystem.
 
@@ -101,7 +101,7 @@ AI powered assistive image descriptions and translations are features that are u
 
 The model for Firefox's AI powered image description generator was [partially trained by OpenAI's GPT4-o](https://blog.mozilla.org/en/firefox/firefox-ai/help-us-improve-our-alt-text-generation-model/), which itself is trained on pirated datasets.
 
-Mozilla translations is also trained on non-public domain data sets.
+Mozilla Translations is also trained on non-public domain data sets.
 
 The fact that LLMs based on pirated data sets are useful is not an accident, or surprising. It would have been commendable if Mozilla had managed to train new translation models without needing to steal from the commons, like big tech has.
 
@@ -133,7 +133,7 @@ Unfortunately, it isn't.
 
 ## Mozilla's Betrayal of Open Source
 
-We should have seen this coming, even before the announcement from Mozilla's new CEO. A few months ago, Mozilla began to overwrite volunteer contributions on Support Mozilla with slop from Google's Gemini.
+We should have seen this coming, even before the announcement from Mozilla's new CEO. A few months ago, [Mozilla began to overwrite volunteer contributions on Support Mozilla with slop]({% post_url 2025-12-08-mozillas-betrayal-of-open-source-googles-gemini-ai-is-overwriting-volunteer-work-on-support-mozilla %}) from Google's Gemini.
 
 That caused the Japanese translation group to disband, including the locale leader, who went by marsf and had [contributed edits to over 1000](https://support.mozilla.org/en-US/user/marsf/documents) articles over [20 years](https://support.mozilla.org/en-US/user/marsf/).
 
@@ -181,7 +181,7 @@ There would be little point in integrating Chrome Frame if Mozilla continued to 
 
 Mozilla investing $1.4 billion in non-Firefox AI projects while also integrating closed source, big tech AI is sending the signal that Mozilla isn't interested in developing an open source AI, and instead is looking to get paid by big tech.
 
-Mozilla's pronouncements around AI are incredibly confusing if you take what they say at face value. Mozilla is telling us to not trust big tech AI and to not rent our models, all while they do exactly that. Mozilla doesn't have an instance of Gemini running on Mozilla servers, [overwriting human contributions]({% post_url 2025-12-08-mozillas-betrayal-of-open-source-googles-gemini-ai-is-overwriting-volunteer-work-on-support-mozilla %}) - they are paying Google to rent their model.
+Mozilla's pronouncements around AI are incredibly confusing if you take what they say at face value. Mozilla is telling us to not trust big tech AI and to not rent our models, all while they do exactly that. Mozilla doesn't have an instance of Gemini running on Mozilla servers, overwriting human contributions - they are paying Google to rent their model.
 
 Mozilla says that Mozilla Translations are open source, but they are built exactly the same way that Google's models are built - scraping of copyrighted content without payment or permission.
 
