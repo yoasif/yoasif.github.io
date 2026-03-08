@@ -89,3 +89,37 @@ video, iframe {
   grid-column: 1 / -1; 
   margin-top: 10px;
 }
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #000;
+    color: #e0e0e0;
+  }
+  
+  h1, h2, h3, strong {
+    color: #ffffff;
+  }
+
+  header, footer, .post-header {
+    border-color: #fff;
+  }
+  
+  table {
+    border-collapse: collapse;
+    border-color: #fff;
+  }
+
+  th, td {
+    border: 1px solid #fff !important;
+    color: #fff;
+    background-color: #000;
+  }
+  
+  .prose a:link { color: #8ab4f8; }
+  .prose a:visited { color: #c58af9; }
+  
+  hr {
+    border-top: 1px solid rgba(255, 255, 255, 0.2);
+  }
+
+}
