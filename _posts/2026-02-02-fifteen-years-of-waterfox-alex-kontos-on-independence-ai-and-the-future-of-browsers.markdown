@@ -15,7 +15,8 @@ redirect_from:
 I made <a href="https://www.youtube.com/watch?v=Babxhs2WYMk">a video</a> if you
 want to watch instead.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Babxhs2WYMk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+{% include youtube.html id="Babxhs2WYMk" title="An Interview with Waterfox Founder Alex Kontos: History, Revenue and Drawing the Line on AI" %}
+
 
 ---
 
