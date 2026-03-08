@@ -17,7 +17,7 @@ If we dig deeper, you can start to see that the kill switch isn’t the whole st
 I made <a href="https://www.youtube.com/watch?v=51hXnOi8G4g">a video</a> if you
 want to watch instead.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/51hXnOi8G4g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+{% include youtube.html id="51hXnOi8G4g" title="Firefox's AI Kill Switch is a Trap: How Mozilla Made AI Your Problem" %}
 
 ---
 
@@ -83,7 +83,7 @@ In their post, Mozilla specifically says that the translation engine is trained 
 
 Mozilla is saying "Hey, if you hate AI so much that even pure and good (and optional) AI isn't good enough for you, we'll let you disable it. We don't really understand why you would want to, since it is clearly so good, but we'll let you opt-out anyway."
 
-The implication is that the AI kill switch exists to protect the sensibilities of whiny luddites, rather than to distract from Mozilla's own failings.
+The implication is that the AI kill switch exists to protect the sensibilities of whiny Luddites, rather than to distract from Mozilla's own failings.
 
 When people later pointed out that the Mozilla's translation models don't qualify as open data, Mozilla [apologized](https://mastodon.social/@firefoxwebdevs/115854287318814153) but says that they "don't think it impacts the results".
 
