@@ -2,7 +2,7 @@
   Usage: {% include youtube.html id="VIDEO_ID" title="Optional Title" %}
 {% endcomment %}
 
-<div class="video-container" style="margin: 2rem 0;">
+<div class="video-container">
   <lite-youtube videoid="{{ include.id }}" 
                 playlabel="{{ include.title | default: 'Play Video' }}"
                 style="background-image: url('https://i.ytimg.com/vi/{{ include.id }}/hqdefault.jpg');">
