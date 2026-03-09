@@ -123,3 +123,29 @@ video, iframe {
   }
 
 }
+
+.highlight .k, .highlight .kd, .highlight .kn, .highlight .kp, .highlight .kr { color: #d73a49; font-weight: bold; }
+.highlight .c, .highlight .c1, .highlight .cm { color: #6a737d; font-style: italic; }
+.highlight .s, .highlight .s1, .highlight .s2, .highlight .sb, .highlight .sc { color: #032f62; }
+
+.highlight .m, .highlight .mi, .highlight .mf, .highlight .mo { color: #005cc5; }
+.highlight .kc, .highlight .kt { color: #005cc5; font-weight: bold; }
+
+.highlight .n, .highlight .nx { color: #24292e; }
+.highlight .nf, .highlight .fm { color: #6f42c1; }
+.highlight .nc, .highlight .nn { color: #6f42c1; font-weight: bold; }
+.highlight .nl { color: #005cc5; font-weight: bold; }
+
+.highlight .o, .highlight .ow { color: #d73a49; }
+.highlight .p { color: #24292e; }
+
+@media (prefers-color-scheme: dark) {
+  .highlight .k, .highlight .kd, .highlight .kn, .highlight .kp, .highlight .kr { color: #ff7b72; }
+  .highlight .c, .highlight .c1, .highlight .cm { color: #8b949e; }
+  .highlight .s, .highlight .s1, .highlight .s2, .highlight .sb, .highlight .sc { color: #a5d6ff; }
+  .highlight .m, .highlight .mi, .highlight .mf, .highlight .mo, .highlight .kc, .highlight .kt { color: #79c0ff; }
+  .highlight .n, .highlight .nx, .highlight .p { color: #c9d1d9; }
+  .highlight .nf, .highlight .fm, .highlight .nc, .highlight .nn { color: #d2a8ff; }
+  .highlight .nl { color: #7ab3ff; }
+  .highlight .o, .highlight .ow { color: #ff7b72; }
+}
