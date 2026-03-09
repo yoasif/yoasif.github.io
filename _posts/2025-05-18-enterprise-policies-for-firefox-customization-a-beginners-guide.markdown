@@ -11,8 +11,7 @@ redirect_from:
 
 **TL;DR**: If you want to customize Firefox using Enterprise Polices, you can
 create customized policies via the handy
-[Enterprise Policy Generator](https://addons.mozilla.org/en-US/firefox/addon/enterprise-policy-generator/).
-You can also browse [some policies I made](#policies), available for
+[Enterprise Policy Generator](https://addons.mozilla.org/en-US/firefox/addon/enterprise-policy-generator/). You can also browse [some policies I made](#policies), available for
 [download](https://github.com/yoasif/awesome-firefox-policies/).
 
 I made <a href="https://www.youtube.com/watch?v=LNV23ByLKMk">a video</a> if you
