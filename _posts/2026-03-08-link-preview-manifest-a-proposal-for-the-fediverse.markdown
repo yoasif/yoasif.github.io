@@ -14,7 +14,7 @@ redirect_from:
 
 While the feature isn't very useful across the web, commenters post pointed out that some previews are helpful -- e.g. on Wikipedia, [where a preview will appear when people hover over a wiki-linked page](https://www.reddit.com/r/firefox/comments/1quzqli/firefox_users_can_block_generative_ai_features_in/o3f9eao/).
 
-An enby fox [pondered about some minimal way to replicate this elsewhere](https://fosstodon.org/@krosylight/116009035665007564), and it seemed interesting enough to flesh out. Follow along as I propose an enhancement to the Fediverse (and maybe even web standards) to make Link Previews Great!
+Other commenters [pondered about some minimal way to replicate this elsewhere](https://fosstodon.org/@krosylight/116009035665007564), and it seemed interesting enough to flesh out. Read on as I propose an enhancement to the Fediverse (and maybe even web standards) to make Link Previews Great!
 
 No video for this post, since I was boring *myself* as I recorded.
 
@@ -62,18 +62,18 @@ Publishing software can generate this resource whenever the previewed document i
 
 User agents can request a preview for a URI via a call to [get the HEAD](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Methods/HEAD) of a URI:
 
-```
+~~~ http
 HEAD https://example.com/posts/hello-world/
-```
+~~~
 
 User agents would receive some headers in response.
 
-```
+~~~ http
 HTTP/1.1 200 OK
 Link: <https://example.com/posts/hello-world/index.preview.json>; rel="link-preview"
 Link-Preview: available
 Cache-Control: max-age=86400
-```
+~~~
 
 Upon receipt of the URI's HTTP headers, user agents should inspect the headers for a `Link` relation advertising a preview resource. If a resource is advertised, the user agent can `GET` the preview resource, rather than the URI being previewed.
 
@@ -89,7 +89,9 @@ While the primary discovery mechanism for link previews is Link header metadata,
 
 If publishers can't set headers, they can instead define link previews as [external resources](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/link):
 
-    <link rel="link-preview" href="index.preview.json" type="application/link-preview+json">
+~~~ html
+<link rel="link-preview" href="index.preview.json" type="application/link-preview+json">
+~~~
 
 This is a secondary fallback, in situations where the publisher is on shared hosting or cannot update web server behavior to support updating Link headers.
 
@@ -116,7 +118,7 @@ The preview JSON file is a small, cacheable and verifiable representation of a w
 
 #### Article With Preview Image
 
-```
+~~~ json
 {
   "version": 1,
   "type": "article",
@@ -141,11 +143,11 @@ The preview JSON file is a small, cacheable and verifiable representation of a w
   },
   "integrity": "sha256-bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb="
 }
-```
+~~~
 
 #### Image Gallery
 
-```
+~~~ json
 {
   "version": 1,
   "type": "photo",
@@ -181,11 +183,11 @@ The preview JSON file is a small, cacheable and verifiable representation of a w
   },
   "integrity": "sha256-fffffffffffffffffffffffffffffffffffffffffff="
 }
-```
+~~~
 
 #### Video
 
-```
+~~~ json
 {
   "version": 1,
   "type": "video",
@@ -216,7 +218,7 @@ The preview JSON file is a small, cacheable and verifiable representation of a w
   },
   "integrity": "sha256-3333333333333333333333333333333333333333333="
 }
-```
+~~~
 
 #### Storage
 
@@ -240,11 +242,11 @@ When a client wants to get link preview metadata:
 
 Example:
 
-```
+~~~ http
 Link: <https://example.com/article/index.preview.json>;
       rel="link-preview";
       type="application/link-preview+json"
-```
+~~~
 
 If found, proceed to step 3.
 
