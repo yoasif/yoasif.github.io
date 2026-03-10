@@ -12,7 +12,7 @@ redirect_from:
 
 **TL;DR**: Starting in Firefox version 142, Mozilla released a "Link Previews" [feature whose main purpose is to push AI onto its users]({% post_url 2026-01-06-architecting-consent-for-ai-deceptive-patterns-in-firefox-link-previews %}).
 
-While the feature is [problematic]({% post_url 2026-01-06-architecting-consent-for-ai-deceptive-patterns-in-firefox-link-previews %}#deceptive-patterns), commenters post pointed out that some previews are helpful -- e.g. on Wikipedia, [where a preview will appear when people hover over a wiki-linked page](https://www.reddit.com/r/firefox/comments/1quzqli/firefox_users_can_block_generative_ai_features_in/o3f9eao/).
+While the feature is [problematic]({% post_url 2026-01-06-architecting-consent-for-ai-deceptive-patterns-in-firefox-link-previews %}#deceptive-patterns), commenters pointed out that some previews are helpful -- e.g. on Wikipedia, [where a preview will appear when people hover over a wiki-linked page](https://www.reddit.com/r/firefox/comments/1quzqli/firefox_users_can_block_generative_ai_features_in/o3f9eao/).
 
 <img src="{{site.url}}/assets/images/preview-Wikipedia.png" alt="Screenshot of the a link preview of the Fediverse page on Wikipedia"/>
 
