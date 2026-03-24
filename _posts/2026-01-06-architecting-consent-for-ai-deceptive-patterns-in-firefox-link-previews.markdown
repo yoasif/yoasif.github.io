@@ -228,7 +228,7 @@ If you wouldn't want Mozilla knowing what pages you are previewing, why would
 you want the originating host to?
 
 You may believe that Link Previews don't leak your privacy. Mozilla can improve
-Link Previews further. Firefox can visit link on pages you visit, so that
+Link Previews further. Firefox can visit links on pages you visit, so that
 long-clicking (or hovering) could show you a preview without delay. Would that
 intrude on users' privacy?
 
