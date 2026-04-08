@@ -109,7 +109,7 @@ We can see this clearly in the case of the [monkey selfie copyright dispute](htt
 
 In the late 2000s, British wildlife photographer [David J. Slater](http://www.djsphotography.co.uk/) traveled to Indoneisa, befriended a group of wild macaques, and set up his camera equipment in a way that a monkey selfie might happen. He then reviewed the photos the monkeys took and licensed them commercially. He believed that his action of arranging the scene in a way that that a selfie might be made had imbibed the work with enough creative input from him to claim the copyright to the work.
 
-It is a little confusing, so I'm going to say it directly. Mr. Slater didn't take the photo. A monkey did.
+It is a little confusing, so I'm going to say it directly. Mr. Slater didn't take the photos. Monkeys did.
 
 Unfortunately for Mr. Slater, in August of 2014, the US Copyright office published an opinion to clarify that "only works created by a human can be copyrighted under United States law," - this "excludes photographs and artwork created by animals or by machines without human intervention". They went on to say that the [copyright] office would "refuse to register a claim if it determines that a human being did not create the work. The Office will not register works produced by nature, animals, or plants."
 
