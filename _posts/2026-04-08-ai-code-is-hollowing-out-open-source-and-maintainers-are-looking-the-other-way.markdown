@@ -184,7 +184,7 @@ For example, the Wine project [disallows](https://gitlab.winehq.org/wine/wine/-/
 
 Clean-room designs are a legally defensible way to copy a work, so it makes sense that Blanchard would argue that the new code was developed in a clean room.
 
-While I'm not going to get into weeds about whether or not it makes sense to talk about a clean-room design when Claude is virtually gaurunteed to have the original chardet corpus in its training data, others have figured out that they can provide a clean-room design as a service.
+While I'm not going to get into weeds about whether or not it makes sense to talk about a clean-room design when Claude is virtually guaranteed to have the original chardet corpus in its training data, others have figured out that they can provide a clean-room design as a service.
 
 ## Malus
 
