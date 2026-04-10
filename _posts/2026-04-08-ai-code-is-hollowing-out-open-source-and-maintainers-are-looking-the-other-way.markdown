@@ -107,7 +107,7 @@ A lot of programmers are going to struggle with this, since clearly the code com
 
 We can see this clearly in the case of the [monkey selfie copyright dispute](https://en.wikipedia.org/wiki/Monkey_selfie_copyright_dispute).
 
-In the late 2000s, British wildlife photographer [David J. Slater](http://www.djsphotography.co.uk/) traveled to Indoneisa, befriended a group of wild macaques, and set up his camera equipment in a way that a monkey selfie might happen. He then reviewed the photos the monkeys took and licensed them commercially. He believed that his action of arranging the scene in a way that that a selfie might be made had imbibed the work with enough creative input from him to claim the copyright to the work.
+In the late 2000s, British wildlife photographer [David J. Slater](http://www.djsphotography.co.uk/) traveled to Indoneisa, befriended a group of wild macaques, and set up his camera equipment in a way that a monkey selfie might happen. He then reviewed the photos the monkeys took and licensed them commercially. He believed that his action of arranging the scene in a way that that a selfie might be made had imbued the work with enough creative input from him to claim the copyright to the work.
 
 It is a little confusing, so I'm going to say it directly. Mr. Slater didn't take the photos. Monkeys did.
 
