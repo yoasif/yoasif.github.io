@@ -23,7 +23,7 @@ It is against that backdrop that the current unionization struggle unfolds.
 
 I [made a video](https://www.youtube.com/watch?v=c2-bNlDX8yU) if you want to watch instead.
 
-{% include youtube.html id="c2-bNlDX8yU" title="Wikipedia Fired its Workers. The Real Story is Worse." %}
+{% include youtube.html id="c2-bNlDX8yU" title="Wikipedia Fired its Workers. The Real Story is Worse.	" %}
 
 ---
 
@@ -147,6 +147,8 @@ Meehan understands the cost savings that Big Tech is achieving by relying on fre
 
 In my post on [unpaid reddit moderators]({% post_url 2023-05-03-with-its-API-update-reddit-should-start-paying-its-users %}#unpaid-labor), I wrote that a pair of studies by Northwestern University found that Reddit moderators do (at least) $3.4 million worth of unpaid work each year.
 
+We can only imagine what Wikipedia editors' volunteer labor is worth.
+
 Instead of hiring experts to write texts to train their models with, they are instead relying on the movement volunteers on Wikipedia to correct and train their AI models. As more of the web is consumed by slop, diligent Wikipedia editors serve as a kind of sieve for knowledge on the web - cleaning and validating the slop that big tech is spewing onto it.
 
 In that interview, Meehan continues:
@@ -161,7 +163,7 @@ Unfortunately, we know that when big tech reuses article texts in their chatbot 
 
 Every chatbot response that reuses article text contributed by a volunteer that is not reciprocally licensed as Creative Commons Attribution-ShareAlike (which is all of it), violates the license that the encyclopedia is licensed under.
 
-Given that the Wikimedia Foundation doesn't own the content of the encyclopedia and cannot grant permission, what it is exactly that big tech is paying for?
+Given that the Wikimedia Foundation doesn't own the content of the encyclopedia and cannot grant permission, what is it exactly that big tech is paying for?
 
 As far as I can tell, it is a backdoor to piracy - the Wikimedia Foundation knows that big tech is pirating the works, and Wikipedia Enterprise is happy to provide privileged access to big tech to help them create slop.
 
@@ -175,7 +177,9 @@ Volunteers asked CEO Meehan for a response on the request for recognition, and s
 
 A few days after the Wikimania Conference ended, the Wikimedia Foundation [announced it would not voluntarily recognize the union](https://wikimediafoundation.org/news/2026/07/27/statement-cwa-recognition-request/?ref=404media.co) and said the union would have to conduct a vote as overseen by the National Labor Relations Board.
 
-In a frequently asked questions section added to its statement, they write: “We have heard a range of views from staff, including concerns from those who have felt pressured to support union efforts and those who are confused by the unionization process. We have also seen a misunderstanding around what the union can do for global staff and Wikimedia movement communities.”
+In a frequently asked questions section added to its statement, they write:
+
+> We have heard a range of views from staff, including concerns from those who have felt pressured to support union efforts and those who are confused by the unionization process. We have also seen a misunderstanding around what the union can do for global staff and Wikimedia movement communities.
 
 Wikimedians haven’t stood still in the mean-time. The Wiki Workers United union posted a [list of fact-checks of statements](https://meta.wikimedia.org/wiki/Wiki_Workers_United/Claims_and_responses) by the Wikimedia Foundation about the unionization effort. It is clear that the union thinks that the Foundation is engaging in union busting - especially after a [June 2026 filing](https://www.nlrb.gov/case/20-RC-391740) revealed that the Foundation hired [Littler Mendelson](https://en.wikipedia.org/wiki/Littler_Mendelson "en:Littler Mendelson"), a law firm known for union busting.
 
@@ -191,11 +195,11 @@ He believes that we'd be handing leadership an excuse for more firings - after a
 
 I disagree.
 
-I think that if Wikipedia is too big to fail, and if we can never dissent by depriving the foundation of money or labor, we're already locked into being forever serfs for big tech.
+I think that if Wikipedia is too big to fail, and if we can never dissent by depriving the Foundation of money or labor, we're already locked into being forever serfs for big tech.
 
 If the only resolution on the table is 7 fired employees that serve the volunteer community that does all of the work, we've already given up on the idea of doing right by the volunteer community.
 
-Big Tech relies on all this free labor and is paying a paltry $8.3 million a year. That wouldn't cover Big Tech AI's coffee budget for the year, but they get the highest quality encyclopedia available without needing to employ a single person to make it happen.
+Big Tech relies on all of this free labor and is paying a paltry $8.3 million a year. That wouldn't cover Big Tech AI's coffee budget for the year, but they get the highest quality encyclopedia available without needing to employ a single person to make it happen.
 
 This isn't an insurmountable problem: if the chatbot companies can't reciprocally license the work of volunteers - as the volunteer's most basic ask - they can simply license the World Book encyclopedia.
 
@@ -207,13 +211,13 @@ Given that reality, it isn't surprising that Meehan, Wales, and big tech general
 
 If the Wikimedia Foundation is making backdoor licensing deals with big tech without even reminding them of their obligations under the Creative Commons and GFDL licenses, contributors need to draw a line in the sand.
 
-Why should people pay the foundation any money at all? The money isn't protecting your contributions - instead, people who help you contribute are being fired.
+Why should people pay the Foundation any money at all? The money isn't protecting your contributions - instead, people who help you contribute are being fired.
 
 ### Institutional Legitimacy
 
 The Wikimedia Foundation has lost institutional legitimacy.
 
-When the Foundation that we expect to maintain the encyclopedia for everyone is the very same entity that is selling out the people writing the encyclopedia, volunteers need to ask themselves what makes the Wikimedia Foundation the legitimate steward of our contributions and donations.
+When the foundation that we expect to maintain the encyclopedia for everyone is the very same entity that is selling out the people writing the encyclopedia, volunteers need to ask themselves what makes the Wikimedia Foundation the legitimate steward of our contributions and donations.
 
 One one side, we have the Wikimedia Foundation, led by someone who hasn't edited Wikipedia, and on the other, we have a fired former CTO and lead developer of the software that runs Wikipedia, along with a fired tech team dedicated to producing product features wished for by the community that writes the encyclopedia.
 
