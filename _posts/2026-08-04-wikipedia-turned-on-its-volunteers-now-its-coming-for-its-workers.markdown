@@ -65,6 +65,17 @@ He added that "I have zero support for this initiative."
 
 It is worth remembering that the company that fired these 7 workers is [sitting on $296 million](https://upload.wikimedia.org/wikipedia/foundation/3/3f/Wikimedia_Foundation_FY_24-25_Audit_Report.pdf) in reserves, and that the encyclopedia that they manage is entirely written by volunteers for free. Wikimedia isn't spending anything to pay people who produce the work that they are fund-raising on, and what they are selling access to. In fact, in the last fiscal year, [Wikimedia Enterprise](https://enterprise.wikimedia.com/) - the team that provides high speed, high volume access to AI companies - [just turned profitable](https://diff.wikimedia.org/2025/11/24/wikimedia-enterprise-financial-report-fiscal-year-2024-2025/) on $8.3 million in revenue.
 
+<p>
+<figure>
+  
+<picture>
+<source srcset="{{site.url}}/assets/images/wikimedia/consolidated-financial-statements-2025.webp" type="image/webp">
+<img src="{{site.url}}/assets/images/wikimedia/consolidated-financial-statements-2025.png" alt="WIKIMEDIA FOUNDATION, INC. Consolidated Financial Statements (excerpt)">
+</picture>
+  <figcaption>Wikipedia isn't hurting for money</figcaption>
+</figure>
+</p>
+
 These firings aren't happening because the Wikimedia Foundation is hurting for money - it's happening because they don't care about the people who build Wikipedia. Seemingly, like other community sites, they think that people will continue to contribute to the slop machines for free, probably because they are losers.
 
 ## The Current Crisis 
