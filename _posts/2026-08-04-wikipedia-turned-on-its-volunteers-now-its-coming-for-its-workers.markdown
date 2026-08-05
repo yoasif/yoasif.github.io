@@ -31,7 +31,7 @@ I [made a video](https://www.youtube.com/watch?v=c2-bNlDX8yU) if you want to wat
 
 - toc
 
-Big Tech's war on community is aggressively continuing in 2026. Since mass market chatbots came onto the scene, sites that rely on community contributions have been chasing their most valuable community members away by making deals with AI companies to turn community contributions into slop for the masses.
+Big Tech's [war on community]({% post_url 2025-12-17-AIs-unpaid-debt-how-llm-scrapers-destroy-the-social-contract-of-open-source %}) is aggressively continuing in 2026. Since mass market chatbots came onto the scene, sites that rely on community contributions [have been chasing their most valuable community members away](https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/) by making deals with AI companies to turn community contributions into slop for the masses.
 
 The war has come to Wikipedia, one of the longest running open content projects on the web.
 
@@ -49,7 +49,7 @@ Brooke was a union organizer, and in her farewell note, she invited current Wiki
 
 On May 21st, [Wikimedia announced that they had disbanded the Community Tech team](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-06-21/News_and_notes) and laid off six staff members.
 
-The Community Tech team was a team dedicated to taking the wishes of Wikipedia editors through the official [Community Wishlist](https://meta.wikimedia.org/wiki/Community_Wishlist) and to evaluate and build them.
+The [Community Tech](https://meta.wikimedia.org/wiki/Community_Tech) team was a team dedicated to taking the wishes of Wikipedia editors through the official [Community Wishlist](https://meta.wikimedia.org/wiki/Community_Wishlist) and to evaluate and build them.
 
 The Wikimedia Foundation claimed that "having a centralized team was leading to frequent bottlenecks" so instead, they were moving to a diffuse system without a dedicated staff to continue to support community wishes.
 
@@ -63,7 +63,7 @@ The community wasn't happy about that announcement, and technical contributor So
 
 He added that "I have zero support for this initiative."
 
-It is worth remembering that the company that fired these 7 workers is [sitting on $296 million](https://upload.wikimedia.org/wikipedia/foundation/3/3f/Wikimedia_Foundation_FY_24-25_Audit_Report.pdf) in reserves, and that the encyclopedia that they manage is entirely written by volunteers for free. Wikimedia isn't spending anything to pay people who produce the work that they are fund-raising on, and what they are selling access to. In fact, in the last fiscal year, [Wikimedia Enterprise](https://enterprise.wikimedia.com/) - the team that provides high speed, high volume access to AI companies - just turned profitable on $8.3 million in revenue.
+It is worth remembering that the company that fired these 7 workers is [sitting on $296 million](https://upload.wikimedia.org/wikipedia/foundation/3/3f/Wikimedia_Foundation_FY_24-25_Audit_Report.pdf) in reserves, and that the encyclopedia that they manage is entirely written by volunteers for free. Wikimedia isn't spending anything to pay people who produce the work that they are fund-raising on, and what they are selling access to. In fact, in the last fiscal year, [Wikimedia Enterprise](https://enterprise.wikimedia.com/) - the team that provides high speed, high volume access to AI companies - [just turned profitable](https://diff.wikimedia.org/2025/11/24/wikimedia-enterprise-financial-report-fiscal-year-2024-2025/) on $8.3 million in revenue.
 
 These firings aren't happening because the Wikimedia Foundation is hurting for money - it's happening because they don't care about the people who build Wikipedia. Seemingly, like other community sites, they think that people will continue to contribute to the slop machines for free, probably because they are losers.
 
@@ -87,7 +87,7 @@ Jake Orlowitz [wrote about the situation](https://medium.com/regarding-wikipedia
 
 Brooke was a union organizer, and Jake reports that most of the fired engineers were also union organizers.
 
-Wikimedia Foundation has since claimed that none of the staff members were fired for union activities, and that they [respect the right of staff members to vote to unionize](https://wikimediafoundation.org/news/2026/07/27/statement-cwa-recognition-request/), and that they are willing to negotiate in good faith.
+Wikimedia Foundation has since claimed that [none of the staff members were fired for union activities](https://meta.wikimedia.org/wiki/Talk:Community_Wishlist#c-2601AC47-20260521161500-SCherukuwada_(WMF)-20260521160400), and that they [respect the right of staff members to vote to unionize](https://wikimediafoundation.org/news/2026/07/27/statement-cwa-recognition-request/), and that they are willing to negotiate in good faith.
 
 ### The Reaction
 
@@ -127,7 +127,7 @@ The reason that contributions are licensed is because under the [Berne conventio
 
 Releasing their works under these licenses allows contributors to free their works for purposes beyond what is allowable by fair use, given the terms of the license. In the world before large-scale, big tech AI piracy, licensing their works under free content licenses freed their work -- with an altruistic purpose.
 
-The share-alike provision ensures that if people want to improve the article in some way, or to create derivative works from it, the improvements or derivative works are also licensed in the same way. This ensures that the contributions are always freely available, and more importantly - that improvements are also freely available.
+The share-alike provision ensures that if people want to improve the article in some way, or to create derivative works from it, the [improvements or derivative works are also licensed in the same way](https://en.wikipedia.org/wiki/Copyleft#Reciprocity). This ensures that the contributions are always freely available, and more importantly - that improvements are also freely available.
 
 Since improvements can't be locked away behind more restrictive covenants, this encourages people, organizations, and businesses alike to improve Wikipedia, ensuring that all of the contributions are always open.
 
@@ -149,7 +149,7 @@ In my post on [unpaid reddit moderators]({% post_url 2023-05-03-with-its-API-upd
 
 We can only imagine what Wikipedia editors' volunteer labor is worth.
 
-Instead of hiring experts to write texts to train their models with, they are instead relying on the movement volunteers on Wikipedia to correct and train their AI models. As more of the web is consumed by slop, diligent Wikipedia editors serve as a kind of sieve for knowledge on the web - cleaning and validating the slop that big tech is spewing onto it.
+Instead of hiring experts to write texts to train their models with, big tech is instead relying on the movement volunteers on Wikipedia to correct and train their AI models. As more of the web is consumed by slop, diligent Wikipedia editors serve as a kind of sieve for knowledge on the web - cleaning and validating the slop that big tech is spewing onto it.
 
 In that interview, Meehan continues:
 
@@ -169,11 +169,11 @@ As far as I can tell, it is a backdoor to piracy - the Wikimedia Foundation know
 
 ## Wikimedia Foundation’s Response
 
-On July 23rd, the Wiki Workers United union [officially asked](https://www.kqed.org/news/12092335/staff-of-san-francisco-based-wikipedia-demand-union-recognition-raise-concerns-over-ai) for voluntary recognition of the union. The request came from a supermajority of union-eligible workers who have signed union authorization cards.
+On July 23rd, the Wiki Workers United union [officially asked](https://www.kqed.org/news/12092335/staff-of-san-francisco-based-wikipedia-demand-union-recognition-raise-concerns-over-ai) for voluntary recognition of the union. The request [came from a supermajority of union-eligible workers](https://cwa-union.org/news/releases/wiki-workers-united-us-branch-demands-voluntary-recognition-wikimedia-foundation) who have signed union authorization cards.
 
 Movement volunteers staged a [solidarity rally](https://commons.wikimedia.org/wiki/File:Wikimania_2026_Volunteer_Union_Solidarity_With_Captions_Top.webm) at the Wikipedia movement’s annual conference - [Wikimania in Paris](https://wikimania.wikimedia.org/wiki/2026:Wikimania).
 
-Volunteers asked CEO Meehan for a response on the request for recognition, and she refused to voluntarily commit to recognition, instead saying that the team’s focus was on Wikimania, and that they would respond to the request afterwards.
+Volunteers asked CEO Meehan for a response on the request for recognition, and [she refused to voluntarily commit to recognition](https://commons.wikimedia.org/wiki/File:Questions_for_Bernadette_Meehan_regarding_the_WMF%27s_recognition_of_Wiki_Workers_United.webm), instead saying that the team’s focus was on Wikimania, and that they would respond to the request afterwards.
 
 A few days after the Wikimania Conference ended, the Wikimedia Foundation [announced it would not voluntarily recognize the union](https://wikimediafoundation.org/news/2026/07/27/statement-cwa-recognition-request/?ref=404media.co) and said the union would have to conduct a vote as overseen by the National Labor Relations Board.
 
@@ -191,7 +191,7 @@ Jake - who brought a lot of attention to the plight of the fired workers - belie
 
 He believes that we'd be handing leadership an excuse for more firings - after all, there was a dip in donations. Beyond that, he believes that [Wikipedia is too big to fail](https://medium.com/regarding-wikipedia/thinking-of-cancelling-your-wikipedia-donation-dont-read-this-first-228f1984ed23):
 
->You’d be pulling money from the encyclopedia to make a point about the people who manage it, and the encyclopedia is bigger than whoever happens to be managing it. Behind that one word sit fifteen billion page views a month, three hundred languages, and a quarter of a million volunteers who’ll never see a dollar of your gift and who just need the lights kept on.
+>You’d be pulling money from the encyclopedia to make a point about the people who manage it, and the encyclopedia is bigger than whoever happens to be managing it. Behind that one word [Wikipedia] sit fifteen billion page views a month, three hundred languages, and a quarter of a million volunteers who’ll never see a dollar of your gift and who just need the lights kept on.
 
 I disagree.
 
@@ -203,7 +203,7 @@ Big Tech relies on all of this free labor and is paying a paltry $8.3 million a 
 
 This isn't an insurmountable problem: if the chatbot companies can't reciprocally license the work of volunteers - as the volunteer's most basic ask - they can simply license the World Book encyclopedia.
 
-The fact is, the value of the open content encyclopedia is to ensure that it remains free - if that bargain is broken, what is it that movement volunteers are working towards? Why should volunteers work for free for something that Google and OpenAI and Anthropic could donate back to the commons? Nothing is stopping those companies from taking a tiny part of their capital to produce an even higher quality encyclopedia than volunteers have.
+The fact is, the value of the open content encyclopedia is to ensure that it remains free - if that bargain is broken, what is it that movement volunteers are working towards? Why should volunteers work for free for something that Google and OpenAI and Anthropic could donate back to the commons? Nothing is stopping those companies from taking a [tiny part of their capital](https://fortune.com/2026/03/26/meta-ai-data-center-hyperion-louisiana/) to produce an even higher quality encyclopedia than volunteers have.
 
 The movement volunteers are so altruistic as to beg to be ripped off by the big tech pirates, even though they won't abide by the most minimal restrictions to their work -- work that is freely given.
 
@@ -223,9 +223,20 @@ One one side, we have the Wikimedia Foundation, led by someone who hasn't edited
 
 We expect the movement volunteers that write Wikipedia to trust the Foundation that has already sold them out.
 
-These events have led to a crisis of legitimacy. Wikipedia can and should be forked, and volunteers should decentralize and only recentralize if policies are in place to actually protect the encyclopedia and the people writing it. The Wikimedia Foundation has shown that they cannot be trusted with this responsibility (or our donations).
+These events have led to a crisis of legitimacy. Wikipedia [can and should be forked](https://en.wikipedia.org/wiki/List_of_content_forks_of_Wikipedia), and volunteers should decentralize and only recentralize if policies are in place to actually protect the encyclopedia and the people writing it. The Wikimedia Foundation has shown that they cannot be trusted with this responsibility (or our donations).
 
 This isn't time to rally around the Wikimedia Foundation flag. They have taken millions of people's donations and are firing people who support the only thing people care about - the encyclopedia. People aren't donating their money or their work to make it easier for big tech to generate slop - but that is what volunteers are doing.
+
+<p>
+<figure>
+  
+<picture>
+<source srcset="{{site.url}}/assets/images/wikimedia/donate-please.webp" type="image/webp">
+<img src="{{site.url}}/assets/images/wikimedia/donate-please.png" alt="Screenshot of a Wikipedia donation entreaty">
+</picture>
+  <figcaption>Wikipedia raises money from its audience</figcaption>
+</figure>
+</p>
 
 Even if the union is recognized, the Wikimedia Foundation has stated that there is misunderstanding around what the union can do for Wikimedia movement communities. That doesn’t bode well for movement volunteers who are already being taken advantage of. Even if the union is recognized, the volunteer community will continue to be left out in the cold.
 
