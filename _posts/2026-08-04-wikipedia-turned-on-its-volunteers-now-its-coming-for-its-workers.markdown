@@ -66,13 +66,75 @@ He added that "I have zero support for this initiative."
 It is worth remembering that the company that fired these 7 workers is [sitting on $296 million](https://upload.wikimedia.org/wikipedia/foundation/3/3f/Wikimedia_Foundation_FY_24-25_Audit_Report.pdf) in reserves, and that the encyclopedia that they manage is entirely written by volunteers for free. Wikimedia isn't spending anything to pay people who produce the work that they are fund-raising on, and what they are selling access to. In fact, in the last fiscal year, [Wikimedia Enterprise](https://enterprise.wikimedia.com/) - the team that provides high speed, high volume access to AI companies - [just turned profitable](https://diff.wikimedia.org/2025/11/24/wikimedia-enterprise-financial-report-fiscal-year-2024-2025/) on $8.3 million in revenue.
 
 <p>
+
+</p>
+
+<style>
+.tg {
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 100%;
+}
+
+.tg th,
+.tg td {
+    padding: 10px 8px;
+}
+
+.tg th:first-child,
+.tg td:first-child {
+    text-align: left;
+}
+
+.tg th:not(:first-child) {
+    text-align: center;
+}
+
+.tg td:not(:first-child) {
+    text-align: right;
+}
+
+mark {
+    background: #FFC107;
+    padding: 0 .3em;
+    border-radius: 2px;
+}
+</style>
+
+<p>
 <figure>
-  
-<picture>
-<source srcset="{{site.url}}/assets/images/wikimedia/consolidated-financial-statements-2025.webp" type="image/webp">
-<img src="{{site.url}}/assets/images/wikimedia/consolidated-financial-statements-2025.png" alt="WIKIMEDIA FOUNDATION, INC. Consolidated Financial Statements (excerpt)">
-</picture>
-  <figcaption>Wikipedia isn't hurting for money</figcaption>
+<table class="tg">
+    <thead>
+        <tr>
+            <th>Net assets:</th>
+            <th>2025</th>
+            <th>2024</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Net assets without donor restrictions</td>
+            <td>292,735,030</td>
+            <td>265,859,067</td>
+        </tr>
+        <tr>
+            <td>Net assets with donor restrictions</td>
+            <td>3,815,000</td>
+            <td>5,696,323</td>
+        </tr>
+        <tr>
+            <td>Total net assets</td>
+            <td><mark>296,550,030</mark></td>
+            <td>271,555,390</td>
+        </tr>
+        <tr>
+            <td>Total liabilities and net assets</td>
+            <td>$310,794,417</td>
+            <td>$286,759,938</td>
+        </tr>
+    </tbody>
+</table>
+    <figcaption>Excerpt from Consolidated Financial Statements, WIKIMEDIA FOUNDATION, INC. - 2025 and 2024</figcaption>
 </figure>
 </p>
 
