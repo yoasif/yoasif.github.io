@@ -303,10 +303,24 @@ This isn't time to rally around the Wikimedia Foundation flag. They have taken m
 <p>
 <figure>
   
+
 <picture>
-<source srcset="{{site.url}}/assets/images/wikimedia/donate-please.webp" type="image/webp">
-<img src="{{site.url}}/assets/images/wikimedia/donate-please.png" alt="Screenshot of a Wikipedia donation entreaty">
+  <source
+    srcset="
+      {{site.url}}/assets/images/wikimedia/donate-please.webp 1x,
+      {{site.url}}/assets/images/wikimedia/donate-please-2x.webp 2x
+    "
+    type="image/webp">
+
+  <img
+    src="{{site.url}}/assets/images/wikimedia/donate-please.png"
+    srcset="
+      {{site.url}}/assets/images/wikimedia/donate-please.png 1x,
+      {{site.url}}/assets/images/wikimedia/donate-please-2x.png 2x
+    "
+    alt="Screenshot of a Wikipedia donation entreaty">
 </picture>
+
   <figcaption>Wikipedia raises money from its audience</figcaption>
 </figure>
 </p>
